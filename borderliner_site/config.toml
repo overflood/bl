@@ -1,0 +1,39 @@
+baseURL = "https://borderliner.ch/"
+languageCode = "de-ch"
+title = "Borderliner.ch – Informationen zur Borderline-Störung"
+theme = "ananke"
+paginate = 10
+
+# [Params] contains custom parameters used by Hugo themes. The description
+# helps search engines and social media cards understand the site.
+[params]
+  description = "Umfassende und strukturierte Informationen rund um die Borderline-Persönlichkeitsstörung, komorbide Erkrankungen und Selbsthilfe."
+
+# Configure the main navigation menu. Adjust the weight values to control
+# ordering. These entries correspond to the top‑level content sections in
+# the site structure.
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Borderline"
+    url = "/bord/"
+    weight = 2
+
+  [[menu.main]]
+    name = "ADHS & ADS"
+    url = "/ads/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Kliniken & Therapie"
+    url = "/kliniken/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Selbsthilfe"
+    url = "/selbsthilfe/"
+    weight = 5

@@ -1,0 +1,36 @@
+name: Build and deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Hugo. The extended version is required for SCSS processing.
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.121.1'
+          extended: true
+
+      # Build the static site to the ./public directory. The --minify flag
+      # reduces the size of the output for faster loading.
+      - name: Build site
+        run: hugo --minify
+
+      # Deploy the site to the gh-pages branch using the built-in
+      # GitHub token. The deployment will update GitHub Pages.
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          # Force push ensures the gh-pages branch always reflects the latest build.
+          force_orphan: true

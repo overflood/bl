@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<meta name="DC.Identifier" content="http://www.dw-formmailer.de/form.php" />
+<meta name="DC.Rights" content="DIS dürr-internet-service" />
+<meta name="GENERATOR" content="dw-FormGenerator - www.dw-formmailer.de" />
+<title>dw-FormGenerator</title>
+<!-- Start Code dw-Formgenerator -->
+<style type="text/css">
+body {
+ background-color: #000000;
+}
+.font-big {
+ font-family:Verdana, sans-serif;
+ font-size:16px; font-weight:bold;
+ color:#FFFFFF;
+}
+.font-small {
+ font-family:Verdana, sans-serif;
+ font-size:10px; font-weight:normal;
+ color:#000000;
+}
+.table {
+ background-color:#0000FF;
+ width:90%;
+}
+.table2 {
+ background-color:#0000FF;
+ width:100%;
+}
+.head {
+ background-color:#83ADDD;
+}
+.main {
+ background-color:#ECECEC;
+ font-family:Verdana, sans-serif;
+ font-size:12px; font-weight:normal;
+ color:#000000;
+}
+.foot {
+ background-color:#83ADDD;
+}
+.align {
+ text-align:left;
+}
+.textarea {
+ background-color:#ECECEC;
+ color:#000000;
+ font-family : Verdana, Helvetica, sans-serif;
+ font-size: 12px;
+ font-weight: bold;
+ border : 1px solid #808080;
+}
+.input {
+ background-color:#ECECEC;
+ color:#000000;
+ font-family : Verdana, Helvetica, sans-serif;
+ border : 1px solid #808080;
+ font-size: 12px;
+}
+.select {
+ background-color:#ECECEC;
+ color:#000000;
+ font-family : Verdana, Helvetica, sans-serif;
+ font-size: 12px;
+}
+.button {
+ width: 130px;
+}
+</style>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+var tv=-1;
+window.onLoad=page_tv();
+function VerifyEmailAddress(EmailAddress) {
+ if (window.RegExp) {
+  var reg1str = "(@.*@)|(\\.\\.)|(@\\.)|(\\.@)|(^\\.)";
+  var reg2str = "^.+\\@(\\[?)[a-zA-Z0-9\\-\\.]+\\.([a-zA-Z]{2,4}|[0-9]{1,4})(\\]?)$";
+  var reg1 = new RegExp(reg1str);
+  var reg2 = new RegExp(reg2str);
+  if (!reg1.test(EmailAddress) && reg2.test(EmailAddress)) {
+   return true
+  }else {
+   return false
+  }
+ }else {
+  if (EmailAddress.indexOf("@") >= 0) {
+   return true
+  }else {
+   return false
+  }
+ }
+}
+function rest(a,b,c,d) {
+ var keyCode = d.keyCode ? d.keyCode : d.which ? d.which : d.charCode;
+ if (keyCode == 38 || keyCode == 40)
+  return;
+ r = (b - a.value.length);
+ if (r < 0)
+  r = 0;
+ if ( (e = document.getElementById(c)) != null)
+  e.innerHTML = r;
+ if (a.value.length > b) {
+  a.value = a.value.substr(0,b);
+ }
+}
+function page_tv() {
+ tv++;
+ window.setTimeout('page_tv()', 1000);
+}
+function check_form(f) {
+ if (f.elements['absender_name'].value == '') {
+  alert("Bitte alle Pflichtfelder ausfüllen! \n(Ihr Name)");
+  f.elements['absender_name'].focus();
+  return false;
+ }
+ if (f.elements['absender_mail'].value=='') {
+  alert("Bitte alle Pflichtfelder ausfüllen! \n(Ihre E-Mail Adresse)");
+  f.elements['absender_mail'].focus();
+  return false;
+ }else {
+  if (!VerifyEmailAddress(f.elements['absender_mail'].value)) {
+   alert("Bitte geben Sie eine gültige E-Mail Adresse ein!");
+   f.elements['absender_mail'].focus();
+   return false;
+  }
+ }
+ if (f.elements['absender_text'].value == '') {
+  alert("Bitte alle Pflichtfelder ausfüllen! \n(Ihr Kommentar)");
+  f.elements['absender_text'].focus();
+  return false;
+ }
+ if (navigator.appName=="Microsoft Internet Explorer") {
+  for (i=0;i<f.length;i++) {
+   var e=f.elements[i];
+   if (e.type == 'submit' || e.type == 'reset')
+    e.disabled=true;
+  }
+ }
+ if (f.elements['page_tv']) {
+  f.elements['page_tv'].value = tv;
+ }
+ return true;
+}
+//-->
+</script>
+
+</head>
+
+<body>
+
+<form name="dwmailer" action="http://www.dw-formmailer.de/cgi-bin/dwmailer/dwmailer.pl" enctype="multipart/form-data" method="post" onsubmit="return check_form(this);">
+<input type="hidden" name="page_tv" value="" />
+<input type="hidden" name="pflicht" value="absender_name,absender_text" />
+<input type="hidden" name="empfaenger_mail" value="HugoAd@gmx.de" />
+<input type="hidden" name="betreff" value="Nachricht von den Hauptseiten der Borderlinezone">
+<input type="hidden" name="language" value="de" />
+<input type="hidden" name="page_background_color" value="#FFFFFF" />
+<input type="hidden" name="page_font_color" value="#000000" />
+<table align="center" class="table" border="0" cellspacing="1" cellpadding="3">
+<tr>
+<td colspan="2" class="head" height="17" width="100%" align="left"><span class="font-big">Kontaktformular</span></td>
+</tr>
+<tr>
+<td class="main" colspan="2" height="16" width="100%"><span class="font-small">Bitte f&uuml;llen Sie alle mit * markierten Felder aus. (Pflichtfelder)</span></td>
+</tr>
+<tr>
+<td class="main" width="30%"><div class="align">Ihr Name*</div></td>
+<td class="main"><input class="input" type="text" name="absender_name" size="20" /></td>
+</tr>
+<tr>
+<td class="main" width="30%"><div class="align">Ihre E-Mail Adresse*</div></td>
+<td class="main"><input class="input" type="text" name="absender_mail" size="20" /></td>
+</tr>
+<tr>
+<td class="main" width="30%"><div class="align">Ihr Kommentar*</div></td>
+<td class="main">(Restzeichen: <span id="count_1">2500</span>)<br /><textarea class="textarea" name="absender_text" id="absender_text" cols="35" rows="8" onkeydown="rest(this,2500,'count_1',event)" onkeyup="rest(this,2500,'count_1',event)" onchange="rest(this,2500,'count_1',event)"></textarea>
+</td>
+</tr>
+<tr><td class="foot" colspan="2" align="center" height="25" width="100%"><input class="button" type="submit" value="Abschicken" />&nbsp;&nbsp;&nbsp;&nbsp;<input class="button" type="reset" value="Zur&uuml;cksetzen" /></td></tr>
+</table>
+</form>
+<p align="center"><span style="font-size:9px;font-family:Verdana,sans-serif;"><a href="https://www.dw-formmailer.de" target="_blank">dw-FormGenerator 4.4.3</a></span></p>
+<!-- End Code dw-Formgenerator -->
+</body>
+
+</html>
