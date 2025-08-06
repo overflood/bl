@@ -2,7 +2,12 @@ baseURL = "https://borderliner.ch/"
 languageCode = "de-ch"
 title = "Borderliner.ch – Informationen zur Borderline-Störung"
 theme = "ananke"
-paginate = 10
+
+# Since Hugo 0.128.0 the `paginate` key is deprecated. Use the
+# pagination configuration block instead. See
+# https://gohugo.io/content-management/pagination/ for details.
+[pagination]
+  pagerSize = 10
 
 # [Params] contains custom parameters used by Hugo themes. The description
 # helps search engines and social media cards understand the site.
