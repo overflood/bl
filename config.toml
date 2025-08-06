@@ -3,6 +3,10 @@ languageCode = "de-ch"
 title = "Borderliner.ch – Informationen zur Borderline-Störung"
 theme = "ananke"
 
+[taxonomies]
+  category = "kategorien"
+  tag      = "schlagworte"
+
 # Since Hugo 0.128.0 the `paginate` key is deprecated. Use the
 # pagination configuration block instead. See
 # https://gohugo.io/content-management/pagination/ for details.
