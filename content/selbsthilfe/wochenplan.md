@@ -1,13 +1,14 @@
 ---
-title: "Wochenplan"
+title: Wochenplan
 date: 2023-08-26
 draft: false
 aliases:
-  - "/selbsthilfe/wochenplan.htm"
+- /selbsthilfe/wochenplan.htm
 categories:
-  - "selbsthilfe"
-slug: "wochenplan"
+- selbsthilfe
+slug: wochenplan
 ---
+
 
 [ [Nach oben](selbsthilfe.htm) ] [ [Adressen-Krisenintervention](adressen-krisenintervention.htm) ] [ [nützliche Links](../links/links/links.htm) ] [ [Kliniken](../kliniken/kliniken.htm) ] [ [Änderungsantrag](verschlimmerungsantrag-bl.pdf) ] [ Wochenplan ] [ [Wochenplan PDF](wochenplan.pdf) ]
 

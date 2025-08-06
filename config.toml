@@ -29,20 +29,25 @@ theme = "ananke"
 
   [[menu.main]]
     name = "Borderline"
-    url = "/bord/"
+    url = "/borderline/"
     weight = 2
 
   [[menu.main]]
-    name = "ADHS & ADS"
-    url = "/ads/"
+    name = "Beziehungen"
+    url = "/beziehungen/"
     weight = 3
 
   [[menu.main]]
-    name = "Kliniken & Therapie"
-    url = "/kliniken/"
+    name = "Komorbiditäten"
+    url = "/komorbiditaeten/"
     weight = 4
+
+  [[menu.main]]
+    name = "Therapie"
+    url = "/therapie/"
+    weight = 5
 
   [[menu.main]]
     name = "Selbsthilfe"
     url = "/selbsthilfe/"
-    weight = 5
+    weight = 6

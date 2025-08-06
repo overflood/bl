@@ -1,13 +1,14 @@
 ---
-title: "Krisenintervention-Adressen und Telefonnummern"
+title: Krisenintervention-Adressen und Telefonnummern
 date: 2023-08-27
 draft: false
 aliases:
-  - "/selbsthilfe/adressen-krisenintervention.htm"
+- /selbsthilfe/adressen-krisenintervention.htm
 categories:
-  - "selbsthilfe"
-slug: "adressen-krisenintervention"
+- selbsthilfe
+slug: adressen-krisenintervention
 ---
+
 
 [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
