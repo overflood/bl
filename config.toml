@@ -1,7 +1,11 @@
 baseURL = "https://borderliner.ch/"
 languageCode = "de-ch"
 title = "Borderliner.ch – Informationen zur Borderline-Störung"
-theme = "ananke"
+theme = ""
+
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
 
 # Since Hugo 0.128.0 the `paginate` key is deprecated. Use the
 # pagination configuration block instead. See
