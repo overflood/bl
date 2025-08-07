@@ -50,5 +50,5 @@ Aber auch  die Trennungen, Trennungsphasen von einer Borderlinepersönlichkeit o
 
 Egal wie rum wir es drehen. Die  meisten Antworten die Sie hier finden, werden Ihnen emotional nicht gefallen   (empfehlen Sie uns dennoch).  Lesen Sie das Vorwort und starten durch.
 
-Für  Fragen sind wir in 2 Formen erreichbar. Die Foren (für Fragen die öffentlich  sein dürfen, doch auch hier gibt es die Möglichkeiten der Privaten  Nachrichten), per [E-Mail](mailto:headoffice@borderliner.ch) oder [Kontaktformular](https://borderliner.ch/cgi-data/mailmanager/index.html) (bitte mit Mailadresse), für Fragen die persönlich / vertraulich sind. Beachten  Sie aber, dass die Beantwortung der Fragen oft einige Zeit dauern kann. Wenn    Ihnen die Seiten gefallen haben, würden wir uns freuen wenn Sie uns weiterempfehlen.
+Für Fragen können Sie sich gern im Forum austauschen oder uns per [E‑Mail](mailto:headoffice@borderliner.ch) kontaktieren. Beachten Sie, dass die Beantwortung manchmal einige Zeit in Anspruch nimmt. Wenn Ihnen die Seiten gefallen haben, empfehlen Sie sie bitte weiter.
 

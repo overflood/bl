@@ -501,7 +501,6 @@ Deutschland, Östereich, Schweiz
 
 |  | Mail an den Webmaster
 
-|  | impressum
 
 |  | Haftungsausschluss
 
