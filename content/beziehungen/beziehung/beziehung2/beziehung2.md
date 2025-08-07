@@ -8,8 +8,14 @@ categories:
 - beziehungen
 slug: beziehung2
 ---
+
+
+
+
 Musik
+
 Mit Dir war es so
+
 In
 Erinnerung, mit Beileid an alle MÄNNER die
 vorher waren und nachher kommen werden und einst glaubten, sie wären auch etwas
@@ -42,6 +48,7 @@ dass sie sich in der Vergangenheit schlecht verhalten hat, obwohl es von
 demjenigen hervorgerufen wurde, mit der sie zusammenwar. Ihr beide müßt einfach eine besondere Verbindung haben, dass sie so offen und ehrlich sein
 kann. Und sie scheint Gewissensbisse zu haben, dass muß doch heißen, dass sie
 diese Dinge nicht wieder tun wird, oder? Nicht mit DIR. DU bist etwas BESONDERES.
+
 Wen
 kümmert es, ob sie ihrem Ex auch diese dunklen Geheimnisse anvertraut hat? Wen
 kümmert es ob sie das gleiche "Gewissen" auch ihren Vorgängern zeigte? Wen
@@ -94,28 +101,29 @@ wie sie es mit den Vorgängern machte. Nur weil SIE sich vorher so
 manipulativ verhalten hat, heißt das nicht dass sie das JETZT tun wird. Nicht
 mit DIR. Du bist etwas BESONDERES! Die arme Frau hat nur die falsche Wahl getroffen (bevor sie DICH kannte). DICH
 wird sie bis ans Ende lieben.
+
 Klar
 hat sie Fehler gemacht, aber die meisten ihrer Ex-Männer wollen sienoch immer. Warum? Sie ist ja etwas BESONDERES. Einige denken nun, dass sie emotional nicht stabil ist, dass muß aber
 daran liegen, das die Männer nicht stabil sind, sieh doch nur wie liebevoll
 und zärtlich sie mit DIR ist .... sie war mit allen anderen bestimmt nicht SOOO
 liebevoll und zärtlich wie mit DIR. SIE würde doch nicht die Sätze sagen die
 sie "ihm" sagte.
+
 Bei
 DIR ist sie ehrlich, bei DIR wird alles anders, bei DIR ist nichts wie es
 vorher wahr, bei DIR hatte sie noch nie ein solches Verständnis, wurde noch nie
 SO geliebt, bei DIR
 erlebte sie die schönste Zweisamkeit, ja dieses Mal ist es WAHRE Liebe, dieses Mal wird alles anders.
+
 DENN  
 DU,  NUR  DU,  BIST / WARST ETWAS   GANZ  BESONDERES. Frauen sollten
 FRAU durch MANN und
-SIE durch ER ersetzen (geschrieben
-von "Unbekannt" aber zutreffend.) 
+
 Frauen sollten
 FRAU durch MANN und
-SIE durch ER ersetzen (geschrieben
-von "Unbekannt" aber zutreffend.) 
+
 Frauen sollten
 FRAU durch MANN und
-SIE durch ER ersetzen (geschrieben
-von "Unbekannt" aber zutreffend.) 
-von "Unbekannt" aber zutreffend.) 
+
+
+

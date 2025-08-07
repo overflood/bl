@@ -8,16 +8,23 @@ categories:
 - beziehungen
 slug: trennung_treffen
 ---
+
+
+
+
 Ein
 Treffen in der Trennung
+
 Wenn geschrieben steht, "er", der
 Borderliner, so ist damit die Borderlinepersönlichkeitsstörung,
 Borderline-Störung, gemeint. Also männlich,
 wie auch weiblich.
+
 Dass Sie in und durch die Trennung erschüttert
 sind, haben wir ja bereits festgestellt, auch, dass Sie zum Zeitpunkt der
 Trennung bereits psychisch und physisch am Ende waren. Betrachten wir uns eine
 Situation nach der Trennung und was Sie so erschüttert.
+
 Da steht er (der Borderliner), wenn Sie es dann irgendwie
 geschafft haben, vor Ihnen. In der Regel wird er kaum in ein Gespräch
 einwilligen, es sei denn, der "Zufall des Treffens" hilft Ihnen. Seine
@@ -37,6 +44,7 @@ eher, dass es Sie vollkommen unvorbereitet trifft. Sie erleben in sich das
 gleiche Chaos, wie die letzten 2/3 der Beziehung. Ohne weiteres wissen Sie um
 die Sinnlosigkeit des erneuten Versuchs, diese Beziehung zu retten oder zu
 kitten.
+
 Aber Sie "wissen" es nur, mehr nicht. Der Geist ist
 willig, doch das Fleisch ist schwach. Na ja, von viel Geist kann man in diesem
 Zustand nicht sprechen. In Ihnen tobt ein regelrechter Überlebenskampf. Ihr Körper,
@@ -60,6 +68,7 @@ eine glatte Lüge vorkommen. Der Mund, der Sie mit tausend Versprechen über
 säte.
 Hören in Gedanken diese warme, zärtliche Stimme, die in der Lage war, alles in
 Ihnen zu wecken.
+
 Ihr Blick fällt auf die Hände Ihres Borderliners und Ihr
 ganzer Körper überzieht sich mir einer Gänsehaut. Oh ja, sie konnten zärtlich
 sein, Dass diese Hände sie nicht hielten, wenn es darauf ankam, dass
@@ -76,43 +85,56 @@ Wahrheit in diesem Moment nicht zulassen. Die Falle in Ihnen lautet: "das kann
 doch nicht alles gelogen gewesen sein." War es ja auch nicht (Spaltung), nur
 zum Teil (Manipulation). "So kann er/ sie nicht zu einem anderen werden
 (Liebe), nicht in so kurzer Zeit.
+
 Doch kann er/ sie. Hat er/ sie schon getan.
+
 "Aber was ist mit all den Versprechen?", zählen nicht
 (Spaltung), sind gar nicht mehr vorhanden.
+
 "Aber er/ sie hat doch gesagt, so habe er/ sie noch nie
 geliebt?" Stimmt ja auch, da das Alte weg ist durch die Spaltung.
+
 Die Liste ließe sich jetzt
 beliebig lang fortsetzen. Im
 Moment ist diese Emotions-/ Gefühlsfalle allerdings ein Schutz für Ihre
 Psyche. Sie verhindert in diesem Moment, dass der Schmerz der Wahrheit, der
 Erkenntnis Sie regelrecht überrennen würde und Sie möglicherweise
 unkontrollierte Reaktionen (Reaktionen auf den Schmerz) von sich geben.
+
 Allerdings veranlasst Sie das wiederum, dem Borderliner
 Ihre Sichtweise näher bringen zu wollen, ihn an all das erinnern zu wollen, was
 Sie sehen. Das dies durch die Spaltung des Borderliners, der
 Borderline-Störung, nicht gehen kann,
 absolut nicht möglich ist, wissen Sie in diesem Moment nicht.
+
 Ohne weiteres kann natürlich der Schalter beim Borderliner
 plötzlich auf die weiße Seite schalten und wieder zurück. Dazu zwei kleine
 Beispiele.
+
 Ein "Zufallstreffen", wie oben beschrieben. Nennen wir
 sie hier M. (weiblich, Borderline-Störung) und H. (männlich).
+
 M: Dreht ständig den Kopf weg und behandelt H. wie Luft. Sie gibt ihm zu
 verstehen, dass Sie keinen Kontakt wünscht. Ablehnung und absolute Kälte
 lassen kaum ein Gespräch entstehen.
+
 H: Ist wie oben beschrieben,
 verzweifelt und versucht diese Beziehung zu retten. Die Situation entspannt sich ein wenig, als M. zumindest anfängt,
 H. wütend mit Vorwürfen zu bombardieren. Das kennt H., wenn M. wütend und
 verletzend wird, steigen die Chancen. So war es zumindest bisher immer. Ihm
 bleibt nichts anderes übrig, als die Vorwürfe zu schlucken und M. recht zu
 geben.
+
 Die Situation entspannt sich weiter und sie laufen am Fluss entlang,
 wobei H. immer zwei Schritten hinten dran ist.
+
 M. läuft so, dass dieser Abstand
 immer gewahrt bleibt. Plötzlich
 bleibt sie vor ihm stehen,
+
 dreht
 sich um und sagt: "Ich liebe dich doch auch".
+
 H. bleibt wie vom Donner gerührt stehen. Begreift erst nicht, weiß
 nicht, wie er sich verhalten soll. Er tritt auf sie zu und streichelt M. sanft
 durch das Haar. In diesem Moment läuft ein Zittern durch ihren Körper, die
@@ -125,6 +147,7 @@ eben gewesene Trennung. H. belastet das, möchte Gewissheit und versucht das
 Gespräch darauf zu bringen. Das Gesicht von M. verfinstert sich zunehmend, der
 Schritt wird schneller, wie immer kommt der Satz: "Ich will jetzt nicht darüber
 reden".
+
 "Mist", denkt sich H. , so ist das jedes Mal. "Ich will jetzt, ich
 will jetzt nicht" äfft er in Gedanken. Es macht ihn wütend, wenn sie ihn so
 behandelt. Was ist er denn? Ein Stück Holz? Er will sich nicht jedes mal so
@@ -137,47 +160,64 @@ ziemlich enge Stelle des Ufers kommen, ruft H. ziemlich laut und erregt:
 schnellen Schritten holt er sie ein, berührt ihren Arm und sagt sehr erregt:
 "Sag mal, warum behandelst du mich immer wie ein Stück Dreck?" M. schaut
 ihn mit angstverzerrten Gesicht an, die Augen weit aufgerissen und sagt
+
 "Geh
 jetzt".
+
 H.: "Was hast du denn?
+
 M.: "Geh jetzt, sofort."
+
 H.: ist völlig verdutzt und M. geht schnellen Schrittes weiter, dreht
 sich nicht um. H. schaut ihr nach und versteht die Situation nicht. Sicher kennt
 er Aussetzer von M., welcher es jetzt wieder ist, weiß er nicht. H. fährt nach
 Hause und denkt über das Treffen und was er wohl wieder einmal falsch gemacht
 hat, nach. Es fällt ihm beim besten Willen nicht ein.
+
 Vier
 Stunden später:
+
 Das
 Telefon klingelt, vielleicht ist es M., denkt sich H. Er durfte ja nicht
 anrufen. M. hatte es ihm strikt untersagt, ihm sogar mit Anwalt gedroht.
 Abgesehen davon, hätte es sowieso keinen Sinn gehabt, da nur wieder der
 Anrufbeantworter gelaufen wäre.
+
 Er nimmt
 ab. Ganz weich und zärtlich flüstert ihre Stimme: "Verzeih mir, wegen
 vorhin. Möchtest du zum Essen kommen?" Irgendwie fühlt sich H. bei M. immer
 wie in Wechselbädern. Er wird sich wohl nie daran gewöhnen. Erfreut stimmt er
 natürlich zu und fragt M., was sie denn vorhin gehabt habe.
+
 M.: "Ich
 hatte Angst".
+
 H.: "Wovor?"
+
 M.: "Vor
 dir, ich dachte, du wirfst mich in den Fluss."
+
 H.:"M.
 sag mal, auf was für Ideen kommst du denn nur?"
+
 M.: "Doch, dein Blick war so. In solchen Situationen habe ich immer Angst vor
 dir."
+
 H.: "Du
 meinst, wenn du mich so behandelst?"
+
 M.: "Ja."
+
 Am Abend
 essen sie zusammen. Er hatte Rosen mitgebracht, sie den Wein schon geöffnet.
 Die Nacht gehört den Liebenden und der Symbiose. Gefühle, wie am ersten Tag.
 Sie liegt neben ihm wie ein Engel und schläft.
+
 Die
 Gedanken können ihn nicht loslassen, finden kein Anfang, kein Ende. Wo soll das
 enden? Wie soll er das nur durchhalten, fragt er sich. War das denn am Anfang
 auch so?
+
 Immer
 wieder tausende von Fragen, auf die er keine Antwort findet. Bestimmt hat er
 nicht alle Tassen im Schrank, ja so muss es sein. Er sollte sich unbedingt
@@ -186,26 +226,32 @@ Zeit. Irgendetwas muss ja mit ihm nicht stimmen. Es wird ja auch immer
 schlimmer. Das muss an mir liegen, denkt H. Vor zwei Stunden weinte sie noch
 voller Glück nach dem wieder mal so wundervollem Sex und flüsterte: "Wir dürfen
 uns nicht mehr so weh tun."
+
 [Es war der
 Versöhnungssex, das herstellen der erneuten Symbiose](https://borderliner.ch/trennung/weinen_schmerz.htm) .
+
 Er beschließt, einen Psychologen aufzusuchen.
 Aber was soll er ihm erzählen? Das er einen Schaden hat? Ich kann das ja alles
 gar nicht erklären oder erzählen, so chaotisch ist das alles. Seit Monaten
 findet er kaum noch Schlaf. Der Morgen graut. "Wie lange wird es diesmal gut
 gehen", sind seine letzten Gedanken.
+
 Sie sehen
 an diesem Beispiel, wie schnell ein Borderliner (M.) hin und her schalten kann,
 es nicht willentlich gesteuert ist und welchen Einfluss die freiflottierende
 Angst hat.
+
 Ein
 anderes Beispiel. Wieder M. und H. Auslöser ist hier die freiflottierende
 Angst, denn der Termin des Zusammenziehens rückt näher und das Unvermögen M.,
 darüber zu sprechen. Weiterhin, M. wurde die Nacht zuvor nicht körperlich
 geliebt. Für M. ein eindeutiges Anzeichen, nicht geliebt zu werden.
+
 Samstag
 Morgen, H. ist bereits aufgestanden und hat M. nicht geweckt. Er hat ihr zwar zärtlich
 durch das Haar gestrichen, ihr einen Kuss gegeben und M. hat gegrunzt, wie ein
 zufriedenes Baby. Aber das war wohl, wie wir gleich sehen werden, auch zu wenig.
+
 M. steht
 auf. H. sitzt bereits am Computer (arbeitet), schießt an ihm wortlos vorbei in
 Richtung Küche. Auf halben Weg bleibt sie stehen, kehrt um, gibt H. wortlos
@@ -226,30 +272,49 @@ unternimmt M. Anstalten zu gehen. Natürlich will sie nur hören, dass sie
 bleiben soll, sie geliebt wird. Ihre gesamten Abwertungen und Vorwürfe zielen
 darauf. H. will diesem Druck- auf Verlangen- nicht nachgeben. "Nicht schon
 wieder, so geht das nicht", denkt er sich.
+
 M.: steht vor der Tür, Tasche in der Hand. "Ich gehe jetzt, das hat keinen
 Sinn mit uns".
+
 H.: "Ach und gestern wollten wir noch zusammenziehen?"
+
 M.: "Das habe ich nur so gesagt, damit du Ruhe gibst."
+
 H.: glaubt, ihm fliegt das Dach weg- "wie bitte? Damit ich Ruhe gebe? Du
 wolltest doch unbedingt, dass ich zu dir komme."
+
 M.: "Ich will das nicht mehr."
+
 H.: "Das geht aber schnell bei dir. Von heute auf morgen?"
+
 M.: "So etwas geht nicht von heute auf morgen. Ich gehe jetzt."
+
 H.: "M., bitte bleib."
+
 M.: schreit unter Tränen: "Warum soll ich bleiben. Sag mir einen Grund."
+
 H.: "Weil ich dich liebe. Wäre das ein Grund?"
+
 M.: schreit: "Du kannst doch gar nicht lieben, du kannst doch nur quälen
 und demütigen."
+
 H.: "Jetzt reicht es aber. Pass auf, ich geh jetzt ein Stück spazieren und
 wir beruhigen uns Beide."
+
 M.: "Wenn du jetzt gehst, bin ich fort, wenn du wiederkommst."
+
 H.: "Wenn du denkst, das ist der richtige Weg. Ich liebe dich, möchte, das
 du bleibst und du Da bist, wenn ich wieder komme."
+
 M.: "Dann nimm mich jetzt in die Arme und sag es mir."
+
 H.: "Verdammt noch mal, ich kann jetzt nicht und schon gar nicht immer mit
 deinem  Druck."
+
 M.: "Warum nicht? Also lügst du."
+
 H.: "Ich lüge nicht, ich muss mich nur beruhigen" und geht.
+
 Er kehrt
 nach einer Stunde zurück und rechnet eigentlich damit, dass M., wie üblich,
 gefahren ist. Erstaunlich, sie ist noch da. Sogar ihre Sachen sind wieder
@@ -265,46 +330,67 @@ beginnt er, sitzt sie vor ihm und weint bitterlich. Das Leiden Christi, oh das
 beherrscht sie sehr gut. Macht sie immer so, wenn sie merkt, dass ihr die Fehler
 wegschwimmen. Nein, ein Schauspiel ist das nicht. Sie leidet wirklich so, aber
 sie schafft es eben perfekt, diese, ihr Leiden, in Szene zu setzen.
+
 M.: "Ich habe deine Liebe verloren."
+
 H.: "Unsinn. Im Moment gestehe ich, ist nicht so viel da. Ist ja auch
 normal, bei deinem Verhalten."
+
 M.: "Du kannst nicht lieben, nur Quälen durch Liebesentzug.", es folgen
 wieder mal Abwertungen und Beleidigungen, "Wenn ich in (Heimatort) bin, weiß ich
 wenigstens, dass du mich nicht lieben kannst."
+
 H.: Findet kaum noch Worte. Vernünftige Erklärungen kommen erst gar nicht
 an.
+
 M.: Steht mitten im Satz von H. auf, mit den Worten: "Ich rede nicht mehr
 mit dir" und fährt.
+
 H. schickt
 eine SMS, sie kommt wieder und das Spiel wiederholt sich.
+
 Nachdem
 sie nun wieder gefahren ist, wird H. so langsam das Ausmaß dieses Chaos bewusst.
 Am Abend, sie ist inzwischen zu Hause, ruft er sie an. Sie empfängt ihn mit den
 Worten:
+
 M.: "Was willst du denn noch von mir? Dieser Satz wird im Return zum alles
 entscheidenden Auslöser.
+
 H.: "Mit dir reden über heute Nachmittag." Es folgt eine lange Erklärung
 und Darstellung . Von H. mit dem
 Schlusssatz: "Und jetzt entscheide, was du wirklich willst."
+
 Ein
 Ultimatum. Das verkraftet M. sowieso nicht.
+
 M.: "Ich möchte mit dir glücklich werden."
+
 Mit allem
 hätte H. gerechnet, aber nicht mit dem. Er fragt nach. M. wiederholt es. H. lässt
 M. Den Satz zwei- dreimal wiederholen und fragt jedes mal;
+
 H.: "Bist du sicher?"
+
 M.: "Ja, absolut."
+
 H. bittet
 M. auf dem anderen Telefon zurückzurufen: Sie tut es und H. empfängt sie mit
 den Worten:
+
 H.: "Was willst du denn eigentlich von mir?"
+
 M.: "Das frage ich mich auch."
+
 H.: "Das sagtest du vorhin zu mir."
+
 M. knallt
 den Hörer auf. Wie immer in solchen Situationen. Es folgt eine SMS von M.
 "Werde glücklich mit deinem Sieg."
+
 Erklärungen
 von H. nützen nichts. Die Beziehung ist wieder einmal beendet.
+
 Auch hier
 sehen Sie, welch katastrophalen Ausmaße und Folgen allein die freiflottierende
 Angst von M. bzw. dem Borderliner haben kann, obwohl diese in diesem Chaos nicht
@@ -322,8 +408,10 @@ vorhanden. Nicht gesagt ist auch, ob der neue Prinz/ Prinzessin nicht bereits
 vor dem letzten Streit vorhanden war. Sie können davon ausgehen, wenn es
 der letzte Streit war. Denn , wie bereits beschrieben, "geht" der
 Borderliner erst dann bzw. erhält die Spaltung aufrecht.
+
 Aber
 kommen wir zurück zu unserem Treffen.
+
 Heute,
 nachdem Sie sich nun eingehend mit der Borderline-Störung beschäftigt haben
 bzw. sich beschäftigen, sind Sie natürlich schlauer, werden ein solches
@@ -332,14 +420,17 @@ Beispiel, ganz anders führen. In beiden Fällen aber können Sie nicht vernünf
 oder logisch agieren, da Ihr Gegenüber nicht vernünftig und schon gar nicht
 logisch ist oder handelt. Sie können aber auch nicht so chaotisch denken, fühlen
 oder handeln, da Sie nicht der Borderline-Störung unterliegen.
+
 In Ihrem
 momentanen, verzeihen Sie den Ausdruck, beschränkten Verstand (beschränkt,
 weil er es nicht anders zulässt), klammern Sie sich an das Wort Vernunft. Sie
 klammern sich an moralische und ethische Wertvorstellungen, die aber für den
 Borderliner nicht existieren.
+
 Oh, jetzt
 werden Sie sagen: "aber er/sie hatte doch so hohe moralische und ethische
 Wertvorstellungen." Hatte er/sie diese wirklich?
+
 Denken Sie
 an die [Projektion](../spaltung/spaltung.html) . Denken Sie daran, dass der Borderliner sich nahtlos an
 Ihr "ICH" andockt. Es waren Ihre Wertvorstellungen, die er übernahm. Und
@@ -350,4 +441,7 @@ ich wollte, könnte ich nicht sofort in eine neue Beziehung, dafür habe ich
 zuviel mit dir erlebt", mit dem "Neuen" zärtlich telefoniert. Auch diese
 dient zur Aufrechterhaltung der Spaltung, denn mit Ihnen ist es ein "böses
 Gespräch", mit dem/ der Neuen ist es ein "gutes Gespräch"
+
 2005-2007
+
+

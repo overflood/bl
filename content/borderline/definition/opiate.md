@@ -9,6 +9,9 @@ categories:
 slug: opiate
 description: "Opiate sind eine Gruppe von Substanzen, die aus dem Schlafmohn isoliert oder synthetisch hergestellt werden. Sie wirken stark schmerzstillend, bergen jedoch ein hohes Abhängigkeitsrisiko."
 ---
+
+
+
 | Opiate Substanzgruppe der Opiate Historisch-medizinische Perspektive Wie entsteht Schmerz? Wirkmechanismus von Schmerz im Gehirn Pharmakodynamik und -kinetik Applikationsformen Toleranz Entzug Problematisierung Substanzgruppe der Opiate Historisch-medizinische Perspektive Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beobachteten 
         unerwünschten Nebenwirkungen beim Opium-Gebrauch zu modifizieren und nur die positiven
         Wirkungen für die Medizin nutzbar zu machen, führten zu einem fortlaufenden Reinigungs- 
@@ -78,19 +81,35 @@ description: "Opiate sind eine Gruppe von Substanzen, die aus dem Schlafmohn iso
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung. | Applikationsform | Resorption | oral rektal (Zäpfchen) | langsam | intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung | innerhalb von Sek./Min. | Inhalieren rauchen | in wenigen Minuten
+
 Applikationsform | Resorption
+
 oral rektal (Zäpfchen) | langsam
+
 intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung | innerhalb von Sek./Min.
+
 Inhalieren rauchen | in wenigen Minuten
+
+
+
 #### Opiate
+
 1. Substanzgruppe der Opiate
+
 2. Historisch-medizinische Perspektive
+
 3. Wie entsteht Schmerz? Wirkmechanismus von Schmerz im Gehirn
+
 4. Pharmakodynamik und -kinetik
+
 5. Applikationsformen
+
 6. Toleranz
+
 7. Entzug
+
 8. Problematisierung
+
 Substanzgruppe der Opiate Historisch-medizinische Perspektive Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beobachteten 
         unerwünschten Nebenwirkungen beim Opium-Gebrauch zu modifizieren und nur die positiven
         Wirkungen für die Medizin nutzbar zu machen, führten zu einem fortlaufenden Reinigungs- 
@@ -160,6 +179,7 @@ Substanzgruppe der Opiate Historisch-medizinische Perspektive Die Bestrebungen e
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Historisch-medizinische Perspektive Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beobachteten 
         unerwünschten Nebenwirkungen beim Opium-Gebrauch zu modifizieren und nur die positiven
         Wirkungen für die Medizin nutzbar zu machen, führten zu einem fortlaufenden Reinigungs- 
@@ -229,6 +249,7 @@ Historisch-medizinische Perspektive Die Bestrebungen europäischer Mediziner im 
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Historisch-medizinische Perspektive Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beobachteten 
         unerwünschten Nebenwirkungen beim Opium-Gebrauch zu modifizieren und nur die positiven
         Wirkungen für die Medizin nutzbar zu machen, führten zu einem fortlaufenden Reinigungs- 
@@ -298,6 +319,7 @@ Historisch-medizinische Perspektive Die Bestrebungen europäischer Mediziner im 
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beobachteten 
         unerwünschten Nebenwirkungen beim Opium-Gebrauch zu modifizieren und nur die positiven
         Wirkungen für die Medizin nutzbar zu machen, führten zu einem fortlaufenden Reinigungs- 
@@ -367,6 +389,7 @@ Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beoba
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 1803 isolierte ein Apotheker erstmals aus dem Schlafmohn das Morphin, welches bis heute 
         in der Medizin als prototypisch, als das wirksamste Analgetikum, d.h. schmerzstillendes 
         Medikament betrachtet wird. Als weitere Substanz wurde Kodein synthetisiert. Um 1840 wies der Arzt und Apotheker Levin auf eine mögliche Toleranz, d.h. Abhängigkeit 
@@ -432,6 +455,7 @@ Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beoba
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Um 1840 wies der Arzt und Apotheker Levin auf eine mögliche Toleranz, d.h. Abhängigkeit 
         durch Morphineinnahmen hin - er stieß dabei auf großen Widerstand der Ärzteschaft. Ende des 19. Jahrhunderts (1898) erreichte die Firma Bayer als weiteren pharmazeutischen
         Reinigungsschritt die Gewinnung von Heroin als halbsynthetisches Opium, welches unter 
@@ -495,6 +519,7 @@ Um 1840 wies der Arzt und Apotheker Levin auf eine mögliche Toleranz, d.h. Abh�
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Ende des 19. Jahrhunderts (1898) erreichte die Firma Bayer als weiteren pharmazeutischen
         Reinigungsschritt die Gewinnung von Heroin als halbsynthetisches Opium, welches unter 
         der Bezeichnung Diacetylmorphin geführt wird. Mit Methadon, Phentanyl, Polamidon und Bufremorphin u.a. wurde die Schwelle der 
@@ -557,6 +582,7 @@ Ende des 19. Jahrhunderts (1898) erreichte die Firma Bayer als weiteren pharmaze
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Mit Methadon, Phentanyl, Polamidon und Bufremorphin u.a. wurde die Schwelle der 
         vollsynthetischen Opiate überschritten. Wie entsteht Schmerz? Wirkmechanismus von Schmerz im Gehirn Der Körper registriert einen Schmerzimpuls, welcher über das Rückenmark zum Gehirn 
         weitergeleitet wird. Bei dieser Dynamik spielt sich folgendes ab: Der Schmerzimpuls 
@@ -617,6 +643,7 @@ Mit Methadon, Phentanyl, Polamidon und Bufremorphin u.a. wurde die Schwelle der
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Wie entsteht Schmerz? Wirkmechanismus von Schmerz im Gehirn Der Körper registriert einen Schmerzimpuls, welcher über das Rückenmark zum Gehirn 
         weitergeleitet wird. Bei dieser Dynamik spielt sich folgendes ab: Der Schmerzimpuls 
         aktiviert Nervenzellen durch die Freisetzung der Transmitter Glutamat und Subsatnz P. 
@@ -676,6 +703,7 @@ Wie entsteht Schmerz? Wirkmechanismus von Schmerz im Gehirn Der Körper registri
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Der Körper registriert einen Schmerzimpuls, welcher über das Rückenmark zum Gehirn 
         weitergeleitet wird. Bei dieser Dynamik spielt sich folgendes ab: Der Schmerzimpuls 
         aktiviert Nervenzellen durch die Freisetzung der Transmitter Glutamat und Subsatnz P. 
@@ -735,6 +763,7 @@ Der Körper registriert einen Schmerzimpuls, welcher über das Rückenmark zum G
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Pharmakodynamik und -kinetik Anknüpfend an die Dynamik endogener Drogen wie den Endorphinen zeigt sich eine 
         ähnliche schmerzstillende Wirkweise bei exogenen Opiaten im menschlichen Körper: Im 
         Gegensatz zu anderen Schmerzmitteln, die lokal wirken, beeinflussen Opiate prinzipiell 
@@ -785,6 +814,7 @@ Pharmakodynamik und -kinetik Anknüpfend an die Dynamik endogener Drogen wie den
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Anknüpfend an die Dynamik endogener Drogen wie den Endorphinen zeigt sich eine 
         ähnliche schmerzstillende Wirkweise bei exogenen Opiaten im menschlichen Körper: Im 
         Gegensatz zu anderen Schmerzmitteln, die lokal wirken, beeinflussen Opiate prinzipiell 
@@ -835,6 +865,7 @@ Anknüpfend an die Dynamik endogener Drogen wie den Endorphinen zeigt sich eine
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Die agonistischen Opiatsubstanzen (z.B. Heroin, Morphin) ahmen die analgetische Dynamik
         der Endorphin-Botenstoffe nach, während die Opiat-Antagonisten Naltrexon und Naloxon 
         durch die Besetzung der Endorphinrezeptoren die Wirkung exogener Opiate aufheben. Opiatsubstanzen entfalten Ihre Wirkung als Analgetikum (schmerzstillend) Sedativum (beruhigend) Anxiolytikum (angstlösend bzw. -hemmend) Euphorikum (euphorisierend). Allerdings wird auch eine gleichzeitige Körperreaktion provoziert,  die sich in 
@@ -879,6 +910,7 @@ Die agonistischen Opiatsubstanzen (z.B. Heroin, Morphin) ahmen die analgetische 
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Opiatsubstanzen entfalten Ihre Wirkung als Analgetikum (schmerzstillend) Sedativum (beruhigend) Anxiolytikum (angstlösend bzw. -hemmend) Euphorikum (euphorisierend). Allerdings wird auch eine gleichzeitige Körperreaktion provoziert,  die sich in 
         Pupillenverengung, Atemdepression (Verengung der Bronchien) und Depression der 
         Darmperistaltik äußert, d.h. eine Verlangsamung bzw. Hemmung der Lungen- und 
@@ -921,6 +953,7 @@ Opiatsubstanzen entfalten Ihre Wirkung als Analgetikum (schmerzstillend) Sedativ
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Analgetikum (schmerzstillend) Sedativum (beruhigend) Anxiolytikum (angstlösend bzw. -hemmend) Euphorikum (euphorisierend). Allerdings wird auch eine gleichzeitige Körperreaktion provoziert,  die sich in 
         Pupillenverengung, Atemdepression (Verengung der Bronchien) und Depression der 
         Darmperistaltik äußert, d.h. eine Verlangsamung bzw. Hemmung der Lungen- und 
@@ -963,10 +996,15 @@ Analgetikum (schmerzstillend) Sedativum (beruhigend) Anxiolytikum (angstlösend 
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 - Analgetikum (schmerzstillend)
+
 - Sedativum (beruhigend)
+
 - Anxiolytikum (angstlösend bzw. -hemmend)
+
 - Euphorikum (euphorisierend).
+
 Allerdings wird auch eine gleichzeitige Körperreaktion provoziert,  die sich in 
         Pupillenverengung, Atemdepression (Verengung der Bronchien) und Depression der 
         Darmperistaltik äußert, d.h. eine Verlangsamung bzw. Hemmung der Lungen- und 
@@ -1009,6 +1047,7 @@ Allerdings wird auch eine gleichzeitige Körperreaktion provoziert,  die sich in
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Opiate beeinflussen nicht nur körperliche Schmerzen positiv, sondern erzeugen auch bei 
         psychischen Schmerzen einen als angenehm empfundenen Entspannungs- oder Euphoriezustand. Applikationsformen Opiate können wie folgt eingenommen werden: Applikationsform Resorption oral rektal (Zäpfchen) langsam intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung innerhalb von Sek./Min. Inhalieren rauchen in wenigen Minuten Weitere Anwendung von Morphin z.B. als Periduralanästhesie (PDA), d.h. 
         Rückenmarksbetäubung beim Geburtsvorgang (Kaiserschnitt etc.) und bei Operationen. Opiate gelangen in das Gewebe und werden sehr schnell (Heroin in 3-5 Std.) zu Morphin 
@@ -1047,6 +1086,7 @@ Opiate beeinflussen nicht nur körperliche Schmerzen positiv, sondern erzeugen a
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Applikationsformen Opiate können wie folgt eingenommen werden: Applikationsform Resorption oral rektal (Zäpfchen) langsam intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung innerhalb von Sek./Min. Inhalieren rauchen in wenigen Minuten Weitere Anwendung von Morphin z.B. als Periduralanästhesie (PDA), d.h. 
         Rückenmarksbetäubung beim Geburtsvorgang (Kaiserschnitt etc.) und bei Operationen. Opiate gelangen in das Gewebe und werden sehr schnell (Heroin in 3-5 Std.) zu Morphin 
         und Kodein metabolisiert. Ca. 3-4 Tage sind Opiatmetaboliten nachweisbar. Testverfahren, 
@@ -1084,6 +1124,7 @@ Applikationsformen Opiate können wie folgt eingenommen werden: Applikationsform
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Opiate können wie folgt eingenommen werden: Applikationsform Resorption oral rektal (Zäpfchen) langsam intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung innerhalb von Sek./Min. Inhalieren rauchen in wenigen Minuten Weitere Anwendung von Morphin z.B. als Periduralanästhesie (PDA), d.h. 
         Rückenmarksbetäubung beim Geburtsvorgang (Kaiserschnitt etc.) und bei Operationen. Opiate gelangen in das Gewebe und werden sehr schnell (Heroin in 3-5 Std.) zu Morphin 
         und Kodein metabolisiert. Ca. 3-4 Tage sind Opiatmetaboliten nachweisbar. Testverfahren, 
@@ -1121,6 +1162,7 @@ Opiate können wie folgt eingenommen werden: Applikationsform Resorption oral re
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Applikationsform Resorption oral rektal (Zäpfchen) langsam intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung innerhalb von Sek./Min. Inhalieren rauchen in wenigen Minuten Weitere Anwendung von Morphin z.B. als Periduralanästhesie (PDA), d.h. 
         Rückenmarksbetäubung beim Geburtsvorgang (Kaiserschnitt etc.) und bei Operationen. Opiate gelangen in das Gewebe und werden sehr schnell (Heroin in 3-5 Std.) zu Morphin 
         und Kodein metabolisiert. Ca. 3-4 Tage sind Opiatmetaboliten nachweisbar. Testverfahren, 
@@ -1158,10 +1200,15 @@ Applikationsform Resorption oral rektal (Zäpfchen) langsam intravenös (z.B. He
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Applikationsform | Resorption
+
 oral rektal (Zäpfchen) | langsam
+
 intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung | innerhalb von Sek./Min.
+
 Inhalieren rauchen | in wenigen Minuten
+
 Weitere Anwendung von Morphin z.B. als Periduralanästhesie (PDA), d.h. 
         Rückenmarksbetäubung beim Geburtsvorgang (Kaiserschnitt etc.) und bei Operationen. Opiate gelangen in das Gewebe und werden sehr schnell (Heroin in 3-5 Std.) zu Morphin 
         und Kodein metabolisiert. Ca. 3-4 Tage sind Opiatmetaboliten nachweisbar. Testverfahren, 
@@ -1199,6 +1246,7 @@ Weitere Anwendung von Morphin z.B. als Periduralanästhesie (PDA), d.h.
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Opiate gelangen in das Gewebe und werden sehr schnell (Heroin in 3-5 Std.) zu Morphin 
         und Kodein metabolisiert. Ca. 3-4 Tage sind Opiatmetaboliten nachweisbar. Testverfahren, 
         z.B. des Urins lassen allerdings keinen Rückschluß auf konkrete Substanzen zu, lediglich
@@ -1235,6 +1283,7 @@ Opiate gelangen in das Gewebe und werden sehr schnell (Heroin in 3-5 Std.) zu Mo
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Toleranz Opiatabhängigkeit äußert sich im Verlangen nach der Einnahme höherer Dosen und weist 
         folgende körperliche und psychische Mechanismen auf: Der Organismus erhöht die Zahl opiatabbauender Enzyme, so daß um
          eine spürbare Wirkung zu erzielen, die Dosis ebenfalls erhöht werden muß. Die Empfindlichkeit der Opiatrezeptoren nimmt ab. Eine Kreuztoleranz mit anderen Opiaten (bis zur letalen Dosis) entsteht. Die das Setting und Set betreffende Abhängigkeitsstruktur zeigt sich in
@@ -1268,6 +1317,7 @@ Toleranz Opiatabhängigkeit äußert sich im Verlangen nach der Einnahme höhere
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Opiatabhängigkeit äußert sich im Verlangen nach der Einnahme höherer Dosen und weist 
         folgende körperliche und psychische Mechanismen auf: Der Organismus erhöht die Zahl opiatabbauender Enzyme, so daß um
          eine spürbare Wirkung zu erzielen, die Dosis ebenfalls erhöht werden muß. Die Empfindlichkeit der Opiatrezeptoren nimmt ab. Eine Kreuztoleranz mit anderen Opiaten (bis zur letalen Dosis) entsteht. Die das Setting und Set betreffende Abhängigkeitsstruktur zeigt sich in
@@ -1301,6 +1351,7 @@ Opiatabhängigkeit äußert sich im Verlangen nach der Einnahme höherer Dosen u
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Der Organismus erhöht die Zahl opiatabbauender Enzyme, so daß um
          eine spürbare Wirkung zu erzielen, die Dosis ebenfalls erhöht werden muß. Die Empfindlichkeit der Opiatrezeptoren nimmt ab. Eine Kreuztoleranz mit anderen Opiaten (bis zur letalen Dosis) entsteht. Die das Setting und Set betreffende Abhängigkeitsstruktur zeigt sich in
          einer Verhaltenskonditionierung: Erfahrungen und damit verbundene Gefühle werden mit Hilfe der Opiatwirkung getriggert, 
@@ -1333,12 +1384,17 @@ Der Organismus erhöht die Zahl opiatabbauender Enzyme, so daß um
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 - Der Organismus erhöht die Zahl opiatabbauender Enzyme, so daß um
          eine spürbare Wirkung zu erzielen, die Dosis ebenfalls erhöht werden muß.
+
 - Die Empfindlichkeit der Opiatrezeptoren nimmt ab.
+
 - Eine Kreuztoleranz mit anderen Opiaten (bis zur letalen Dosis) entsteht.
+
 - Die das Setting und Set betreffende Abhängigkeitsstruktur zeigt sich in
          einer Verhaltenskonditionierung:
+
 Erfahrungen und damit verbundene Gefühle werden mit Hilfe der Opiatwirkung getriggert, 
         d.h. ausgelöst  bzw. gegenwärtige (Gruppen-)erlebnisse während der Opiateinnahme 
         prägen Wahrnehmung und Verhalten. Allerdings wird durch die Gewöhnung die Wirkung der 
@@ -1369,6 +1425,7 @@ Erfahrungen und damit verbundene Gefühle werden mit Hilfe der Opiatwirkung getr
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Entzug Die körperlichen und psychischen Konsequenzen des Entzugs werden von den Betroffenen 
         wie folgt erlebt: Die gegenteilige Wirkung der Opiate setzt mit intensiven körperlichen und psychischen 
         Schmerzen ein. Ängste, Depressionen, Appetitlosigkeit und Konzentrationsschwierigkeiten 
@@ -1392,6 +1449,7 @@ Entzug Die körperlichen und psychischen Konsequenzen des Entzugs werden von den
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Die körperlichen und psychischen Konsequenzen des Entzugs werden von den Betroffenen 
         wie folgt erlebt: Die gegenteilige Wirkung der Opiate setzt mit intensiven körperlichen und psychischen 
         Schmerzen ein. Ängste, Depressionen, Appetitlosigkeit und Konzentrationsschwierigkeiten 
@@ -1415,6 +1473,7 @@ Die körperlichen und psychischen Konsequenzen des Entzugs werden von den Betrof
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Die gegenteilige Wirkung der Opiate setzt mit intensiven körperlichen und psychischen 
         Schmerzen ein. Ängste, Depressionen, Appetitlosigkeit und Konzentrationsschwierigkeiten 
         sind die Folge, aber auch die als "craving" bezeichnete Drogengier sowie 
@@ -1437,6 +1496,7 @@ Die gegenteilige Wirkung der Opiate setzt mit intensiven körperlichen und psych
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Problematisierung Setbedingte Dispositionen (Persönlichkeitsstruktur eines Menschen) können psychische 
         Abhängigkeiten erleichtern, z.B. wenn eine geringe Frustrationstoleranz, d.h. eine  
         geringere psychische Belastbarkeit bei Konflikten besteht und/ oder die Auseinandersetzung
@@ -1453,6 +1513,7 @@ Problematisierung Setbedingte Dispositionen (Persönlichkeitsstruktur eines Mens
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Setbedingte Dispositionen (Persönlichkeitsstruktur eines Menschen) können psychische 
         Abhängigkeiten erleichtern, z.B. wenn eine geringe Frustrationstoleranz, d.h. eine  
         geringere psychische Belastbarkeit bei Konflikten besteht und/ oder die Auseinandersetzung
@@ -1469,6 +1530,7 @@ Setbedingte Dispositionen (Persönlichkeitsstruktur eines Menschen) können psyc
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Allerdings zeigt das Beispiel des massiven Konsums von "Prozac", einem 
         Antidepressiva, in den USA [in Deutschland als Fluctin auf dem
         Psychopharmaka-Markt], 
@@ -1480,6 +1542,7 @@ Allerdings zeigt das Beispiel des massiven Konsums von "Prozac", einem
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+
 Psychische Probleme gelten nicht als normale Reaktion auf "unnormale", d.h. 
         belastende Lebenssituationen oder die "Leistungsgesellschaft", jedoch als 
         unerwünschte Schwäche - es findet eine soziale Stigmatisierung und Pathologisierung
@@ -1487,3 +1550,4 @@ Psychische Probleme gelten nicht als normale Reaktion auf "unnormale", d.h.
         "Prozac": Probleme werden unsichtbar gemacht, Menschen verhalten sich 
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
+

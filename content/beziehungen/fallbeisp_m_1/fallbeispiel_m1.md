@@ -8,12 +8,20 @@ categories:
 - beziehungen
 slug: fallbeispiel_m1
 ---
+
+
+
+
 Frösche gab es genug  die
 geduldig warteten und
 nahmen sich was eben gerade mal vorbei kam,
+
 mal eine Fliege, m al die kleine Prinzessin M.
+
 Wirkt es für Sie außergewöhnlich?
+
 Gehen wir weiter.
+
 Des Abends trinkt sie gerne
 mal ein paar Gläser Prosecco, manchmal eine Flasche, manchmal 1,5-2, je nach
 Gemütsverfassung und Geschehnisse des Tages oder der Beziehung. Sie geht gerne weg, sie
@@ -31,15 +39,19 @@ immer eine Wasserflasche dabei.  Mal waren ihre Pupillen groß dann wieder
 sehr klein. Macht man ihren Kühlschrank
 auf findet man zwar nichts zu essen, ein Stück Käse und ein paar Schokoriegel,
 aber Wein oder Prosecco.
+
 Auffallend war das M. nie Geld
 hatte, obwohl sie sehr gut verdiente. Was zum Teufel machte sie damit?
+
 Ihre Tagebücher lesen sich
 wie Achterbahnen voller Schmerz zu sich selbst und ihrem Leben, voller
 Idealisierung für den der gerade dran war und  Suizidgedanken die immer
 wieder auftauchten, ja bis im Detail beschrieben wurden wenn sie sich nicht
 geliebt fühlte.
+
 Wird es langsam außergewöhnlich,
 oder meinen Sie das nur?
+
 In Beziehungen spricht sie
 sofort von der absoluten, unsterblichen Liebe, mystischen Verbindung und bietet sehr schnell
 Sexualität an, bzw. bevor die Beziehung beginnt. [(mit
@@ -62,8 +74,10 @@ ist sie kein Mensch sondern eine wiedergeboren Hexe, natürlich eine weiße
 Hexe. Sollte sie wieder einmal umziehen, was die letzten 12 Jahre 8 mal geschah,
 werden die Ecken der neuen Wohnung mit Sand beworfen und ausgeklatscht,
 natürlich einerhergehend mit dem dementsprechenden Hexentanz.
+
 Es wird ungewöhnlicher? Eigentlich
 könnte man sagen "schön durchgeknallt".
+
 Ja,
 Sie denken richtig. M. leidet unter der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) (extrem stark
 ausgebildet) einhergehend mit [Anorexie](https://borderliner.ch/ess/esst1.html) und Hypochondrie. Wobei es sich hier um
@@ -73,6 +87,7 @@ aufgesetzt die Anorexie und Hypochondrie. Die Anorexie und Hypochondrie ist hier
 ein Teil der Borderline-Störung. Auf den ersten Blick erkennt man nur die
 Anorexie, beim zweiten die Hypochondrie und erst bei sehr genauem Hinsehen die
 Borderline-Störung.
+
 Es gab Ansätze in der
 Psychiatrie den Begriff anorektische Borderline-Störung zu prägen. Man ist
 davon wieder abgekommen. Wie sollte man M. auch bezeichnen? Als anorektischer,
@@ -80,7 +95,10 @@ hypochondrischer Borderliner? Man spricht also in diesem Falle von einer
 Multikomorbidität, wobei ich persönlich im Falle der Borderlinestörung diesen
 Begriff ablehne und von  Kaskadenstörung spreche, deren Ursache die unterste Kaskade
 (die Borderline-Störung) ist.
+
   2002-2007
+
 (Haftungsausschluß: Die Personen und die
 Handlung sind frei erfunden und sämtliche Ähnlichkeiten mit lebenden
 oder toten Personen sind rein zufällig.)
+

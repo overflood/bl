@@ -8,19 +8,29 @@ categories:
 - selbsthilfe
 slug: links
 ---
+
+
+
 sehr nützliche Links, Adressen und Telefonnummern
+
 Notruf: 112 Vergiftungszentrale:
 19240               
 Opfernotruf:     01803 / 343434
+
 Telefonseelsorge kostenfrei und anonym
+
 evangelisch: 0800
 111 0 111 /  katholisch: 0800 111 0
 222
+
 Ein Team aus jugendlichen Peerberatern und therapeutischen
 Fachkräften berät kostenlos per Mail und Chat
+
 Kinder und Jugendliche können sich hier mit ihren Problemen
 anonym an fachlich kompetente Berater wenden
+
 Die Telefone sind werktags von 15 bis 19 Uhr besetzt
+
 Rechtlicher
 Hinweis zu unserem Angebot: Wir übernehmen keine Verantwortung für die Richtigkeit der auf der jeweiligen
 verzeichneten Webseite veröffentlichten Inhalte, für deren Rechtmäßigkeit
@@ -35,3 +45,4 @@ Gestaltung und die Inhalte der gelinkten Seiten habe. Deshalb distanziere ich
 mich hiermit ausdrücklich von allen Inhalten aller gelinkten Seiten auf meiner
 Homepage und mache mir ihre Inhalte nicht zu eigen. Diese Erklärung gilt für
 alle auf dieser Homepage angebrachten Links die zu Angeboten Dritter führen.
+

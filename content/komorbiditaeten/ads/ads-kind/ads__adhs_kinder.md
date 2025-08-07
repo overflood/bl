@@ -8,17 +8,27 @@ categories:
 - komorbiditaeten
 slug: ads__adhs_kinder
 ---
+
+
+
+
 ADS / ADHS Kinder
+
+
 Nicht 
 		ursächlich ist:
+
 1.) 
 		zuviel 
 		Fernsehen,
+
 2.) 
 		Lebensmittelallergien,
+
 3.) 
 		zuviel 
 		Zucker,
+
 4.) 
 		schlechtes 
 		Elternhaus, 
@@ -61,6 +71,7 @@ Nicht
 		noch 
 		nicht 
 		bekannt.
+
 5.) 
 		schlechte 
 		Schulen, 
@@ -81,6 +92,7 @@ Nicht
 		Auswirkungen 
 		der 
 		Störung
+
 Allgemein 
 		gültige 
 		Erziehungsregeln 
@@ -106,12 +118,14 @@ Allgemein
 		geprägt 
 		sein 
 		durch:
+
 - durch 
 		positive 
 		Zuwendung 
 		bei 
 		angemessenem 
 		Verhalten,
+
 - durch 
 		angemessene 
 		Aufforderungen 
@@ -121,6 +135,7 @@ Allgemein
 		einer 
 		eindeutigen 
 		Weise,
+
 - durch 
 		angemessene 
 		negative 
@@ -128,6 +143,7 @@ Allgemein
 		bei 
 		auffälligem 
 		Verhalten.
+
 Diagnostische 
 			Hinweise 
 			der 
@@ -135,13 +151,17 @@ Diagnostische
 			bis 
 			zum 
 			Vorschulalter
+
 Schwangerschaft
+
 - Risikofaktoren, 
 			Stress, 
 			ungewöhnlich 
 			starke 
 			Kindsbewegungen
+
 Säuglingsalter
+
 - Verstärkte 
 			Unruhe, 
 			erhöhte 
@@ -156,7 +176,9 @@ Säuglingsalter
 			unauffällig 
 			verlaufen 
 			(„pflegeleicht“)
+
 Kleinkindalter
+
 - Motorische 
 			Unruhe 
 			ab 
@@ -167,7 +189,9 @@ Kleinkindalter
 			läuft 
 			er 
 			weg“)
+
 Kindergartenalter
+
 - Spielstörungen 
 			(Impulsivität, 
 			mangelnde 
@@ -183,14 +207,18 @@ Kindergartenalter
 			Gruppenaktivitäten, 
 			aggressives 
 			Verhalten)
+
 Vorschulalter
+
 - Mangelnde 
 			soziale 
 			Kompetenzen, 
 			Vollbild 
 			der 
 			ADHS
+
 Elternbeurteilungsbogen
+
 ( die 
 		Diagnose 
 		sollte 
@@ -224,6 +252,7 @@ Elternbeurteilungsbogen
 		Störung 
 		auftreten 
 		können.
+
 (in 
 		Anlehnung 
 		an 
@@ -268,6 +297,7 @@ Elternbeurteilungsbogen
 		Gesamt- 
 		Score 
 		12)
+
 Beurteilen 
 		Sie 
 		bitte, 
@@ -284,23 +314,28 @@ Beurteilen
 		folgende 
 		Verhaltensweisen 
 		aufwies:
+
 Elternbeurteilungsbogen 
 			6-10 
 			Jahre | gar 
 			nicht=0 | etwas=1 | deutlich=2, | sehr 
 			viel=3
+
 1.  
 			unruhig 
 			– 
 			überaktiv |  |  |  |
+
 2. 
 			erregbar 
 			– 
 			impulsiv |  |  |  |
+
 3. 
 			störte 
 			andere 
 			Kinder |  |  |  |
+
 4. 
 			fing 
 			etwas 
@@ -313,12 +348,15 @@ Elternbeurteilungsbogen
 			Ende, 
 			kurze 
 			Aufmerksamkeitsspanne |  |  |  |
+
 5. 
 			zappelte 
 			dauernd |  |  |  |
+
 6. 
 			leicht 
 			abgelenkt |  |  |  |
+
 7. 
 			Wünsche 
 			mussten 
@@ -329,15 +367,18 @@ Elternbeurteilungsbogen
 			leicht 
 			zu 
 			frustrieren |  |  |  |
+
 8. 
 			weinte 
 			häufig |  |  |  |
+
 9. 
 			Stimmung 
 			wechselte 
 			rasch 
 			und 
 			extrem |  |  |  |
+
 10. 
 			neigte 
 			zu 
@@ -345,11 +386,15 @@ Elternbeurteilungsbogen
 			und 
 			unvorhersagbarem 
 			Verhalten |  |  |  |
+
 Gesamtscore 
 			(Summe) | __________ |  |  |
+
 Gesamtscore 
 			(Summe)
+
 __________
+
 Bei 
 		Kindern 
 		resultieren 
@@ -398,6 +443,7 @@ Bei
 		welche 
 		Folgen 
 		hat.
+
 Ein 
 		nicht 
 		unerheblicher 
@@ -441,7 +487,6 @@ Ein
       Hoffmann · M. Steffens · Psychosoziale Risiko- und Schutzfaktoren in 
       Kindheit und Jugend als Prädisposition für psychische Störungen im 
       Erwachsenenalter,Gegenwärtiger Stand der Forschung, Der Nervenarzt, 1997 · 
-      68:683–695  Springer-Verlag 1997 Niedriger 
       sozioökonomischer Status, Mütterliche 
       Berufstätigkeit im ersten Lebensjahr Schlechte Schulbildung 
       der Eltern Große Familien und sehr 
@@ -464,7 +509,6 @@ Ein
       Hoffmann · M. Steffens · Psychosoziale Risiko- und Schutzfaktoren in 
       Kindheit und Jugend als Prädisposition für psychische Störungen im 
       Erwachsenenalter,Gegenwärtiger Stand der Forschung, Der Nervenarzt, 1997 · 
-      68:683–695  Springer-Verlag 1997 Dauerhafte, gute 
       Beziehung zu mindestens einer primären Bezugsperson Großfamilie/kompensatorische Elternbeziehungen/ Entlastung der Mutter Gutes Ersatzmilieu nach 
       frühem Mutterverlust Überdurchschnittliche 
       Intelligenz Robustes, aktives und 
@@ -485,85 +529,117 @@ Ein
         Depressionen können die Folge sein. Bekannt ist dieses Phänomen unter anderem aus der
         Schule, wo immer wieder hochbegabte Schüler in fortgeschrittenen
         Klassenstufen einen erheblichen Leistungseinbruch zeigen, ohne dass
+
 Zusammenfassung 
       gesicherter biographischer Risikofaktoren für die Entstehung psychischer 
       und psychosomatischer Krankheiten Nach: U.T. Egle · S.O. 
       Hoffmann · M. Steffens · Psychosoziale Risiko- und Schutzfaktoren in 
       Kindheit und Jugend als Prädisposition für psychische Störungen im 
       Erwachsenenalter,Gegenwärtiger Stand der Forschung, Der Nervenarzt, 1997 · 
-      68:683–695  Springer-Verlag 1997
+
 Niedriger 
       sozioökonomischer Status,
+
 Mütterliche 
       Berufstätigkeit im ersten Lebensjahr
+
 Schlechte Schulbildung 
       der Eltern
+
 Große Familien und sehr 
       wenig Wohnraum
+
 Kontakte mit 
       Einrichtungen der „sozialen Kontrolle"
+
 Kriminalität oder 
       Dissozialität eines Elternteils
+
 Chronische 
       Disharmonie/Beziehungspathologie in der Familie
+
 Unsicheres 
       Bindungsverhalten nach 12./18. Lebensmonat
+
 Psychische Störungen 
       der Mutter oder des Vaters
+
 Schwere körperliche 
       Erkrankungen der Mutter/des Vaters
+
 Alleinerziehende Mutter   
       Autoritäres väterliches Verhalten
+
 Verlust der Mutter
+
 „Häufig wechselnde 
       frühe Beziehungen"
+
 Sexueller und/oder 
       aggressiver Missbrauch
+
 Schlechte Kontakte zu 
       Gleichaltrigen
+
 Altersabstand zum 
       nächsten Geschwister <18 Monate
+
 Uneheliche Geburt
+
 Hoher Gesamtrisikoscore
+
 Jungen vulnerabler
         (anfälliger) als 
       Mädchen
+
 Zusammenfassung 
       gesicherter biographischer Risikofaktoren für die Entstehung psychischer 
       und psychosomatischer Krankheiten Nach: U.T. Egle · S.O. 
       Hoffmann · M. Steffens · Psychosoziale Risiko- und Schutzfaktoren in 
       Kindheit und Jugend als Prädisposition für psychische Störungen im 
       Erwachsenenalter,Gegenwärtiger Stand der Forschung, Der Nervenarzt, 1997 · 
-      68:683–695  Springer-Verlag 1997
+
 Zusammenfassung 
       gesicherter biographischer Schutzfaktoren im Hinblick auf die Entstehung 
       psychischer und psychosomatischer Krankheiten U.T. Egle · S.O. 
       Hoffmann · M. Steffens · Psychosoziale Risiko- und Schutzfaktoren in 
       Kindheit und Jugend als Prädisposition für psychische Störungen im 
       Erwachsenenalter,Gegenwärtiger Stand der Forschung, Der Nervenarzt, 1997 · 
-      68:683–695  Springer-Verlag 1997
+
 Dauerhafte, gute 
       Beziehung zu mindestens einer primären Bezugsperson
+
 Großfamilie/kompensatorische Elternbeziehungen/ Entlastung der Mutter
+
 Gutes Ersatzmilieu nach 
       frühem Mutterverlust
+
 Überdurchschnittliche 
       Intelligenz
+
 Robustes, aktives und 
       kontaktfreudiges Temperament
+
 Sicheres 
       Bindungsverhalten
+
 Soziale Förderung (z.B. 
       Jugendgruppen, Schule, Kirche)
+
 Verlässlich 
       unterstützende Bezugsperson/ en im Erwachsenenalter
+
 Lebenszeitlich späteres 
       Eingehen „schwer auflösbarer Bindungen"
+
 Geringere 
       Risikogesamtbelastung
+
 Mädchen weniger 
       vulnerabel als Jungen
+
 #### ADS und Hochbegabung
+
 Intelligente und speziell hochbegabte Kinder sind nach
         einer Auffassung von AD(H)S oft schwerer betroffen als normal begabte
         AD(H)S-Kinder. Außerdem kommen nach Beobachtung von behandelnden Ärzten
@@ -573,7 +649,10 @@ Intelligente und speziell hochbegabte Kinder sind nach
         Zeitraum anpassen und integrieren, jedoch fallen die Auswirkung der Störung
         bei ihnen umso höher aus, wenn sie damit fehlschlagen. Lebenskrisen und
         Depressionen können die Folge sein.
+
 Bekannt ist dieses Phänomen unter anderem aus der
         Schule, wo immer wieder hochbegabte Schüler in fortgeschrittenen
         Klassenstufen einen erheblichen Leistungseinbruch zeigen, ohne dass
         sonstige äußere Gründe dies erklären könnten.
+
+

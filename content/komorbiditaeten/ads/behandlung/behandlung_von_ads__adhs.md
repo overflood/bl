@@ -8,16 +8,23 @@ categories:
 - komorbiditaeten
 slug: behandlung_von_ads__adhs
 ---
+
+
+
 Behandlung von ADS / ADHS
+
 Die Therapie 
       des AD(H)S im Erwachsenenalter besteht in einer medikamentösen Behandlung , die begleitet sein sollte von einer 
       eingehenden Aufklärung des Patienten über sein Krankheitsbild sowie von tiefenpsychologisch orientierten 
       psychotherapeutischen Maßnahmen. Dabei  sollte der Betroffene 
       wissen:
+
 • Es handelt sich um eine meist vererbte Erkrankung, die mit speziellen 
       Auffälligkeiten im Hirnstoffwechsel einhergeht.
+
 • Durch Medikamente können bei einer großen Zahl von Patienten die 
       Symptome befriedigend behandelt werden.
+
 Aus der klinischen Diagnose einer 
       Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) im Erwachsenenalter 
       leitet sich nicht automatisch eine Behandlungsnotwendigkeit ab.  Es 
@@ -31,6 +38,7 @@ Aus der klinischen Diagnose einer
       bezüglich der Eltern umfasst. Die meisten empirischen Studien,  
       belegen eine geringfügig bessere Wirksamkeit der multimodalen Behandlung 
       im Vergleich zu einer ausschließlichen Behandlung mit Stimulantien.
+
 Auch 2 neuere Studien des National Institute of Mental Health 
       Multimodal Treatment belegen, dass Medikamente deutlich besser wirksam 
       sind, als verhaltenstherapeutische Interventionen alleine. Allerdings ist 
@@ -41,6 +49,7 @@ Auch 2 neuere Studien des National Institute of Mental Health
       (monatliche) ärztliche Kontrollen sind aber auch bei ausschließlicher 
       medikamentöser Behandlung seltenen ärztlichen Kontrollen überlegen. 
       Methylphenidat bewirkt ein gering vermindertes Wachstum.
+
 Auch 
       eine 
       andere 
@@ -90,8 +99,10 @@ Auch
       Erziehungsverhalten 
       der 
       Eltern.
+
 • Eine alleinige
       psychotherapeutische Behandlung beseitigt die Symptome nicht.
+
 • Symptome wie affektive Störungen 
       (Stimmungsschwankungen, depressive Grundstimmung) stören v. a. den 
       Patienten selbst – sie sind häufig auch der Grund zur Vorstellung beim 
@@ -110,6 +121,7 @@ Auch
       beschrieben wurde, datieren erste Berichte über diese Therapie bei 
       Erwachsenen mit Symptomen des AD(H)S 10 Jahre später mit guter und rascher 
       Besserung unter langjähriger Therapie.
+
 Eine sinnvolle Ergänzung zur medikamentösen Behandlung kann auch Verhaltenstherapie
       sein, da bei 
       einer Störung wie dem AD(H)S  die verbesserte Selbstorganisation ein 
@@ -127,6 +139,7 @@ Eine sinnvolle Ergänzung zur medikamentösen Behandlung kann auch Verhaltensthe
       Störungen (begleitend vorhandene andere psychische Störungen), die eine 
       große Relevanz bei der ADHS im Erwachsenenalter haben, sollten bei der 
       Behandlungsplanung berücksichtigt werden.
+
 Unbehandelt sind langfristig bei AD(H)S 
       durchaus erhebliche psychiatrische 
       Folgeerkrankungen zu befürchten. Persönlichkeitsstörungen entwickeln sich 
@@ -134,6 +147,7 @@ Unbehandelt sind langfristig bei AD(H)S 
       Sozialverhaltens mit Delinquenz. Kinder mit HKS beginnen im Durchschnitt 
       früher mit einem Alkoholkonsum und haben besonders wenn 
       Persönlichkeitsstörungen dazu kommen ein höheres Suchtrisiko.
+
 An Medikamenten werden bei Kindern wie 
       Erwachsenen die Stimulantien Methylphenidat 
       20 -50 mg und Pemolin 30- 70 mg eingesetzt. Problem ist hier, dass diese 
@@ -1564,11 +1578,17 @@ An Medikamenten werden bei Kindern wie
         und Wachheit, unabhängig davon ob sie  ADD haben oder nicht. Die 
         Besserung ist nur bei den Erkrankten eindeutiger. Mythos: Die Medikamente sollten abgesetzt werden wenn eine Kind in die 
         Pubertät kommt. Fakt: Nein!  80 % von denen die als Kinder Medikamente brauchen, 
+
 Dosierungsbereich für Stimulantien bei Schulkindern
+
 Chemische Kurzbezeichnung | Medikament | HWZ(h) | mg/kg KG | Dosierung / Tag ca. | Anzahl der Einzelgaben
+
 Methylphenidat | Ritalin (10 mg Tabl.) | 2,5 | 0,5-1,0 | 10-40 mg | 1-3
+
 D-L-Amphetamin | Amphetaminsaft | 5-8 | 0,1-0,5 | 5-20 mg | 1-3
+
 Fenetyllin | Captagon (50 mg Tabl.) | 5-8 | 0,5-1,5 | 12,5-100 mg | 1-2
+
 Pemolin (nur wenn andere Medikamente nicht wirken und bei enger 
       Überwachung der Leberfunktion als Einzeltherapie). 
       Berichtet 
@@ -1593,8 +1613,11 @@ Pemolin (nur wenn andere Medikamente nicht wirken und bei enger
       auf 
       dem 
       Markt. | Tradon (20 mg Tabl.) | 8-12 | 0,5-2,0(-3,0) | 20-100 mg | 1
+
 Möglicherweise wirksam | Modafinil (Vigil) Donezepil (Aricept) |  |  |  |
+
 Donezepil (Aricept)
+
 Entgegen früheren Bedenken hinsichtlich einer etwaigen 
       Abhängigkeitsentwicklung deuten Untersuchungen sogar eher auf eine 
       Prävention einer späteren Missbrauchsproblematik hin. Auch Bedenken bei zusätzlich vorhandenen Tics, dahingehend, 
@@ -2979,12 +3002,15 @@ Entgegen früheren Bedenken hinsichtlich einer etwaigen
         und Wachheit, unabhängig davon ob sie  ADD haben oder nicht. Die 
         Besserung ist nur bei den Erkrankten eindeutiger. Mythos: Die Medikamente sollten abgesetzt werden wenn eine Kind in die 
         Pubertät kommt. Fakt: Nein!  80 % von denen die als Kinder Medikamente brauchen, 
+
 Entgegen früheren Bedenken hinsichtlich einer etwaigen 
       Abhängigkeitsentwicklung deuten Untersuchungen sogar eher auf eine 
       Prävention einer späteren Missbrauchsproblematik hin. Auch Bedenken bei zusätzlich vorhandenen Tics, dahingehend, 
       dass sich dies durch die Ritalinbehandlung verstärken, haben anscheinend 
       keine Grundlage.
+
 [](https://borderliner.ch)
+
 Nach 
       den 
       vorliegenden 
@@ -3012,6 +3038,7 @@ Nach
       Fehler 
       durch 
       Unaufmerksamkeit.
+
 Amphetamine und andere Stimulantien können Psychosen auslösen. 
       Besonders beachtet werden muss dies, wenn in der Familie psychotische 
       Erkrankungen bekannt sind. Ob sich hieraus immer eine chronisch 
@@ -3212,6 +3239,7 @@ Amphetamine und andere Stimulantien können Psychosen auslösen.
 		in die 
 		Zelle 
 		hemmt.
+
 Alternativen 
       ohne 
       theoretisches 
@@ -3220,6 +3248,7 @@ Alternativen
       Methylphenidat 
       und 
       Amphetamin
+
 Alternativ werden vor allem bei Erwachsenen trizyklische Antidepressiva 
       eingesetzt; unter relativ hochdosierter Behandlung mit den Noradrenalin 
       Wiederaufnahmehemmer Desipramin (im Mittel 183 mg/d) oder Nortriptylin (im 
@@ -3578,7 +3607,9 @@ Alternativ werden vor allem bei Erwachsenen trizyklische Antidepressiva
       müssen 
       beachtet 
       werden.
+
 Desipramin kann auch bei Kindern eine Alternative darstellen.
+
 Das Antidepressivum Desipramin zeigte in einer 
       doppelblinden placebokontrollierten Studie sich bei 41 Kindern und 
       Jugendlichen mit der Kombination einer chronischen Tic- Störung und einer 
@@ -3593,22 +3624,32 @@ Das Antidepressivum Desipramin zeigte in einer
       Antidepressivum ist, dass vor Beginn der Behandlung und in den ersten 
       Behandlungswochen ein EKG und ein EEG abgeleitet wird, um sehr seltene 
       individuelle Risikofaktoren auszuschließen.
+
 Bei medikamentöser Behandlung sind die Effekte in der Schule, bei der 
       Arbeit, zu Hause und während anderer Aktivitäten zu kontrollieren. Nur 
       Rezepte nach telephonischer Anforderung zu verschicken gilt hier als 
       Kunstfehler.
+
 Überprüfung des Verlaufs hinsichtlich:
+
 - der Symptome der Aufmerksamkeitsstörung, Impulsivität und 
         Hyperaktivität
+
 - schulischer bzw. beruflicher Leistungen und schulischem bzw. 
         beruflichem Verhalten
+
 - emotionaler Entwicklung
+
 - Beziehungen zu Gleichaltrigen
+
 - Freizeitaktivitäten
+
 - familiärer Interaktionen und familiärer Beziehungen
+
 - Bei medikamentöser Behandlung Kontrolle von Blutdruck, Pulsfrequenz, 
         Körpergröße und Körpergewicht, Tics, Appetit, Affekt und anderer 
         Nebeneffekte
+
 - Bei Stimulanzienbehandlung ist ein- oder mehrmals pro Jahr die 
         Durchführung kontrollierter Auslassversuche zur Überprüfung der 
         Notwendigkeit der Weiterführung der Behandlung zu bedenken. Dies sollte 
@@ -3649,6 +3690,7 @@ Bei medikamentöser Behandlung sind die Effekte in der Schule, bei der
         betroffenen Kinder auch nach 5 Jahren noch von der Medikation. 
         Allerdings bleiben auch die Nebenwirkungen (z.B. Appetitmangel und 
         minimal geringere Körpergröße) erhalten.
+
 Aufgrund der kurzen Halbwertszeit (Methylphenidat 3.3 h) ist eine 
         mehrfach tägliche Tabletteneinnahme (5 bis max. 30 mg Einzeldosis) 
         erforderlich. Methylphenidat und Dextroamphetamin liegen 
@@ -3674,6 +3716,7 @@ Aufgrund der kurzen Halbwertszeit (Methylphenidat 3.3 h) ist eine
         jedoch insbesondere aufgrund potentieller tödlicher Interaktionen mit 
         anderen Pharmaka (vor allem Methylphenidat) nicht für die Therapie im 
         Kindesalter zu empfehlen
+
 Die Pharmakotherapie sollte im Sinne eines multimodalen 
         Therapieprogramms mit psychosozialen und verhaltensmodifizierenden 
         Therapien kombiniert werden. Häufig sind 
@@ -3681,10 +3724,12 @@ Die Pharmakotherapie sollte im Sinne eines multimodalen
         betroffenen Kinder auch nach 5 Jahren noch von der Medikation. 
         Allerdings bleiben auch die Nebenwirkungen (z.B. Appetitmangel und 
         minimal geringere Körpergröße) erhalten.
+
 Stimulantien 
 		Umgang 
 		mit 
 		Nebenwirkungen
+
 Appetitminderung | Medikament 
 		zu den 
 		Mahlzeiten 
@@ -3701,6 +3746,7 @@ Appetitminderung | Medikament
 		Zwang 
 		beim 
 		Essen
+
 Amphetamine | Amphetamine 
 		haben 
 		ein 
@@ -3739,6 +3785,7 @@ Amphetamine | Amphetamine
 		sollte 
 		auch so 
 		bleiben.
+
 Bauchweh Schlaflosigkeit | kleine 
 		und 
 		dafür 
@@ -3767,6 +3814,7 @@ Bauchweh Schlaflosigkeit | kleine
 		mit 
 		schlafanstoßender 
 		Wirkung
+
 Traurigkeit | Dosis 
 		vermindert Übergang 
 		zu 
@@ -3789,6 +3837,7 @@ Traurigkeit | Dosis
 		ist 
 		unzureichend 
 		untersucht.
+
 Verstärkte 
 		Symptome bei 
 		abklingender 
@@ -3806,6 +3855,7 @@ Verstärkte
 		Medikamenten Noradrenalin 
 		-Wiederaufnahmehemmer 
 		hinzugeben
+
 Reizbarkeit | Überprüfung 
 		ob die 
 		Diagnose 
@@ -3843,6 +3893,7 @@ Reizbarkeit | Überprüfung
 		abklingender 
 		Wirkung 
 		handelt.
+
 Angst | Langsame 
 		Eindosierung Verringerung 
 		der 
@@ -3867,6 +3918,7 @@ Angst | Langsame
 		geben 
 		für 10 
 		Tage.
+
 Halluzinationen | Halluzinationen 
 		können 
 		eine 
@@ -3895,6 +3947,7 @@ Halluzinationen | Halluzinationen
 		ist 
 		unzureichend 
 		untersucht.
+
 Herzkreislaufnebenwirkungen | möglicherweise 
 		erhöhen 
 		alle 
@@ -4134,6 +4187,7 @@ Herzkreislaufnebenwirkungen | möglicherweise
 		und 
 		einem 
 		Missbrauch.
+
 Abhängigkeitsrisiko | 15%–25% 
 		der 
 		Erwachsenen 
@@ -4286,6 +4340,7 @@ Abhängigkeitsrisiko | 15%–25%
 		bisher 
 		schlecht 
 		untersucht.
+
 anhaltende 
 		und 
 		schmerzhafte 
@@ -4312,6 +4367,7 @@ anhaltende
 		Dosisreduktion 
 		oder 
 		ausschleichen.
+
 Schwangerschaft | Das 
 		Risiko 
 		für das 
@@ -4322,14 +4378,17 @@ Schwangerschaft | Das
 		ist 
 		unzureichend 
 		untersucht.
+
 Stimulantien 
 		Umgang 
 		mit 
 		Nebenwirkungen
+
 - Medikament 
 		zu den 
 		Mahlzeiten 
 		nehmen
+
 - hochkalorische 
 		Ernährung 
 		oder 
@@ -4340,10 +4399,12 @@ Stimulantien
 		nachlassen 
 		der 
 		Wirkung
+
 - kein 
 		Zwang 
 		beim 
 		Essen
+
 - Amphetamine 
 		haben 
 		ein 
@@ -4382,11 +4443,13 @@ Stimulantien
 		sollte 
 		auch so 
 		bleiben.
+
 - kleine 
 		und 
 		dafür 
 		häufiger 
 		Mahlzeiten
+
 - Schlafhygiene 
 		(Regelmäßigkeit, 
 		Bettgehzeiten, 
@@ -4394,20 +4457,24 @@ Stimulantien
 		Schlafzimmer 
 		etc.) 
 		überprüfen
+
 - Die 
 		letzte 
 		Dosis 
 		am 
 		Nachmittag 
 		überprüfen
+
 - Übergang 
 		zu 
 		retardierten 
 		Medikamenten
+
 - Einschlafrituale 
 		wie 
 		Vorlesen 
 		überprüfen.
+
 - Eventuell 
 		zusätzlich 
 		trizyklische 
@@ -4415,20 +4482,25 @@ Stimulantien
 		mit 
 		schlafanstoßender 
 		Wirkung
+
 - Dosis 
 		vermindert
+
 - Übergang 
 		zu 
 		retardierten 
 		Medikamenten
+
 - Übergang 
 		einem 
 		anderen 
 		Medikament
+
 - Antidepressiva 
 		statt 
 		Stimulantien (Noradrenalin 
 		Wiederaufnahmehemmer).
+
 - Das 
 		Langzeitrisiko 
 		der 
@@ -4441,12 +4513,15 @@ Stimulantien
 		ist 
 		unzureichend 
 		untersucht.
+
 - Übergang 
 		zu 
 		retardierten 
 		Medikamenten
+
 - Überlappende 
 		Dosierung
+
 - Kombination 
 		von 
 		sofort 
@@ -4454,9 +4529,11 @@ Stimulantien
 		mit 
 		retardierten 
 		Medikamenten
+
 - Noradrenalin 
 		-Wiederaufnahmehemmer 
 		hinzugeben
+
 - Überprüfung 
 		ob die 
 		Diagnose 
@@ -4477,6 +4554,7 @@ Stimulantien
 		es eine 
 		Medikamentennebenwirkung 
 		ist.
+
 - Eventuell 
 		die 
 		Dosierung 
@@ -4495,11 +4573,14 @@ Stimulantien
 		abklingender 
 		Wirkung 
 		handelt.
+
 - Langsame 
 		Eindosierung
+
 - Verringerung 
 		der 
 		Dosierung
+
 - Noradrenalin 
 		-Wiederaufnahmehemmer 
 		statt 
@@ -4508,6 +4589,7 @@ Stimulantien
 		einen 
 		solchen 
 		hinzugeben.
+
 - Ggf. 
 		auch 
 		bei 
@@ -4522,6 +4604,7 @@ Stimulantien
 		geben 
 		für 10 
 		Tage.
+
 - Halluzinationen 
 		können 
 		eine 
@@ -4550,6 +4633,7 @@ Stimulantien
 		ist 
 		unzureichend 
 		untersucht.
+
 - möglicherweise 
 		erhöhen 
 		alle 
@@ -4789,6 +4873,7 @@ Stimulantien
 		und 
 		einem 
 		Missbrauch.
+
 - 15%–25% 
 		der 
 		Erwachsenen 
@@ -4941,6 +5026,7 @@ Stimulantien
 		bisher 
 		schlecht 
 		untersucht.
+
 - Können 
 		als 
 		Entzugsyndrom 
@@ -4964,6 +5050,7 @@ Stimulantien
 		Dosisreduktion 
 		oder 
 		ausschleichen.
+
 - Das 
 		Risiko 
 		für das 
@@ -4974,6 +5061,7 @@ Stimulantien
 		ist 
 		unzureichend 
 		untersucht.
+
 Bezüglich 
       der medikamentösen Behandlung von Aggressivität bei Kindern und 
       Jugendlichen zeigt eine neue Studie gute Erfolge mit 
@@ -4989,8 +5077,10 @@ Bezüglich
       Diskussion um die Nebenwirkungen der Medikamente wird leider oft 
       vergessen, die Nebenwirkungen der Störung für das Kind oder den 
       Jugendlichen zu berücksichtigen.
+
 Nicht erfolgreich waren 
       Behandlungsversuche mit:
+
 Biofeedback , diversen Diäten, Allergiebehandlungen, Behandlungen die 
       auf die Behebung von Schäden im Innenohr abzielen,  chiropraktische 
       Behandlungen, Behandlungen von angeblichen Pilzinfektionen des Darmes, 
@@ -4998,19 +5088,25 @@ Biofeedback , diversen Diäten, Allergiebehandlungen, Behandlungen die
       dieser Methoden hören, dahinter steht nur ein Geschäft, keine reelle 
       Chance auf eine Besserung, manchmal dennoch erhebliche Nachteile nicht nur 
       für den Geldbeutel.
+
 - Phosphatarme Diät gilt als obsolet (wirkungslos und schädlich).
+
 - Die Wirksamkeit nondirektiver oder tiefenpsychologischer Therapie 
         zur alleinigen Behandlung der hyperkinetischen Kernsymptomatik ist nicht 
         belegt.
+
 - Die Wirksamkeit von Mototherapie, Krankengymnastik, Psychomotorik 
         und Ergotherapie zur alleinigen Behandlung der hyperkinetischen 
         Kernsymptomatik ist nicht belegt.
+
 - Die Wirksamkeit von Entspannungsverfahren (einschl. autogenem 
         Training) bei der Behandlung der hyperkinetischen Kernsymptomatik ist 
         nicht hinreichend belegt.
+
 Zitat zur Erblichkeit (Stand der derzeitigen 
       Forschung): aus Report 
       of the National Institute of Mental Health's Genetics Workgroup National Institute of Mental Health
+
 Familien Studien: ADHD zeigt eine familiäre Häufung. In 
       Familien von Betroffenen finden sich 17- 41% Betroffene, in 
       Kontrollfamilien sind es 0-8%. 
@@ -5018,26 +5114,31 @@ Familien Studien: ADHD zeigt eine familiäre Häufung. In
       die Väter und 4-38% für die Mütter angegeben.  Große 
       Fallkontrollstudien fanden in 16-25% der Verwandten ersten Grades die 
       Störung, in den Kontrollgruppen bei 3-5%.
+
 Zwillingsstudien: Zwillingsstudien fanden eine Konkordanz 
       von 51-79% bei eineiigen Zwillingen und von 33% bei zweieiigen Zwillinge. 
       Es wird davon ausgegangen, dass die Störung zu 64-88% der Auftretensrate 
       erblich ist. Bei gleichzeitig vorhandener Dyslexie scheint die Erblichkeit 
       sogar 98%  zu sein.
+
 Adoptionsstudien: Das Risiko (bei Fallkontrollstudien im 
       Vergleich mit nicht betroffenen Adoptivkindern) ist abhängig davon ob die 
       biologischen Eltern von der Störung betroffen waren.
+
 Art der Erblichkeit: Insgesamt handelt es sich um eine 
       Multifaktoriell bedingte Erkrankung, für die nicht ein einzelnes Gen 
       verantwortlich ist.  Es gibt aber Studien, die einen inkomplett penetranten autosomal 
       dominant Erbgang ausgehend von einem einzelnen majoren Genort sahen. Die 
       niedrigsten Schätzungen gehen dabei davon aus, dass die Penetranz des 
       Genes bei Jungen 46% und bei Mädchen 31% beträgt.
+
 Molekulargenetische Studien: Eine bevölkerungsbasierte Assoziationsstudie 
       fand Hinweise, dass ein Allel am Dopamin D 2 Rezeptorgen am 11q 
       verantwortlich ist, diese Ergebnis konnte aber von anderen Studien nicht 
       bestätigt werden. Andere Studien fanden Veränderungen am Dopamintransporter- 
       Locus am 5p oder ein Allele am Dopamin D 4 Rezeptor am11p. Auch 
       eine 3 Mb Deletion am Chromosom 22q wurde berichtet.
+
 Strukturelle Hirnstudien zeigten geringe Verminderungen der 
       gesamten Hirnsubstanz im Vergleich zu Kontrollen, und im besonderen eine 
       Hirnvolumenminderung im rechten Frontallappen und im Nukleus caudatus. 
@@ -5084,38 +5185,59 @@ Strukturelle Hirnstudien zeigten geringe Verminderungen der
       Aktivität 
       dieser 
       Netzwerke.
+
 ### Mythos bei der Behandlung der AD(H)S mit Stimulanzien
+
 - Mythos: Stimulantien führen später zu Drogenabhängigkeit.
+
 - Fakt: Stimulantien helfen Betroffenen sich zu konzentrieren und in Schule 
         und Beruf erfolgreich zu sein. Das Vermeiden der sonst drohenden 
         negativen Erfahrungen stärkt das Selbstwertgefühl und verhindert so 
         spätere psychische Erkrankungen und auch Drogenabhängigkeit.
+
 - Mythos: Dass jemand auf Stimulantien gut anspricht, bedeutet oder beweißt, 
         dass er AD(H)S hat.
+
 - Fakt: Stimulantien erhöhen bei vielen Menschen die Konzentrationsfähigkeit 
         und Wachheit, unabhängig davon ob sie  ADD haben oder nicht. Die 
         Besserung ist nur bei den Erkrankten eindeutiger.
+
 - Mythos: Die Medikamente sollten abgesetzt werden wenn eine Kind in die 
         Pubertät kommt.
+
 - Fakt: Nein!  80 % von denen die als Kinder Medikamente brauchen, 
         brauchen sie auch als Teenagers. 50% brauchen sie noch als Erwachsene.
+
 ##### Mythos:
+
 Stimulantien führen später zu Drogenabhängigkeit.
+
 ##### Fakt:
+
 Stimulantien helfen Betroffenen sich zu konzentrieren und in Schule 
         und Beruf erfolgreich zu sein. Das Vermeiden der sonst drohenden 
         negativen Erfahrungen stärkt das Selbstwertgefühl und verhindert so 
         spätere psychische Erkrankungen und auch Drogenabhängigkeit.
+
 ##### Mythos:
+
 Dass jemand auf Stimulantien gut anspricht, bedeutet oder beweißt, 
         dass er AD(H)S hat.
+
 ##### Fakt:
+
 Stimulantien erhöhen bei vielen Menschen die Konzentrationsfähigkeit 
         und Wachheit, unabhängig davon ob sie  ADD haben oder nicht. Die 
         Besserung ist nur bei den Erkrankten eindeutiger.
+
 ##### Mythos:
+
 Die Medikamente sollten abgesetzt werden wenn eine Kind in die 
         Pubertät kommt.
+
 ##### Fakt:
+
 Nein!  80 % von denen die als Kinder Medikamente brauchen, 
         brauchen sie auch als Teenagers. 50% brauchen sie noch als Erwachsene.
+
+

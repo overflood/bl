@@ -8,12 +8,19 @@ categories:
 - beziehungen
 slug: die_vergangenheit_bestimmt_die_g
 ---
+
+
+
+
 Prägung von Denken,
 Fühlen, Handeln
+
 oder
+
 Vergangenheit bestimmt immer
 Gegenwart
 und Zukunft
+
 Sie wissen nun bereits der
 Mensch besitzt zwei Seelen. Die Rationale und die Emotionale. (Verstand und
 Gefühl oder Kopf und Hintern). Da die Rationalität (das Großhirn / der
@@ -31,14 +38,17 @@ bestehen Unterschiede in sagen wir der "Befehlsgewalt" für
 rechtshirngelagerte und linkshirngelagerte Menschen.
 Borderlienepersönlichkeiten sind in der Regel Rechtshirn gelagert, Narzissten,
 Schizoide in der Regel Linkshirngelagert.
+
 Warum nun bestimmt die
 Vergangenheit ihre Zukunft, die des [Borderliners](https://borderliner.ch/bord/bord1/bord1.html) (Borderline-Störung), [Narzissten](https://borderliner.ch/narz/narz1.html) Schizoiden, des [Anorektikers](https://borderliner.ch/ess/ess2/anorexianervosa.html) , des [Bulimikers](https://borderliner.ch/ess/ess1/bulemianervosa.html) etc.?
+
 Versuchen wir es einfach zu
 erklären. Ich möchte nicht in biochemische, psychologische, neurologische
 fachspezifische Erklärungen verfallen die eh niemand versteht oder
 interessieren. Wir wissen ja bereits das die Entwicklung, sprich Erziehung,
 Umgang, Einstellung, in den ersten Jahren, bzw. auch schon im Mutterleib, die
 entscheidende Rolle spielt.
+
 Sagen Sie einem Anorektiker,
 oder Bulimikers nachdem Sie ihn eine Zeit nicht sahen " Oh, du hast aber
 ganz schön zugenommen" Was glauben Sie wird passieren? Richtig, der
@@ -50,6 +60,7 @@ emotionales Gedächtnis. Die rationale Seele reagiert hier gar nicht mehr. Das
 limbische System hat den anderen jetzt voll im Griff. Ihre einfach dahingesagte
 Information löst eine Flutwelle an Gefühlen und Emotionen aus die nicht mehr
 dem rationalen Willen unterliegen.
+
 Ich möchte versuchen diese
 erste Reaktion anhand eines anderen Beispiels zu erklären. Ich wähle hier, den
 besten Freund des Menschen, einen Hund. Wir abstrahieren folgende Situation.
@@ -65,6 +76,7 @@ Hund das 1. Jahr 7 Menschenjahre sind, sind dem zu Folge 6 Monate 3,5 Jahre und
 3 Monate 1,75 Jahre. Einen Welpen darf man (gesetzlich) erst nach 8 Wochen, also
 14 menschliche Monate, von der Mutter trennen. Eigentlich zu früh, (Experten
 sprechen von 12 Wochen). Dann sind wir wieder bei den 21 Monaten.
+
 Aber zurück. Der Hund wächst
 beim Mann auf, besitzt andere [neurale Schaltungen](https://borderliner.ch/gehirn/gehirn.htm#Synapse) und hat nicht den
 ausgebildeten Neokortex wie der Mensch. Insofern entwickelt sich sein limbisches
@@ -78,6 +90,7 @@ vor jeglicher Bedrohung (in seinem Sinne) zu schützen. Da er nicht logisch
 denken kann, die Dinge also nicht linear in Bezug bringen kann, reagiert er
 ausschließlich aus dem limbischen System, (Instinkt) heraus und das heißt für
 den ihn jegliche Annäherung, sofern er den anderen nicht kennt, ist eine Gefahr.
+
 Das Kind wird in die
 Adoleszenzphase des Hundes geboren, noch dazu muss er einen neuen Menschen
 akzeptieren, die Frau. Die Akzeptanz liegt für ihn in 3 emotionalen Aussagen.
@@ -86,13 +99,16 @@ a) "er liebt dich also gehörst du zu ihm" b) dem Kind gegenüber
 sehr" hinzu kommt das Rudelverhalten. Der Mensch, ist wie der Hund, ein Rudelwesen.
 Dies beinhaltet den Schutz und Beistand gegenüber dem Schwächsten, in diesem
 Falle das Kind.
+
 Das Kind spielt mit dem Hund und wie das bei Kindern nun einmal
 ist tut es dabei dem Hund auch weh, doch der Hund macht nichts. Im Gegenteil
 für ihn ist das Kind, zumindest wenn der Mann nicht zu Hause ist,
 schutzbefohlen. Der Mann ist den Tag über auf der Arbeit und für den Hund ist
 der Mann der Rudelführer, die Frau ein Teil des Rudels und das Kind der
 Nachwuchs, den es zu sichern gilt.
+
 Die Situation:
+
 Die Mutter ist vollkommen
 überlastet, überreizt, das Kind schreit, die Mutter schreit und sie schlägt
 das Kind mit der flachen Hand ins Gesicht, oder auf das Hinterteil. Das Kind verstummt
@@ -112,7 +128,9 @@ Schlag nicht gegen ihn 2.) er kennt den Zusammenhang Geruch
 - Bewegung - Schlag -Gefahr-Schmerz nicht. 3). ist die Mutter in Platz 2 der
 Rangordnung. Der Vorfall wird vergessen und es wird nicht darüber
 gesprochen mit dem Mann.
+
 Ein anderer Tag:
+
 Die Mutter ist wieder
 überlastet und gereizt. Der Hund spielt mit dem Kind und umgekehrt. Beide sind
 laut. Nach mehrmaligen Ermahnen ist immer noch keine Ruhe und die Mutter holt
@@ -131,7 +149,9 @@ verarbeitet er sehr wohl, rational natürlich nicht. Aber er konnte das Schreien
 des Kindes und die Handlung der Mutter und dann das Verstummen oder lauter
 schreien, jetzt in einen emotionalen Zusammenhang bringen. Der Vorfall wird
 wieder vergessen und es wird wieder nicht darüber gesprochen.
+
 Wieder ein anderer Tag:
+
 Das Kind macht irgend etwas,
 die Mutter holt aus, sie hat noch nicht ausgeholt da riecht der Hund es schon,
 und will .... In Bruchteilen von Sekunden erfasst der Hund emotional was los
@@ -149,19 +169,26 @@ den Hund wiederum heißt das "mehr Schutz." sicher ist das er sich
 nach diesem Vorfall neben oder zumindest in die Nähe des Kindes legt und auf
 jede noch so kleine Aktion / Reaktion der Mutter achtet, um weitern Schaden von
 dem Kinde abzuhalten.
+
 Beim Hund hat ein sogenannter [synaptischer
 Lernvorgang](https://borderliner.ch/gehirn/gehirn.htm#Synapse) (Anstoß gewisser neuronaler Netzwerke) stattgefunden.
+
 Der Vater kommt nach Hause und
 die Mutter schildert den Vorfall. Natürlich aus ihrer Sicht (der Hund die
 Bestie). Je nach Mensch ist die Reaktion des Mannes sicherlich unterschiedlich.
 Für den Hund war sein Handeln absolut legitim und hätte der Mann es gesehen
 und die Vorfälle davor, dann würde er jetzt sicher ganz anders
 reagieren.
+
 Auf jeden Fall kommt kein
 Mensch auf die Idee den Hund jetzt zum Psychiater zu schleppen um herauszufinden
 warum das passierte. In vielen Fällen endet das für den Hund im Tierheim. Und
 dies nur aus einem Grund "er verteidigte was er liebte, was ihm sogar
 Befehl war."
+
 Übertragen Sie das auf die
 zwischenmenschliche Borderline-Beziehung.
+
 2002-2007
+
+

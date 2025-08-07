@@ -8,6 +8,9 @@ categories:
 - komorbiditaeten
 slug: angst_test
 ---
+
+
+
 | Leide ich unter Angst? (1) Der folgende Test ("SAS = Self-Rating-Anxiety Scale") ersetzt keine Arztdiagnose! Er dient wie der Sheehan-Test zur Orientierung und kann Ihnen die Entscheidung erleichtern, sich in fachliche Betreuung zu begeben. Nehmen Sie zu allen Fragen Stellung, notieren Sie auf einem Blatt die angekreuzte Zahl und rechnen Sie am Schluss alle Zahlen zusammen. Kreuzen Sie bei den folgenden Aussagen immer die Antwort an, die Ihrem Befinden während der letzten Woche am besten entspricht oder entsprochen hat. 1 = nie oder selten 2 = manchmal 3 = oft 4 = meistens oder immer 1 2 3 4 1. Ich fühle mich nervöser und ängstlicher als sonst. 1 2 3 4 2. Ich fürchte mich ohne jeden Grund. 1 2 3 4 3. Ich rege mich leicht auf und bekomme das Gefühl, in Panik zu geraten 1 2 3 4 4. Ich habe das Gefühl zusammenzubrechen. 1 2 3 4 5. Ich glaube, dass alles in Ordnung ist und nichts Schlimmes geschehen wird. 4 3 2 1 6. Meine Arme und Beine schlottern und zittern. 1 2 3 4 7. Ich leide an Kopf-, Nacken- und Rückenschmerzen 1 2 3 4 8. Ich fühle mich schwach und werde schnell müde. 1 2 3 4 9. Ich fühle mich ganz ruhig und kann gut still sitzen. 4 3 2 1 10. Ich kann spüren, wie mein Herz ganz schnell pocht. 1 2 3 4 11. Ich leide unter Schwindelanfällen. 1 2 3 4 12. Ich habe Ohnmachtsanfälle und das Gefühl, ohnmächtig zu werden. 1 2 3 4 13. Ich kann frei ein- und ausatmen 4 3 2 1 14. Ich bekomme so ein Gefühl von Taubheit und Kribbeln in den Fingern. 1 2 3 4 15. Ich leide unter Magenschmerzen oder Verdauungsstörungen. 1 2 3 4 16. Ich muss häufiger als sonst Wasserlassen. 1 2 3 4 17. Meine Hände sind gewöhnlich trocken und warm. 4 3 2 1 18. Ich fühle, wie mein Gesicht heiÃY wird und ich erröte. 1 2 3 4 19. Ich schlafe leicht ein und finde erholsamen Schlaf. 4 3 2 1 20. konnte ich mich zu nichts aufraffen. 1 2 3 4 SUMME Auswertung: Die Entwickler dieses Fragebogens gehen davon aus, dass ab einer Punktzahl von 36 eine
                             behandlungsbedürftige Angsterkrankung vorliegt. Sollten Sie so viele oder sogar noch mehr Punkte erzielen, empfehle wir Ihnen dringend, sich fachärztliche oder psychotherapeutische Hilfe zu
                             holen . Drucken Sie dieses Formular aus und nehmen Sie dieses
@@ -15,172 +18,338 @@ slug: angst_test
                             behandlungsbedürftige Angsterkrankung vorliegt. Sollten Sie so viele oder sogar noch mehr Punkte erzielen, empfehle wir Ihnen dringend, sich fachärztliche oder psychotherapeutische Hilfe zu
                             holen . Drucken Sie dieses Formular aus und nehmen Sie dieses
                             ausgeüllt zu Ihrem Arzt oder Psychotherapeuten mit. Erläuterung: Die SAS ist die deutsche Version eines weltweit eingesetzten Fragebogens. Sie wurde von W. W. K. Zung entwickelt.
+
 Leide ich unter Angst? (1)
+
 Der folgende Test ("SAS = Self-Rating-Anxiety Scale") ersetzt keine Arztdiagnose! Er dient wie der Sheehan-Test zur Orientierung und kann Ihnen die Entscheidung erleichtern, sich in fachliche Betreuung zu begeben. Nehmen Sie zu allen Fragen Stellung, notieren Sie auf einem Blatt die angekreuzte Zahl und rechnen Sie am Schluss alle Zahlen zusammen. Kreuzen Sie bei den folgenden Aussagen immer die Antwort an, die Ihrem Befinden während der letzten Woche am besten entspricht oder entsprochen hat.
+
 1 = nie oder selten 2 = manchmal 3 = oft 4 = meistens oder immer | 1 | 2 | 3 | 4
+
+
 1. Ich fühle mich nervöser und ängstlicher als sonst. | 1 | 2 | 3 | 4
+
 2. Ich fürchte mich ohne jeden Grund. | 1 | 2 | 3 | 4
+
 3. Ich rege mich leicht auf und bekomme das Gefühl, in Panik zu geraten | 1 | 2 | 3 | 4
+
 4. Ich habe das Gefühl zusammenzubrechen. | 1 | 2 | 3 | 4
+
 5. Ich glaube, dass alles in Ordnung ist und nichts Schlimmes geschehen wird. | 4 | 3 | 2 | 1
+
 6. Meine Arme und Beine schlottern und zittern. | 1 | 2 | 3 | 4
+
 7. Ich leide an Kopf-, Nacken- und Rückenschmerzen | 1 | 2 | 3 | 4
+
 8. Ich fühle mich schwach und werde schnell müde. | 1 | 2 | 3 | 4
+
 9. Ich fühle mich ganz ruhig und kann gut still sitzen. | 4 | 3 | 2 | 1
+
 10. Ich kann spüren, wie mein Herz ganz schnell pocht. | 1 | 2 | 3 | 4
+
 11. Ich leide unter Schwindelanfällen. | 1 | 2 | 3 | 4
+
 12. Ich habe Ohnmachtsanfälle und das Gefühl, ohnmächtig zu werden. | 1 | 2 | 3 | 4
+
 13. Ich kann frei ein- und ausatmen | 4 | 3 | 2 | 1
+
 14. Ich bekomme so ein Gefühl von Taubheit und Kribbeln in den Fingern. | 1 | 2 | 3 | 4
+
 15. Ich leide unter Magenschmerzen oder Verdauungsstörungen. | 1 | 2 | 3 | 4
+
 16. Ich muss häufiger als sonst Wasserlassen. | 1 | 2 | 3 | 4
+
 17. Meine Hände sind gewöhnlich trocken und warm. | 4 | 3 | 2 | 1
+
 18. Ich fühle, wie mein Gesicht heiÃY wird und ich erröte. | 1 | 2 | 3 | 4
+
 19. Ich schlafe leicht ein und finde erholsamen Schlaf. | 4 | 3 | 2 | 1
+
 20. konnte ich mich zu nichts aufraffen. | 1 | 2 | 3 | 4
+
 SUMME |
+
 Auswertung: Die Entwickler dieses Fragebogens gehen davon aus, dass ab einer Punktzahl von 36 eine
                             behandlungsbedürftige Angsterkrankung vorliegt. Sollten Sie so viele oder sogar noch mehr Punkte erzielen, empfehle wir Ihnen dringend, sich fachärztliche oder psychotherapeutische Hilfe zu
                             holen . Drucken Sie dieses Formular aus und nehmen Sie dieses
                             ausgeüllt zu Ihrem Arzt oder Psychotherapeuten mit. Erläuterung: Die SAS ist die deutsche Version eines weltweit eingesetzten Fragebogens. Sie wurde von W. W. K. Zung entwickelt.
+
+
 Test Angst
+
 Leide ich unter Angst? (1)
+
 Der folgende Test ("SAS = Self-Rating-Anxiety Scale") ersetzt keine Arztdiagnose! Er dient wie der Sheehan-Test zur Orientierung und kann Ihnen die Entscheidung erleichtern, sich in fachliche Betreuung zu begeben. Nehmen Sie zu allen Fragen Stellung, notieren Sie auf einem Blatt die angekreuzte Zahl und rechnen Sie am Schluss alle Zahlen zusammen. Kreuzen Sie bei den folgenden Aussagen immer die Antwort an, die Ihrem Befinden während der letzten Woche am besten entspricht oder entsprochen hat.
+
 1 = nie oder selten 2 = manchmal 3 = oft 4 = meistens oder immer | 1 | 2 | 3 | 4
+
+
 1. Ich fühle mich nervöser und ängstlicher als sonst. | 1 | 2 | 3 | 4
+
 2. Ich fürchte mich ohne jeden Grund. | 1 | 2 | 3 | 4
+
 3. Ich rege mich leicht auf und bekomme das Gefühl, in Panik zu geraten | 1 | 2 | 3 | 4
+
 4. Ich habe das Gefühl zusammenzubrechen. | 1 | 2 | 3 | 4
+
 5. Ich glaube, dass alles in Ordnung ist und nichts Schlimmes geschehen wird. | 4 | 3 | 2 | 1
+
 6. Meine Arme und Beine schlottern und zittern. | 1 | 2 | 3 | 4
+
 7. Ich leide an Kopf-, Nacken- und Rückenschmerzen | 1 | 2 | 3 | 4
+
 8. Ich fühle mich schwach und werde schnell müde. | 1 | 2 | 3 | 4
+
 9. Ich fühle mich ganz ruhig und kann gut still sitzen. | 4 | 3 | 2 | 1
+
 10. Ich kann spüren, wie mein Herz ganz schnell pocht. | 1 | 2 | 3 | 4
+
 11. Ich leide unter Schwindelanfällen. | 1 | 2 | 3 | 4
+
 12. Ich habe Ohnmachtsanfälle und das Gefühl, ohnmächtig zu werden. | 1 | 2 | 3 | 4
+
 13. Ich kann frei ein- und ausatmen | 4 | 3 | 2 | 1
+
 14. Ich bekomme so ein Gefühl von Taubheit und Kribbeln in den Fingern. | 1 | 2 | 3 | 4
+
 15. Ich leide unter Magenschmerzen oder Verdauungsstörungen. | 1 | 2 | 3 | 4
+
 16. Ich muss häufiger als sonst Wasserlassen. | 1 | 2 | 3 | 4
+
 17. Meine Hände sind gewöhnlich trocken und warm. | 4 | 3 | 2 | 1
+
 18. Ich fühle, wie mein Gesicht heiÃY wird und ich erröte. | 1 | 2 | 3 | 4
+
 19. Ich schlafe leicht ein und finde erholsamen Schlaf. | 4 | 3 | 2 | 1
+
 20. konnte ich mich zu nichts aufraffen. | 1 | 2 | 3 | 4
+
 SUMME |
+
 Auswertung: Die Entwickler dieses Fragebogens gehen davon aus, dass ab einer Punktzahl von 36 eine
                             behandlungsbedürftige Angsterkrankung vorliegt. Sollten Sie so viele oder sogar noch mehr Punkte erzielen, empfehle wir Ihnen dringend, sich fachärztliche oder psychotherapeutische Hilfe zu
                             holen . Drucken Sie dieses Formular aus und nehmen Sie dieses
                             ausgeüllt zu Ihrem Arzt oder Psychotherapeuten mit. Erläuterung: Die SAS ist die deutsche Version eines weltweit eingesetzten Fragebogens. Sie wurde von W. W. K. Zung entwickelt.
+
 Leide ich unter Angst? (1)
+
 Der folgende Test ("SAS = Self-Rating-Anxiety Scale") ersetzt keine Arztdiagnose! Er dient wie der Sheehan-Test zur Orientierung und kann Ihnen die Entscheidung erleichtern, sich in fachliche Betreuung zu begeben. Nehmen Sie zu allen Fragen Stellung, notieren Sie auf einem Blatt die angekreuzte Zahl und rechnen Sie am Schluss alle Zahlen zusammen. Kreuzen Sie bei den folgenden Aussagen immer die Antwort an, die Ihrem Befinden während der letzten Woche am besten entspricht oder entsprochen hat.
+
 1 = nie oder selten 2 = manchmal 3 = oft 4 = meistens oder immer
+
 1
+
 2
+
 3
+
 4
+
 1. Ich fühle mich nervöser und ängstlicher als sonst.
+
 1
+
 2
+
 3
+
 4
+
 2. Ich fürchte mich ohne jeden Grund.
+
 1
+
 2
+
 3
+
 4
+
 3. Ich rege mich leicht auf und bekomme das Gefühl, in Panik zu geraten
+
 1
+
 2
+
 3
+
 4
+
 4. Ich habe das Gefühl zusammenzubrechen.
+
 1
+
 2
+
 3
+
 4
+
 5. Ich glaube, dass alles in Ordnung ist und nichts Schlimmes geschehen wird.
+
 4
+
 3
+
 2
+
 1
+
 6. Meine Arme und Beine schlottern und zittern.
+
 1
+
 2
+
 3
+
 4
+
 7. Ich leide an Kopf-, Nacken- und Rückenschmerzen
+
 1
+
 2
+
 3
+
 4
+
 8. Ich fühle mich schwach und werde schnell müde.
+
 1
+
 2
+
 3
+
 4
+
 9. Ich fühle mich ganz ruhig und kann gut still sitzen.
+
 4
+
 3
+
 2
+
 1
+
 10. Ich kann spüren, wie mein Herz ganz schnell pocht.
+
 1
+
 2
+
 3
+
 4
+
 11. Ich leide unter Schwindelanfällen.
+
 1
+
 2
+
 3
+
 4
+
 12. Ich habe Ohnmachtsanfälle und das Gefühl, ohnmächtig zu werden.
+
 1
+
 2
+
 3
+
 4
+
 13. Ich kann frei ein- und ausatmen
+
 4
+
 3
+
 2
+
 1
+
 14. Ich bekomme so ein Gefühl von Taubheit und Kribbeln in den Fingern.
+
 1
+
 2
+
 3
+
 4
+
 15. Ich leide unter Magenschmerzen oder Verdauungsstörungen.
+
 1
+
 2
+
 3
+
 4
+
 16. Ich muss häufiger als sonst Wasserlassen.
+
 1
+
 2
+
 3
+
 4
+
 17. Meine Hände sind gewöhnlich trocken und warm.
+
 4
+
 3
+
 2
+
 1
+
 18. Ich fühle, wie mein Gesicht heiÃY wird und ich erröte.
+
 1
+
 2
+
 3
+
 4
+
 19. Ich schlafe leicht ein und finde erholsamen Schlaf.
+
 4
+
 3
+
 2
+
 1
+
 20. konnte ich mich zu nichts aufraffen.
+
 1
+
 2
+
 3
+
 4
+
 SUMME
+
 Auswertung: Die Entwickler dieses Fragebogens gehen davon aus, dass ab einer Punktzahl von 36 eine
                             behandlungsbedürftige Angsterkrankung vorliegt. Sollten Sie so viele oder sogar noch mehr Punkte erzielen, empfehle wir Ihnen dringend, sich fachärztliche oder psychotherapeutische Hilfe zu
                             holen . Drucken Sie dieses Formular aus und nehmen Sie dieses
                             ausgeüllt zu Ihrem Arzt oder Psychotherapeuten mit. Erläuterung: Die SAS ist die deutsche Version eines weltweit eingesetzten Fragebogens. Sie wurde von W. W. K. Zung entwickelt.
+
+
+

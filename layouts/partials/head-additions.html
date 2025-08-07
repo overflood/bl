@@ -1,0 +1,59 @@
+<!-- Custom head additions: Google Fonts and sidebar styling -->
+<!-- Preconnect to improve font loading performance -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<!-- Include the Open Sans font in normal and bold weights -->
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  /* Use Open Sans throughout the site */
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  /* Sidebar container styling */
+  .sidebar {
+    background-color: #f7f7f7;
+    padding: 1rem;
+    margin-right: 1rem;
+    border: 1px solid #e0e0e0;
+    min-width: 200px;
+  }
+
+  /* Remove default list styling from navigation lists */
+  .sidebar nav ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  /* Separate each top-level navigation group visually */
+  .sidebar nav li {
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.5rem;
+  }
+
+  /* Do not draw a border after the last item */
+  .sidebar nav li:last-child {
+    border-bottom: none;
+  }
+
+  /* Style links in the sidebar */
+  .sidebar nav a {
+    color: #004080;
+    text-decoration: none;
+  }
+
+  .sidebar nav a:hover {
+    text-decoration: underline;
+  }
+
+  /* Make top-level navigation items bold */
+  .sidebar nav li > a {
+    font-weight: 700;
+  }
+
+  /* Sub-level navigation items use normal weight */
+  .sidebar nav ul ul li > a {
+    font-weight: 400;
+  }
+</style>

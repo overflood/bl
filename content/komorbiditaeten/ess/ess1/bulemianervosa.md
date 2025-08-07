@@ -8,6 +8,8 @@ categories:
 - komorbiditaeten
 slug: bulemianervosa
 ---
+
+
 Ess-Störung (Essstörungen) werden zwei wichtige und
 eindeutige Syndrome beschrieben: Anorexia nervosa und Bulimia nervosa
 (Bulimie). Weniger spezifische bulimische Störungen wie übermäßiges Essen
@@ -56,17 +58,24 @@ oder mehreren der folgenden Verhaltensweisen entgegenzusteuern: selbstinduzierte
     Schilddrüsenpräparaten oder Diuretika. Wenn die Bulimie bei Diabetikern
     auftritt, kann es zu einer Vernachlässigung der Insulinbehandlung kommen. D. Selbstwahrnehmung als "zu fett", mit einer sich aufdrängenden
 2002-2007
+
+
 Bulimie
+
 Unter dem Oberbegriff
 Ess-Störung (Essstörungen) werden zwei wichtige und
 eindeutige Syndrome beschrieben: Anorexia nervosa und Bulimia nervosa
 (Bulimie). Weniger spezifische bulimische Störungen wie übermäßiges Essen
 bei anderen psychischen Störungen werden ebenfalls erwähnt. Kurz wird auch auf
 Erbrechen bei sonstigen psychischen Störungen eingegangen.
+
 hier im ICD-10 die mit
 der Nr. F50.2
+
 # Bulimia nervosa
+
 Leitlinien
+
 Die Bulimia nervosa (Bulimie) ist durch wiederholte Anfälle von
 Heisshunger (Essattacken) und eine übertriebene Beschäftigung mit der Kontrolle des Körpergewichts
 charakterisiert. Dies veranlaßt die Patientin, mit extremen Maßnahmen den
@@ -80,17 +89,21 @@ schädliches Verhaltensmuster von Heißhunger (Eßattacken) und Erbrechen ein.
 Wiederholtes Erbrechen kann zu Elektrolytstörungen und körperlichen
 Komplikationen führen (Tetanie, epileptische Anfälle, kardiale Arrhythmien,
 Muskelschwäche) sowie zu weiterem starken Gewichtsverlust.
+
 Diagnostische Leitlinien
+
 1. Eine andauernde Beschäftigung
     mit Essen, eine unwiderstehliche Gier nach Nahrungsmitteln; die Patientin
     erliegt Eßattacken, bei denen große Mengen Nahrung in sehr kurzer Zeit
     konsumiert werden.
+
 2. Die Patientin versucht, dem
     dickmachenden Effekt der Nahrung durch verschiedene Verhaltensweisen
     entgegenzusteuern: selbstinduziertes Erbrechen, Missbrauch von Abführmitteln,
     zeitweilige Hungerperioden, Gebrauch von Appetitzüglern, Schilddrüsenpräparaten
     oder Diuretika. Wenn die Bulimie bei Diabetikerinnen auftritt, kann es zu
     einer Vernachlässigung der Insulinbehandlung kommen.
+
 3. Eine der wesentlichen
     psychopathologischen Auffälligkeiten besteht in der krankhaften Furcht
     davor, dick zu werden; die Patientin setzt sich eine scharf definierte
@@ -100,36 +113,56 @@ Diagnostische Leitlinien
     eine Episode einer Anorexia nervosa nachweisen. Diese frühere Episode kann
     voll ausgeprägt gewesen sein, oder war eine verdeckte Form mit mäßigem
     Gewichtsverlust oder einer vorübergehenden Amenorrhoe.
+
 Differentialdiagnose:
+
 Eine Bulimia nervosa muß differenziert werden von
+
 1. Störungen des oberen
     Gastrointestinaltraktes mit wiederholtem Erbrechen (charakteristische
     psychopathologische Auffälligkeiten fehlen);
+
 2. einer eher allgemeinen Störung
     der Persönlichkeit. Die Eßstörung kann etwa mit Alkoholabhängigkeit und
     kleineren Vergehen (z.B. Ladendiebstahl) verbunden sein.
+
 3. [Depressive
     Störung](https://borderliner.ch/depression/depri.html#Depression) (bulemische Patientinnen erleben häufig depressive Symptome).
+
 Dazugehörige Begriffe:
+
 nicht näher bezeichnete Bulimie
+
 Hyperorexia nervosa
+
 Kriterien
+
 A. Häufige Episoden von
 Freßattacken (in einem Zeitraum von drei Monaten
 mindestens zweimal pro Woche) bei denen große Mengen an Nahrung in sehr kurzer
 Zeit konsumiert werden.
+
 B. Andauernde Beschäftigung mit dem Essen, eine unwiderstehliche Gier oder
 Zwang zu essen.
+
 C. Die Patienten versuchen, der Gewichtszunahme durch die Nahrung mit einer
 oder mehreren der folgenden Verhaltensweisen entgegenzusteuern:
+
 1. selbstinduziertes Erbrechen,
+
 2. Mißbrauch
     von Abführmitteln,
+
 3. zeitweilige Hungerperioden,
+
 4. Gebrauch von Appetitzüglern,
     Schilddrüsenpräparaten oder Diuretika. Wenn die Bulimie bei Diabetikern
     auftritt, kann es zu einer Vernachlässigung der Insulinbehandlung kommen.
+
 D. Selbstwahrnehmung als "zu fett", mit einer sich aufdrängenden
 Furcht, zu dick zu werden.
+
 2002-2007
+
+
 [ Bulimie ]

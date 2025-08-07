@@ -5,12 +5,12 @@
 {{ define "main" }}
   {{ $page := . }}
   <div class="flex-l mw9 center ph3 flex-wrap">
-    <!-- Sidebar: visible on larger screens -->
-    <aside class="w-20-l dn dib-l pr4 order-1">
+    <!-- Sidebar on the left with custom styling -->
+    <aside class="sidebar w-100 w-25-l pl4 pr4">
       {{ partial "sidebar.html" . }}
     </aside>
-    <!-- Main article content -->
-    <article class="w-100 w-80-l">
+    <!-- Main article content fills remaining width -->
+    <article class="w-100 w-75-l">
       <header class="mt4">
         <h1 class="f2 athelas mt0 mb3">{{ .Title }}</h1>
         {{ if not .Date.IsZero }}

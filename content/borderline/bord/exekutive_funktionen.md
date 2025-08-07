@@ -8,13 +8,21 @@ categories:
 - borderline
 slug: exekutive_funktionen
 ---
+
+
+
+
 Die exekutiven Funktionen
+
 in
 der
+
 Borderline-Störung und im ADHS
+
 Exekutive
 Funktionen beschreiben als Zusammenfassung zu erst einmal Planen,
       Problemlösen, Handlungskontrolle, Steuerung von Motivation und Emotionen.
+
 Exekutive Funktionen umfassen
       die bewusstseinsnahe Steuerung und Zielüberwachung komplexer, nicht
       automatisierter Verhaltensweisen, bei denen es gilt, mehrere kognitive
@@ -22,6 +30,7 @@ Exekutive Funktionen umfassen
       Aufmerksamkeitsfokussierung, Arbeitsgedächtnis, Inhibition
 (unterbinden/Hemmung),
       Aufgabenmanagement, Planen, Monitoring und Kodierung von Informationen.
+
 Executive Funktionen
 fassen ein weites Spektrum von mentalen
       Prozessen zusammen, die bei der Initiation und der Aufrechterhaltung der
@@ -37,6 +46,7 @@ fassen ein weites Spektrum von mentalen
       Hirnrinde koordiniert werden, bei Störungen sprach man deshalb auch häufig
       von einem  "Frontalhirnsyndrom",  oder "dysexekutiven
       Syndrom".
+
 Die Frontallappen
       (Stirnhirn) nehmen in der Entwicklungsgeschichte zum Menschen eine immer
       wichtigere Funktion ein und sind deshalb im Verhältnis zu anderen
@@ -57,7 +67,9 @@ Verletzung,Trennung anatomischer Strukturen) angesehen und
       vor und können in sehr unterschiedlichen Kombinationen auftreten. Dadurch
       ist der Begriff "Frontalhirnsyndrom" nur bedingt hilfreich. Bei Störungen
       sind vor allem folgende Funktionen beeinträchtigt:
+
 [](https://borderliner.ch)
+
 1.Arbeitsgedächtnisses
       mit der Fähigkeit geistige oder vorgestellte Objekte im Kopf zu behalten
       und dort diese zu verändern. Damit auch die Fähigkeit mentale Objekte
@@ -69,6 +81,7 @@ Verletzung,Trennung anatomischer Strukturen) angesehen und
       Regeln oder den Regeln Anderer oder der Gesellschaft folgen 4. Der Herstellung oder die Synthese eines Verhaltensplans, der es einer
       Person ermöglicht eine kreative Antwort auf eine Situation zu finden, die
       aus dem eigenen Verhaltensrepertoire ausgewählt wird.
+
 Wesentlich für die Funktion des exekutiven Systems ist dabei, dass zunächst
       die quasi instinkthafte gefühlsmäßige Verhaltensantwort im Sinne eines
       automatischen Reflexes auf eine gefühlsmäßige Wahrnehmung gehemmt wird.
@@ -135,3 +148,6 @@ Wesentlich für die Funktion des exekutiven Systems ist dabei, dass zunächst
       Zu Beginn soll der Patient die Monate aufsagen, zumindest bis April.
       ,jetzt beginnen Sie bitte mit Januar und sagen Sie die Monate rückwärts
       " Alternativ: Wochentage.
+
+
+

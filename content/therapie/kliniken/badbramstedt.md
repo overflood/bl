@@ -8,12 +8,19 @@ categories:
 - therapie
 slug: badbramstedt
 ---
+
+
 liniken zur Behandlung und Therapie von Borderline-Störung, Narzissmus, Depression, Ess-Störung, ADHS, posttraumatisches Belastungssyndrom
+
+
 Medizinisch-Psychosomatische
 Klinik Bad Bramstedt
+
 [siehe unten
 Link Auflistung alles Schoen-Kliniken](#schoen)
+
 Behandlungskonzept :
+
 Persönlichkeitsstörungen
 sind kombinierte Interaktions- und Selbstregulationsstörungen, die spätestens
 im Jugendalter/Pubertät beginnen. Die auftretenden Verhaltensweisen stellen
@@ -24,6 +31,7 @@ den Jahren zuvor als Lern- und Anpassungsprozeß an schwierige und nicht selten
 traumatische Lebensbedingungen erworben. Das für eine Therapie entscheidende
 Problem sind aber die so nicht gelernten, mangelnden Bewältigungsmöglichkeiten
 für viele Alltagssituationen und dem daraus resultierenden Streß.
+
 Im Rahmen üblicher und spezifischer
 verhaltensmedizinischer Behandlungsverfahren werden Verbesserungen angestrebt
 der situativen Achtsamkeit, der Streßtoleranz, der Gefühlsregulation, der
@@ -31,8 +39,10 @@ Beziehungssteuerungsfähigkeit, der sozialen und assertiven Kompetenz, der
 Problemlösefertigkeiten, der Angstbewältigung, der Regulierung des Eßverhaltens,
 dem Aufbau positiver Aktivitäten und der Korrektur wenig realitätsgerechter
 Grundüberzeugungen .
+
 Zielprobleme der
 Behandlung :
+
 - niedrige
     Frustrationstoleranz, erhöhte zwischenmenschliche Kränkbarkeit mangelndes
     Selbstbehauptungs- und Durchsetzungsvermögen mangelnde Problem-
@@ -43,8 +53,10 @@ Behandlung :
     , v.a. Entfremdungserleben ("Flucht nach innen") stark erhöhtes,
     andere belastendes Bedürfnis nach Zuwendung und Anerkennung unzureichend
     kontrollierbares selbst- und fremdverletzendes Verhalten selbstschädigender Substanzmittelmißbrauch
+
 Therapiestrategien
 :
+
 Im Zentrum unseres
 kognitiv-verhaltenstherapeutischen Behandlungskonzept stehen Fertigkeiten-,
 Verhalensaufbau- und Problemlösetraining, Expositionsübungen und spezifische
@@ -61,14 +73,18 @@ die ausführliche Erarbeitung der Diagnose "Persönlichkeitsstörung" und
 eines individuellen Störungsverständnisses - eingebettet in das durch die
 homogene Belegung stark akzeptierende Stationsklima erleben die meisten
 Patienten diesen gegenseitigen Prozeß klärend, er-leichternd und motivierend.
+
 Therapieangebote :
+
 Einzeltherapie, Co-Therapie, Interaktionelle
 Gruppenverhaltenstherapie und Fertigkeitentraining, Streßtoleranzgruppe,
 Gestaltungstherapie, Bewegungstherapie, Sporttherapie, Entspannungstherapie,
 Expositionsübungen, Soziotherapie, Verhaltenserprobung im häuslichen Umfeld,
 Angehörigenarbeit
+
 Rahmenbedingungen
 und Station
+
 Der Schwerpunktbereich PS besteht seit 1.5.2004
 nun aus 3 Stationen mit insgesamt 74 Betten, davon 48 Einzelzimmer. Alle Betten
 sind mit Menschen dieser Diagnosegruppe belegt, was einerseits ein sehr
@@ -83,7 +99,9 @@ medizinischen Zentrale durch ärztlichen, psychologischen und pflegerischen
 Bereitschaftsdienst statt. Die Behandlungsdauer beträgt in der Regel 12 Wochen
 bei einem Minimum von 6 Wochen und immer mit der Möglichkeit einer
 Wiederaufnahme, da das Konzept fraktioniert gedacht ist.
+
 Voraussetzungen :
+
 Vor der Aufnahme erfolgt ein Vorgespräch mit dem
 oberärztlichen Teamleiter. Dieses wird vereinbart nach Einreichen der
 Anmeldeunterlagen (v.a. persönlicher und ärztlicher Bericht) - diese werden
@@ -91,12 +109,19 @@ auf Anruf hin zugeschickt : Rezeption 04192/504-0. Kostenübernahmemöglichkeit
 für die stationäre Behandlung besteht für alle Versicherungsträger, zumeist
 erfolgt eine Krankenhauseinweisung nach §39. Da es sich um sehr spezifisches
 Behandlungsangebot handelt, ist auch eine überregionale Aufnahme möglich.
+
 Klinik: Medizinisch-Psychosomatische Klinik
 Bad Bramstedt Birkenweg
 10, 24576 Bad Bramstedt
+
 [www.schoen-kliniken.de](http://www.schoen-kliniken.de)
+
 Auflistung aller Schoenkliniken mit Suchfunktion nach Krankheitsbild und Empfehlung
+
 Telefon:    04192/504-500
+
 Telefax :    04192/504-550
+
 Ansprechpartner: Dr. med. Michael
 Armbrust [marmbrust@schoen-kliniken.de](mailto:marmbrust@schoen-kliniken.de)
+

@@ -8,22 +8,34 @@ categories:
 - borderline
 slug: ecstasy_und_amphetamine
 ---
+
+
 ####
+
 #### [Nach oben][Entstehung der Sucht][ Amphetamine ][Kokain][Hallozinogene][Opiate][Alkohol][mediz. Leitlinien Drogen]
+
 #### Ecstasy
 und Amphetamine
+
 1. Kurzer
     geschichtlicher Abriss von Ecstasy und Amphetaminen
+
 2. Chemisch
     nahe Verwandte von MDMA
+
 3. Aufbereitung
     von Ecstasy und Amphetaminen
+
 4. Pharmakokinetik
     und Applikationsformen
+
 5. Psychisch
     sowie physiologisch erwünschte und unerwünschte Wirkungen
+
 6. Kombinationswirkungen
+
 Geschichtlicher Abriss
+
 Erstmals wurden Amphetamine
 1887 synthetisch hergestellt und ähnelte von den Wirkeigenarten denen des
 Kokains. Wie viele andere Drogen auch, wurden Amphetamine anfangs als wahres
@@ -38,6 +50,7 @@ wirken und ausserdem noch die Konzentrationsfähigkeit steigern. Dazu muss man
 erwähnen, dass Amphetmine bei Erwachsenen stimulierend wirken, während bei
 Kindern eher eine dämpfende Wirkung eintritt. Erst Ende der 40er Jahre traten
 erste Missbrauchsfälle auf, meist bei Lastwagenfahrern und Studenten.
+
 Ecstasy (MDMA) wurde erstmals
 1913 synthetisiert, geriet dann aber für einige Jahrzehnte, mehr oder weniger,
 in Vergessenheit. Anfang der 70er Jahre wurde MDMA nur vereinzelt in der
@@ -48,15 +61,19 @@ wurde MDMA per Notverordnung im amerikanischen Betäubunsmittelgesetzt
 aufgenommen - im August 1986 fiel auch in Deutschland MDMA unter das Betäubunsmittelgesetz.
 Damit wurde MDMA der evt. therapeutische Nutzen aberkannt und auch verhindert,
 dass damit weiterhin geforscht werden konnte.
+
 Chemisch nahe Verwandte
 von MDMA
+
 Es ist zu erwähnen, dass es
 neben Ecstasy noch einige andere nahe chemische "Verwandte" gibt,
 sogenannte Derivate. So ist Ecstasy z.B. auch "nur" ein
 Amphetamin-Derivat. Aber neben MDMA und Amphetaminen gibt es noch MDA, MBDB, MDE
 (Eve) und Methamphetamin (Speed, Pep).
+
 Aufbereitung von Ecstasy
 und Amphetaminen
+
 Amphetamine sowie MDMA werden
 meist illegal in kleinen "Giftküchen" hergestellt und dort
 gegebenenfalls weiterbehandelt (MDMA wird z.B. in Pillenform gebracht).
@@ -66,8 +83,10 @@ Koffeein, Strichnin, PMA (Buttersäure- neurotoxische Wirkung, wird gerne von
 Sportlern genutzt) oder aber auch mit Amphetaminen, LSD oder Heroin. Bei den
 Amphetaminen ist es ähnlich, auch hier wird oftmals mit Koffein und Paracetamol
 gestreckt.
+
 Pharmakokinetik und
 Applikationsformen
+
 Applikationsformen: Ecstasy: Meistens wird MDMA oral in Pillenform aufgenommen, wobei allerdings nur etwa ein
 Drittel über den Magen den Blutkreislauf erreicht. Der größte Teil aber wird
 wieder unverändert ausgeschieden. Amphetamine: Amphetamine, besonders "Speed", werden meistens nasal konsumiert oder
@@ -80,6 +99,7 @@ Tafel gezeichnet. Daran kann man erkennen, dass der Molekülaufbau von körperei
 Drogen (wie z. B. Dopamin) sich kaum vom Aufbau des chemisch hergestellten
 Methamphetamin unterscheidet. Dies erklärt die "gute" und schnelle
 Wirksamkeit von Amphetaminen.
+
 MDMA: Nach dem Konsum von Ecstasy setzt die Wirkung nach ca. 15-30 Minuten ein. Die
 Wirkdauer beträgt (bei einem Wirkstoffgehalt von 500-100 mg) ca. 4-6 Stunden,
 wobei die höchste Plasmakonzentration, also der Höhepunkt, nach etwa einer
@@ -92,6 +112,7 @@ In der Leber wird das MDMA abgebaut und es entsteht MDA (Metabolid,
 halluzinogen). Dieses MDA ist auch der Verursacher der neurotoxischen
 Nebenwirkungen. Bei einer Dosierung von über 200 mg, können schwere Schäden
 auftreten.
+
 Amphetamine: Bei nasalen Konsum ist schon nach ca. 1-5 Minuten der Wirkeintritt zu spüren,
 die Dauer beträgt etwa 1-2 Stunden. Bei der risikoärmeren oralen Aufnahme kann
 es eine gute halbe Stunde dauern und die Wirkung ist etwas sanfter und länger.
@@ -99,9 +120,12 @@ Zwischen Amphetamin und dem körpereigenen Hormon Adrenalin besteht eine
 vergleichbare chemische Struktur. Es wirkt auf den Botenstoff Noradrenalin, der
 durch die Einnahme freigesetzt wird - das führt zur Erregung des zentralen
 Nervensystems.
+
 Zu Top 5: Psychiche und
 physische Wirkungen
+
 Ecstasy:
+
 Die Wirkung von MDMA ist
 recht schwierig zu beschreiben, da es ein sehr breites Wirkungsspektrum hat. Man
 könnte die Wirkung als eine sinnesintensivierende Bewußtseinsveränderung auf
@@ -130,11 +154,14 @@ Langzeitfolgen Untersuchungen angestellt und schließlich behauptet, dass seiner
 Meinung nach 49% aller Langzeit- aber auch Kurzzeitkonsumenten extreme Gedächtnisprobleme
 aufweisen. Ausserdem wären auch Identitätsprobleme, eingeschränkte
 Beziehungsfähigkeit, Isolation und Sprachstörungen zu beobachten gewesen.
+
 Beim raschen Abklingen
 (Runterkommen) der Wirkung fühlt sich der Konsument meist depressiv, was auf
 den niedrigen Seratoninspiegel zurückzuführen ist. Die Nachwirkungen können
 mit Vitaminen und Antidepressiva gemildert werden.
+
 Amphetamine:
+
 Die Wirkung von Amphetaminen
 ist eine andere als bei MDMA. Amphetamin ist keine Harmonie/Glücksdroge wie
 Ecstasy, sondern sie ist in erster Linie leistungssteigernd, Müdigkeit
@@ -157,7 +184,9 @@ Paranoia kommen kann. Hier tritt auch häufiger ein exzessiveres Gebrauchsmuster
 auf, als z.B. bei MDMA. Die Wirkung ist aber immer von Set und Setting
 beeinflusst. So können z.B. Licht und Musik auch verschiedene Empfindungen
 hervorrufen.
+
 Kombinationswirkungen
+
 Von Mischkonsum ist im
 allgemeinen abzuraten, da man die Wirkung hierbei noch viel weniger abschätzen
 kann, als z.B. beim Gebrauch reinen MDMA's. Ausserdem hat man es ja auch nicht
@@ -175,3 +204,4 @@ und das aufgrund von Hyperthermie oder sogar einer totalen Überflutung von
 Seratonin, die der Körper nicht mehr verkraften kann. Vor der Kombination von
 Kokain und Amphetamin wird ebenfalls gewarnt, da dies die Wirkung noch
 potenziert, was den Rausch noch uneinschätzbarer werden lässt.
+
