@@ -8,25 +8,11 @@ categories:
 - selbsthilfe
 slug: wochenplan
 ---
-
-
-
 Wochenplan
-
 Stärken
 angeben von 1-10
-
 Datum | Medikamente | Alkohol | Drogen / welche? | Suizidgedanken / Stärke / Welche? | innere Anspannung / Druck | Nervosität | SSV /SSV/ welche? | Menstruation/ Zwischenblutung /
         Schmierblutung | Bemerkungen
-
-
-
-
-
-
-
-
 Datum
-
 [Download als
-Worddokument](file:///C:/Dokumente und Einstellungen/Team der borderliner.ch/Eigene Webs/selbsthilfe/wochenplan.doc) / Wochenplan
+Worddokument] / Wochenplan

@@ -8,12 +8,7 @@ categories:
 - komorbiditaeten
 slug: ads-erwachsen
 ---
-
-
-
-
 ADS / ADHS Erwachsene
-
 Erwachsene, die sich noch in Ausbildung befinden, haben dagegen erhebliche 
       Probleme; so tendieren sie etwa als Studenten dazu, nach kurzer Zeit 
       intensiven Lernens aufzustehen und einige Minuten herumzulaufen, das 
@@ -43,7 +38,6 @@ Erwachsene, die sich noch in Ausbildung befinden, haben dagegen erhebliche
       können. Die Wender Utah Rating Scale 
       gibt deshalb bei Erwachsenen lediglich einen Hinweis auf das Vorliegen der 
       Störung, die Differenzialdiagnose muss bedacht werden.
-
 - Typische 
 			Merkmale 
 			der 
@@ -55,7 +49,6 @@ Erwachsene, die sich noch in Ausbildung befinden, haben dagegen erhebliche
 			ansehen, 
 			Eltern 
 			befragen)
-
 - Desorganisation, 
 			Unfähigkeit 
 			Dinge 
@@ -63,32 +56,25 @@ Erwachsene, die sich noch in Ausbildung befinden, haben dagegen erhebliche
 			Ende 
 			zu 
 			führen
-
 - Motorische Hyperaktivität: Unruhe, unruhiger 
       Schlaf
-
 - Aufmerksamkeits-Defizite: Unfähigkeit sich 
       auf Geschriebenes zu konzentrieren, Tagträumen
-
 - Heißes Temperament: 
       Ausraster, Kontrollverlust
-
 - Antisoziales Verhalten und Probleme mit Polizei und Gerichten
-
 - Vermehrt 
 		Autounfälle 
 		und 
 		Strafzettel 
 		wegen 
 		Verkehrsvergehen
-
 - Eheproblem, 
 			geringerer 
 			beruflicher 
 			Erfolg 
 			als 
 			erwartet
-
 - Häufiges 
 			Verlieren 
 			und 
@@ -98,7 +84,6 @@ Erwachsene, die sich noch in Ausbildung befinden, haben dagegen erhebliche
 			Vergessen 
 			von 
 			Verabredungen
-
 - immer 
 			aktiv 
 			und 
@@ -107,14 +92,10 @@ Erwachsene, die sich noch in Ausbildung befinden, haben dagegen erhebliche
 			Laune 
 			wenn 
 			inaktiv.
-
 - Impulsiv:  Spricht ohne nachzudenken, 
       Mangel an Selbstkontrolle
-
 - Stress- Intoleranz: Sich überwältigt fühlen
-
 - Oppositionelles Verhalten gegenüber Autoritätspersonen
-
 Differenzialdiagnose 
 			zu 
 			anderen 
@@ -343,7 +324,6 @@ Differenzialdiagnose
 		und 
 		Strafzettel 
 		wegen 
-
 Die 
 			Unterscheidung 
 			zu 
@@ -566,7 +546,6 @@ Die
 		und 
 		Strafzettel 
 		wegen 
-
 Die 
 			Unterscheidung 
 			zu 
@@ -748,7 +727,6 @@ Die
 		Sciences 
 		931:1-16 
 		(2001)
-
 Die 
 			Unterscheidung 
 			zu 
@@ -930,7 +908,6 @@ Die
 		Sciences 
 		931:1-16 
 		(2001)
-
 Ein oftmals bleibendes 
       Phänomen ist eine schwer lesbare, unter Zeitdruck zunehmend undeutlicher 
       werdende Schrift; diese Dysgraphie kann durch ein rasches Diktat auch in 
@@ -973,7 +950,6 @@ Ein oftmals bleibendes
 		und 
 		Strafzettel 
 		wegen 
-
 Die häufigen
             Folgen einer ADHS im Erwachsenenalter Persönliche Probleme - Schlechte Konzentration. Häufiges Verlieren von Sachen (z.B.: 
       Autoschlüssel, Werkzeug....) - Schlechte  akademische Leistungen und Abschlüsse. oft Schulabbrecher - schlechte Karrierechancen - Ehe- 
@@ -986,14 +962,11 @@ Die häufigen
 		und 
 		Strafzettel 
 		wegen 
-
 - Persönliche Probleme - Schlechte Konzentration. Häufiges Verlieren von Sachen (z.B.: 
       Autoschlüssel, Werkzeug....) - Schlechte  akademische Leistungen und Abschlüsse. oft Schulabbrecher - schlechte Karrierechancen - Ehe- 
 		Instabilität
-
 - Arbeitsplatzprobleme - Niedriger Verdienst. Nicht häufiger arbeitslos aber schlechter Job. - Ruhelosigkeit Schwierigkeiten mit Schreibtischjobs - Schwierigkeiten zuzuhören und Anweisungen zu verstehen. - Oppositionelles Verhalten gegenüber Autoritätspersonen - Verlust von Jobs wegen schlechter Leistungen und Aufmerksamkeits- und 
       Organisationsproblemen. Einige kündigen wegen Langeweile
-
 - Psychiatrische Probleme - Angst und Stimmungsschwankungen, 
 		Depression, 
 		erhöhtes 
@@ -1003,6 +976,3 @@ Die häufigen
 		Strafzettel 
 		wegen 
 		Verkehrsvergehen
-
-
-

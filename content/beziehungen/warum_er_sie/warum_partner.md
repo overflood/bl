@@ -8,10 +8,6 @@ categories:
 - beziehungen
 slug: warum_partner
 ---
-
-
 Partner?
-
 Warum suchte ich mir meinen
 Partner?
-

@@ -8,15 +8,8 @@ categories:
 - sonstiges
 slug: traum
 ---
-
-
 Traum Schlaf
-
-
-
-
 Traum:
-
 Ganz ist das Thema bzw. Rätsel Traum
 noch nicht gelöst und wird vielleicht auch nie gelöst werden. Sicher ist das
 er sehr eng mit den Schlafphasen verknüpft ist, die wiederum einen starken Einfluß
@@ -24,7 +17,6 @@ auf Ihr Befinden haben. Bedingt durch Ihren jetzigen Zustand,
 (Trennung) Überreizung des vegetativen Nervensystems
 (Symphatikus/Parasymphatikus), sind diese Schlafphasen natürlich auch nicht
 mehr "normal".
-
 Zum Traum selbst gibt es viele Theorien
 und Wege der Deutung. Fakt ist das wenn Sie träumen der Seelenmüll weggeräumt
 wird. Ihr Unterbewußtsein arbeitet und zwar sehr aktiv. Nicht verarbeitete
@@ -33,34 +25,23 @@ Dinge aus dem Kurzeitspeicher werden in den Langzeitspeicher geschoben. Man
 nimmt auch an das erlebte Dinge, noch nicht verarbeitete Dinge, mit ähnlichen
 Situationen die bis in die jüngste Vergangenheit reichen (Kleinkind), an welche
 wir uns bewußt nicht mehr erinnern können, verglichen und zugeordnet werden.
-
 Der Traum (nicht Tagträume) ist somit
 ein sehr wichtiger Bestandteil der seelischen Verarbeitung von Erlebten.
-
 Schlaf:
-
 Wie bereits gesagt gehört der Schlaf
 zu den 3 Grundtrieben des Menschen. Er
 ist der Trieb der bei Nichtbefriedigung als zweites zum Tode führt. Er ist somit
 überlebensnotwendig. Der Schlaf an sich teilt sich in 5 verschieden Phasen auf.
-
 Während des Schlafens durchläuft der
 Mensch normalerweise 2-5 mal diese Phasen.
-
 1. der entspannte Wachzustand
-
 ( dies ist der Punkt an dem Sie in
 Ihrer jetzigen Situation (Trennung) Herzstolpern, Schweißausbrüche, Unruhe, Angst
 verspüren da Ihr Symphatikus überreizt ist)
-
 2. leichter Schlaf, Einschlafen
-
 3. Leichtschlafphase
-
 4. mittlere Schlaftiefe
-
 5. die Tiefschlafphase
-
 2-4
 bezeichnet die REM - Schlafphase (Rapid Ey Movement), bezeichnet nach den
 schnellen Augenbewegungen in diesen Phasen. In diesen Phasen träumen Sie.
@@ -76,7 +57,3 @@ nachgeholt und der "orthodoxe" verkürzt. Nun nimmt man an das der
 Psyche ist, der "orthodoxe" dagegen rein für die körperlichen
 Energien. Werden also dies Schlafphasen verschoben können Sie sich selbst
 beantworten wie Sie sich nach einiger Zeit fühlen.
-
-
-
-

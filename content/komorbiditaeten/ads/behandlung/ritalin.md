@@ -8,13 +8,8 @@ categories:
 - komorbiditaeten
 slug: ritalin
 ---
-
-
-
 Ritalin / Methylphenidat
-
 ##### Methylphenidat
-
 Methylphenidat
 wird seit 1959 eingesetzt und ist im Rahmen der Kurzzeitwirkung umfangreich
 untersucht worden. Langzeitanwendungen werden kontrovers diskutiert, bisherige
@@ -34,7 +29,6 @@ zeitversetzt und kontinuierlich über den Tag an den Körper abgegeben. Dies
 kann sich je nach Patient unterschiedlich auswirken. Daher sind Wirkung und
 Nebenwirkung bei jedem Patienten zu kontrollieren um gegebenenfalls ein anderes
 Präparat auszuprobieren.
-
 Die Einstellung auf das Medikament erfolgt nach der so
 genannten Titrationsmethode,
 in dem der Arzt zunächst die notwendige Einzeldosierung (in der Regel zwischen
@@ -44,7 +38,6 @@ beurteilt und danach die Dosierung angepasst. Die notwendige Dosis variiert
 individuell stark. Während man früher davon ausging, dass die Regeldosis nicht
 über 1 mg pro Kilogramm Körpergewicht liegen sollte, wird diese Empfehlung
 nicht mehr vertreten.
-
 Aufgrund der kurzen Wirkzeit kann an deren Ende ein Rückschlag
 (rebound) auftreten. Hierbei nehmen die Patienten wieder Symptome der
 Unruhe bzw. Hyperaktivität wahr. Eine zu hohe Dosis von Methylphenidat führt
@@ -52,7 +45,6 @@ ebenfalls zu Unruhegefühl oder innerer Anspannung, selten auch zu einem
 deutlichen Rückgang der Aktivität mit Mattigkeit und einem verminderten
 Antrieb. Diese Erscheinungen halten nur für die Wirkdauer an und sind
 reversibel. Durch angemessene Dosisfindung können sie korrigiert werden.
-
 Nebenwirkungen
 der Behandlung mit Stimulanzien sind normalerweise auf die Einstellungsphase
 begrenzt und kurzzeitig. Zu den häufigen Nebenwirkungen gehören Appetitminderung
@@ -62,7 +54,6 @@ Während bei einigen Kindern zunächst Schlafprobleme auftreten können, benöti
 andere Kinder sogar eine kleine Dosis Methylphenidat um ihre gedankliche Unruhe
 und Reizfilterschwäche
 behandelt zu bekommen und zum Schlaf zu finden.
-
 ADS-Patienten weisen ein erhöhtes Suchtrisiko auf, weshalb die Gabe von Stimulanzien lange als Risiko für eine spätere Suchtentwicklung
 galt. In Studien wurde jedoch gezeigt, dass die Gabe von Methylphenidat nicht zu
 einer Abhängigkeitsentwicklung führt und beiträgt. Vielmehr scheint sich das
@@ -70,7 +61,6 @@ Risiko für eine frühzeitige Nikotin-, Alkohol-
 bzw. Drogenabhängigkeit
 zu vermindern. Nur bei bewusst missbräuchlicher Verwendung oder extrem hohen
 Dosierungen besteht die Gefahr einer Toleranz- und einer Abhängigkeitsentwicklung.
-
 Auch bei Erwachsenen stellt die Behandlung mit Methylphenidat
 nach den geltenden Leitlinien in Deutschland die medikamentöse Behandlung der
 ersten Wahl dar. Allerdings ist derzeit kein derartiges Präparat in Deutschland
@@ -80,9 +70,7 @@ Bei einigen Krankenkassen
 ist die Kostenübernahme noch nicht geklärt. In der Schweiz
 wird Methylphenidat von der Krankenkasse auch für Erwachsene bezahlt, Dexamin
 jedoch weder für Erwachsene noch für Kinder.
-
 ##### Amphetaminpräparate
-
 Für Patienten, die auf Methylphenidat nicht ausreichend
 positiv ansprechen oder gar depressive Verstimmungen entwickeln, kann eine
 Behandlung mit Amphetaminsulfat
@@ -94,13 +82,10 @@ Amphetaminsulfat günstig bei sozialen Störungen. Bei der Behandlung von
 ADHS-Patienten mit komorbider Borderline-Störung
 hat sich eine geringe Dosis (1-2 mg täglich) bewährt und zeigt häufig
 stimmungsstabilisierende Wirkung.
-
 Während in den USA Fertigpräparate unter Markennamen wie Adderall oder Benzedrine erhältlich sind, gibt es Amphetamine in Deutschland und
 in der Schweiz gegenwärtig nur als Rohsubstanz, welche deshalb als Saft oder in
 Form von Kapseln rezeptiert werden muss.
-
 ##### Atomoxetin
-
 Strattera (Wirkstoff Atomoxetin)
 ist ein seit März 2005 in Deutschland erhältliches Antidepressivum
 (sog. Noradrenalin-Wiederaufnahme-Hemmer), der sich in internationalen Studien
@@ -108,13 +93,10 @@ ebenfalls als wirksam in der Behandlung von ADS erwiesen hat. Der Wirkeintritt
 kann jedoch im Gegensatz zu Stimulanzien erst nach einigen Wochen beurteilt
 werden, da das Medikament schrittweise auf die Wirkdosis (in der Regel 1,2 mg/kg
 Körpergewicht) eingestellt werden muss.
-
 Ferner liegen zur Wirkung und den Nebenwirkungen von
 Atomoxetin noch keine Langzeitstudien vor, da das Medikament erst seit kurzem
 auf dem Markt ist.
-
 was bedeutet Off-Label-Use ?
-
 Ein Arzneimittel
 kann auch dann, wenn es zum Verkehr zugelassen ist, grundsätzlich nicht zu
 Lasten der Krankenversicherung in einem Anwendungsgebiet verordnet werden, auf
@@ -202,7 +184,6 @@ werden, wenn es bei einer schweren Krankheit keine Behandlungsalternative gibt
 und nach dem Stand der wissenschaftlichen Erkenntnis die begründete Aussicht
 besteht, dass mit dem Medikament ein Behandlungserfolg erzielt werden kann. 
 BUNDESSOZIALGERICHT Urteil vom 18.5.2004, B 1 KR 21/02 R,
-
 Methylphenidat ist ein Arzneistoff
 mit stimulierender
 Wirkung. Er gehört zu den Amphetamin-ähnlichen
@@ -213,9 +194,7 @@ und zur Augmentation
 von Antidepressiva
 bei therapieresistenten Depressionen.
 Methylphenidat ist in der Anlage 3 des Betäubungsmittelgesetzes (BtMG) aufgelistet [](http://de.wikipedia.org/wiki/Methylphenidat#_note-1) und unterliegt einer gesonderten Verschreibungspflicht.
-
 ### Wirkungsweise
-
 Methylphenidat hemmt die Wiederaufnahme von Dopamin
 und Noradrenalin
 in den Präsynapsen
@@ -225,15 +204,12 @@ und unter anderem zu einer Erhöhung des Sympathikotonus.
 In geringem Maße sorgt Methylphenidat für die Freisetzung von Katecholaminen,
 die große Erhöhung der Dopaminkonzentration wird aber in erster Linie durch
 Wiederaufnahmehemmung erreicht.
-
 #### Hypothesen zur Wirkung bei ADHS
-
 Für die Wirkung von Methylphenidat gibt es unterschiedliche Erklärungsansätze.
 Eine Hypothese besagt, dass bei ADHS bestimmte Bereiche im frontalen Gehirn,
 die u.a. Impulse kontrollieren, weniger aktiv seien und durch Stimulanzien
 angeregt würden, wodurch das Gehirn seine Kontrollfunktionen besser wahrnehmen
 könne.
-
 Laut einer weiteren Hypothese weisen Menschen mit ADHS eine erhöhte Anzahl
 und Aktivität von sog. Dopamin-Transportern
 auf. Dieses Rücktransportsystem der Nervenzellen
@@ -243,7 +219,6 @@ Methylphenidat blockiere dieses Rücktransport-System vorübergehend, das heißt
 in aller Regel für drei bis fünf Stunden. Dadurch werde ein Zustand erzielt,
 der annähernd dem Funktionszustand von Menschen ohne ADHS entspreche, das heißt,
 die Verfügbarkeit des Dopamins werde verbessert.
-
 Ein anderer Erklärungsansatz (Plastizitäts-Hypothese) vermutet, dass in den
 besagten Hirnarealen zu wenig Rezeptoren für Dopamin existierten. Dieser Mangel
 an Rezeptoren führe dazu, dass hemmende Neuronen nicht ausreichend aktiviert würden.
@@ -251,15 +226,12 @@ Durch die Gabe von Methylphenidat würden die Rezeptoren vermehrt mit Dopamin
 versorgt, so dass die Erregungsweiterleitung besser funktioniere. Auf Dauer könne
 sich jedoch das Rezeptorsystem verändern und immer unempfindlicher gegen den
 Botenstoff werden.
-
 ### Dosierung
-
 Methylphenidat sollte nur nach einer sorgfältigen Diagnosestellung
 verabreicht werden. Die Dosierungseinstellung muss unbedingt individuell
 vorgenommen werden, da die optimale Wirkung bei sehr unterschiedlichen Dosen
 erreicht wird. Die individuell optimale Wirkung lässt sich weder auf das Körpergewicht
 noch auf die Plasmakonzentration zurückführen.
-
 Kinder sollten in aller Regel nicht vor dem 6. Lebensjahr mit Methylphenidat
 behandelt werden (Ausnahmen nur nach strenger Indikationsstellung). Während man
 früher davon ausging, dass die Regeldosis nicht über 1 mg pro Kilogramm Körpergewicht
@@ -269,25 +241,21 @@ notwendige Einzeldosis ermittelt werden (sog. Titrationsmethode). Gewöhnlich
 wird die Dosis wöchentlich um 5-10 mg gesteigert, bis die optimale Dosis
 erreicht ist. In vielen Fällen ist nach einigen Monaten eine neue Einstellung
 mit eventuell nochmals erhöhter Dosis erforderlich.
-
 Die Wirkung von Methylphenidat-Hydrochlorid Tabletten tritt innerhalb von
 15-30 Minuten ein und hält drei bis vier Stunden an, in einzelnen Fällen auch
 länger. Nach Ende der Wirkungsdauer können sich die Symptome von ADHS verstärkt
 zeigen (der sogenannte Rebound).
-
 Erwachsene brauchen im Durchschnitt 20-30 mg pro Tag, in manchen Fällen genügen
 jedoch auch 5-10 mg während in anderen Fällen bis 60 mg erforderlich sind. Gewöhnlich
 wird die Tagesdosis auf zwei bis drei Einzeldosen verteilt. Bei Erwachsenen wird
 anfangs gewöhnlich eine Einzeldosis von 10 mg gegeben, bei Kindern ab sechs
 Jahren eine Einzeldosis von 5 mg (eine halbe Tablette).
-
 Neben den normalen Tabletten ist Methylphenidat-Hydrochlorid auch in Form von
 retardierten
 Arzneimitteln (z. B. Concerta ® , Medikinet retard ® ,
 Ritalin SR ® , Ritalin LA ® ) erhältlich. Bei diesen hält
 die Wirkung etwa sechs bis acht Stunden an. Einige davon kombinieren schnell
 wirkendes mit verzögert wirkendem Methylphenidat.
-
 Seit Juni 2006 ist in den USA als eine weitere Darreichungsform ein transdermales
 Pflaster (Daytrana ® von Shire
 Pharmaceuticals) zur Applikation von Methylphenidat über die Haut erhältlich.
@@ -297,12 +265,10 @@ von transdermal appliziertem Methylphenidat sind mit denen der Retardkapseln
 vergleichbar. Zusätzlich können am Applikationsort Hautreizungen und
 allergische Reaktionen auftreten, aus denen sich eine generelle Methylphenidatüberempfindlichkeit
 entwickeln könnte.
-
 Früher wurde empfohlen, Methylphenidat nur an Schultagen zu verwenden. Heute
 wird das Medikament in der Regel ununterbrochen abgegeben, da gerade an
 schulfreien Tagen oft wichtige soziale Kompetenzen eingeübt werden, wobei der
 Wirkstoff ebenso unterstützend wirken soll wie beim Unterricht.
-
 Bei der Therapie von AD(H)S ist die alleinige Gabe von Methylphenidat
 normalerweise nicht ausreichend. In vergleichenden Studien nachgewiesen
 ("evidenzbasiert") ist insbesondere die Wirksamkeit von Elterntrainings und
@@ -316,50 +282,37 @@ auch deren Ängste, Ambivalenzen und Skrupel bezüglich der Medikamenteneinnahme
 können zur Folge haben, dass Eltern das Medikament nach Gutdünken ("nach
 Bedarf") dosieren, dass die Einnahme nicht regelmäßig geschieht oder die
 Dosis nicht angepasst wird.
-
 ### Nebenwirkungen
-
 #### Appetit
-
 Rückgang des Appetits ist eine sehr häufige Nebenwirkung. Dies kann dadurch
 gemildert werden, dass das Methylphenidat nach dem Essen verabreicht wird oder
 dass die Hauptmahlzeit auf den Abend verlegt wird, wenn die Wirkung abgeklungen
 ist. Gewöhnlich verliert sich diese Nebenwirkung innerhalb einiger Monate.
-
 #### Gastrointestinale Störungen
-
 Da das Methylphenidat i. d. R. als Hydrochlorid enthalten ist, entsteht bei
 der Auflösung in Wasser etwas Salzsäure. Da diese im Magensaft ohnehin in viel
 größerer Menge enthalten ist, spielt das normalerweise keine Rolle, aber wenn
 Methylphenidattabletten ohne Flüssigkeit eingenommen werden, kann das zu Übelkeit
 oder unangenehmem Brennen in der Speiseröhre führen.
-
 Zu Beginn der Behandlung treten gelegentlich Bauchschmerzen oder Erbrechen
 auf, die im Normalfall gemildert werden, wenn Methylphenidat zu oder mit einer
 Mahlzeit genommen wird. Hin und wieder treten Unverträglichkeiten hinsichtlich
 der Trägersubstanz der Arzneizubereitung auf. In solchen Fällen kann auf
 wirkstoffidentische Präparate anderer Hersteller ausgewichen werden.
-
 Seltenere Nebenwirkungen sind Schwindel, Schweißausbrüche, Fieber,
 Kopfschmerzen, Störungen des Herzrhythmus und Trockenheit der Schleimhäute.
-
 #### Schlafstörungen
-
 Eine zu hohe Dosis von Methylphenidat oder eine zu schnelle Steigerung der
 Dosis kann zu Nervosität und Schlafstörungen führen. Diese Nebenwirkung
 klingt oft im Verlauf einiger Wochen ab. Auch wenn die Einnahme der letzten
 Dosis zu spät erfolgt, können Einschlafstörungen auftreten.
-
 Es gibt jedoch auch Fälle, bei denen durch ADHS oder durch den Rebound
 bedingte Einschlafstörungen durch eine kleine Dosis Methylphenidat oder durch
 eine letzte Tagesdosis 3-4 Stunden vor dem Einschlafen behoben werden können.
-
 Es liegt aber auch nicht immer nur an der zu hohen Dosis/Steigerung, oft
 reicht die Einnahme einer der Tabletten zum Abendbrot schon aus, um Schlafstörungen
 zu verursachen.
-
 #### Psychische Nebenwirkungen
-
 Insbesondere kleinere Kinder können durch die Einnahme von Methylphenidat
 vorübergehend oder andauernd empfindsamer, "weinerlicher" und auch
 gereizter und aggressiver werden, dies kann bis hin zu depressiven Zuständen führen.
@@ -376,9 +329,7 @@ Zusammenhänge und belastende Lebensumstände oder Ausgrenzung stärker zu spür
 Dies ist dann weniger eine Nebenwirkung als vielmehr eine andere Wahrnehmung.
 Hier ist eine therapeutische Begleitung und Informationsvermittlung, häufig
 aber auch eine antidepressive Begleitmedikation erforderlich.
-
 #### Herz-Kreislauf-System
-
 Methylphenidat führt am Herz-Kreislauf-System
 zur Blutdrucksteigerung
 und einer Erhöhung
@@ -388,34 +339,27 @@ besonders strengen Indikationsstellung
 und einer sehr engmaschigen ärztlichen Kontrolle, da sich bei ihnen durch die
 Einnahme von Methylphenidat das Risiko erhöht, einen Herzinfarkt
 oder andere potentiell lebensbedrohnliche Komplikationen zu erleiden.
-
 #### Abhängigkeitsgefahr
-
 Methylphenidat wird seit Jahrzehnten in der Therapie von ADHS verwendet. Während
 es in wesentlich höherer Dosis als Straßendroge geschnupft oder intravenös
 injiziert zur Sucht führen kann, wurde bisher bei fachgerechten Therapie von
 ADHS kein Fall von Abhängigkeit festgestellt. Auch die Gewöhnungseffekte
 betreffen im Normalfall nur Appetitstörungen und Nervosität.
-
 ADHS-Patienten, die mit Methylphenidat behandelt wurden, zeigen als
 Erwachsene sogar ein verringertes Risiko für Drogen-, Zigaretten- oder
 Alkoholabhängigkeit, als unbehandelte ADHS-Kranke. Möglicherweise liegt dies
 daran, dass im Jugendalter Versuche der "Selbsttherapie" durch Drogen
 unterbleiben.
-
 Langandauernder Missbrauch von Methylphenidat in hohen Dosen kann zu Psychosen
 oder Depressionen
 führen. Bei ADHS-Patienten wurde bislang keine Häufung von Psychosen und
 affektiven Störungen (Depressionen) durch die Medikation beobachtet.
-
 Das plötzliche Absetzen von Methylphenidat nach längerem Gebrauch kann in
 manchen Fällen während einiger Tage zu einer verstärkten Hyperaktivität,
 Gereiztheit oder depressiven Verstimmung (nicht Depression) führen, in anderen
 Fällen tritt einfach das ADHS wie vorher wieder auf. Sicherheitshalber sollte
 die Dosis deshalb innerhalb von einer Woche schrittweise reduziert werden.
-
 ### Missbrauch als Rauschmittel
-
 Bei hochdosierter Anwendung (ein Vielfaches der therapeutisch verwendeten
 Dosen), insbesondere wenn es geschnupft oder intravenös injiziert wird, wirkt
 Methylphenidat stark antriebssteigernd und kann zu Halluzinationen
@@ -433,51 +377,39 @@ Ein nennenswertes Drogenproblem lässt sich bisher nicht beobachten. Eine solche
 Entwicklung kann aber auch bei der zunehmenden Verfügbarkeit der Substanz nicht
 gänzlich ausgeschlossen werden. Nach Medienberichten wird Methylphenidat vor
 allem in den USA illegal missbraucht, um die Lernleistung zu steigern.
-
 ### Überdosierung
-
 Eine leichte Überdosierung von Methylphenidat kann zu Schwindel, Herzklopfen
 oder erhöhter Vigilanz
 führen, in einigen Fällen auch zu einer übermäßigen Beruhigung.
-
 Eine versehentlich doppelt eingenommene Dosis kann zu Schwindel, Herzklopfen,
 erhöhtem Blutdruck und Schlafproblemen führen. Durch die kurze Wirkungsdauer
 von wenigen Stunden ist normalerweise keine Behandlung erforderlich.
-
 Eine starke Überdosierung kann zu Übererregtheit des zentralen
 Nervensystems, Krämpfen und Delirum bis zum Koma führen, zu Bluthochdruck und
 Herzrhythmusstörungen. Ärztliche Behandlung ist in solchen Fällen dringend
 notwendig.
-
 Außerdem kann eine Überdosierung das Mitteilungsbedürfnis steigern.
-
 ### Wechselwirkungen
-
 Methylphenidat darf nicht mit MAO-Hemmern
 kombiniert werden.
-
 Bei gleichzeitiger Anwendung kann Methylphenidat die Wirkung von
 blutdrucksenkenden Mitteln, insbesondere von Guanethidin,
 herabsetzen. Andererseits kann die anfängliche sympathomimetische
 Wirkung von Guanethidin und Amantadin
 verstärkt werden.
-
 Da Methylphenidat den Abbau von Antikoagulanzien
 des Cumarintyps, Antiepileptika
 (z. B. Phenobarbital, Phenytoin, Primidon), Neuroleptika
 und trizyklischen
 Antidepressiva (Imipramin, Desipramin) sowie Phenylbutazon im Organismus
 hemmt, muss deren Dosis bei gemeinsamer Gabe reduziert werden.
-
 Methylphenidat sollte nicht zusammen mit Antazida
 eingenommen werden. Alkohol sollte während der Behandlung mit Methylphenidat
 nicht getrunken werden. Die weit verbreitete Meinung, dass Methylphenidat nicht
 zusammen mit Milch eingenommen werden darf, ist falsch. Wechselwirkungen mit
 Milch betreffen vorwiegend Substanzen mit hoher Proteinbindung, z. B. manche
 Antibiotika, aber nicht Methylphenidat.
-
 ## Dexmethylphenidat
-
 Das momentan auf dem Markt erhältliche DL-Methylphenidat enthält neben dem
 wirksamen D-Enantiomer
 auch unwirksame Formen des Moleküls. Das in den USA zugelassene
@@ -485,9 +417,7 @@ Dexmethylphenidat (Handelsname Focalin ® ) enthält dagegen nur die
 wirksame Form und soll deshalb weniger Nebenwirkungen aufweisen, länger wirken
 und eine niederigere therapeutische Dosis ermöglichen. Es ist noch nicht
 absehbar, ob das Medikament auch in Deutschland zugelassen werden wird.
-
 ## Geschichte
-
 Methylphenidat wurde erstmals 1944
 von Leandro Panizzon, einem Angestellten der schweizerischen Firma Ciba (heute Novartis),
 synthetisiert. Zu der damaligen Zeit war es nicht unüblich, Selbstversuche mit
@@ -496,4 +426,3 @@ Panizzon und seine Ehefrau Marguerite ("Rita") Methylphenidat aus. Besonders
 beeindruckt war Marguerite davon, dass sich ihre Leistung im Tennisspiel unter
 Einnahme dieses Medikaments steigerte. Von ihrem Spitznamen Rita leitet sich der
 bekannte Handelsname Ritalin für Methylphenidat ab.
-

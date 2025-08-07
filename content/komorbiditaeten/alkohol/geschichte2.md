@@ -8,11 +8,7 @@ categories:
 - komorbiditaeten
 slug: geschichte2
 ---
-
-
-
 Geschichte 3
-
 Ein Mann geht durch die Höllen der Abhängigkeit und des Entzuges. Alkohol scheint sein Schicksal zu sein. Doch er ergreift den
 sprichwörtlichen Strohhalm und versucht einen Neubeginn. Wer sich auf diesen Einstieg in die innerste Gedankenwelt eines Alkoholikers
 eingelassen hat, kann sich dem eigenwilligen, respektlos-zynischen Sprachduktus des Autors kaum entziehen. Goltz läßt den Leser schonungslos
@@ -23,7 +19,6 @@ Hochschulreife. 1969 schloß er ein Maschinenbaustudium mit dem Ingenieur Diplom
 gescheiterten Ehe und häufig wechselnden Beziehungen wurde seine rapide fortschreitende Alkoholkrankheit von kontinuierlichem Persönlichkeitszerfall begleitet. Nach einer erfolgreichen Selbsttherapie ist der
 alleinerziehende Vater heute als Niederlassungsleiter in einem Baukonzern tätig, gibt in der Freizeit Seminare in T'ai Chi, Ch'uan und Tao-Management. Meetings der Anonymen Alkoholiker sind nach wie vor
 wichtiger Bestandteil seines Alltags. ISBN 3-8280-0143-2 DM/s Fr.14,80 ÖS 115 Frieling - Erfahrungen Originalausgabe
-
 Vorwort Dieser kurze Bericht aus meinem Leben als trockener Alkoholiker begann ursprünglich als eine Art Eigentherapie während
 der ersten und schwierigsten Zeit der Trockenheit. Die einzelnen Phasen wurden in einem Zeitraum von ca. drei
 Jahren durchlebt und ohne einen Zeitplan oder ein Konzept, je nach Bedürfnis aufgeschrieben. Nachdem Freunde mich
@@ -234,7 +229,6 @@ Batterie betrieben würden, verstumme ich zwischendurch immer wieder. Die Gewalt
 mein bisheriges Leben zwängt mir die Brust zusammen. Der Kloß im Hals wird immer größer und läßt sich nicht mehr
 runterschlucken. Meine Gedanken sprechen noch, aber meine leisen, heiseren, nassen Worte kann keiner mehr verstehen.
 Vielen Dank fürs Zuhören", quetsche ich mit letzter Anstrengung heraus. Die Kapitulation hat nunmehr einen Namen.
-
 PHASE 3 DEMUT Bis hierher hat mich Gott geführt, in allen seinen Gnaden. . . Chor der Strafgefangenen in der JVA. Mein Zynismus wühlt sich aus dem emotionalen Gewaber des ersten Meetings wieder an die Bewußtseinsobertläche und der Gedanke daran, daß ich mir für den Heimweg wieder so ein Scheißtaxi nehmen muß, bringt mich so richtig in Stimmung. Auch der Umstand, daß mich so ein wahnsinniger Spießer von der Seite anquatscht und mir freundlicherweise anbietet, mich in seinem - na und - Mercedes mitzunehmen. Merkt der Bursche denn nicht, daß ich selbst mit so einem Luxusgeschöpf liiert bin und es nur für einige Zeit nicht fahren darf. Seine penetrante Freundlichkeit trieft mir derart ins Gemüt,
 daß ich am liebsten mit einer groben Bemerkung ablehnen möchte. Dann aber siegen Geiz und Bequemlichkeit und ich
 lasse gönnerhaft ein "na ja, wenn es Ihnen nichts ausmacht", vernehmen. Die Fahrt vergeht wie im Flug und als wir bei mir
@@ -386,6 +380,3 @@ Nach einer gekonnt dargestellten Denkpause sagt er nur "Sie wissen, daß Sie Ihr
 können und daß der Verlust des Führerscheins ein Kündigungsgrund ist." Nach meinem Einwand, daß ich bereits auf meine Kosten einen Fahrer engagiert habe, glaubt mir der Mann fürs Erste,
 daß die Firma keinen Nachteil erleiden soll. Mit der Bemerkung: "Sie erhalten schriftlich eine
 Nachricht", bin ich entlassen und verlasse so schnell ich kann diesen Ort der Bekenntnis. Ich habe die Hoffnung, daß alles gut wird.
-
-©Peter Goltz
-

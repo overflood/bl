@@ -8,24 +8,13 @@ categories:
 - sonstiges
 slug: gehirn
 ---
-
-
-
-
 Das menschliche Gehirn
-
 [](https://borderliner.ch)
-
-[](https://borderliner.ch) | [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 Kortex (auch Neo-Kortex) = Großhirn, Sitz der Logik, des Verstandes, der
 motorischen Assoziationsfelder und der Projektionsfelder. Es ist das Zentrum aller
 Sinnesempfindungen
-
 Hypothalamus = Teil des limbischen Systems,
 welches sich aus Hypothalamus, Thalamus, Hippocampus und Amygdala
 zusammensetzt  (Sitz der Gefühle, Emotionen), des Zwischenhirns.  Er
@@ -40,7 +29,6 @@ großer Teil der vegetativen Steuerfunktionen zu. Zwei Anhänge des
 Hypothalamus nach oben die Zirbeldrüse und nach unten die Hypophyse (endogene
 Drüsen) steuern zum Bsp. Wachstum, Geschlechtsreife und Blutdruck (siehe
 unten) in wechselseitiger Zusammenarbeit mit dem Zwischenhirn.
-
 Hypophyse =  Kommt aus dem griechischen (Wuchs, Bildung), auch genannt Hirnanhangdrüse. Sie
 ist etwa bohnengroß und eine endogene (innen) Drüse. Die Hypophyse ist direkt
 mit dem Hypothalamus verbunden und stellt eine funktionelle Einheit dar. Diese
@@ -55,7 +43,6 @@ Hypothalamus gesteuert. Die Freisetzung der Hormone wirkt wiederrum auf
 Freisetzung anderer Hormone und regen die Funktion peripher Drüsen ( z.B.
 Milchdrüse) an. Auch der Zyklus der Frau, (Östrogene, Progesteron,)  der
 Testes des Mannes (Testosteron) wird hierüber gesteuert.
-
 Thalamus = Teil des limbischen Systems (Sitz der Gefühle, Emotionen)
 Kommt aus dem griechischen und bedeutet Gemach, Höhle. Er ist das dorsorsale
 Kerngebiet des Zwischenhirns. In ihm sammeln sich alle sensorische Bahnen wo sie
@@ -64,21 +51,17 @@ werden, emotional eingefärbt werden. ehe sie dann im Großhirn zum Erlebnis
 (Ärger, Wärme, etc) werden. Aber auch die elektrische Aktivität des
 Großhirns und damit die Aufmerksamkeits- und Wachheitsfunktionen werden vom
 Thalamus gesteuert.
-
 Kleinhirn = Dient der Koordination aller
 Bewegungen und Aufrechterhaltung des statischen Gleichgewichts mit Hilfe der
 Informationen von statischen Organ. (Ohr)
-
 Brücke, Mittelhirn, Nachhirn und Medula oblongata (verlängertes Mark) leiten zum Rückenmark über und bilden den Hirnstamm. Die
 Medula ist dabei für ständig wiederkehrende Prozesse wie Herzschlag und Atmung
 verantwortlich. Das Nachhirn hat die Aufgabe, wie ein Wächter für das Gehirn
 zu fungieren. Es aktiviert den Kortex damit der neue Reize aufnehmen kann und
 hält diesen sogar des Nachts wach. Die Brücke stellt die Verbindung das und
 hat mit Träumen und Aufwachen aus dem Schlaf zu tun.
-
 Rückenmark = Teil des zentralen
 Nervensystems
-
 Präfrontaler Kortex = Er beinhaltet den
 Frontallappen, der sich wiederum in den linken und rechten unterteilt.
 Verantwortlich sind beide für kognitive Aktivitäten wie Planung,
@@ -86,11 +69,9 @@ Entscheidungsfindung, Zielsetzung und Verbindung von Gegenwart und Zukunft durch
 planvolles und zweckmäßiges Handeln. Er steht über die Dopaminbahnen im enger
 Kommunikation mit dem limbischen System. Schädigungen am präfrontalen Kortex
 können verheerende psychische Auswirkungen haben.
-
 Nucleus accumbens = Teil des limbischen
 Systems. Schaltstelle im Belohnungssystem, Dopaminsystem. Spielt eine
 entscheidende Rolle bei der Entwicklung jeglicher Süchte.
-
 Hippocampus = Teile des Hippocampus
 zählen mit zum limbischen System. Kommt aus dem
 griechisch-lateinischem (Hippo) Pferd. Fabeltier, Seepferdchen. Er erstreckt
@@ -107,25 +88,17 @@ Funktion einen bremsenden Einfluß auf die Ausschüttung des Corticotropin
 Releasing Hormons (CRH) (Stereßfreigabehormon des Hyphotalamus, gibt dann (ACTH),
 hat und dieser folglich im Alter bei fehlendem Tiefschlaf weniger gebremst wird.
 Dies hat zur Folge weniger Schlaf und unruhiger [Schlaf](https://borderliner.ch/schlaf/traum.htm) .
-
 Amygdala = Sie ist der entscheidende
 Wächter bei der Kontrolle der Emotionen und hat entscheidenden Einfluß auf das
 emotionale Gedächtnis. Wird auch als Mandelkern bezeichnet.
-
 Das limbische System Sitz der Gefühle
-
-[](https://borderliner.ch) | [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 Gleichgültig ob
 uns Sinneswahrnehmungen, Verhaltensweisen, Erlebnisse oder Drogen Glücksgefühle
 vermitteln ohne die neuronalen Belohnungssysteme in unserem Gehirn läuft
 nichts. Deren Existenz entdeckten bereits 1954 die amerikanischen
 Neurowissenschaftlerjames Olds und Peter Milner.
-
 Sie setzten eine kleine Elektroden
 in das Gehirn von Ratten, welches sie darüber elektrisch reizten. Den Tieren war
 die Stimulation so angenehm, dass sie sich ständig an den Orten aufhielten, an
@@ -133,9 +106,7 @@ denen die Wissenschaftler die Stimulation üblicherweise einschalteten. Sie
 lernten sehr schnell, einen Hebel zu drücken, um sich ihr Glücks- Stimulationen selbst zu
 verabreichen. Schon bald fanden die Ratten heraus das je öfters sie den
 Schalter drücken sie mehr und mehr der Portion Glück bekommen.
-
 Das Suchtgedächtnis war gefunden.
-
 Die Wissenschaftler gingen allerdings
 noch zwei Schritte weiter. Zum einen legten sie ein Gitter, welches mit Strom
 geladen war, zwischen Ratte und ihrem Glücksknopf zum auslösen der
@@ -145,7 +116,6 @@ schmerzhaft. Nicht so die Ratte mit der Elektrode im Belohnungssystem. Sie nahm
 ohne weiteres die Tortour der schmerzhaften Stromstösse, die durch das Gitter
 beim hinüberlaufen ausgelöst worden, in Kauf um an ihren geliebten Schalter zu
 kommen und sich die erforderliche Portion Glück zu verabreichen.
-
 Im dritten Schritt gingen die
 Wissenschaftler noch ein Stück weiter und pflanzten eine solche Elektrode einer
 weiblichen Versuchsperson in das Belohnungszentrum ein. Natürlich mit ihrem
@@ -155,42 +125,27 @@ zu helfen. Welch Wunder, bereits bei der ersten Reizung fing die Patientin an zu
 lachen. Doch ähnlich wie die Ratten verlanget nun auch die Patientin eine immer
 öftere und längere Reizung und wurde aggressiv sobald sie diese nicht
 bekam.
-
 Im wesentlichen besteht das
 Belohnungssystem aus drei Elementen. (siehe Grafik)
-
 - dem so genannten Nucleus accumbens, einem Teil des für
 Emotionen zuständigen limbischen Systems,
-
 - dem ventralen tegmentalen Areal im Mittelhirn sowie
-
 - den hinter der Stirn liegenden (präfrontalen) Regionen
 der Großhirnrinde.
-
 dem so genannten Nucleus accumbens, einem Teil des für
 Emotionen zuständigen limbischen Systems,
-
 dem ventralen tegmentalen Areal im Mittelhirn sowie
-
 den hinter der Stirn liegenden (präfrontalen) Regionen
 der Großhirnrinde.
-
 Der Nucleus accumbens (Teil des limbischen
 Systems) | Das Belohnungssystem
 (Teil des limbischen System)
-
-[](https://borderliner.ch) | [](https://borderliner.ch)
-
 Der Nucleus accumbens (Teil des limbischen
 Systems)
-
 Das Belohnungssystem
 (Teil des limbischen System)
-
 [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 Dabei spielt der Nucleus accumbens eine Schlüsselrolle.
 Man könnte ihn auch als zentrale Schaltstelle des Belohnungssystems
 bezeichnen. Er enthält Nervenzellen, die den Überträgerstoff Dopamin zur
@@ -198,9 +153,7 @@ Signalübermittlung verwenden. Diese Substanz ist vor allem dafür
 verantwortlich, dass man immer wieder Situationen anstrebt, die Glücksgefühle
 hervorrufen. Damit stellt Dopamin eine Art chemischen Hauptschalter des
 Begehrens und ein wichtiges Element bei der Entstehung von Sucht dar:
-
 Suchtstoffe wie Kokain setzen im Belohnungssystem vermehrt Dopamin frei.
-
 Das
 Dopamidensystem erhält alledings Schützenhilfe von anderen Botenstoffen , den körpereigenen Opioiden und den Cannabinoiden. Sowohl Opiatdrogen wie
 Opium oder Morphium als auch körpereigene Opioide wie etwa Endorphine binden
@@ -210,7 +163,6 @@ Bungee-Springern ergaben, dass das Glücksgefühl während und unmittelbar
 nach dem Sprung mit einem 200fachen Anstieg von Beta-Endorphinen einhergeht.
 Auch Suchtstoffe wie Kokain beeinflussen die körpereigenen Opioide. Die Drogen führen
 über die zusätzliche Dopaminfreisetzung in einem zweiten Schritt zu mehr Endorphinen im Belohnungssystem.
-
 Das körpereigene Cannabinoidsystem wurde erst vor
 wenigen
 Jahren entdeckt. Cannabinoide sind die wirksamen Substanzen (THC) im Haschisch und
@@ -223,21 +175,17 @@ Giovanni
 Marsicano und Beat Lutz vom Max-Planck-Institut für Psychiatrie in München,
 dass diese Stoffe beim Vergessen von traumatischen Erlebnissen eine
 entscheidende Rolle spielen.
-
 Insofern ist es nicht verwunderlich
 das zum Bsp. in Holland Traumatherapien mit unterstützendem THC-Konsum
 durchgeführt werden.
-
 Wie die verschiedenen
 Neurotransmittersysteme im zentralen Nervensystem allerdings ineinander greifen und Glücksgefühle
 hervorrufen, ist jedoch noch weitgehend unbekannt.
-
 Sucht, egal welche führt also zu Gewöhnung und
 im Umkehrschluss zu Entzugserscheinungen. Dies ist nicht nur deutlich zu sehen
 bei der Einnahme von chemischen Drogen, sondern auch in einer [Borderline-Beziehung](https://borderliner.ch/beziehung/beziehung.htm) .
 Und hier nicht nur beim Partner sondern auch bei der [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) selbst. Es besteht kein Unterschied, dem dem Belohnungssystem ist es egal welche
 Droge es verpasst bekommt, zu Einnahme von chemischen Drogen.
-
 Nach der Einnahme chemischer Drogen ist das Glück meist
 nur von kurzer Dauer. Kaum lässt die Wirkung der Substanz nach, sinkt die
 Stimmung rapide. Der Konsument fühlt sich dann niedergeschlagen, tieftraurig,
@@ -245,23 +193,17 @@ erleidet seelische Schmerzen was zum erneuten Griff zur Droge führt. Bei langj�
 Drogenmissbrauch stumpfen jedoch die neuronalen Schaltkreise des Belohnungssystems
 mehr und mehr ab, so das immer höhere Dosen genommen werden müssen um die
 gewünschten euphorische Wirkung erzielen.
-
 Irgendwann dient die Drogeneinnahme nur noch dazu,
 die oft schweren physischen, wie auch psychischen Entzugssymptome zu vermeiden.
-
 Gleiches gilt bezogen auf die [Borderline-Beziehung](https://borderliner.ch/beziehung/beziehung.htm) . Irgendwann ist der Partner an dem Punkt das er versucht
 diese "Droge", genannt Borderliner, die ihn tötet, sich einzuverleiben
 um den quälenden psychischen (die auch körperlich wahrgenommen werden)
 Schmerzen zu entgehen.
-
 Das neuronale Netzwerk, seine Neuronen und
 Synapsen
-
 [](https://borderliner.ch)
-
 Was passiert nun, wenn wir uns erinnern, zum Beispiel an das
 Gesicht des Expartners?
-
 Ein spezielles Gesicht entspricht im Gehirn einer ganz
 bestimmten Kombination vieler Nervenzellen, einer
 Netzwerkstruktur, die, allein durch ein Signal (Trigger), das heißt jemand der
@@ -275,14 +217,11 @@ dieser Abschnitt gefeuert hat werden über das limbische System Hormone und
 weiterer Neurotransmitter aktiviert die dann über den Symphatikus und Parasymphatikus
 körperliche Reaktionen aktivieren. (Schwitzen, Angst, Zittern, erhöhte
 Herzfrequenz, etc)
-
 Durch die gemeinsame elektrische Aktivität
 entsteht ein Muster im Gehirn, das den Expartner repräsentiert. So gibt es für
 alle Objekte, Zahlen, Gesichter Sachverhalte ein spezielles Muster von
 Nervenzellen, die gemeinsam aktiv sind.
-
 [](https://borderliner.ch)
-
 Eine biologische Nervenzelle besteht aus dem eigentlichen
 Zellkörper (Soma), den Dendriten, das sind kurze Leitungen (um
 0.4 mm), über die Reize in die Nervenzelle gelangen können, dem Axon,
@@ -303,13 +242,8 @@ Abhängigkeit von der Stärke des Kontaktes (Synapsengewicht)
 proportional zur ankommenden Spikefrequenz. Dabei können die Spikes zur
 Anregung des Somas beitragen (exzitatorische Synapsen) oder im Gegenteil hemmend
 wirken (inhibitorische Synapsen).
-
-[](https://borderliner.ch) | [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 An diesem Bsp. sehen Sie stärkere Dendriten und Axone und weniger stärkere.
 Wie dargestellt heißt die Verbindung zwischen beiden Neuronen Synapse (siehe
 unten). Jeder Dendrit, jedes Endköpfchen ist auf etwas bestimmtes programmiert.
@@ -338,11 +272,8 @@ wieder aufleben zu lassen. Weiterhin ist dies der Grund warum Sie nach einer
 Borderline-Beziehung mehr oder weniger geschädigt sind und es Ihnen so schwer
 fällt Gewesenes zu vergessen. Kleinste Auslöser reichen aus um Ihre
 neuronalen, auf Borderline programmierten, Netzwerke feuern zu lassen.
-
 | [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 Im nachfolgendem Bild sehen Sie die Verbindung zweier Neuronen den
 sogenannten Synapsen. Die Verbindung ist nicht statisch. Übertragen werden
 Signale von einem Neuron zum anderen mit Hilfe von sogenannten Neurotransmittern
@@ -351,13 +282,8 @@ werden von den synaptischen Bläschen in den synaptischen Spalt ausgeschüttet
 und vom nachfolgenden Neuron über das subsynaptische / postsynaptische Membran
 aufgenommen. Sie docken dort an entsprechende Rezeptoren an und lösen wiederum
 eine elektrisch Aktivität aus.
-
-[](https://borderliner.ch) | [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
 Nicht benötigte Transmitter werden vom ausschüttendem Endköpfchen wieder
 aufgenommen um für die nächste Aktivität zur Verfügung zu stehen. Im unteren
 Bild Acetylcholin. Drogen, wie zum Bsp. [Ecstasy(biochemische Wirkung](http://www.suchtzentrum.de/drugscouts/dsv3/e-show/slideshow.htm) ,Kokain, Heroin etc. setzen nun
@@ -379,11 +305,6 @@ Serotonin-wieder-aufnahme-Hemmer (SSRI), MAO-Hemmer (Monoaminoxidase), NSRI und
 anderer greifen in den synaptischen Spalt ein und verzögern die Wiederaufnahme
 gewisser Transmitter (Serotonin, Noradrenalin, Dopamin). Diese stehen somit
 länger zur Verfügung und wirken so zum Bsp. der Depression entgegen.
-
 [](https://borderliner.ch)
-
 [](https://borderliner.ch)
-
   2002-2007
-
-

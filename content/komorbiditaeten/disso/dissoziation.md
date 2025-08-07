@@ -8,20 +8,14 @@ categories:
 - komorbiditaeten
 slug: dissoziation
 ---
-
-
-
 Dissoziation
-
 Ich habe oft Anfragen in Bezug
 auf die Borderline-Störung gestellt bekommen. "Was ist das manchmal scheint
 sie/ er mir unerreichbar, als ob sie/ er gar nicht da ist? Zwei sind oder "Von
 jetzt auf gleich erscheint sie/ er wie ein vollkommen anderer Mensch, als ob
 sie/ er ein anderer ist?"
-
 Da diese Fragen immer wieder
 auftauchen, möchte ich kurz darauf eingehen.
-
 Nun, zum einen liegt das an der
 Spaltung der Borderliner-Störung, zum anderen dissoziiert der Borderliner aber auch. Dissoziieren,
 das Gegenteil von assoziieren. Der Begriff Dissoziation bezeichnet das ursprüngliche
@@ -33,13 +27,11 @@ Jekill und Mr. Hyde? Ich weiß, das viele von Ihnen, in Ihrem Schmerz, den
 Partner bzw. Ex- Partener (Borderliner) damit vergleichen. Tun Sie das bitte
 nicht. Hier wird die DIS bzw. die multiple Persönlichkeitsstörung dargestellt
 (beruht allerdings auf einen Arzneimittelselbstversuch).
-
 Die Borderlinepersönlichkeit dissoziiert
 in manchen Situationen. Insbesondere in Situationen, die für seine Psyche eine
 enorme, für ihn nicht mehr auszuhaltende, Belastung darstellen oder in denen
 sein Gehirn es ihm gestatten würde, sich an traumatische Erlebnisse in der
 Kindheit zu erinnern (z.Bsp. Sexueller, inzestuöser Missbrauch).
-
 Zum anderen wissen wir ja
 bereits, dass der Borderliner durch seine ICH- Fragmente kein klares Identitätsbild
 von sich hat. Das ist keine Identitätsstörung. Die Dissoziation ist
@@ -47,10 +39,8 @@ zuerst einmal eine Schutzfunktion für den Borderliner / in der
 Borderline-Störung. Diese Schutzfunktion
 wird nicht bewusst geschaltet, sondern ist ein Teil eines erlernten
 Schutzprogramms.
-
 Für den Borderliner ist es
 nicht einfach, Ihnen Zustände, an die er sich nicht erinnert, zu erklären.
-
 Ein kurzer Abschweif, da nicht
 näher auf die DIS ( dissoziative Identitätsstörung) bzw. multiple Persönlichkeitsstörung
 und die posttraumatische Belastungsstörung eingegangen werden soll. Viele
@@ -62,7 +52,6 @@ auch die Borderline-Störung schwer zu diagnostizieren sind. Weiterhin sind
 manche Fachleute der Meinung, dass die Wirklichkeit dieser Menschen in den
 jetzigen Diagnosen jeweils nur zu zwei Drittel beschrieben wird. Gut, das soll
 uns jetzt hier nicht weiter stören.
-
 Zurück zur Dissoziation des
 Borderliners. Zu betonen ist, dass nicht alle Borderliner dissoziieren.
 Das liegt vielleicht daran, dass nicht alle im wiederholten oder gleichen Ausmaß
@@ -76,7 +65,6 @@ sich" . Allerdings haben beide eines gemeinsam. Das Verhalten kann, für uns
 nicht ersichtlich, aus welchem Grund, von der einen auf die andere Minute plötzlich
 umschlagen, als ob es ein ganz anderer Mensch ist. Das Bewusstsein zieht sich
 zurück um den überwältigenden negativen Emotionen zu entkommen.
-
 Folgen dieser Schutzreaktion
 sind dann (das ist normal für dieser Art der Schutzreaktion) drängende beängstigende
 Erinnerungsbilder, sogenannte Flahbacks. Flashbacks sind wiederum
@@ -97,5 +85,3 @@ zu erschaffen. Der Schutzraum der inneren Wirklichkeit besteht ohne Therapie fü
 immer. Es ist somit nicht verwunderlich, dass der Borderliner (Borderline-Störung), der nur
 allzu oft
 ein Traumaopfer ist, schon in leichten Krisensituationen dissoziiert.
-
-

@@ -8,15 +8,9 @@ categories:
 - borderline
 slug: stress-border1a1
 ---
-
-
-
 Die Dis-Stressantwort des Körpers
-
 [](https://borderliner.ch)
-
 Legende:
-
 (1) Im Thalamus laufen die
 Nervenstränge der Sinnesorgane zusammen. Bei Gefahr aktiviert dieser den
 emotionalen Wächter, die [Amygdala](https://borderliner.ch/gehirn/gehirn.htm#Amygdala) (Mandelkern). Dieser wiederum aktiviert über den
@@ -26,7 +20,6 @@ Hypophysenvorderlappen frei, und somit wird die HPA-Achse (die biochemische
 Stressachse beim Menschen) aktiviert. HPA steht für Hypothalamus (Hormon=CRH)
 --> Pituitary ( [Hypophyse](https://borderliner.ch/gehirn/gehirn.htm#Hypohyse) ,
 Hormon = ATCH) --> adrenal cortex (Nebenniere, Hormon = Glucokordicoide).
-
 Aktiviert
 werden vereinfacht gesagt (3) Adrenalin, Noradrenalin, Anstieg
 Blutzuckerspiegel (Freisetzung von Energie = Gluconeogenese /
@@ -37,14 +30,11 @@ Fresszellen (T-Lymphozyten und B-Lymphozyten) (6) , wird aktiviert. Die
 Muskeln verbrennen Fettsäuren statt Zucker, Verdauungsorgane drosseln ihren
 Energieverbrauch, Hunger, Durst, Sexualtrieb werden wenn es sein muß bis auf
 den Nullpunkt herunter gefahren (5) .
-
 Im
 Prinzip wird eine ganze Hormonkaskade in Gang gesetzt.
-
 Jeder
 kann sich nun ausrechnen was im Körper passiert bei lang andauernden Dys-Stress
 oder in kurzer Folge gehäuft auftretenden Dys-Stress.
-
 Allein
 das Immunsystem kollabiert früher oder später da sich die Abwehrzellen
 irgendwann nicht mehr gegen vorhandene Eindringlinge wenden (die ja im Falles
@@ -52,12 +42,10 @@ einer Borderline-Beziehung immunologisch de facto nicht vorhanden sind, sondern
 gegen "imaginäre" Eindringlinge (eigene Zellen) richten. Anders
 ausgedrückt es zerstört sich selber und in Folge das Lymphsystem.
 (Lymphdrüsenkrebs)
-
 Das Sie in einer Borderline-Beziehung mehr
 Dys-Stress haben wie Eu-Stress, haben wir bereits festgestellt. Insofern möchte
 ich noch einmal kurz auf den, zumindest nach dem 1/3 der Beziehung, erhöhten
 Cortisolspiegel eingehen.
-
 Das sie durch den permanent erhöhten
 Cortisolspiegel krank werden, ihr Immunssystem massiv geschwächt wird steht
 ausser Zweifel. Möglicherweise haben Sie bemerkt, dass sie ca. ab den letzten
@@ -68,19 +56,13 @@ langanhaltenden Gedächtnislücken, genau wie bei dem posttraumatischen
 Belastungssyndrom. Auch weitere Symptome wie Schlafstörungen, wechselnde
 unkontrollierte Flashbacks, innere Unruhe, oder allein die Unfähigkeit die
 chaotischen Erinnerungsfetzen in einen Zusammenhang zu bringen sind gleich.
-
 Im Prinzip kann man die Auswirkung durch
 die psychische Belastung, wie auch die biochemische Belastung in einer
 Borderline-Beziehung durchaus mit einer posttraumatischen Belastungsstörung
 gleich setzen.
-
 Wundern sie sich also nicht wenn Ihre
 Gedächtnislücken innerhalb und nach der Beziehung massiv zugenommen haben. Es
 vergeht wieder, sofern sie nicht in die Rückfallfalle laufen oder sich einem
 andern Borderliner zu wenden. Nun verklagen sie Ihren Borderliner nicht gleich
 auf "seelische Körperverletzung" auch wenn dieser das (versucht), [in
 seinem Hass, mit Ihnen zu machen](https://borderliner.ch/trennung/was_ihnen_passieren_kann.htm) .
-
-©
-
-

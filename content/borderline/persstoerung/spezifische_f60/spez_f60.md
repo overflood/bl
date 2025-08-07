@@ -8,8 +8,5 @@ categories:
 - borderline
 slug: spez_f60
 ---
-
-
 Sorry, your browser doesn't support Java(tm).
-
 [](http://www.anfyteam.com)

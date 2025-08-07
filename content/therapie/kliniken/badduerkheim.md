@@ -8,12 +8,8 @@ categories:
 - therapie
 slug: badduerkheim
 ---
-
-
-
 Die Psychosomatische Fachklinik
 Bad Dürkheim
-
 Die Psychosomatische Fachklinik
 Bad Dürkheim wurde als Einrichtung für stationäre Psychotherapie und
 psychosomatische Rehabilitation konzipiert und im April 1981 eröffnet. Die
@@ -22,10 +18,8 @@ städtischen Leben verbunden. Bei ihrer Planung wurden nicht nur
 standortbezogene Überlegungen berücksichtigt, auch die architektonische
 Gestaltung des Gebäudes diente dem Ziel, möglichst günstige Bedingungen für
 aktivierende und kommunikationsfördernde therapeutische Prozesse zu schaffen.
-
 Das
 Behandlungskonzept der Klinik
-
 Das Behandlungskonzept der Klinik
 basiert auf den wissenschaftlich fundierten, empirisch überprüften Verfahren
 der Verhaltenstherapie und Verhaltensmedizin, wie sie mit breiter Indikation in
@@ -33,7 +27,6 @@ der Psychosomatik, der klinischen Psychologie, der Psychiatrie und der
 Allgemeinmedizin eingesetzt werden. Für die Konzeption, medizinische und
 lerntheoretisch begründete psychologische Erkenntnisse plausibel miteinander zu
 verknüpfen, hat sich auch der Begriff "Verhaltensmedizin" etabliert.
-
 Nach einer angemessenen
 organmedizinischen Diagnostik führt der Bezugstherapeut mit dem Patienten eine
 verhaltensanalytisch orientierte Exploration der Symptomatik, ihrer
@@ -47,15 +40,12 @@ spezifischen Fähigkeiten und Kompetenzen zu fördern, die für die adäquate
 Bewältigung solcher Anforderungen im Hier und Jetzt notwendig sind. Ziel jeder
 Behandlung ist die erfolgreiche medizinische, psychosoziale und berufliche
 Rehabilitation unserer Patienten.
-
 Indikationen
 und Kontraindikationen
-
 Innerhalb der zum ganzheitlichen
 Therapieverständnis der Verhaltensmedizin gehörenden Breite der
 Aufgabenbereiche haben sich in der Psychosomatischen Fachklinik Bad Dürkheim
 die nachfolgenden Hauptindikationen entwickelt:
-
 - Psychoreaktive Störungen
     (Neurosen, Belastungs- und Anpassungsstörungen, somatoforme Störungen) wie
     beispielsweise Depressionen, Angsterkrankungen, Zwangsstörungen,
@@ -72,10 +62,8 @@ die nachfolgenden Hauptindikationen entwickelt:
     Erkrankungen wie beispielsweise Multipler Sklerose, Diabetes mellitus,
     Krebserkrankungen, chronischem Gelenkrheuma oder nach Unfällen mit
     bleibender körperlicher Behinderung.
-
 Ein Behandlungsangebot kann nicht
 erfolgen, bzw. es besteht eine Kontraindikation bei folgenden Gegebenheiten:
-
 - Patienten mit erheblicher
     Minderbegabung oder ausgeprägter hirnorganischer Beeinträchtigung -
     Patienten also, die einen therapeutischen Veränderungsprozess nicht aktiv
@@ -101,11 +89,9 @@ erfolgen, bzw. es besteht eine Kontraindikation bei folgenden Gegebenheiten:
     Über die Behandlungsmöglichkeiten für nicht gehfähige oder anderweitig körperlich
     behinderte Patienten kann im Rahmen eines ambulanten Vorgesprächs
     entschieden werden.
-
 Das
 Behandlungskonzept für Patienten mit Borderline-Persönlichkeitsstörungen und
 anderen Persönlichkeitsstörungen
-
 Die Psychosomatische Fachklinik
 Bad Dürkheim beschäftigt sich seit über 20 Jahren intensiv mit klinischen und
 wissenschaftlichen Fragestellungen zur Diagnostik und Behandlung von Persönlichkeitsstörungen.
@@ -117,7 +103,6 @@ Unser Behandlungskonzept ist an den neueren Entwicklungen der kognitiven
 Verhaltenstherapie und insbesondere an den schematherapeutischen Ansätzen von
 A. Beck und J. E. Young und an der dialektisch-behavioralen Therapie der
 Borderline-Persönlichkeitsstörung von M. M. Linehan orientiert.
-
 Die Behandlungsmaßnahmen für
 Patienten mit Persönlichkeitsstörungen werden im Rahmen einer multimodalen und
 adaptiven therapeutischen Gesamtstrategie entwickelt, die sich an den
@@ -130,12 +115,8 @@ und Vorträgen, Partner- und Familiengespräche, sozio-, sport- und
 ergotherapeutische Angebote sowie medizinische und physiotherapeutische
 Interventionen haben je nach Problemstellung und Phase im Behandlungsverlauf
 einen wechselnden, aber grundsätzlich gleichgewichtigen Anteil.
-
 Für
 Fragen stehen  folgende Ansprechpartner zur Verfügung:
-
 Dr. Bernt Schmitz Fachklinik Bad Dürkheim Kurbrunnenstr. 12 67098 Bad Dürkheim Telefon  06322 934-0 Telefax  06322 934-266
-
 zur
 Klinik [www.ahg.de/duerkheim](http://www.ahg.de/duerkheim)
-

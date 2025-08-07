@@ -1,6 +1,6 @@
 baseURL = "https://borderliner.ch/"
 languageCode = "de-ch"
-title = "Borderliner.ch – Informationen zur Borderline-Störung"
+title = "Borderliner.ch"
 theme = "ananke"
 
 [taxonomies]

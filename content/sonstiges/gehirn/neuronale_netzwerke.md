@@ -8,10 +8,4 @@ categories:
 - sonstiges
 slug: neuronale_netzwerke
 ---
-
-
-
-
 Ausbildung neuronaler Netzwerke
-
-

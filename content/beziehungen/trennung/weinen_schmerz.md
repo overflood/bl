@@ -8,23 +8,15 @@ categories:
 - beziehungen
 slug: weinen_schmerz
 ---
-
-
-
-
 Der Sex der
 Versöhnung
-
 oder
-
 Das erneute
 Herstellen der Symbiose
-
 Wieder einmal hatten Sie den wundervollsten Sex, die
 absolute Verschmelzung. Ihr Borderliner liegt neben Ihnen und ist urplötzlich
 in Tränen ausgebrochen. Herzzerreißendes Schluchzen. Keine Traurigkeit, Tränen
 des Glücks, das sehen Sie.
-
 "Wieder ein Stück Mauer eingebrochen", sagt er (der
 Borderliner) mehr zu sich, als zu Ihnen. In diesem Satz steckt nicht nur eine
 Information, sondern hunderte. Das gesamte Spektrum der Zerrissenheit, das ganze
@@ -34,7 +26,6 @@ aufzubauen und aufrecht zu erhalten. Jetzt kommen Sie daher und sprengen diese
 Stück für Stück weg. Durch diese Bruchstellen ergießt sich jetzt der
 Urschmerz seiner gequälten kindlichen Seele, den er nur durch seinen Hass
 unterdrücken konnte, in sein Innerstes.
-
 Dafür liebt er Sie, denn das ist für ihn wahre Liebe.
 Gleichzeitig hasst er Sie dafür, weil er Angst hat (verschlungen werden,
 verlassen werden). Wie bereits beschrieben, ist Hass nicht das Gegenteil von
@@ -46,7 +37,6 @@ und Geborgenheit, die der Borderliner nie hatten, bzw. nur teilweise ambivalent.
 Das gleichzeitige Wissen, dass dieser Zustand nur den Moment haltbar ist, die
 Hoffnung, ihn doch halten zu können. Das Wissen, ihn zerstören zu müssen, um
 überleben zu können, zerreißt ihn förmlich.
-
 Dieser Schmerz, diese Schönheit
 ist für ihn so überwältigend, so grenzenlos in seiner Intensität, dass er
 die tiefsten Winkel seiner Seele berührt und es ihn in Form der Tränen förmlich
@@ -64,10 +54,8 @@ dieses "Glück" halten zu wollen, das Wissen um sein "Ich", die
 Erfahrung, dass es "DAS" doch gibt, sind für den Borderliner geradezu
 schockierend. Im Borderliner tobt also ein verzweifelter Kampf und er weiß,
 dass seine Angst wieder siegen wird.
-
 Wir können also sagen, dass die Tränen Ausdruck dieses
 Kampfes ist.
-
 Diese Empfindungen werden später vom Borderliner als schöne
 Momente bezeichnet. Sicher, eine lapidare Umschreibung dessen, doch wie bereits
 erwähnt, kann der Borderliner (die Borderline-Störung) durch die [Spaltung](https://borderliner.ch/spaltung/spaltung.html) später keine gefühlsmäßige
@@ -75,7 +63,6 @@ Beziehung in der Erinnerung herstellen. Er "weiß" nur, dass es schön war.
 Gleichzeitig ist aber das Wort "Momente" beim Borderliner eine Abwertung
 ("es waren doch nur Momente, ja es gab Momente da war ich glücklich
 ") -- hören Sie in oder nach der Trennung.
-
 Wie wir ja wissen, strebt er danach, den eben beschriebenen Zustand permanent
 aufrecht erhalten zu können. Verantwortlich sind dafür bitte schön Sie . Der
 Borderliner hat vielleicht mal irgendwo gelesen, dass Gefühle sich in normalen
@@ -86,7 +73,6 @@ Liebesentzug bezichtigt. Noch dazu unterstellt er Ihnen, dass Sie das alles
 wissentlich und berechnend steuern, um ihn zu quälen (Sie können ihm tausend
 mal erklären, dass dem nicht so ist, er glaubt Ihnen sowieso nicht. Auch dann
 nicht, wenn er Ihnen zu verstehen gibt, dass er Ihnen glaubt).
-
 Und da die Verantwortung bei Ihnen liegt (so sieht er es),
 sind Sie ein regelrecht böser Mensch. Für böse setzt der Borderliner später,
 vor allen anderen gegenüber, jede x- beliebige Bezeichnung ein. Das geht vom
@@ -102,13 +88,11 @@ Schlussfolgerung kann ein solcher Mensch gar nicht wirklich lieben. Ergo ist der
 Beweis geliefert und des Borderliners Sichtweise bestätigt. Hie muss allerdings
 gesagt werden, dass der Borderliner nicht unbedingt unrecht haben muss, denn die
 vom Borderliner gesehene Verhaltensweise trifft ohne Weiteres auf die narzisstische Persönlichkeitsstörung (wenn stark ausgebildet) zu.
-
 Da die [narzisstische](https://borderliner.ch/narz/narz1.html) [Persönlichkeitsstörung](https://borderliner.ch/narz/narz1.html) eine [Komplementstörung](../kompstoerung/komplimentaerstoerungen.htm) zur [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ist und der Borderliner sich nur
 zu gern den Narzissten
 sucht, kann die beschriebene Sichtweise des Borderliners durchaus Relevanz
 haben. In diesem Abschnitt allerdings ist nicht die narzisstische Störung
 beschrieben, sondern die Sichtweise des Borderliners. Er sieht alle Beziehungspartner bzw. Ex- Partner so.
-
 Und jetzt vergleichen Sie alles wieder mit dem kleinen
 Kind, wie wir es schon öfter getan haben. "Kleines Kind" bezieht sich hier
 auf die emotionale Entwicklungsstufe des Borderliners. Was passiert, wenn Sie
@@ -119,7 +103,4 @@ zufrieden" einzuschlafen. Natürlich muss die Brust beim Aufwachen prallgefüllt
 und uneingeschränkt zur Verfügung stehen. So verhält es sich beim Borderliner.
 Was für das Baby die Brust ist, sind für den Borderliner Beziehungen. Richtig
 gelesen, Beziehungen (High- Level, volle Brust). Für ihn sind sie überlebensnotwendig.
-
 2005-2007
-
-

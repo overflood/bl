@@ -8,17 +8,11 @@ categories:
 - komorbiditaeten
 slug: ads
 ---
-
-
-
 Was ist ADS / ADHS ??
-
 Ich weiß nicht,
 wer ich bin. Ich komme nirgendwo zurecht.
-
 Ich ecke überall
 an. Immer bin "ich" schuld, weiß aber gar nicht warum.
-
 Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADS) (ADHS), das H
         steht für das Hyperaktiv) ist eine bereits im Kindesalter beginnende Störung,
         (keine Persönlichkeitsstörung) die primär durch starke Ablenkbarkeit und geringes
@@ -31,31 +25,25 @@ Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADS) (ADHS), das H
         gesteigertem Tatendrang. Der Betroffene muss ständig etwas tun. Anders
         gesagt "er dreht den ganzen Tag wie ein Brummkreisel und kommt kaum
         oder nicht zur Ruhe") auf.
-
 In der Regel tritt das ADS gehäuft bei Frauen und das ADHS
 bei Männern auf. Dies mag an dem erhötem Testosteronwert der Männer
 gegenüber den Frauen liegen. Die Ursachen sind bis heute noch nicht, bzw. nur
 Teilweise geklärt.
-
 Untersuchungen ergaben das ca. 4% aller Kinder unter
         die Diagnose ADS oder ADHS fallen. Jungen (das liegt an der
         Verhaltensauffälligkeit durch die Hyperaktivität) werden dreimal häufiger diagnostiziert als
         Mädchen.
-
 Faktum ist das für ADS wie auch ADHS eine biochemische
 Störung des Hirnstoffwechsels die Grundlage ist.
-
 Fachleute gehen davon aus das ADS / ADHS
         hauptsächlich ein genetisch bedingtes Störungsbild ist, welches auf
         neurobiochemischer Ebene unter anderem mit einer striatofrontalen
         Dysfunktion erklärt wird. Für den Verlauf und die Ausprägung des ADS
         / ADHS spielen allerdings auch psychosoziale Faktoren eine
         wichtige Rolle.
-
 Wie auch in der Borderlinestörung ist das Spektrum, d.h. die
 Ausprägung des ADS / ADHS sehr unterschiedlich. Nicht alle Symptome sind bei
 jedem ADS- / ADHS-ler gleichermaßen vorhanden.
-
 Etwas sehr wichtiges muss hier vorab gesagt werden. Die
 Symptome einer ADHS und einer Borderlinestörung können sich (was sehr häufig
 der Fall ist) bis zu 20% überschneiden. Aus diesem Grunde glauben ADHS-ler sehr
@@ -63,35 +51,27 @@ häufig an der Borderlinestörung zu leiden. Diese Selbstdiagnosen mögen noch
 gehen und richten in der Regel auch keinen Schaden an. Ein wesentlich größerer
 Schaden entsteht dadurch das sehr viele ADHS-ler als Borderliner diagnostiziert
 wurden und immer noch werden.
-
 Die ADHS Diagnose ist weit aus schwieriger und wesentlich
 umfangreicher als die Diagnose der Borderlinestörung und die ist schon
 schwierig genug.
-
 Die Fehldiagnosen und dem zufolge die Fehlbehandlungen haben
 schwerwiegende Folgen für die Betroffenen und enden nicht selten im Suizid. Die
 Anzahl der Suizidversuche unter ADHS-lern ist enorm hoch.
-
 Dazu ein kurzer Abriss zur Entwicklung in Deutschland.
-
 Bekannt ist das ADS / ADHS schon sehr lange. Erstmals wurde es
 fachlich 1902 von G. F. Still beschrieben.
-
 Dieser dokumentierte in seinen Praxisnotizen das auffällig trotzige,
 aufbrausende, unaufmerksame sowie überaktive Verhalten einer Reihe von Kindern.
 Der Autor führte das Betragen jener Kinder auf einen sog. defect in moral
 control zurück. Seiner Meinung nach handelte es sich dabei um ein erworbenes
 Störungsbild mit oftmals chronischem Verlauf.
-
 In den 40er und 50er Jahren wurde der Begriff der minimal brain
 dysfunction (minimale cerebrale Dysfunktion, MCD) eingeführt, dessen Konzept
 in erster Linie von organischen Hirnschäden als Ursache für oben beschriebene
 Symptome ausging.
-
 Von dem MCD-Modell wurde zunehmend Abstand genommen, da es z.B. auch Lern-
 oder Sprechstörungen miteinschloss und sich im Rahmen der diagnostischen
 Einordnung als zu unspezifisch erwies.
-
 Anstelle dessen beschrieben spätere Arbeiten von Marwitt (1972) und Safer
 (1976) ein sog. Hyperkinetisches Syndrom, das Symptome wie
 Aufmerksamkeitsdefizit, Hyperaktivität und mangelnde Impulskontrolle umfasst.
@@ -101,48 +81,36 @@ heraus, was 1980 zur Aufnahme des Begriffes Attention-Deficit Disorder (ADD)
 in die DSM-III führte. In der revidierten Fassung der DSM-III-R 1987 wurde das
 Krankheitskonzept des ADD um das Kriterium Hyperaktivität erweitert und
 als Attention-Deficit Hyperactivity Disorder (ADHD/ADHS) definiert.
-
 Der Frankfurt
 Psychiater Dr. Heinrich Hoffmann (* 13. Juni 1809 in Frankfurt am Main;  20.
 September 1894 in Frankfurt am Main)  ist der Verfasser des Struwwelpeters. Ab 1851 war er unter anderem Direktor der städtischen Nervenheilanstalt
 ("Anstalt für Irre und Epileptische") in Frankfurt am Main. Er gilt
 als erster Vertreter der Jugendpsychiatrie.
-
 Wer kennt ihn nicht den Stuwwelpeter? Hoffman beschrieb in seinem ein Kind
 mit dem Namen Zappelphilipp. Ob Hoffman, auf Grundlage seiner Tätigkeit als
 Psychiater und Direktor der damaligen Psychiatrie, definitiv psychische
 Störungsbilder, für einer sogar für Kinder verständlichen Sprache beschrieb
 und es vielleicht später als Hilfe ansah, wissen wir nicht.
-
 Die Entstehung des Buches beruhte nicht auf der Niederlegung von
 Störungsbildern sondern auf einem nicht gefundenem Weihnachtsgeschenk für
 seinen Sohn.
-
 Hoffmann kam schließlich mit einem leeren Schreibheft zurück und
 beschloss, selbst für seinen Sohn ein Bilderbuch zu schreiben bzw. zu zeichnen.
 Das Geschenk hatte die erhoffte Wirkung und erzielte schließlich in Hoffmanns
 Bekanntenkreis großes Aufsehen:
-
 Fakt ist das Hoffman sehr genau 4 Störungsbilder in seinem Buch
 beschrieb.
-
 - den Zappelphilipp für das ADHS
-
 - den Hans Guck in die Luft für das ADS
-
 - den Suppenkasper für die Anorexie
-
 - den Struwwelpeter für das a-soziale / dissoziale Verhalten
-
 Offiziell bekannt ist das ADS / ADHS bzw. die Symptomatik in Deutschland seit
 Mitte der 80iger Jahre. Die Vereinigten Staaten sind uns da mal wieder weit
 voraus, denn dort ist die Symptomatik seit 1949 bekannt und wird seit 1949 in
 den Staaten mit Ritalin behandelt.
-
 Erst am 27.12.2002 einigte sich das Ministerim für Gesundheit auf die
 offizielle Diagnose ADS / ADHS in Deutschland und deren Behandlung, auch für
 Erwachsenen. [(Das PDF-Dokument können Sie hier abrufen)](eckpunkte-pressemitt.pdf)
-
 Wie anfangs in der Borderlinestörung gibt es bis heute
 nur sehr wenige Spezialisten die ADS / ADHS für Erwachsenen einwandfrei
 diagnostizieren können. Das hat und hatte wie bereits oben erwähnt oft eine
@@ -150,69 +118,52 @@ Falschdiagnose (Borderlinepersönlichkeit) zur Folge, zumal bei 60% aller
 Borderlinepersönlichkeiten mit Hilfe der Uthascales im Kindesalter eine ADHS
 nachgewiesen werden konnte und wie bereits erwähnt sich Symptome bis zu 20%
 überschneiden können.
-
 In Deutschland werden Erwachsene leider erst seit 2003
 diagnostiziert (wenn die Diagnose nicht bereits im Kindesalter gestellt wurde).
 Der Leidensweg dieser Betroffenen war, hier haben die
 Borderlinepersönlichkeiten deutlich Vorteile, und ist leider immer noch enorm.
 Ohne weiteres ist Deutschland auf dem Gebiet des AD(H)S bei Erwachsenen ein
 Entwicklungsland.
-
 Die Fakten:
-
 - es gibt für Kinder und Jugendliche eine Unmenge an
     Kliniken die ADS / ADHS beahndeln
-
 - es gibt zum jetzigen Zeitpunkt 5 Fachkliniken (viele sagen zwar das sie AD(H)S behandeln, doch können es nicht, oder tun
     es gar nicht) die definitiv AD(H)S bei Erwachsenen behandeln
-
 - es gibt sehr wenige Spezialisten die ADS / ADHS
     fehlerfrei diagnostizieren können
-
 - spezielle Therapieverfahren die für ADS / ADHS bei
     Erwachsenen entwickelt wurden werden den Kliniken von den Krankenkassen
     nicht bezahlt
-
 - es wird somit auf allgemeine (Verhaltens)
     Therapieverfahren zurückgegriffen und in Kliniken werden zum Bsp. immer
     noch Borderlinepersönlichkeiten und AD(H)S-ler durcheinender
     zusammengewürfelt, welches oft für beide Seiten in Katastrophen endet
-
 - für den Rentenversicherungsträger gibt es ADS /
     ADHS im Erwachsenenalter überhaupt nicht, es ist eine "Modeerscheinung"
     , so wie es die Borderlinestörung am Anfang für den
     Rentenversicherungsträger war
-
 - die Krankenkassen tun sich ungeheuer schwer bei der
     Genehmigung einer stationären AD(H)S- Therapie
-
 - bei der Medikation ( Methylphenidat) gibt es für Erwachsenen fast
     unüberwindliche Probleme von Seiten der Krankenkassen bei der
     Kostenübernahme, obwohl nachweislich eine alleinige Therapie nicht hilft
     und nachweislich nur diese Medikation hilft
-
 - die Testverfahren sind sehr kostspielig und zeitaufwendig
-
 - die wenigsten Ärzte besitzen die notwendige Ausstattung für die
     Testverfahren
-
 - die Wartezeiten, bei entsprechenden Spezialisten, betragen oft bis 18 Monate
-
 Sehr oft tritt das ADS oder ADHS in Form von komorbiden
 Störungen auf. Das heisst, das weitere (wenigstens eine) Störung neben dem ADS
 bzw. ADHS existieren. Es gibt kontroverse Meinungen zur Komorbidität der AD(H)S
 mit der Borderlinestörung.  Einige behaupten das bei Nichtbehandlung des
 AD(H)S sich eine Borderlinestörung entwickeln kann.
-
 Ich persönlich bin der Meinung, dass dies der grösste
 Blödsinn ist, den man schreiben oder publizieren kann. Allenfalls bilden sich starke, und die sind
 meistens sowieso vorhanden,
 Borderlinestrukturen heraus (siehe hierzu Symptome), welches allerdings noch
 lange
-
 keine Diagnose einer komorbiden Borderlinestörung, oder gar die aleinige
   Diagnose einer Borderlinestörung rechtfertigen.
-
 Die 
 			Unterscheidung 
 			zu 
@@ -382,7 +333,6 @@ Die
 			sein. ( H.Wender,
       Adults with ADHD, An Overview,  Annals of the New York Academy of
       Sciences 931:1-16 (2001)
-
 Die 
 			Unterscheidung 
 			zu 
@@ -552,63 +502,42 @@ Die
 			sein. ( H.Wender,
       Adults with ADHD, An Overview,  Annals of the New York Academy of
       Sciences 931:1-16 (2001)
-
 Dazu ein kurzer Abriss
-
 ADS / ADHS |  | Borderline-Persönlichkeitsstörung
-
 nein | ICH-Fragmntierung ? | ja
-
 nein | Spaltung? | ja
-
 nein | niedere
       Abwehrmechanismen | ja
-
 ja | Liebe (wie
       definiert) | nein
-
 nein | kurzer Wechsel 
       von Idealisierung  & Abwertung | ja
-
 nein | frei flottierende
       Angst | ja
-
 nein | tragen von Masken | ja
-
 nein | Lügen als
       Überlebensstrategie | ja
-
 nein | grenzenloser
       pathologischer Hass | ja
-
 nein | innere Leere / sich
       nicht spüren | ja
-
 nein | bewusstes
       Selbstverletzendes Verhalten | ja
-
 nein | Selbstabwertung | ja
-
 nein | Opferrolle um
       geliebt zu werden | ja
-
 ja | steht zu Gesagtem | nein
-
 nein | Partner ist
       prä-ödipale Mutter? | ja
-
 nein | Beziehung wird
       wechselnd abgewertet & idealisiert | ja
-
 nein | Beziehung wird nach
       Beendigung völlig abgewertet | ja / seltener nein
-
 Die Tabelle wäre um ein vielfaches fortzusetzen, doch glaube ich das reicht
 um klar darzulegen das eine komorbide Exestenz der Borderlinestörung bei einem
 AD(H)S - ler nicht möglich ist. Die Tabelle erhebt nicht den Anspruch der
 Vollständigkeit und sagt auch nicht aus das Aufgeführtes zu je 100% bei beiden
 Klassifikationen zutrifft.
-
 Das AD/HS weist eine hohe genetische 
       Prädisposition auf, wobei Zusammenhänge mit Veränderungen der 
 		Noradrenalin- 
@@ -631,7 +560,6 @@ Das AD/HS weist eine hohe genetische
       zwischen 1500 und 2499 Gramm haben haben ein um 90% erhöhtes Risiko, 
       Kinder mit einem Geburtsgewicht von zwischen 2500 und 2999 noch ein 50% 
       erhöhtes Risiko , verglichen mit Kindern von 3kg und mehr.
-
 Trotz genetischer Einflüsse scheint auch das 
       Erziehungsverhalten eine Rolle zu spielen.  Negativ wirken sich das 
       Erziehungsverhalten insbesondere raue Bestrafungen durch die Mutter, nicht 
@@ -684,7 +612,6 @@ AD(H)S
       vielen 
       erheblichen 
       Spätfolgen.
-
 Neuropsychologisch gesehen 
 		handelt 
 		es sich 
@@ -735,7 +662,6 @@ Neuropsychologisch gesehen
 		Balken, 
 		und dem 
 		Kleinhirn.
-
 | Davon sind insbesondere neuronale Regelkreise
         betroffen, die für die Regulation bzw. das Zusammenwirken von
         Motivation, Kognition, Emotion und dem Bewegungsverhalten verantwortlich
@@ -761,7 +687,6 @@ Neuropsychologisch gesehen
   und Noradrenalin)
   in bestimmten Hirnregionen und auf der Verhaltens- bzw. psychischen Ebene zu
   Störungen des Zusammenwirkens der genannten Funktionsbereiche.
-
 | Vereinfachtes Schema der Basalganglien
  - mit Glutamat
 (rot), Dopamin-(blau)
@@ -771,7 +696,6 @@ und GABA  (grün) Abkürzungen SNC Substantia
         pallidus internus; GPE Globus
         pallidus externus; STN Nucleus
         subthalamicus
-
 Vereinfachtes Schema der Basalganglien
  - mit Glutamat
 (rot), Dopamin-(blau)
@@ -781,39 +705,27 @@ und GABA  (grün) Abkürzungen SNC Substantia
         pallidus internus; GPE Globus
         pallidus externus; STN Nucleus
         subthalamicus
-
 Abkürzungen
-
 - SNC Substantia
         nigra  pars compakta;
-
 - SNR Substantia
         nigra  pars reticulata;
-
 - GPI Globus
         pallidus internus;
-
 - GPE Globus
         pallidus externus;
-
 - STN Nucleus
         subthalamicus
-
 SNC Substantia
         nigra  pars compakta;
-
 SNR Substantia
         nigra  pars reticulata;
-
 GPI Globus
         pallidus internus;
-
 GPE Globus
         pallidus externus;
-
 STN Nucleus
         subthalamicus
-
 | Gemeint 
 		ist 
 		damit 
@@ -925,14 +837,12 @@ STN Nucleus
 		Verhaltensrepertoire 
 		ausgewählt 
 		wird.
-
 Gemeint 
 		ist 
 		damit 
 		eine 
 		Störung 
 		des
-
 - Arbeits gedächtnisses mit der 
 		Fähigkeit 
 		geistige 
@@ -963,7 +873,6 @@ Gemeint
 		eingebettet 
 		zu 
 		ordnen.
-
 - Der 
 		Regulation 
 		von Affekten (Gefühlen) 
@@ -983,7 +892,6 @@ Gemeint
 		"vernünftig" 
 		zu 
 		handeln.
-
 - Der 
 		Internalisation 
 		von 
@@ -1019,7 +927,6 @@ Gemeint
 		der 
 		Gesellschaft 
 		folgen
-
 - Der 
 		Herstellung 
 		oder 
@@ -1045,7 +952,6 @@ Gemeint
 		Verhaltensrepertoire 
 		ausgewählt 
 		wird.
-
 Wesentlich 
 		für die 
 		Funktion 
@@ -1154,9 +1060,7 @@ Wesentlich
 		oder zu 
 		Fehlverhalten 
 		führt.
-
 Diagnose
-
 Als Voraussetzung für die Diagnose
         ADHS müssen die Symptome mindestens seit sechs Monaten vorliegen und
         erstmals schon vor dem siebten Lebensjahr aufgetreten sein. Nach Krause
@@ -1171,20 +1075,14 @@ Als Voraussetzung für die Diagnose
         Entwicklungsstörung, keine Schizophrenie
         oder keine andere psychotische
         Störung vorliegen.
-
 ### Klassifizierung nach ICD und DSM
-
 #### ICD-10
-
 ### Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend(F90-F98)
-
 - Störung von Aktivität und Aufmerksamkeit (F90.0) Hyperkinetische Störung mit Störung
             des Sozialverhaltens (F90.1) Andere hyperkinetische Störungen (F90.8 oder
             F.90.9) Aufmerksamkeitsstörung ohne Hyperaktivität
             (F.98.8)
-
 F90 |  | Hyperkinetische Störungen
-
 |  | Diese Gruppe von Störungen ist 
       charakterisiert durch einen frühen Beginn, meist in den ersten fünf 
       Lebensjahren, einen Mangel an Ausdauer bei Beschäftigungen, die kognitiven 
@@ -1201,35 +1099,24 @@ F90 |  | Hyperkinetische Störungen
       Verzögerungen der motorischen und sprachlichen Entwicklung kommen 
       überproportional oft vor. Sekundäre Komplikationen sind dissoziales 
       Verhalten und niedriges Selbstwertgefühl.
-
 |  | Exkl.: | Affektive Störungen 
       Angststörungen Schizophrenie Tiefgreifende Entwicklungsstörungen
-
 F90.0 |  | Einfache Aktivitäts- und 
       Aufmerksamkeitsstörung
-
 |  | Aufmerksamkeitsdefizit bei: · hyperaktivem Syndrom · Hyperaktivitätsstörung · Störung mit Hyperaktivität
-
 |  | Exkl.: | Hyperkinetische Störung des 
       Sozialverhaltens
-
 F90.1 |  | Hyperkinetische Störung des 
       Sozialverhaltens
-
 |  | Hyperkinetische Störung 
       verbunden mit Störung des Sozialverhaltens
-
 F90.8 |  | Sonstige hyperkinetische 
       Störungen
-
 F90.9 |  | Hyperkinetische Störung, nicht 
       näher bezeichnet
-
 |  | Hyperkinetische Reaktion der 
       Kindheit oder des Jugendalters o.n.A. Hyperkinetisches Syndrom o.n.A.
-
 Aufmerksamkeitsdefizit bei: · hyperaktivem Syndrom · Hyperaktivitätsstörung · Störung mit Hyperaktivität
-
 Durch ihre motorische Hyperaktivität fallen die
         beiden ersten Typen mit Aufmerksamkeitsdefizitstörung eher auf als der
         nach außen nicht hyperkinetisch wirkende, unaufmerksame Typus. Dieser
@@ -1240,12 +1127,10 @@ Durch ihre motorische Hyperaktivität fallen die
         oder im Beruf. Es wird vermutet, dass Mädchen in dieser Gruppe stärker
         vertreten sind als in den beiden anderen und deshalb seltener
         diagnostiziert werden. Von Frau Dr. Simchen wird der Begriff Hypoaktiv für den unaufmerksamen Typ der ADS benutzt.
-
 A. In Bezug auf Alter und Entwicklungsstand
         nachweisbare Abnormität von Aufmerksamkeit und Aktivität zu Hause.
         Gekennzeichnet durch mindestens drei dieser
         Aufmerksamkeitsschwierigkeiten:
-
 1. Kurze Dauer spontaner Aktivitäten. Mangelnde Ausdauer beim Spielen. Überhäufiges Wechseln zwischen verschiedenen
             Aktivitäten. Stark beeinträchtigte Ausdauer bei der Bewältigung
             von Aufgaben, die von Erwachsenen gestellt werden. Ungewöhnlich hohe Ablenkbarkeit während
@@ -1255,12 +1140,10 @@ A. In Bezug auf Alter und Entwicklungsstand
             Situationen, die relative Ruhe verlangen (wie z. B. Mahlzeiten,
             Reisen, Besuche, Gottesdienst). Schwierigkeiten, sitzen zu bleiben, wenn es
             verlangt wird.
-
 B. In Bezug auf Alter und Entwicklungsstand
         nachweisbare Abnormität von Aufmerksamkeit und Aktivität im
         Kindergarten oder in der Schule (falls zutreffend). Gekennzeichnet durch
         mindestens drei dieser Aufmerksamkeitsschwierigkeiten:
-
 1. Außergewöhnlich geringe Ausdauer bei der Bewältigung
             von Aufgaben. Außergewöhnlich hohe Ablenkbarkeit, d.h. häufiges
             Zuwenden zu externen Stimuli. Überhäufiger Wechsel zwischen verschiedenen
@@ -1270,7 +1153,6 @@ B. In Bezug auf Alter und Entwicklungsstand
             motorische Unruhe in strukturierten Situationen. Extrem viel Nebenaktivitäten bei der Erledigung
             von Aufgaben. Fehlende Fähigkeit, auf dem Stuhl sitzenbleiben zu
             können, wenn es verlangt wird.
-
 Daneben darf es sich nicht um eine tiefgreifende
         Entwicklungsstörung (F84), Manie
         (F30), Depression
@@ -1278,19 +1160,15 @@ Daneben darf es sich nicht um eine tiefgreifende
         (F41) handeln, die Symptomatik
         sollte vor dem 6. Lebensjahr beginnen und mindestens 6 Monate andauern
         und der IQ muss einen Wert von 50 überschreiten.
-
 #### DSM-IV
-
 Das Diagnostische Manual DSM-IV unterteilt in drei
         ADS-Erscheinungsbilder:
-
 - ADS, kombinierter Typ (häufigste Erscheinungsform
             mit allen drei Kernsymptomen) (314.01) ADS, vorwiegend hyperaktiv-impulsiver Typ (primär
             Hyperaktivität und Impulsivität, geringe Aufmerksamkeitsstörung)
             (314.01) ADS, vorwiegend unaufmerksamer Typ (primär
             Aufmerksamkeitsstörung, geringe Hyperaktivität und Impulsivität)
             (314.00)
-
 Durch ihre motorische Hyperaktivität fallen die
         beiden ersten Typen mit Aufmerksamkeitsdefizitstörung eher auf als der
         nach außen nicht hyperkinetisch wirkende, unaufmerksame Typus. Dieser
@@ -1301,117 +1179,84 @@ Durch ihre motorische Hyperaktivität fallen die
         oder im Beruf. Es wird vermutet, dass Mädchen in dieser Gruppe stärker
         vertreten sind als in den beiden anderen und deshalb seltener
         diagnostiziert werden. Von Frau Dr. Simchen wird der Begriff Hypoaktiv für den unaufmerksamen Typ der ADS benutzt.
-
 A1 Unaufmerksamkeit Sechs (oder mehr) der folgenden Symptome von Unaufmerksamkeit sind während 
       der letzten sechs Monate in einem mit dem Entwicklungsstand des Kindes 
       nicht zu vereinbarenden und unangemessen Ausmaß vorhanden gewesen:
-
 - beachtet häufig Einzelheiten nicht oder macht Flüchtigkeitsfehler 
         bei den Schularbeiten, bei der Arbeit oder bei anderen Tätigkeiten
-
 - hat oft Schwierigkeiten, längere Zeit die Aufmerksamkeit bei 
         Aufgaben oder beim Spielen aufrechtzuerhalten
-
 - scheint häufig nicht zuzuhören, wenn andere ihn/sie ansprechen
-
 - führt häufig Anweisungen anderer nicht vollständig durch und kann 
         Schularbeiten, andere Arbeiten oder Pflichten am Arbeitsplatz nicht zu 
         Ende bringen (nicht aufgrund oppositionellem Verhaltens oder 
         Verständigungsschwierigkeiten)
-
 - hat häufig Schwierigkeiten, Aufgaben und Aktivitäten zu organisieren
-
 - vermeidet häufig, oder hat eine Abneigung gegen oder beschäftigt 
         sich häufig nur widerwillig mit Aufgaben, die länger dauernde geistige 
         Anstrengungen erfordern (wie Mitarbeit im Unterricht oder Hausaufgaben)
-
 - verliert häufig Gegenstände, die für Aufgaben oder Aktivitäten 
         benötigt werden (z.B. Spielsachen, Hausaufgabenhefte, Stifte, Bücher 
         oder Werkzeug)
-
 - lässt sich oft durch äußere Reize leicht ablenken
-
 - ist bei Alltagstätigkeiten häufig vergesslich
-
 A2 Hyperaktivität und Impulsivität Sechs (oder mehr) der folgenden Symptome der Hyperaktivität und 
       Impulsivität sind während der letzten sechs Monate beständig in einem mit 
       dem Entwicklungsstand des Kindes nicht zu vereinbarenden und 
       unangemessenen Ausmaß vorhanden gewesen:
-
 Hyperaktivität
-
 - zappelt häufig mit Händen oder Füssen oder rutscht auf dem Stuhl 
         herum
-
 - steht in der Klasse oder in Situationen, in denen Sitzen bleiben 
         erwartet wird, häufig auf
-
 - läuft herum oder klettert exzessiv in Situationen, in denen dies 
         unpassend ist (bei Jugendlichen oder Erwachsenen kann dies auf ein 
         subjektives Unruhegefühl beschränkt bleiben)
-
 - hat häufig Schwierigkeiten, ruhig zu spielen oder sich mit 
         Freizeitaktivitäten ruhig zu beschäftigen
-
 - ist häufig "auf Achse" oder handelt oftmals, als wäre er/sie 
         "getrieben"
-
 - redet häufig übermäßig viel
-
 Impulsivität
-
 - platzt häufig mit Antworten heraus, bevor die Frage zu Ende gestellt 
         ist
-
 - kann nur schwer warten, bis er/sie an der Reihe ist
-
 - unterbricht und stört andere häufig (platzt z.B. in Gespräche oder 
         Spiele anderer hinein)
-
 B Einige Symptome der Hyperaktivität-Impulsivität oder Unaufmerksamkeit, 
       die Beeinträchtigungen verursachen, treten bereits vor dem Alter von 
       sieben Jahren auf
-
 C Beeinträchtigungen durch diese Symptome zeigen sich in zwei oder mehr 
       Bereichen (z.B. in der Schule bzw. am Arbeitsplatz und zu Hause)
-
 D Es müssen deutliche Hinweise auf klinisch bedeutsame Beeinträchtigungen 
       in sozialen, schulischen oder beruflichen Funktionsbereichen vorhanden 
       sein
-
 E Die Symptome treten nicht ausschließlich im Verlauf einer sog. 
       tief greifenden Entwicklungsstörung, einer Schizophrenie oder einer anderen 
       psychotischen Störung auf und können auch nicht durch eine andere 
       psychische Störung besser erklärt werden (z.B. Affektive Störung, 
       Angststörung, Dissoziative Störung oder eine Persönlichkeitsstörung)
-
 Subtypen:
-
 - TYP 1: Wenn die Kriterien A1 und A2 während der letzten sechs 
         Monate erfüllt waren: DSM-IV 314.01 (ICD-10 F90.00) 
         Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung, Mischtypus
-
 - TYP 2: Wenn Kriterium A1, nicht aber Kriterium A2 während der 
         letzten sechs Monate erfüllt war: DSM-IV 314.0 (ICD-10 F98.8) 
         Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung, Vorwiegend 
         Unaufmerksamer Typus
-
 - TYP 3: Wenn Kriterium A2, nicht aber Kriterium A1 während der 
         letzten sechs Monate erfüllt war: DSM-IV 314.O1 (ICD-10 F90.1) 
         Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung, Vorwiegend 
         hyperaktiv-impulsiver Typus
-
 - Bei Personen (besonders Jugendlichen und Erwachsenen), die zum 
         gegenwärtigen Zeitpunkt ADHS-Symptome zeigen, aber nicht mehr alle 
         Kriterien erfüllen, wird "teilremittiert" spezifiziert.
-
 Das 
 Alterskriterium 
 wird durch 
 neuere Studien 
 in Frage 
 gestellt
-
 Wie oben 
 ersichtlich 
 ist, verlangt 
@@ -1425,9 +1270,7 @@ damit die
 Diagnose 
 gestellt werden 
 kann.
-
 Dies verlangen im übrigen auch die deutsche Leitlinien (Krankenkassen).
-
 Diese 
 Einteilung wird mittlerweile häufig angezweifelt. 
 Neuere Studien 
@@ -1497,7 +1340,6 @@ diagnostische
 Schwelle 
 überschritten 
 wird.
-
 ADHS muss 
 derzeit 
 definitionsgemäß 
@@ -1534,7 +1376,6 @@ in
 verschiedenen 
 Lebensbereichen 
 führen.
-
 ADHS 
 		Diffenzialdiagnosen 
 		und 
@@ -1548,60 +1389,35 @@ ADHS
 		Alkoholsyndrom Mangelernährung/ Hypoglykämie Phenyketonurie Posttraumatische
         Belastungsstörung Persönlichkeitsstörung Borderline-Persönlichkeitsstörung Intelligenzmangel/geistiger Behinderung isolierte
 		Lese- 
-
 - Seh- und Hörstörungen
-
 - Absence- 
 		Epilepsie
-
 - Schädel- Hirn- Trauma /Enzephalitis/ Chorea Minor, andere Hirnschäden,
         degenerative Hirnerkrankungen
-
 - Angstkrankheiten
-
 - Schlafmangel
-
 - Depression 
 		/Manie
-
 - Vernachlässigung/ Misshandlung /zerrüttete, chaotische Familien
-
 - Tourette- 
 		Störung
-
 - Medikamenten NW / Drogen/ Schwermetallvergiftung
-
 - Fragiles 
 		X 
 		Syndrom
-
 - Schilddrüsenüberfunktion
-
 - fetales 
 		Alkoholsyndrom
-
 - Mangelernährung/ Hypoglykämie
-
 - Phenyketonurie
-
 - Posttraumatische
         Belastungsstörung
-
 - Persönlichkeitsstörung
-
 - Borderline-Persönlichkeitsstörung
-
 - Intelligenzmangel/geistiger Behinderung
-
 - isolierte
 		Lese- 
 		Rechtschreibschwäche
-
 - Schizophrenie
-
 - Hirntumor
-
 - Reyesyndrom
-
-
-

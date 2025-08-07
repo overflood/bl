@@ -8,14 +8,9 @@ categories:
 - therapie
 slug: bailant
 ---
-
-
-
 Michael-Balint-Klinik
-
 Fachklinik für Psychosomatik
 und Ganzheitsmedizin
-
 Für Patienten mit emotional-instabiler Persönlichkeit
 vom Borderline-Typus bieten wir seit dem Beginn des Jahres 1997 ein
 Behandlungsprogramm an, das sich in wesentlichen Zügen an das Konzept von
@@ -32,7 +27,6 @@ riskante Lebensweise, Suizidgedanken etc.). Mit dieser Störung verbunden sind
 weiterhin ständige Fragen, wer man eigentlich sei, Leeregefühle, schwierige
 Beziehungsgestaltung und starke Stimmungsschwankungen u.a.m.. Die Diagnose für dieses Störungsbild kann nur von Fachleuten gestellt werden! Das Behandlungsprogramm beinhaltet neben den Einzelgesprächen verschiedene
 Gruppentherapien, hierzu gehören
-
 - eine Basisgruppe, die
     über die Form der Störung im allgemeinen und im Einzelfall informiert ein Skills-Training (Fertigkeiten-Training),
     in dem Bewältigungsmöglichkeiten für Spannungszustände sowie neue Formen
@@ -42,17 +36,11 @@ Gruppentherapien, hierzu gehören
     Gestaltungstherapie, bei der in kreativer Form Ausdrucksmöglichkeiten der
     inneren Verfassung gefunden werden können, und eine Shiatsu-Gruppe,
     in der körperlicher Selbstausdruck und Selbstbewusstsein erprobt werden.
-
 Bei Interesse an einer
 Behandlung ist eine vorherige Kontaktaufnahme des am Heimatort behandelnden
 Arztes und/oder Therapeuten mit uns notwendig. Ein Vorgespräch in unserer
 Klinik findet obligatorisch statt und soll sowohl diagnostische Klarheit als
 auch ein gegenseitiges Kennenlernen vor der Aufnahme ermöglichen.
-
 Michael-Balint-Klinik Hermann-Voland-Str. 10 78126 Königsfeld im Schwarzwald
-
 Telefon: 07725 - 932- 0 07725 -
 932
-
-[www.michael-balint-klinik.de](http://www.michael-balint-klinik.de) [info@michael-balint-klinik.de](mailto:info@michael-balint-klinik.de)
-

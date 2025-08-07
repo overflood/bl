@@ -8,29 +8,21 @@ categories:
 - beziehungen
 slug: fallbeispiel_m3
 ---
-
-
-
 M. merkte sehr schnell das diese Dinge
 nur kurzfristig helfen. In dieser Zeit griff sie auch kurzfristig auf eine
 Heirat zurück deren Dauer leider 8 Wochen nicht überschritt. Natürlich
 war sie nicht schuldig am Ende.
-
 Und ihr Gehirn
 griff auf eine alte Strategie zurück. "Wann wurde ich umsorgt und geliebt
 und stand im Mittelpunkt?"
-
 Wenn ich krank war.
-
 Hier bildete sich jetzt die
 Hypochondrie heraus. Auch diese war über die Jahre mit steigender Manifestation
 der Anorexie schon latent vorhanden.
-
 Zur Beachtung: Für einen Hypochonder
 sind die "eingebildeten" Krankheiten oder Schmerzen wirklich
 vorhanden. Auch für Außenstehende und viele Allgemeinärzte ist es schwer
 festzustellen was wirklich vorliegt.
-
 So manifestierte sich eine weitere Störung
 bei M. Die Hypochondrie, welche durch die irreparablen Schäden die die Anorexie
 bereits hinterlassen hatte zum Teil sogar gerechtfertigt war (das Befinden,
@@ -43,7 +35,6 @@ Chance dem Teufelskreis der Borderline-Störung bzw. ihrer Kaskadenstörung zu
 entfliehen. Die 3 Störungen wurden zu einen festen Bestandteil ihres Lebens und
 schafften in jeder Hinsicht und Situationen Alibifunktionen und traten in eine
 nicht mehr aufzuhebende Wechselwirkung.
-
 Die Borderline-Störung und das Bild des
 Vaters ließen sie, zumindest ab Studium, sehr schnell die Droge [Alkohol](https://borderliner.ch/alkohol/alkohol.html) entdecken. Ich will nicht sagen das der Vater Alkoholiker war, um Himmels
 willen, nein. Aber M. wusste das es eine entspannende, angstlösende 
@@ -51,7 +42,6 @@ Wirkung hat. Auch wieder bedingt durch die Borderline-Störung verlor sie sehr
 bald das Maß dafür und entwickelte ein Suchtverhalten. Das Beste was ihr
 passieren konnte war die Bar "Club" zu führen. 7 Bier und 8 Whisky
 waren da schon normal.
-
 Der [Alkohol](https://borderliner.ch/alkohol/alkohol.html) half 
 ihr in vieler Hinsicht. Er füllte die innerliche Leere, sie konnte gelöst
 sein, reduzierte die inneren
@@ -63,11 +53,9 @@ Borderline-Störung in extreme Richtungen. Des weiteren erfüllte er eine
 wichtige Funktion im Sinne der Anorexie. Überbrückung des Hungergefühls /
 Trieb und er gab natürlich auch eine Alibifunktion wieder für die
 Hypochondrie.
-
 Eines vergaß M. in all der Zeit, kein
 Frosch lässt sich in den Prinzen verwandeln. So wie man eben auch aus einer
 Krähe keinen Schwan machen kann.
-
 Nun werden Sie sagen "mein Gott,
 war ja total gestört". Richtig, dennoch ein wundervoller Mensch, der selber
 litt. Wann ihr das "Leiden" bewusst wurde ist nicht mehr
@@ -101,9 +89,7 @@ verurteilt das Spiel "ihres Lebens" permanent zu wiederholen, bzw.
 weiter zu durchleben. Wieder von einem Bett in das nächste, wieder
 kurzfristige intensive Beziehungen, wieder Abtreibung, wieder Alkohol, wieder
 Schmerzmittel, wieder Amphetamine.
-
 Nehmen wir einen Tag von M.
-
 Wie die meisten Borderliner ist sie sehr leistungsbezogen und konnte sich über ihren
 Beruf identifizieren. Mehr blieb ihr ja auch nicht. Oft saß sie da und weinte,
 weinte aus einem tiefen inneren Schmerz heraus und fragte sich "warum werde ich
@@ -134,7 +120,6 @@ sie daraufhin an tickte sie vollkommen aus und
 bekam einen ihrer üblichen Wutausbrüche, hier reichte aber schon wenn man M. mal sagte "zieh dir doch was hübscheres an,
 irgendwie passt das nicht zu dir".  M. empfand dies als Abwertung,
 nicht geliebt werden.
-
 Dies wiederum (obiger Abschnitt), der momentane Krankheitszustand, rechtfertigt die Einnahme von Schmerzmitteln.
 viele Schmerzmittel enthalten
 Morphine bzw. Morphinderivate/Opiumderivate. Sie sind synthetisch und vergleichbar mit körpereigenen Morphine ( [Endorphine](https://borderliner.ch/biochemie/biochemie.htm) ). Die [synthetischen Morphine](https://borderliner.ch/definition/definitionen.htm) docken an die gleichen Rezeptoren an wie
@@ -146,7 +131,6 @@ und es ist nicht geklärt warum, besitzen sie nach dem Genuss von Alkohol, d.h.
 wenn dieser schon fast abgebaut ist, eine Überbrückungsfunktion (ohne
 Rauschzustand) und wirken auf das [Belohnungssystem](https://borderliner.ch/biochemie/biochemie.htm) (Glück) zum Teil mit
 aufputschender Wirkung (ähnlich Amphetamine).
-
 Nachdem M. ja Schmerzen hatte bzw.
 krank war wurde die Einnahme von Schmerzmitteln [Definitionen
 / Halbwertszeit](https://borderliner.ch/definition/definitionen.htm) vollkommen legitim für sie. Und hier kommen wir zur
@@ -156,7 +140,6 @@ haben die die Eigenschaft Mundtrockenheit hervorzurufen. Und wenn es M.
 "mal ganz schlecht ging" in Form das sie zerschlagen und kaputt war
 aber trotzdem ihre Leistung erbringen musste gab es da noch die Amphetamine, die
 zu mindest kurzfristig puschen und natürlich als Appetitszügler fungieren.
-
 In der Zusammenfassung eigentlich alles
 ganz einfach. M., ein Mensch der seit Kindheit an ungeheuren inneren Spannungen,
 ob bewusst oder unbewusst, ausgesetzt ist, überdimensionale Leistungen
@@ -168,17 +151,11 @@ Frau". Der Sex diente dazu Spannungen
 abzubauen, die innere Leere zu füllen, sich zu fühlen, geliebt zu werden und
 zur Bindungsmanipulation. Der Alkohol, die Medikamente wie beschrieben. Alle drei Störungen sicherten
 M. somit das Überleben ihrer Seele.
-
 Das [selbstschädigende Verhalten](https://borderliner.ch/ssv/ssvv.htm) von M. hatte somit enorme Ausmaße erreicht.
-
 Nun werden Sie sich fragen ob 
 eine Beziehung mit M. überhaupt möglich ist. Sie ist es, die Frage ist nur wie
 lange? Die Antwort können Sie sich selbst geben.
-
 Hier greift das Wort Beziehung aus dem Kapitel [Beziehung](https://borderliner.ch/beziehung/beziehung.htm) .
-
-
 (Haftungsausschluß: Die Personen und die
 Handlung sind frei erfunden und sämtliche Ähnlichkeiten mit lebenden oder
 toten Personen sind rein zufällig.)
-

@@ -8,70 +8,50 @@ categories:
 - borderline
 slug: persstoerung1
 ---
-
-
-
 die Persönlichkeitsstörung
-
 Normalerweise ist eine Persönlichkeit etwas Ganzes und
 Beständiges. Nach
 Sigmund Freud definiert sich die Persönlichkeit im "ICH" (nach ihm
 besteht die menschliche Psyche aus 3 Instanzen )
-
 a) aus dem "ES"
-
 b) aus dem "ICH"
-
 c) aus dem "ÜBER-ICH"
-
 Man kann also einfach sagen das eine Persönlichkeitsstörung eine
 Dysfunktion des "ICH" darstellt bzw. ist. Als Ganzes und Beständiges
 betrachtet kann der Mensch, ohne Persönlichkeitsstörung, sich  wechselnden
 Situationen anpassen und sinnvoll handeln.
-
 Bei Menschen mit Störungen in ihrer Persönlichkeit ist das nicht der Fall. Sie
 zeigen starre, unflexible Verhaltensmuster, die auffallend von den
 "Normen" abweichen, dauerhaft sind und sehr komplex sein können.
-
 Eine Persönlichkeitsstörung schränkt den Betroffenen in seinem sozialen
 und oder in seinem beruflichem Leben ein, belastet ihn aber nicht immer
 emotional. Der Kontakt zur Realität bleibt im Gegensatz zu psychotischen
 Störungen oft (Borderline-Störung hat sehr oft psychotisches Erleben) erhalten. Oft haben Menschen mit einer Persönlichkeitsstörung keine
 Einsicht in ihre Problematik, sie halten sich für "normal", was
 wiederum oft zu gravierenden Problemen führt oder führen kann.
-
 Die Persönlichkeitsstörung kann unterteilt werden in
-
 - sonderbares, exzentrisches Verhalten (paranoide,
 schizoide, schizotypische (Borderline Schizophrenie), Persönlichkeitsstörung
-
 - dramatisches, emotionales oder unberechenbares
 Verhalten ( antisoziale, Borderline-, histrionische, und narzisstische
 Persönlichkeitsstörung)
-
 - Angst oder Furcht (selbstunsichere,
 dependente, zwanghafte Persönlichkeitsstörung)
-
 Die gängigsten Diagnosekriterien sind das ICD-10 und das
 DSM IV.
-
 Viele der Kriterien für Persönlichkeitsstörungen überschneiden sich, so
 das es möglich ist das das Erscheinungsbild einer Person verschieden Störungen
 zugeordnet werden kann.
-
 Viele der oben aufgeführten Merkmale wird man bei sich selbst oder Freunden
 und Bekannte feststellen. Es ist aber wichtig festzuhalten das eine wirkliche
 Persönlichkeitsstörung durch zahlreiche extreme Merkmale
 gekennzeichnet ist und der Übergang vom "Gesunden" zum
 "Kranken" fliesend ist.
-
 - die Borderline-Störung liegt
 im ICD-10 unter dem
 Oberbegriff  "spezifische Persönlichkeitsstörung".
-
 - die Ess-Störungen sind unter dem Oberbegriff der "Verhaltensauffälligkeiten mit
 körperlichen Störungen und Faktoren" zusammengefasst.
-
 Allgemein wird inzwischen davon ausgegangen, dass etwa 9-10% der Bevölkerung
 unter Persönlichkeitsstörungen leiden. Die Spannweite der Ergebnisse
 verschiedener Untersuchungen ist aber mit 2-18% relativ groß. Am häufigsten
@@ -130,4 +110,3 @@ als wesentliches mütterliches Erziehungsmittel um das Verhalten des Kindes zu
 kontrollieren, geringe Aufsicht des Vaters und der Mutter, schlechte
 Kommunikation der Mutter oder des Vaters mit dem Kind aus . Das Risiko eine Persönlichkeitsstörung zu entwickeln kann sich durch
 solche Auffälligkeiten in der Erziehung verdoppeln oder verdreifachen.
-
