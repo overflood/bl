@@ -11,11 +11,20 @@
 
   /* Sidebar container styling */
   .sidebar {
+    /* Light grey background and subtle border */
     background-color: #f7f7f7;
     padding: 1rem;
-    margin-right: 1rem;
     border: 1px solid #e0e0e0;
-    min-width: 200px;
+    /* On narrow screens the sidebar should take full width and stack
+       above the content; add bottom margin so it doesn’t overlap */
+    margin-bottom: 1rem;
+  }
+
+  /* On wider screens (≥ 768px) add right margin to separate sidebar from content */
+  @media screen and (min-width: 48em) {
+    .sidebar {
+      margin-right: 1rem;
+    }
   }
 
   /* Remove default list styling from navigation lists */
