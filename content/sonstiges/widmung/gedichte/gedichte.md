@@ -10,7 +10,6 @@ slug: gedichte
 ---
 
 
-[ [Nach oben](../widmung_1.html) ] [ [Weiter](gedichte1.html) ]
 
 Musik
 
@@ -208,4 +207,3 @@ Land der Liebe,undder Beginn unseres neuen Lebenssein.
 
 © (Mars März 2002)
 
-[ [Nach oben](../widmung_1.html) ] [ [Weiter](gedichte1.html) ]

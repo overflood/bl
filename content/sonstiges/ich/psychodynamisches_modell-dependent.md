@@ -10,9 +10,7 @@ slug: psychodynamisches_modell-dependent
 ---
 
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](psychodynamisches_modell-normal.htm) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ psychodynamisches Modell Dependent ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ]
 
 Psychodynamisches Modell
 
@@ -29,7 +27,7 @@ Sie von dort über den jeweils zugehörigen
 unteren Link oder über den Browser Returnbutton auf diese Seite zurück.
 
 [klick
-hier](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm)
+hier](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm)
 
 Betrachten
 wir uns nun das psychodynamische Modell der dependenten Persönlichkeit, dann
@@ -53,11 +51,11 @@ Gewissen ausgeglichen oder eine schwache
 Mutter, durch ein anderes internalisiertes Objekt, in Säule II Block Mitte,
 ausgeglichen. Letztendlich spielt es keine Rolle, da eine Verschränkung
 zwischen Säule I und Säule II besteht. Im Falle der dependenten Persönlichkeit
-ist diese Verschränkung anders als bei der [Borderline](https://blz.borderliner.ch/bord/bord1/bord1.html) - oder [narzisstischen
-Persönlichkeit](https://blz.borderliner.ch/narz/narz1.html) ,
+ist diese Verschränkung anders als bei der [Borderline](https://borderliner.ch/bord/bord1/bord1.html) - oder [narzisstischen
+Persönlichkeit](https://borderliner.ch/narz/narz1.html) ,
 besonders stark ausgeprägt.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ÜBER-ICH:
 
@@ -111,7 +109,7 @@ welches das Selbstbild (wie sehe ich
     wert) das soziale Selbst (welches abgeglichen wird
 mit dem Fremdbild = wie sehen mich andere?) und dieses soziale Selbst wird
 wiederum abgeglichen mit 1 und 3. enthält, nach unten unten rutscht,
-welches einem einem geringen Selbstwert-(Gefühl) / Selbstbewusstsein entspricht. Die Ich-Struktur einer dependenten Persönlichkeit [](https://blz.borderliner.ch) Legende ICH: A         = [Abwehrmechanismen des ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) B1       = Kräfte bzw.
+welches einem einem geringen Selbstwert-(Gefühl) / Selbstbewusstsein entspricht. Die Ich-Struktur einer dependenten Persönlichkeit [](https://borderliner.ch) Legende ICH: A         = [Abwehrmechanismen des ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) B1       = Kräfte bzw.
     Energien die aus Säule I und II des Über-Ich auf das ICH drücken B2       = Kräfte bzw.
     Energien die aus Säule III des Über-Ich auf das ICH drücken C         =
     Abwehrenergien die das ICH für die Abwehrmechanismen heranzieht (ICH-Triebe) A+C    = Abwehrhandlung des ICH (z. Bsp.
@@ -160,7 +158,7 @@ ist das ICH von vornherein mehr damit beschäftigt, dem Druck des ÜBER-ICH
 entgegen zu wirken, seine Energien also in diese Richtung zu setzen, um das
 Selbst anzuheben, bzw. in der Waage zu halten. Es kann somit den Triebimpulsen
 des ES oft nur unangepasst, z. Bsp. über [Kompensation
-oder Reaktionsbildung](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) , entgegen wirken. So z. Bsp. bei einer dependentenPersönlichkeit mit Anorexie über aggressiven Sexualverhalten oder wenn
+oder Reaktionsbildung](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) , entgegen wirken. So z. Bsp. bei einer dependentenPersönlichkeit mit Anorexie über aggressiven Sexualverhalten oder wenn
 mit Bulimie besetzt, über Fressattacken. Da es ein Regelsystem ist, können wir
 uns das Ganze auch umgekehrt betrachten. Dazu benutzen wir jetzt das oft sehr
 schwache Selbstwertgefühl der dependenten Persönlichkeit, welches sich über
@@ -200,7 +198,7 @@ dependenten Persönlichkeit, sehen Sie nun auch den Grund, nämlich der Druck de
 und  II auf das ICH, warum die dependente Persönlichkeit dazu neigt, ihr
 Selbstwertgefühl zu verneinen. Wir können somit sagen, dass je stärker das Über-
 ICH gegen das ICH drückt, desto stärker ist die Verneinung. Und das kann bis
-hin zur [Anorexie](https://blz.borderliner.ch/ess/ess2/anorexianervosa.html) gehen, in der ja das ICH und Selbst gegenüber Teilen der Säulen I und II
+hin zur [Anorexie](https://borderliner.ch/ess/ess2/anorexianervosa.html) gehen, in der ja das ICH und Selbst gegenüber Teilen der Säulen I und II
 verneint wird. Sie haben nun gesehen, wie der
 "Regelmechanismus" der Psyche in der dependenten Störung greift. Die
 Problematik der dependenten Persönlichkeit kann, wie Sie sehen, nicht an einem
@@ -212,10 +210,10 @@ Schwerpunkt der dependenten Persönlichkeit liegt im Selbst, somit im
 Selbstbild. Sie macht dieses zu stark von Partner oder einen anderen Menschen,
 sozialem Selbst, Fremdbild abhängig. Die Über-ICH-Prpblematik der
 dependenten Persönlichkeit ist auch der Grund iher Vulnerabilität
-(Anfälligkeit) für die [Depression](https://blz.borderliner.ch/depression/depri.html) . Moment, werden Sie jetzt sagen, dann
+(Anfälligkeit) für die [Depression](https://borderliner.ch/depression/depri.html) . Moment, werden Sie jetzt sagen, dann
 ist ja der Narzisst auch dependent. Richtig. Der Unterschied besteht allerdings,
 wie Sie im [pschodynamischen
-Modell Narzisst](https://blz.borderliner.ch/ich/psychodynamisches_modell-narzissmus.htm) , im Über- ICH, im Selbst, im Bezug zum Menschen, in den
+Modell Narzisst](https://borderliner.ch/ich/psychodynamisches_modell-narzissmus.htm) , im Über- ICH, im Selbst, im Bezug zum Menschen, in den
 Abwehrmechanismen, in den Ein- und Vorstellungen, in den Handlungsweisen, in der
 Liebesfähigkeit und letztendlich im ES bzw. der Kontrolle darüber. Auch ist
 der Druck aus dem Über-ICH ein ganz anderer. Sie sehen ein paar kleine, aber
@@ -224,14 +222,13 @@ dass Narzissten zwar abhängig von anderen im Sinne der Spiegelung sind, aber
 eine dependente Persönlichkeit kein Narzisst sein kann. Es kann also nur in der Gesamtheit
 gesehen werden. Jedes "Regelteil" bedingt sich gegenseitig und steht in
 Wechselbeziehung. Es steht somit außer Frage, ob Medikamente in diesem Fall
-heilen oder helfen können. Sie können allenfalls, z. Bsp. im Fall der [Depression](https://blz.borderliner.ch/depression/depri.html) eine unterstützende Wirkung liefern. Nur eine Therapie kann helfen, die überstarke
+heilen oder helfen können. Sie können allenfalls, z. Bsp. im Fall der [Depression](https://borderliner.ch/depression/depri.html) eine unterstützende Wirkung liefern. Nur eine Therapie kann helfen, die überstarke
 Ausprägung / Prägung der Säulen I und II zu erkennen und mit dieser anders
 umzugehen. Nur eine Therapie kann helfen, andere adäquate Abwehrmechanismen zu
 nutzen, daraus andere Einstellungen, Vorstellungen, Handlungen und
 Verhaltensweisen zu entwickeln und somit das ICH und das Selbst unabhängig von
 x in der Waage zu halten oder es dort hin zu bewegen. [zurück
-zur dependenten Störung / Ausgangspunkt](https://blz.borderliner.ch//kompstoerung/dependente_stoerung.htm#dependent-michel) © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](psychodynamisches_modell-normal.htm) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ psychodynamisches Modell Dependent ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
+2005-2007
 
 Das internalisierte Objekt, bestehend aus
 dem Elternimago und den aufsetzenden Leitbildern ist, wie Sie nun wissen, nicht mehr zu verändern.
@@ -306,11 +303,11 @@ welches einem einem geringen Selbstwert-(Gefühl) / Selbstbewusstsein entspricht
 
 Die Ich-Struktur einer dependenten Persönlichkeit
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ICH:
 
-- A         = [Abwehrmechanismen des ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
+- A         = [Abwehrmechanismen des ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
 
 - B1       = Kräfte bzw.
     Energien die aus Säule I und II des Über-Ich auf das ICH drücken
@@ -355,7 +352,7 @@ Legende ICH:
 - VI       = Vergleich Ideal-Ich
     / Ideal Selbst versus Ich-Ideal / Ideal Objekte
 
-A         = [Abwehrmechanismen des ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
+A         = [Abwehrmechanismen des ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
 
 B1       = Kräfte bzw.
     Energien die aus Säule I und II des Über-Ich auf das ICH drücken
@@ -448,7 +445,7 @@ ist das ICH von vornherein mehr damit beschäftigt, dem Druck des ÜBER-ICH
 entgegen zu wirken, seine Energien also in diese Richtung zu setzen, um das
 Selbst anzuheben, bzw. in der Waage zu halten. Es kann somit den Triebimpulsen
 des ES oft nur unangepasst, z. Bsp. über [Kompensation
-oder Reaktionsbildung](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) , entgegen wirken. So z. Bsp. bei einer dependentenPersönlichkeit mit Anorexie über aggressiven Sexualverhalten oder wenn
+oder Reaktionsbildung](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) , entgegen wirken. So z. Bsp. bei einer dependentenPersönlichkeit mit Anorexie über aggressiven Sexualverhalten oder wenn
 mit Bulimie besetzt, über Fressattacken.
 
 Da es ein Regelsystem ist, können wir
@@ -502,7 +499,7 @@ dependenten Persönlichkeit, sehen Sie nun auch den Grund, nämlich der Druck de
 und  II auf das ICH, warum die dependente Persönlichkeit dazu neigt, ihr
 Selbstwertgefühl zu verneinen. Wir können somit sagen, dass je stärker das Über-
 ICH gegen das ICH drückt, desto stärker ist die Verneinung. Und das kann bis
-hin zur [Anorexie](https://blz.borderliner.ch/ess/ess2/anorexianervosa.html) gehen, in der ja das ICH und Selbst gegenüber Teilen der Säulen I und II
+hin zur [Anorexie](https://borderliner.ch/ess/ess2/anorexianervosa.html) gehen, in der ja das ICH und Selbst gegenüber Teilen der Säulen I und II
 verneint wird.
 
 Sie haben nun gesehen, wie der
@@ -518,12 +515,12 @@ Schwerpunkt der dependenten Persönlichkeit liegt im Selbst, somit im
 Selbstbild. Sie macht dieses zu stark von Partner oder einen anderen Menschen,
 sozialem Selbst, Fremdbild abhängig. Die Über-ICH-Prpblematik der
 dependenten Persönlichkeit ist auch der Grund iher Vulnerabilität
-(Anfälligkeit) für die [Depression](https://blz.borderliner.ch/depression/depri.html) .
+(Anfälligkeit) für die [Depression](https://borderliner.ch/depression/depri.html) .
 
 Moment, werden Sie jetzt sagen, dann
 ist ja der Narzisst auch dependent. Richtig. Der Unterschied besteht allerdings,
 wie Sie im [pschodynamischen
-Modell Narzisst](https://blz.borderliner.ch/ich/psychodynamisches_modell-narzissmus.htm) , im Über- ICH, im Selbst, im Bezug zum Menschen, in den
+Modell Narzisst](https://borderliner.ch/ich/psychodynamisches_modell-narzissmus.htm) , im Über- ICH, im Selbst, im Bezug zum Menschen, in den
 Abwehrmechanismen, in den Ein- und Vorstellungen, in den Handlungsweisen, in der
 Liebesfähigkeit und letztendlich im ES bzw. der Kontrolle darüber. Auch ist
 der Druck aus dem Über-ICH ein ganz anderer. Sie sehen ein paar kleine, aber
@@ -534,7 +531,7 @@ eine dependente Persönlichkeit kein Narzisst sein kann.
 Es kann also nur in der Gesamtheit
 gesehen werden. Jedes "Regelteil" bedingt sich gegenseitig und steht in
 Wechselbeziehung. Es steht somit außer Frage, ob Medikamente in diesem Fall
-heilen oder helfen können. Sie können allenfalls, z. Bsp. im Fall der [Depression](https://blz.borderliner.ch/depression/depri.html) eine unterstützende Wirkung liefern. Nur eine Therapie kann helfen, die überstarke
+heilen oder helfen können. Sie können allenfalls, z. Bsp. im Fall der [Depression](https://borderliner.ch/depression/depri.html) eine unterstützende Wirkung liefern. Nur eine Therapie kann helfen, die überstarke
 Ausprägung / Prägung der Säulen I und II zu erkennen und mit dieser anders
 umzugehen. Nur eine Therapie kann helfen, andere adäquate Abwehrmechanismen zu
 nutzen, daraus andere Einstellungen, Vorstellungen, Handlungen und
@@ -542,11 +539,8 @@ Verhaltensweisen zu entwickeln und somit das ICH und das Selbst unabhängig von
 x in der Waage zu halten oder es dort hin zu bewegen.
 
 [zurück
-zur dependenten Störung / Ausgangspunkt](https://blz.borderliner.ch//kompstoerung/dependente_stoerung.htm#dependent-michel)
+zur dependenten Störung / Ausgangspunkt](https://borderliner.ch//kompstoerung/dependente_stoerung.htm#dependent-michel)
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](psychodynamisches_modell-normal.htm) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ psychodynamisches Modell Dependent ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ]
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]

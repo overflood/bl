@@ -10,7 +10,6 @@ slug: borderline-valium
 ---
 
 
-[ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
 
 Valium
 
@@ -146,7 +145,7 @@ basierende Medikamentenbeschreibung erhebt keinen Anspruch auf Vollständigkeit.
 Sie ersetzt nicht die Informationen auf dem Beipackzettel oder die ausführliche
 und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
-jeweilige Produkt zu verstehen [ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+jeweilige Produkt zu verstehen
 
 - Akute Erhöhung des Augeninnendrucks
     (Glaukomanfall) Bekannte Überempfindlichkeit gegen
@@ -255,7 +254,7 @@ basierende Medikamentenbeschreibung erhebt keinen Anspruch auf Vollständigkeit.
 Sie ersetzt nicht die Informationen auf dem Beipackzettel oder die ausführliche
 und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
-jeweilige Produkt zu verstehen [ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+jeweilige Produkt zu verstehen
 
 - Während der Schwangerschaft sollte das
     Medikament möglichst nicht angewendet werden, es sei denn, Ihr Arzt hält
@@ -361,7 +360,7 @@ basierende Medikamentenbeschreibung erhebt keinen Anspruch auf Vollständigkeit.
 Sie ersetzt nicht die Informationen auf dem Beipackzettel oder die ausführliche
 und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
-jeweilige Produkt zu verstehen [ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+jeweilige Produkt zu verstehen
 
 - Kopfschmerzen
 
@@ -470,7 +469,7 @@ basierende Medikamentenbeschreibung erhebt keinen Anspruch auf Vollständigkeit.
 Sie ersetzt nicht die Informationen auf dem Beipackzettel oder die ausführliche
 und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
-jeweilige Produkt zu verstehen [ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+jeweilige Produkt zu verstehen
 
 - 5 Amp. (N1) 10 Amp. (N2)
 
@@ -554,7 +553,7 @@ basierende Medikamentenbeschreibung erhebt keinen Anspruch auf Vollständigkeit.
 Sie ersetzt nicht die Informationen auf dem Beipackzettel oder die ausführliche
 und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
-jeweilige Produkt zu verstehen [ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+jeweilige Produkt zu verstehen
 
 - Dieses Arzneimittel kann auch bei bestimmungsgemäßem
     Gebrauch das Reaktionsvermögen so weit verändern, dass die Fähigkeit zur
@@ -638,7 +637,7 @@ basierende Medikamentenbeschreibung erhebt keinen Anspruch auf Vollständigkeit.
 Sie ersetzt nicht die Informationen auf dem Beipackzettel oder die ausführliche
 und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
-jeweilige Produkt zu verstehen [ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+jeweilige Produkt zu verstehen
 
 - Akute Erhöhung des Augeninnendrucks
     (Glaukomanfall) Bekannte Überempfindlichkeit gegen
@@ -715,7 +714,7 @@ basierende Medikamentenbeschreibung erhebt keinen Anspruch auf Vollständigkeit.
 Sie ersetzt nicht die Informationen auf dem Beipackzettel oder die ausführliche
 und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
-jeweilige Produkt zu verstehen [ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+jeweilige Produkt zu verstehen
 
 - Während der Schwangerschaft sollte das
     Medikament möglichst nicht angewendet werden, es sei denn, Ihr Arzt hält
@@ -859,4 +858,3 @@ und individuelle Beratung durch den Arzt oder Apotheker. Diese
 Patienteninformation ist objektiv und nicht als Empfehlung oder Werbung für das
 jeweilige Produkt zu verstehen
 
-[ [Nach oben](definitionen.htm) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ Valium ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]

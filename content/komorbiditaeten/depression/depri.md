@@ -12,7 +12,6 @@ slug: depri
 
 Die Depression
 
-[ [Nach oben](../indexa.html) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ Derpression ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 In den unten beschriebenen typischen leichten , mittelstarken oder
 schweren und depressiven Episoden, leidet die betreffende Person gewöhnlich
@@ -440,7 +439,5 @@ Bei allem was Sie tun haben Sie den Gedanken "ich
 möchte raus aus der Situation, aber es braucht Zeit" setzen Sie sich auf
 keinen Fall unter Druck.
 
-© "Team der Borderlinezone"
 2002- 2007
 
-[ [Nach oben](../indexa.html) ] [ [weiter Depression](depression.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [Video Seroquel](../definition/seroquel.htm) ] [ [depressiver Server](depressiver-server.htm) ]

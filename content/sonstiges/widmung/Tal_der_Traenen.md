@@ -1,5 +1,5 @@
 ---
-title: Tal der TrÃ¤nen_1
+title: Tal der Tränen_1
 date: 2023-08-26
 draft: false
 aliases:
@@ -10,19 +10,18 @@ slug: Tal_der_Traenen
 ---
 
 
-[nach Seite 2](Tal_der_Traenen_2.html)
 
 Seite 1 Auf dieser Seite wollen wir
         allen die Gelegenheit geben sich von ihrer Beziehung zu verabschieden. Schickt
         uns eure Zeilen wir bauen sie umgehend ein. Wir wissen wir grauenhaft
         es ist den Menschen zu verlieren den man liebte und hier spielt es keine Rolle
-        ob durch  Unfall oder weil er einfach ging. Beides sind SchicksalsschlÃ¤ge
+        ob durch  Unfall oder weil er einfach ging. Beides sind Schicksalsschläge
         die sich auÃerhalb unserer Kontrolle befinden. In uns ist die Frage nach dem
-        "Warum". Wir flehen Gott oder eine hÃ¶here  Macht an mit der Bitte zu
-        helfen, doch Gott hÃ¶rt nicht. Was zurÃ¼ckbleibt ist Schmerz, Gedanken an
-        die Vergangenheit, zerplatzte TrÃ¤ume, ein  zerbrochenes Ich, ein um Hilfe
+        "Warum". Wir flehen Gott oder eine höhere  Macht an mit der Bitte zu
+        helfen, doch Gott hört nicht. Was zurückbleibt ist Schmerz, Gedanken an
+        die Vergangenheit, zerplatzte Träume, ein  zerbrochenes Ich, ein um Hilfe
         schreiendes  Du. Ja, der Schmerz kann die Form des nicht mehr
-        ErtrÃ¤glichen annehmen und leider ist es so, "weint die Seele
+        Erträglichen annehmen und leider ist es so, "weint die Seele
     zerbricht der Mensch".
 
 Seite 1
@@ -37,19 +36,19 @@ Wir wissen wir grauenhaft
         es ist den Menschen zu verlieren den man liebte und hier spielt es keine Rolle
         ob durch  Unfall oder weil er einfach ging.
 
-Beides sind SchicksalsschlÃ¤ge
+Beides sind Schicksalsschläge
         die sich auÃerhalb unserer Kontrolle befinden. In uns ist die Frage nach dem
         "Warum".
 
-Wir flehen Gott oder eine hÃ¶here  Macht an mit der Bitte zu
-        helfen, doch Gott hÃ¶rt nicht.
+Wir flehen Gott oder eine höhere  Macht an mit der Bitte zu
+        helfen, doch Gott hört nicht.
 
-Was zurÃ¼ckbleibt ist Schmerz, Gedanken an
-        die Vergangenheit, zerplatzte TrÃ¤ume, ein  zerbrochenes Ich, ein um Hilfe
+Was zurückbleibt ist Schmerz, Gedanken an
+        die Vergangenheit, zerplatzte Träume, ein  zerbrochenes Ich, ein um Hilfe
         schreiendes  Du.
 
 Ja, der Schmerz kann die Form des nicht mehr
-        ErtrÃ¤glichen annehmen
+        Erträglichen annehmen
 
 und leider ist es so,
 
@@ -57,27 +56,27 @@ und leider ist es so,
     zerbricht der Mensch".
 
 Wie viele Schmerzen noch
-  , fragen wir uns , kÃ¶nnen wir ertragen?
+  , fragen wir uns , können wir ertragen?
 
 Die  Pschychologie 
-  wÃ¼rde
-  jetzt sagen unbegrenzt, da der Mensch unbegrenzt leidenfÃ¤hig ist.
+  würde
+  jetzt sagen unbegrenzt, da der Mensch unbegrenzt leidenfähig ist.
 
 Ist er das?
 
 Trennung hat immer
-  etwas mit Tod zu tun. Den  geliebten Menschen zu Grabe zu tragen fÃ¤llt 
+  etwas mit Tod zu tun. Den  geliebten Menschen zu Grabe zu tragen fällt 
   sehr schwer,
-  jede Faser des  KÃ¶rpers  wehrt sich dagegen.  Oft, sehr oft beneide
-  ich den Borderliner, nicht ihn aber das KÃ¶nnen der Spaltung und ich frage mich
-  ob Hass nicht etwas ist um uns vor den Schmerzen zu schÃ¼tzen.
+  jede Faser des  Körpers  wehrt sich dagegen.  Oft, sehr oft beneide
+  ich den Borderliner, nicht ihn aber das Können der Spaltung und ich frage mich
+  ob Hass nicht etwas ist um uns vor den Schmerzen zu schützen.
 
-Wir alle kÃ¶nnen  nur
+Wir alle können  nur
   versuchen einen Weg zu finden um mit den  inneren Schmerzen fertig zu
   werden.
 
 Die Zeile 
-  tragen  die Wahrheit in sich und jeder der eine Borderlinebeziehung fÃ¼hrte
+  tragen  die Wahrheit in sich und jeder der eine Borderlinebeziehung führte
   wird sie verstehen. Diese Seite soll allen
   helfen  die in ihrem Schmerz  einsam und hilflos sind.
 
@@ -94,7 +93,7 @@ Wie
   Schmetterlinge zerbrechlich und fein
 
 Kitzeln
-  Dich ihre FlÃ¼gelein
+  Dich ihre Flügelein
 
 So
   sing ich uns ein Schlafeslied
@@ -105,14 +104,14 @@ Ein
 Der
   Nebel der Nacht
 
-umhÃ¼llt
+umhüllt
   uns sanft mit seinem verschleierten Geist
 
 Ich
   wiege Dich in meinen Armen
 
 und
-  streiche Ã¼ber Dein Haar
+  streiche über Dein Haar
 
 Schlaf
   ein, schlaf ein
@@ -124,14 +123,14 @@ Schlaf
   ein, schlaf ein,
 
 die
-  Sonn ist fÃ¼r immer versunken...
+  Sonn ist für immer versunken...
 
 01.08.2007
 
 Jezirah
 
 Viel gab
-  ich dir, doch du nahmst mehr und nicht gefragt , wo kommt es her. Wollte GefÃ¼hle mit dir neu entdecken, deine Seele wollte ich wecken. Glaubte mich an einem sicheren Ort, vertraute dir und deinem Wort. Was ist Liebe, was ist GlÃ¼ck ? Viel zu oft denk ich zurÃ¼ck , an unsere Zeit und an dich auch und Schmetterlinge in meinem Bauch. Dies ist mir heute traurig klar und doch, die Zeit war wunderbar. Leben ! Was hab ich falsch gemacht? Ich lebe, doch ist ringsherum Nacht. Leben ! So leicht schienst du zu sein und bist doch so schwer ,schwerer  wie der grÃ¶Ãte Stein. Ich lebe in einer Welt, die einsam und kalt, denn ich fÃ¼hle mich leer und unendlich alt. Fast wÃ¼nschte ich, es wÃ¤re vorbei. ein Ende hÃ¤tte diese Warterei. Auf alte, neue , Liebe ? Einfach Leben. Kann ich Ã¼berhaupt noch Liebe geben ? Dies frag ich mich in meiner Not. Fast wÃ¼nschte ich , ich wÃ¤re... tot.
+  ich dir, doch du nahmst mehr und nicht gefragt , wo kommt es her. Wollte Gefühle mit dir neu entdecken, deine Seele wollte ich wecken. Glaubte mich an einem sicheren Ort, vertraute dir und deinem Wort. Was ist Liebe, was ist Glück ? Viel zu oft denk ich zurück , an unsere Zeit und an dich auch und Schmetterlinge in meinem Bauch. Dies ist mir heute traurig klar und doch, die Zeit war wunderbar. Leben ! Was hab ich falsch gemacht? Ich lebe, doch ist ringsherum Nacht. Leben ! So leicht schienst du zu sein und bist doch so schwer ,schwerer  wie der gröÃte Stein. Ich lebe in einer Welt, die einsam und kalt, denn ich fühle mich leer und unendlich alt. Fast wünschte ich, es wäre vorbei. ein Ende hätte diese Warterei. Auf alte, neue , Liebe ? Einfach Leben. Kann ich überhaupt noch Liebe geben ? Dies frag ich mich in meiner Not. Fast wünschte ich , ich wäre... tot.
 
 (Mars 19.4 2002)
 
@@ -139,19 +138,19 @@ Die
   Antwort liegt ganz allein in dir
 
 Leise
-  meine TrÃ¤nen flieÃen; Ã¼ber mein Gesicht sich ergieÃen. Trauer, Kummer, mein Herz tut weh. Wenn ich in den Spiegel seh, seh ich zwei leere Augen und so fragend nach dem "WARUM". Mit der Suche nach der Antwort bleiben meine Lippen stumm. Minuten lang und voller Schweigen schau ich dem Lauf der TrÃ¤nen nach. Als ob sie mir die Antwort zeigen und ich leise zu mir sprach: "Gib nicht auf, suche den Weg, eine LÃ¶sung aus dem Schmerz. Schaue tief in deine Augen und hÃ¶re einfach auf dein Herz, denn nur dort wirst du die LÃ¶sung finden."
+  meine Tränen flieÃen; über mein Gesicht sich ergieÃen. Trauer, Kummer, mein Herz tut weh. Wenn ich in den Spiegel seh, seh ich zwei leere Augen und so fragend nach dem "WARUM". Mit der Suche nach der Antwort bleiben meine Lippen stumm. Minuten lang und voller Schweigen schau ich dem Lauf der Tränen nach. Als ob sie mir die Antwort zeigen und ich leise zu mir sprach: "Gib nicht auf, suche den Weg, eine Lösung aus dem Schmerz. Schaue tief in deine Augen und höre einfach auf dein Herz, denn nur dort wirst du die Lösung finden."
 
 (Mars
   Mai 2002)
 
-Erfroren Du hast mir ewige Liebe geschworen, gesagt ich soll Dich nie verlassen, doch jetzt hast Du mich sitzenlassen. Was ist passiert, was ist geschehen, ich hab das nicht mal kommen sehn? Wir wollten unser Leben zusammen gestalten, immer und ewig zusammenhalten. Ich wollt bei Dir sein, und Du bei mir, doch bist Du einfach nicht mehr hier. Jetzt rufst Du an, willst mich auch sehn, bloÃ um nach einer Weile wieder fortzugehen? Spar Dir das, das hilft mir nicht, ich schaff das besser ohne Dich. Es macht doch alles mehr beschwerlich, denn Du meinst es eh nicht ehrlich. Ich hab verstanden, hab kapiert, unsere Liebe - die erfriert. Trotz allem vermiÃ ich Dich sehr, mein Inneres ist ziemlich leer, doch weiÃ ich schon, ist es auch schwer, fÃ¼r uns gibt es keine Chance mehr.
+Erfroren Du hast mir ewige Liebe geschworen, gesagt ich soll Dich nie verlassen, doch jetzt hast Du mich sitzenlassen. Was ist passiert, was ist geschehen, ich hab das nicht mal kommen sehn? Wir wollten unser Leben zusammen gestalten, immer und ewig zusammenhalten. Ich wollt bei Dir sein, und Du bei mir, doch bist Du einfach nicht mehr hier. Jetzt rufst Du an, willst mich auch sehn, bloÃ um nach einer Weile wieder fortzugehen? Spar Dir das, das hilft mir nicht, ich schaff das besser ohne Dich. Es macht doch alles mehr beschwerlich, denn Du meinst es eh nicht ehrlich. Ich hab verstanden, hab kapiert, unsere Liebe - die erfriert. Trotz allem vermiÃ ich Dich sehr, mein Inneres ist ziemlich leer, doch weiÃ ich schon, ist es auch schwer, für uns gibt es keine Chance mehr.
 
 Bin so traurig,
-  ohne Dich. Alles ist von sinnloser Leere erfÃ¼llt. Gedanken sind von Nebeln umhÃ¼llt. Die Augen sind, von TrÃ¤nen gefÃ¼llt. Depression, meine Seele die brÃ¼llt. Steh hier und schreie, in die Nacht. Einsam, um den Schlaf gebracht. Ziehe leise Kreise, in meinem Feld. In mir versunken und vergeÃ die Welt. Alles ist grau, einfach monoton. Die Sonne erwacht, voller Hohn. Blick ins Dunkle, es tut so sehr weh. Friere, auf meiner Seele liegt Schnee. Mein Rufen, das verhallt im Wind. Bin verloren, wie ein kleines Kind. Blicke dorthin, wo sonst die Sterne sind. Sehe nichts, meine TrÃ¤nen machen blind.
+  ohne Dich. Alles ist von sinnloser Leere erfüllt. Gedanken sind von Nebeln umhüllt. Die Augen sind, von Tränen gefüllt. Depression, meine Seele die brüllt. Steh hier und schreie, in die Nacht. Einsam, um den Schlaf gebracht. Ziehe leise Kreise, in meinem Feld. In mir versunken und vergeÃ die Welt. Alles ist grau, einfach monoton. Die Sonne erwacht, voller Hohn. Blick ins Dunkle, es tut so sehr weh. Friere, auf meiner Seele liegt Schnee. Mein Rufen, das verhallt im Wind. Bin verloren, wie ein kleines Kind. Blicke dorthin, wo sonst die Sterne sind. Sehe nichts, meine Tränen machen blind.
 
 (Mars 2002)
 
-ANGST Du sagst, Du liebst die Sonne, aber wenn sie scheint, suchst Du den Schatten. Du sagst, Du liebst den Regen, aber wenn es regnet, suchst Du das Trockene. Du sagst, Du liebst den Wind aber wenn er weht, schlieÃt Du die TÃ¼r. Du sagst, Du liebst die VÃ¶gel, aber wenn sie zwitschern, schlieÃt Du das Fenster. Darum habe ich Angst, Wenn Du wieder sagst, "ICH LIEBE DICH"
+ANGST Du sagst, Du liebst die Sonne, aber wenn sie scheint, suchst Du den Schatten. Du sagst, Du liebst den Regen, aber wenn es regnet, suchst Du das Trockene. Du sagst, Du liebst den Wind aber wenn er weht, schlieÃt Du die Tür. Du sagst, Du liebst die Vögel, aber wenn sie zwitschern, schlieÃt Du das Fenster. Darum habe ich Angst, Wenn Du wieder sagst, "ICH LIEBE DICH"
 
 Verloren
 
@@ -161,29 +160,29 @@ Verloren
 Verstehen
 
 warst
-  immer da , warst mir so nah, habe nur dir vertraut, nicht auf andere gebaut, du hast meine GefÃ¼hle verletzt, mein herz in tausend Teile gefetzt, trotzdem bereue ich keinen Tag, weil ich dich noch immer mag, ehrlich gesagt liebe ich dich sehr, deshalb ist es auch so schwer , dich einfach so ziehen zulassen, dich nie wieder anzufassen, nicht mehr zu spÃ¼ren, nie mehr zu berÃ¼hren, doch du wolltest ja gehen , hoffentlich werde ich das bald verstehen!!!
+  immer da , warst mir so nah, habe nur dir vertraut, nicht auf andere gebaut, du hast meine Gefühle verletzt, mein herz in tausend Teile gefetzt, trotzdem bereue ich keinen Tag, weil ich dich noch immer mag, ehrlich gesagt liebe ich dich sehr, deshalb ist es auch so schwer , dich einfach so ziehen zulassen, dich nie wieder anzufassen, nicht mehr zu spüren, nie mehr zu berühren, doch du wolltest ja gehen , hoffentlich werde ich das bald verstehen!!!
 
-TrÃ¤ume
+Träume
 
 Ja,
-  du hast mich verlassen, eigentlich kÃ¶nnte ich dich dafÃ¼r hassen. Doch ich liebe dich sehr und vermisse dich immer mehr. Dein Foto liegt vor mir, ich wÃ¤re so gern bei dir. Dann kÃ¶nnt ich mit dir lachen
-  und sonst noch so Sachen machen. Du wÃ¼rdest mich in die Arme nehmen  und ich wÃ¼rde mich freuen, Ã¼ber alles in meinem Leben. Wir wÃ¼rden uns kÃ¼ssen
-  und mÃ¼Ãten uns nie mehr missen. Wir wÃ¼rden uns gut verstehen
-  und nicht wegen einer Kleinigkeit auseinander gehen. Ich wÃ¼rde dir in die Augen schauen
-  und kÃ¶nnte auf unsere Beziehung bauen. Leider sind das alles nur TrÃ¤ume und TrÃ¤ume sind bekanntlich SchÃ¤ume. Denn in meinem Traum bin ich bei dir, aber in Wirklichkeit bist du weit weg von mir. Also sitze ich wieder hier und trÃ¤ume nur von dir!
+  du hast mich verlassen, eigentlich könnte ich dich dafür hassen. Doch ich liebe dich sehr und vermisse dich immer mehr. Dein Foto liegt vor mir, ich wäre so gern bei dir. Dann könnt ich mit dir lachen
+  und sonst noch so Sachen machen. Du würdest mich in die Arme nehmen  und ich würde mich freuen, über alles in meinem Leben. Wir würden uns küssen
+  und müÃten uns nie mehr missen. Wir würden uns gut verstehen
+  und nicht wegen einer Kleinigkeit auseinander gehen. Ich würde dir in die Augen schauen
+  und könnte auf unsere Beziehung bauen. Leider sind das alles nur Träume und Träume sind bekanntlich Schäume. Denn in meinem Traum bin ich bei dir, aber in Wirklichkeit bist du weit weg von mir. Also sitze ich wieder hier und träume nur von dir!
 
 Du
-  hast meine GefÃ¼hle verletzt selbst schuld ich habe auf die Falsche liebe gesetzt. Auswahl war genug vorhanden meine GefÃ¼hle lieÃen mich am falschen Orte landen. In der Liebe Fehler machen ist nicht gut bin ich der einzige der dies tut? Ist Liebe denn nicht eine Zweisamkeit? oder besteht sie nur aus Eitelkeit? Du sagtest; dir gehÃ¶rt mein Herz Am nÃ¤chsten Tag gehÃ¶rt es einem anderen. ein Scherz? Vertrauen habe ich gegeben und Liebe gesÃ¤t Die Gefahr nicht erkannt, jetzt ist es zu spÃ¤t. Ich habe auf Worte vertraut an unsre Liebe geglaubt. Ich suchte den richtigen Weg zum GlÃ¼ck, als ich ihn hatte lieÃest Du mich zurÃ¼ck. Nun steh ich hier mit meiner Liebe alleine, GefÃ¼hle hast du jedoch fÃ¼r mich auf einmal keine. Ich liebe dich hast Du gesagt, war wohl etwas zu gewagt. Du hast voll ins Schwarze getroffen denn mein Herz war fÃ¼r Dich sehr weit offen. Meiner Seele die Schmerzen gegeben, kann es nicht ertragen und will nicht mehr leben. Mit falschem Spiel meine GefÃ¼hle betrogen warum hat mich die liebe angelogen? ZukunftsplÃ¤ne schon geschmiedet doch die waren nur gemietet. Du stehst jetzt im 7. Himmel voller GlÃ¼ck, gib ihm wenigstens die wahre Liebe zurÃ¼ck. denk daran, die Liebe ist kein Spiel, denn in der Wahrheit gibt sie viel. Es wird kommen jene Zeit in der meine Seele wieder heilt. doch die vertrauensvolle Liebe, die muÃ warten ich trage noch die sichtbaren Narben. Ein lieber Mensch sagt ich liebe dich, oh diese WÃ¤rme, dieser Moment wirklich ist? Kann ich auf diese Worte mich verlassen oder werde ich mich fÃ¼r meine Dummheit selber hassen? Du warst fÃ¼r mich der grÃ¶Ãte Traum auf Erden was soll nun aus meiner Liebe werden? Du hast sie zurÃ¼ck gewiesen, obwohl; ich liebe dich, hast du gepriesen. Du hattest Angst mich zu verlieren oder ist der Egoismus in dir gediehen? Ich spÃ¼rte deine Angst, deine Liebe, deine Sehnsucht. wieso ergriffst du denn die Flucht? Zu einem anderen Mann, in ein neues Leben meinst du er kann dir alles geben? Er wird Fehler machen genau wie alle, sitzt Du denn nicht an einem anderen Ort doch
-  in der gleichen Falle? Fehler kÃ¶nnen auch in der Liebe geschehen. Wenn man sich liebt sollte man dann nicht trotzdem zueinander stehen? Alles Worte, nur Gedanken, doch sie Ã¶ffnen groÃe Schranken. Die Liebe die kann Berge versetzen also auch die Seele verletzen. Geh sorgsam um mit diesem Gut nicht das die Liebe dir irgendwann weh tut.
+  hast meine Gefühle verletzt selbst schuld ich habe auf die Falsche liebe gesetzt. Auswahl war genug vorhanden meine Gefühle lieÃen mich am falschen Orte landen. In der Liebe Fehler machen ist nicht gut bin ich der einzige der dies tut? Ist Liebe denn nicht eine Zweisamkeit? oder besteht sie nur aus Eitelkeit? Du sagtest; dir gehört mein Herz Am nächsten Tag gehört es einem anderen. ein Scherz? Vertrauen habe ich gegeben und Liebe gesät Die Gefahr nicht erkannt, jetzt ist es zu spät. Ich habe auf Worte vertraut an unsre Liebe geglaubt. Ich suchte den richtigen Weg zum Glück, als ich ihn hatte lieÃest Du mich zurück. Nun steh ich hier mit meiner Liebe alleine, Gefühle hast du jedoch für mich auf einmal keine. Ich liebe dich hast Du gesagt, war wohl etwas zu gewagt. Du hast voll ins Schwarze getroffen denn mein Herz war für Dich sehr weit offen. Meiner Seele die Schmerzen gegeben, kann es nicht ertragen und will nicht mehr leben. Mit falschem Spiel meine Gefühle betrogen warum hat mich die liebe angelogen? Zukunftspläne schon geschmiedet doch die waren nur gemietet. Du stehst jetzt im 7. Himmel voller Glück, gib ihm wenigstens die wahre Liebe zurück. denk daran, die Liebe ist kein Spiel, denn in der Wahrheit gibt sie viel. Es wird kommen jene Zeit in der meine Seele wieder heilt. doch die vertrauensvolle Liebe, die muÃ warten ich trage noch die sichtbaren Narben. Ein lieber Mensch sagt ich liebe dich, oh diese Wärme, dieser Moment wirklich ist? Kann ich auf diese Worte mich verlassen oder werde ich mich für meine Dummheit selber hassen? Du warst für mich der gröÃte Traum auf Erden was soll nun aus meiner Liebe werden? Du hast sie zurück gewiesen, obwohl; ich liebe dich, hast du gepriesen. Du hattest Angst mich zu verlieren oder ist der Egoismus in dir gediehen? Ich spürte deine Angst, deine Liebe, deine Sehnsucht. wieso ergriffst du denn die Flucht? Zu einem anderen Mann, in ein neues Leben meinst du er kann dir alles geben? Er wird Fehler machen genau wie alle, sitzt Du denn nicht an einem anderen Ort doch
+  in der gleichen Falle? Fehler können auch in der Liebe geschehen. Wenn man sich liebt sollte man dann nicht trotzdem zueinander stehen? Alles Worte, nur Gedanken, doch sie öffnen groÃe Schranken. Die Liebe die kann Berge versetzen also auch die Seele verletzen. Geh sorgsam um mit diesem Gut nicht das die Liebe dir irgendwann weh tut.
 
 Der
   Engel kam, der Engel siegte lieÃ
-  er zurÃ¼ck das Besiegte.
+  er zurück das Besiegte.
 
 Doch
   sei bedacht, eine
   andere Welt, in
-  die man nur zu leicht fÃ¤llt.
+  die man nur zu leicht fällt.
 
 Dem
   Menschen kann man alles geben
@@ -194,7 +193,7 @@ doch
 (Mars Juni 2002)
 
 ich
-  wÃ¼nsche dir von ganzem herzen eine liebe ohne schmerzen. ich wÃ¼nscht ich dÃ¼rft dir meine geben und mit dir das glÃ¼ck erleben. am ende des lebens wird die liebe stehen und dann, kÃ¤tzchen, werden wir uns wiedersehen.
+  wünsche dir von ganzem herzen eine liebe ohne schmerzen. ich wünscht ich dürft dir meine geben und mit dir das glück erleben. am ende des lebens wird die liebe stehen und dann, kätzchen, werden wir uns wiedersehen.
 
 ich
   bin die frau,
@@ -272,7 +271,7 @@ ich
   bin die,
 
 die
-  dir zuhÃ¶rt
+  dir zuhört
 
 ich
   bin die,
@@ -284,13 +283,13 @@ ich
   bin die,
 
 die
-  dir wÃ¤rme gibt
+  dir wärme gibt
 
 ich
   bin die,
 
 die
-  dir die augen Ã¶ffnet
+  dir die augen öffnet
 
 ich
   bin die,
@@ -338,21 +337,21 @@ nicht
   gefunden werden will
 
 ich
-  bin die ....................... die es gar nicht geben dÃ¼rfte
+  bin die ....................... die es gar nicht geben dürfte
 
 Schmerz
 
 Geschlossene Augen,
 
-Dunkelheit die auf NÃ¤he hofft
+Dunkelheit die auf Nähe hofft
   -
 
 bist DU da?
 
-ZÃ¤rtliche HÃ¤nde in meinen
+Zärtliche Hände in meinen
   Haaren,
 
-die mich trÃ¶stlich streicheln
+die mich tröstlich streicheln
   -
 
 sind es DEINE?
@@ -363,7 +362,7 @@ die nach Begierde schmecken -
 
 willst DU mich?
 
-Nackter KÃ¶rper auf mir,
+Nackter Körper auf mir,
 
 erregt nach mehr strebend -
 
@@ -372,7 +371,7 @@ willst DU mehr?
 Lust, Hingabe, Ekstase, Liebe,
 
 vermischen sich bis zum
-  gemeinsamen HÃ¶hepunkt -
+  gemeinsamen Höhepunkt -
 
 warst DU es?
 
@@ -387,7 +386,7 @@ Schmerzen, schneidend wie Gift
 
 das Gegengift -
 
-unerreichbar fÃ¼r immer
+unerreichbar für immer
 
 Melody 15/11/2005
 
@@ -402,7 +401,7 @@ es schmerzt so sehr, ja immer mehr.
 
 Sicherlich weiÃt Du genau,
 
-welcher Tag heut ist oh hÃ¼bsche Frau.
+welcher Tag heut ist oh hübsche Frau.
 
 Vor Monaten, ja sechsen an der Zahl
 
@@ -414,7 +413,7 @@ doch etwas besonderes rumorte in meinem Bauch.
 
 In der Station zur S-Bahn Messe
 
-saÃ ich noch mÃ¼de am Ã¼berlegen, was ich esse.
+saÃ ich noch müde am überlegen, was ich esse.
 
 Da kam sie an das holde Weib,
 
@@ -422,14 +421,14 @@ mit roten Haarn und leckerem Leib.
 
 Sie sprach mit ihrer Freundin wild
 
-und ignorierte mich, obwohl ich lÃ¤chelte ganz
+und ignorierte mich, obwohl ich lächelte ganz
   mild.
 
 Arbeitet ihr auch auf dieser Messe?
 
-Ein bÃ¶ser Blick, Du meine Fresse...
+Ein böser Blick, Du meine Fresse...
 
-HÃ¤tt ich doch nur geschwiegen stumm,
+Hätt ich doch nur geschwiegen stumm,
 
 bitte nimm es mir nicht krumm.
 
@@ -449,11 +448,11 @@ es schmerzt so sehr, ja immer mehr.
 
 Schon viele Gedichte wurden geschrieben
 
-meist fÃ¼r seiner aller Lieben
+meist für seiner aller Lieben
 
 Manches flieÃt dahin,
 
-getrÃ¤nkt von Schmalz und Leid,
+getränkt von Schmalz und Leid,
 
 doch ohne rechten Sinn.
 
@@ -467,13 +466,13 @@ welche, das weiÃ Du sehr genau.
 
 Es ist das Wort Sehnsucht welches nicht ist gut,
 
-immer wieder hoffe ich das es nicht lÃ¤nger weh
+immer wieder hoffe ich das es nicht länger weh
   tut.
 
 Morgens wenn ich erwache allein im Bett
 
 denke ich: wenn
-  sie hier wÃ¤re, wÃ¤re es doch nett!
+  sie hier wäre, wäre es doch nett!
 
 Dann steh ich auf und geh ins Bad,
 
@@ -483,9 +482,9 @@ Ich denk der Tag beginnt doch erst
 
 es wird schon gehen vorbei der Schmerz.
 
-Die Sehnsucht beginnt so frÃ¼h am Morgen
+Die Sehnsucht beginnt so früh am Morgen
 
-das kann doch nicht so frÃ¼h schon beginnen mit
+das kann doch nicht so früh schon beginnen mit
   Sorgen
 
 Sehnsucht
@@ -494,20 +493,20 @@ Das Herz zerspringt, es reiÃt es klopft
 
 es schmerzt so sehr, ja immer mehr.
 
-Die Gedanken sammeln sich beim putzen der ZÃ¤hne
+Die Gedanken sammeln sich beim putzen der Zähne
 
-alles glÃ¤nzt und strahlt, wie angemalt.
+alles glänzt und strahlt, wie angemalt.
 
 Mein Becher ist benutzt und
   naÃ,
 
 doch daneben ist noch sauber das Glas.
 
-Die BÃ¼rste trocken und rein-
+Die Bürste trocken und rein-
 
 und ich wieder mal allein.
 
-Meine Augen gleiten Ã¼ber Dinge des Lebens
+Meine Augen gleiten über Dinge des Lebens
 
 es ist nichts groÃes , nichts aufsehendes Eregens
 
@@ -525,7 +524,7 @@ Das Herz zerspringt, es reiÃt, es klopft,
 
 es schmerzt so sehr , ja immer mehr.
 
-Nein, nicht schon am frÃ¼hen Morgen
+Nein, nicht schon am frühen Morgen
 
 will ich haben solche Sorgen
 
@@ -533,7 +532,7 @@ Doch das Herz, es zuckt und ruckt,
 
 es leidet so sehr und jeden Tag noch mehr.
 
-Hinein in die Kleidung und los ins GrÃ¼n
+Hinein in die Kleidung und los ins Grün
 
 Das Laufen am morgen ergibt so manchen Sinn.
 
@@ -556,30 +555,30 @@ das magische Wort das kann doch nicht schon wieder
 
 Ich lenk mich ab seh da ein Vogel,
 
-ein EichhÃ¶rnchen auch eins dabei,
+ein Eichhörnchen auch eins dabei,
 
 nein, nein, es waren Zwei.
 
-Zwei HÃ¶rnchen, zwei VÃ¶gel, zwei MÃ¤use und was
+Zwei Hörnchen, zwei Vögel, zwei Mäuse und was
   noch,
 
 allein bin nur ich, ich dummes Loch.
 
-Jetzt reichts, hinweg mit Dir Du tÃ¶rricht Herz
+Jetzt reichts, hinweg mit Dir Du törricht Herz
 
 LaÃ mich allein ohne Schmerz.
 
 GenieÃen will ich die Natur,
 
-voll GlÃ¼ck und guter Laune nur.
+voll Glück und guter Laune nur.
 
 Die Minuten verrennen, die Zeit vergeh,
 
-ich komm zurÃ¼ck , spring in den See.
+ich komm zurück , spring in den See.
 
-Das kÃ¼hle NaÃ das tut so gut,
+Das kühle NaÃ das tut so gut,
 
-es ist doch schÃ¶n, schÃ¶pf endlich Mut.
+es ist doch schön, schöpf endlich Mut.
 
 Was sollen all diese Gedanken,
 
@@ -663,11 +662,11 @@ Was machst Du heute mein Lieber,
 
 ich weiÃ es nicht, ach laÃ mich wieder.
 
-Er sagt, es ist schon gut, laÃ den Kopf nicht hÃ¤ngen,
+Er sagt, es ist schon gut, laÃ den Kopf nicht hängen,
 
-jetzt reiÃ Dich zusammen und fang an zu verdrÃ¤ngen.
+jetzt reiÃ Dich zusammen und fang an zu verdrängen.
 
-Ich meld mich spÃ¤ter,
+Ich meld mich später,
 
 bitte sei so lieb, Peter.
 
@@ -693,9 +692,9 @@ Digame ruf ich hinein,
 
 bitte laÃ es Constance sein!
 
-Hallo wie geht's, hÃ¶r ich ihre Stimme,
+Hallo wie geht's, hör ich ihre Stimme,
 
-ich fÃ¼hl mich wie im siebten Himmel
+ich fühl mich wie im siebten Himmel
 
 Gut geht's mir und dir mein Schatz,
 
@@ -719,7 +718,7 @@ vielleicht an einem andren Ort.
 Du weiÃt doch ganz genau, wir haben es doch
   besprochen,
 
-laÃ mich in Ruh, Du bringst mich nur zum Ã¼berkochen.
+laÃ mich in Ruh, Du bringst mich nur zum überkochen.
 
 Ich will jetzt nicht mit dir zusammen sein,
 
@@ -732,9 +731,9 @@ Wir werden es schon kriegen,
 
 doch Du weiÃt es ist so viel zu biegen.
 
-Bitte sei nicht bÃ¶se, mein Akku ist gleich leer,
+Bitte sei nicht böse, mein Akku ist gleich leer,
 
-ich melde mich spÃ¤ter, im Augenblick geht es
+ich melde mich später, im Augenblick geht es
   nicht mehr.
 
 S ehnsucht,
@@ -745,7 +744,7 @@ es schmerzt so sehr, ja immer mehr.
 
 Das Telefon noch in der Hand,
 
-hÃ¶r ich den Ton der mir bekannt.
+hör ich den Ton der mir bekannt.
 
 Ich leg es weg, es geht mir mies,
 
@@ -760,7 +759,7 @@ Die Augen groÃ und braun,
 voller Trauer und Sehnsucht, bereit alles hinzu
   haun.
 
-Ein TrÃ¤ne findet ihren Weg Ã¼ber die Wangen,
+Ein Träne findet ihren Weg über die Wangen,
 
 es geht mir schlecht, ich trau mich nicht mal hin
   zulangen.
@@ -771,7 +770,7 @@ was ist bloÃ los mit meiner Maus.
 
 Sei stark, es wir schon werden,
 
-doch wie oft wÃ¼nsche ich mir zu sterben?
+doch wie oft wünsche ich mir zu sterben?
 
 Sehnsucht
 
@@ -786,7 +785,7 @@ damit die Zeit vergeht auch ohne Tun
 
 Die Augen fest geschlossen,
 
-die letzte TrÃ¤ne geflossen
+die letzte Träne geflossen
 
 beginnt der Traum, wie solls auch sein,
 
@@ -794,24 +793,24 @@ von Dir oh Constance ganz allein.
 
 Wir laufen gemeinsam im Wald,
 
-es ist schÃ¶n kÃ¼hl gar nicht kalt.
+es ist schön kühl gar nicht kalt.
 
-Wir laufen Ã¼ber Wiesen und Felder, wir sind uns
+Wir laufen über Wiesen und Felder, wir sind uns
   nah
 
 so soll es sein, ja immer da.
 
-Wir kÃ¼ssen uns und schmusen wild,
+Wir küssen uns und schmusen wild,
 
-denn dafÃ¼r gibt es keine verbotenes Schild.
+denn dafür gibt es keine verbotenes Schild.
 
-Die TrÃ¤nen verschwinden,
+Die Tränen verschwinden,
 
-ein LÃ¤cheln steht mir im Gesicht.
+ein Lächeln steht mir im Gesicht.
 
 Wir schwimmen nackt und frei,
 
-Du hÃ¤lst mich fest und willst, das es immer so
+Du hälst mich fest und willst, das es immer so
   sei.
 
 Wir geben all die Liebe welche tut so
@@ -828,11 +827,11 @@ auf ewig Dein- so soll es sein.
 
 Wir sprechen von dem gemeinsamen Dingen
 
-Wir trÃ¤umen und machen PlÃ¤ne wie wir sie wollen
+Wir träumen und machen Pläne wie wir sie wollen
   verbringen.
 
-es ist verrÃ¼ckt, doch auch so schÃ¶n, wenn ichs
-  erwÃ¤hne.
+es ist verrückt, doch auch so schön, wenn ichs
+  erwähne.
 
 Das Telefon es piept,
 
@@ -840,33 +839,33 @@ ich schrecke auf, noch ganz vertieft.
 
 eine Nachricht kam von Dir,
 
-es sei sehr spÃ¤t, das glaube mir.
+es sei sehr spät, das glaube mir.
 
 Wie immer soll ich doch
   verstehn,
 
 ab jetzt nicht mehr ans Schreiben gehen.
 
-Es ist sehr spÃ¤t und frÃ¼h muÃt Du hinaus,
+Es ist sehr spät und früh muÃt Du hinaus,
 
 laÃ mich also schlafen Wuselmaus.
 
 Ich melde mich am Morgen,
 
-dann kÃ¶nnen wir weiter sprechen, mach dir keine
+dann können wir weiter sprechen, mach dir keine
   Sorgen.
 
 Sehnsucht
 
 Mein Herz zerspringt, es reiÃt, es klopft, es schmerzt so sehr, ja immer mehr
 
-So Constance verlÃ¤uft mein Tag,
+So Constance verläuft mein Tag,
 
 kannst du mir glauben, das ich das nicht sehr mag.
 
-Es ist so schÃ¶n Dich nah zu wissen,
+Es ist so schön Dich nah zu wissen,
 
-doch die Schmerzen wÃ¼rde ich zu gern nur missen
+doch die Schmerzen würde ich zu gern nur missen
 
 Es ist die Sehnsucht, die mich Schmerzen lehrt,
 
@@ -876,7 +875,7 @@ Es ist mein Herz was fast zerspringt,
 
 wenn nur Dein Name allein erklingt.
 
-Meine GefÃ¼hle zu Dir soll seien rein,
+Meine Gefühle zu Dir soll seien rein,
 
 doch bitte laÃ mich nicht mehr lang allein .
 
@@ -898,30 +897,30 @@ Der See liegt einsam in seinem Tal.
   Nebelschwaden umringen ihn.
 
 Hin und wieder geben sie den Blick
-  auf eine silber glÃ¤nzende OberflÃ¤che frei.
+  auf eine silber glänzende Oberfläche frei.
 
-Wolken ziehen wie dicke WatteknÃ¤ule
-  langsam Ã¼ber den fast schwarzen Himmel.
+Wolken ziehen wie dicke Watteknäule
+  langsam über den fast schwarzen Himmel.
 
 Der Mond sendet nur schwache Strahlen
-  seiner Kraft ins kÃ¼hle Nass.
+  seiner Kraft ins kühle Nass.
 
 Ich friere.
 
-Wie aus dem Grabe herauf steigt die KÃ¤lte
-  von meinen FÃ¼Ãen empor und nimmt Besitz von meinem
-  KÃ¶rper.
+Wie aus dem Grabe herauf steigt die Kälte
+  von meinen FüÃen empor und nimmt Besitz von meinem
+  Körper.
 
 Es ist 3.47 Uhr
 
-die KÃ¤lte wird zur angenehmen KÃ¼hle.
+die Kälte wird zur angenehmen Kühle.
 
 Der Mond
   bahnt sich einen Weg durch
-  die Wolkenpracht, so das das wenige Glitzern des Sees immer stÃ¤rker wird.
+  die Wolkenpracht, so das das wenige Glitzern des Sees immer stärker wird.
 
-Die OberflÃ¤che ist wie ein Spiegel.
-  ein Spiegel, welcher doch einerseits wunderschÃ¶n glatt und vollkommen ist,
+Die Oberfläche ist wie ein Spiegel.
+  ein Spiegel, welcher doch einerseits wunderschön glatt und vollkommen ist,
 
 und
   doch anderseits zu zerbrechen droht.
@@ -930,25 +929,25 @@ Der See, der Spiegel, mein tiefstes
   Inneres?
 
 Einen Augenblick hart und fest, eben
-  und ausgeglichen, im nÃ¤chsten Augenblick voller wilder Wellen,
+  und ausgeglichen, im nächsten Augenblick voller wilder Wellen,
 
 zerbrochen,
-  aufgewÃ¼hlt und bereit alles erdenkliche zu tun.
+  aufgewühlt und bereit alles erdenkliche zu tun.
 
-Die Nebel ziehen sich weiter zurÃ¼ck.
+Die Nebel ziehen sich weiter zurück.
 
 Ein Fisch springt aus dem Wasser und
-  zerstÃ¶rt die silberne, gleichmÃ¤Ãige OberflÃ¤che.
+  zerstört die silberne, gleichmäÃige Oberfläche.
 
 Kreise bilden sich von innen, klein
-  anfangend, nach auÃen in immer grÃ¶Ãer werdende.
+  anfangend, nach auÃen in immer gröÃer werdende.
 
 Eine kleine Ursache, nimmt groÃe
   Formen an.
 
 Es ist 3.55 Uhr
 
-Nackt stehe ich am See. Die FÃ¼Ãe im Wasser.
+Nackt stehe ich am See. Die FüÃe im Wasser.
 
 Leicht umspielen mich die Wellen und
   nippen an meiner Haut.
@@ -964,15 +963,15 @@ Am Horizont erhebt sich ein kleines
 
 Das Wasser spiegelt den Mond.
 
-GroÃ und gelb, wie ein BeschÃ¼tzer
-  Ã¼ber alles Leben der Nacht.
+GroÃ und gelb, wie ein Beschützer
+  über alles Leben der Nacht.
 
 Eine Nachtigal beginnt ihr Lied zu
   singen.
 
-Andachtsvoll schweigt der Rest der VÃ¶gel.
+Andachtsvoll schweigt der Rest der Vögel.
 
-Sie trÃ¤llert ihr Lied,
+Sie trällert ihr Lied,
   dass der Liebe.
 
 Ihrer Liebe zu der Natur, ihrer Liebe
@@ -982,34 +981,34 @@ Dem neuen Tag der alles Leiden des
   Gestern vergessen hilft.
 
 Ich
-  schlieÃe meine Augen und wÃ¼nsche
-  mir, das auch endlich der Nebel mein Herz verlÃ¤sst.
+  schlieÃe meine Augen und wünsche
+  mir, das auch endlich der Nebel mein Herz verlässt.
 
-Sanft fÃ¼hle ich die Wellen an meinen
-  FÃ¼Ãen.
+Sanft fühle ich die Wellen an meinen
+  FüÃen.
 
-Sand drÃ¼ckt sich durch meine Zehen,
+Sand drückt sich durch meine Zehen,
   ein warmer Wind kommt auf.
 
 Die Nachtigal singt immer
-  hingebungsvoller, als wÃ¤re es ein letztes Mal.
+  hingebungsvoller, als wäre es ein letztes Mal.
 
 Es wird Morgen.
 
-Ich spÃ¼re die ersten warmen Strahlen
+Ich spüre die ersten warmen Strahlen
   der geliebten Sonne auf meiner nackten Haut.
 
 Die Nachtigal gibt alles was ihr
-  kleiner KÃ¶rper zu geben vermag.
+  kleiner Körper zu geben vermag.
 
-Sie singt, als ob sie nur fÃ¼r mich
-  alleine da wÃ¤re.
+Sie singt, als ob sie nur für mich
+  alleine da wäre.
 
-Der Nebel hÃ¤ngt nur noch in den GrÃ¤sern
+Der Nebel hängt nur noch in den Gräsern
   des Ufers, aber auch hier wird er hoffentlich bald verschwinden.
 
-Oh Nachtigal, hÃ¶re nie wieder auf zu
-  singen, gib mir meine Liebe zum Leben zurÃ¼ck..
+Oh Nachtigal, höre nie wieder auf zu
+  singen, gib mir meine Liebe zum Leben zurück..
 
 Ein
   Schuss!
@@ -1028,8 +1027,8 @@ Meine Augen suchen den See ab, wo das
 
 Da liegt sie.
 
-Ihr lebloser KÃ¶rper auf dem Wasser
-  schwimmend, den Schnabel noch offen zu ihrem letzten Lied der Liebe fÃ¼r mich.
+Ihr lebloser Körper auf dem Wasser
+  schwimmend, den Schnabel noch offen zu ihrem letzten Lied der Liebe für mich.
 
 Um mir zu zeigen, das das Leben noch
   lebenswert ist!?!?
@@ -1045,9 +1044,9 @@ Es ist 5.13 Uhr
 Die Nachtigal ist in den tiefen des
   Sees verschwunden.
 
-Die KÃ¤lte hat auch sie eingeholt.
+Die Kälte hat auch sie eingeholt.
 
-Sie wird nie wieder fÃ¼r mich singen.
+Sie wird nie wieder für mich singen.
 
 In Gedanken an
   eine  Liebe, welche nicht

@@ -10,14 +10,12 @@ slug: sprungverhalten_borderline
 ---
 
 
-[ [Nach oben](spaltung.html) ] [ [Spaltung und Projektion in der Borderline-Störung Teil 2](spaltung/spaltung.htm) ] [ Sprungverhalten der Borderline-Störung ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
 Das Sprungverhalten bzw. Spaltungsverhalten
 der Borderline-Störung in der intimen zwischenmenschlichen Beziehung
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Die Grafik stellt das Sprung- bzw.
 Spaltungsverhalten der Borderline-Störung in einer zwischenmenschlichen (Paar)
@@ -42,7 +40,7 @@ Bereich 1 bezeichnet den Bereich der
 übertriebenen Bewunderung, aus welchen er sehr schnell in den Bereich 1a
 springt. Im Bereich 1a kommt die vollzogene Symbiose zum tragen in Form der dann
 erfolgenden Idealisierung (du bist mein Gott), bzw. aus dem Rücksprung
-(3a) die vollzogene, nach erneuten Herstellung der Symbiose, [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) in
+(3a) die vollzogene, nach erneuten Herstellung der Symbiose, [Spaltung](https://borderliner.ch/spaltung/spaltung.html) in
 "gut", "weiss".
 
 Aus dem Bereich 1 oder 1a springt die
@@ -72,7 +70,7 @@ tief verletzt das dies der Partner erst einmal verdauen muss, er nicht gleich
 verzeihen kann, auch wenn es nur ein paar Stunden sind.
 
 Das akzeptiert allerdings kein Borderliner
-da er durch die fehlende [Emphatie](https://blz.borderliner.ch/definition/definitionen.htm#Emphatie) überhaupt nicht nachvollziehen kann wie er den Partner verletzt hat. Sagt nun
+da er durch die fehlende [Emphatie](https://borderliner.ch/definition/definitionen.htm#Emphatie) überhaupt nicht nachvollziehen kann wie er den Partner verletzt hat. Sagt nun
 der Partner "du ich kann nicht so schnell umschalten, lass mich erst mal
 beruhigen, ich geh mal 3 Stunden spazieren" kommt eine sofortige Erpressung
 vom Borderliner "wenn du jetzt gehst bin ich weg wenn du wieder
@@ -87,6 +85,4 @@ Borderlinepersönlichkeit in dem Bereich 1a auch mit Omnipotenz (Allmacht) und
 3a mit Selbstentwertung, Selbstverletzung (bedingt durch die Spannung / Wut), Untreue, Drogen- Alkoholmissbrauch
 und Hassattacken.
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](spaltung.html) ] [ [Spaltung und Projektion in der Borderline-Störung Teil 2](spaltung/spaltung.htm) ] [ Sprungverhalten der Borderline-Störung ] [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]

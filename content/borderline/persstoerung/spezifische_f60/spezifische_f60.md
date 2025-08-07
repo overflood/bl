@@ -24,9 +24,7 @@ fällt
 Fahren Sie mit der Maus darüber und sie verschwimmt wie die
 Störung selbst.
 
-[ [Persönlickeitsstörung](../persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../../ads/ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ]
 
-[ [Nach oben](../persstoerung1.html) ] [ spezifische Persönlichkeitsstörung ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../med-leitlinien-ps.pdf) ]
 
 Leitlinien
 
@@ -152,26 +150,23 @@ ausreichenden Belegen dafür, dass die Betroffenen Merkmale mehrerer
 Kriteriengruppen erfüllen, kann mehr als ein Subtypus klassifiziert werden).
 
 siehe auch : [fehlende
-ICH- Identität](https://blz.borderliner.ch/bord/bord3/bord_stoerung_1.html)
+ICH- Identität](https://borderliner.ch/bord/bord3/bord_stoerung_1.html)
 
-Die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) liegt also inner
+Die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) liegt also inner
 halb der Persönlichkeitsstörung, innerhalb der spezifischen
 Persönlichkeitsstörung F60.0, weiter innerhalb der emotional instabilen
 Persönlichkeitsstörung F60.3 und setzt sich letztlich dann aus dem impulsiven
 Typ F60.30 (dieser muss erfüllt sein) und dem Borderline Typus F60.31
 zusammen.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-Anhand der Grafik sehen Sie das sich die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) F60.31 innerhalb des impulsiven Typs F60.30 verlagern kann und diese wiederum
+Anhand der Grafik sehen Sie das sich die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) F60.31 innerhalb des impulsiven Typs F60.30 verlagern kann und diese wiederum
 sich innerhalb der instabilen Persönlichkeitsstörung F60.3. Es ergibt sich
-somit ein grosses [Spektrum](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm) für die
+somit ein grosses [Spektrum](https://borderliner.ch/bord/borderlinespektrum_mit.htm) für die
 Borderlinepersönlichkeit die an jedem x -
 beliebigen Punkt innerhalb des Spektrums liegen kann.
 
 © "Team der
-Borderlinezone" 2002-2007
 
-[ [Nach oben](../persstoerung1.html) ] [ [Borderline-Störung, Einführung, was ist das?](../../bord/bord1/bord1.html) ] [ [nach DMSR](../../bord/bord4/dmsr.html) ] [ [nach ICD](../../bord/bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../../bord/bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]
 
-[ [Persönlickeitsstörung](../persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../../ads/ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]

@@ -10,9 +10,7 @@ slug: psychodynamisches_modell-borderline
 ---
 
 
-[ [Nach oben](../bord3/bord_stoerung_1.html) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
 Psychodynamisches Modell
 
@@ -30,15 +28,15 @@ Sie von dort über den jeweils zugehörigen
 unteren Link oder über den Browser Returnbutton auf diese Seite zurück.
 
 [klick
-hier](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm)
+hier](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ICH:
 
 - Über-ICH siehe 2. Bild
 
-- A1-3   = [Abwehrmechanismen des ICH](https://blz.borderliner.ch/bord/bord1/bord1.html#Abwehr)
+- A1-3   = [Abwehrmechanismen des ICH](https://borderliner.ch/bord/bord1/bord1.html#Abwehr)
 
 - B1       = Kraft bzw. Energie
     die aus Säule I und II des Über-Ich auf das ICH treffen
@@ -86,7 +84,7 @@ Legende ICH:
 
 Über-ICH siehe 2. Bild
 
-A1-3   = [Abwehrmechanismen des ICH](https://blz.borderliner.ch/bord/bord1/bord1.html#Abwehr)
+A1-3   = [Abwehrmechanismen des ICH](https://borderliner.ch/bord/bord1/bord1.html#Abwehr)
 
 B1       = Kraft bzw. Energie
     die aus Säule I und II des Über-Ich auf das ICH treffen
@@ -135,7 +133,7 @@ VI       = Vergleich Ideal-Ich
 Die Über-Ich-Struktur einer
 Borderlinepersönlichkeit
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ÜBER-ICH:
 
@@ -268,9 +266,6 @@ oben als Pufferzone. Gäbe es diese nicht würde das "ICH" regelrecht zerfetzt
 durch
 die auftreffenden Energien.
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](../bord3/bord_stoerung_1.html) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]

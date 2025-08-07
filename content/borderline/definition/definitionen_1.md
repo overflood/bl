@@ -10,7 +10,6 @@ slug: definitionen_1
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](icd10.htm) ] [ [DSM-IV](dsm.htm) ] [ [Begriffsdefinitionen](definitionen.htm) ] [ Drogen ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 Drogen
 
@@ -244,7 +243,7 @@ Menschen sind so unterschiedlich wirkt der Alkohol auf sie. Er wirkt wie bereits
 erwähnt wie ein Deckel und läßt bis dahin nicht zu zulassende Gefühle,
 Ängste, Unterdrücktes (Suppression) zu. Er läßt das tiefste Innerste zu Tage
 treten und macht wie keine andere Droge unberechenbar (borderlinig). Hier liegt
-auch der Fehler vieler Ärzte die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) diagnostizieren obwohl ein
+auch der Fehler vieler Ärzte die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) diagnostizieren obwohl ein
 Alkoholmissbrauch
 vorliegt.
 
@@ -352,13 +351,13 @@ Für einen Medikamenten-missbräuchler
 rationalisieren oder zu verstecken.
 
 [Siehe
-M. die Wechselwirkung Alkohol-Schmerzmittel-Amphetamine](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) hilft es in komplementären
+M. die Wechselwirkung Alkohol-Schmerzmittel-Amphetamine](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) hilft es in komplementären
 Grenzen, zum anderen es in akzeptablen sozialen Grenzen zu halten oder unbemerkt
 zu bleiben.
 
 Suchterzeugende Mittel haben immer die
 Eigenschaft das eine Dosissteigerung erforderlich ist um die gleiche Wirkung /
-Zustand zu erzielen. Dies gilt natürlich nicht wenn Sie auf den Trichter wie [M.](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) kommen. Sucht oder Missbrauch muß nicht immer mit dem sozialen Abstieg einher
+Zustand zu erzielen. Dies gilt natürlich nicht wenn Sie auf den Trichter wie [M.](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) kommen. Sucht oder Missbrauch muß nicht immer mit dem sozialen Abstieg einher
 gehen oder enden, im Gegenteil, wie im Falle von  M.
 zu sehen. Hier wird durch die Verkettung der drei Störungen (Kaskadenstörung)
 und die Wechselwirkung des Alkohol-Medikamentenmissbrauchs ein psychischer
@@ -370,8 +369,8 @@ psychischen oder psychisch-körperlichen Abhängigkeit. Die Behandlung der
 körperlichen Abhängigkeit ist nicht schwierig und meist reichen ein paar
 Wochen dafür. Die Behandlung der psychischen dagegen gestaltet sich als
 äußerst schwierig. Sie erfordert zum einen langen Zeitraum (mind. 2
-Jahre) und zum anderen das Herausfinden der Urstörung / Ursachen (z.B. [ADHS](https://blz.borderliner.ch/ads/ads.html) , [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) , [histrionische
-Störung](https://blz.borderliner.ch/histrio/narz1/narz_f60_4.html) etc.) Das heißt es nützt dem Betreffenden
+Jahre) und zum anderen das Herausfinden der Urstörung / Ursachen (z.B. [ADHS](https://borderliner.ch/ads/ads.html) , [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) , [histrionische
+Störung](https://borderliner.ch/histrio/narz1/narz_f60_4.html) etc.) Das heißt es nützt dem Betreffenden
 nichts wenn er auf Alkohol / Medikamentensucht behandelt wird und das
 ursächliche Problem nicht gefunden und therapiert wird (Ursache -
 Wirkungsprinzip).
@@ -379,18 +378,15 @@ Wirkungsprinzip).
 Der Weg in den Missbrauch ist vielfältig
 und bei Alkohol ist er sehr vielschichtiger als bei anderen Drogen.
 Untersuchungen zu Folge benutzen die jenigen die später im Missbrauch oder in
-der Abhängigkeit landen [Alkohol](https://blz.borderliner.ch/alkohol/alkohol.html) erst einmal als Medizin, als Medikament um
+der Abhängigkeit landen [Alkohol](https://borderliner.ch/alkohol/alkohol.html) erst einmal als Medizin, als Medikament um
 innere Leere, Wut, Zorn, Hilflosigkeit, Angst, Depression, Melancholie zu
 bekämpfen, oder um eine schnelle Möglichkeit zu finden Emotionen zu dämpfen.
 
-Für die [Depression](https://blz.borderliner.ch/depression/depri.html) , innere Leere und
+Für die [Depression](https://borderliner.ch/depression/depri.html) , innere Leere und
 Melancholie ist zu erwähnen das der Alkohol hier als 2 Phasengift wirkt. Erst
 hebt erst die Stimmung dann wird der ursprüngliche Zustand um so schlimmer.
 Untersuchungen haben hier ergeben das je tiefer die vorangegangene Depression
 war desto stärker war die Sucht.
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Entstehung der Sucht](sucht.htm) ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ [Hallozinogene](hallozinogene.htm) ] [ [Opiate](opiate.htm) ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](med-leitlinien-drogen.pdf) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](icd10.htm) ] [ [DSM-IV](dsm.htm) ] [ [Begriffsdefinitionen](definitionen.htm) ] [ Drogen ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

@@ -10,9 +10,7 @@ slug: dmsr
 ---
 
 
-[ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ nach DMSR ] [ [nach ICD](../bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]
 
-[ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]
 
 Borderlinestörung
 
@@ -118,16 +116,13 @@ lebensbedrohlich empfunden. Diese veranlassen den Betroffen sich
 glühende Zigaretten auf der Haut aus drücken, sadistischer Sex, etc.
 
 Es muß hier
-aufgeführt werden das Borderline nicht gleich Borderline ist. Das [Spektrum](https://blz.borderliner.ch/bord/bord1/bord1.html#Spektrum) ist
+aufgeführt werden das Borderline nicht gleich Borderline ist. Das [Spektrum](https://borderliner.ch/bord/bord1/bord1.html#Spektrum) ist
 sehr breit.. Multikomorbidität ist ein Zeichen der Borderlinestörung. Ich
 persönlich lehne diesen Begriff ab, denn die Borderlinestörung ist eine
 Kaskadenstörung, daß heißt einzelne andere Störungen greifen zu so und so
 viel % mit ein und haben sich auf der Basis der Borderlinestörung
 entwickelt.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ nach DMSR ] [ [nach ICD](../bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]
 
-[ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]

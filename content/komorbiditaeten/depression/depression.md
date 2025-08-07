@@ -12,9 +12,7 @@ slug: depression
 
 #
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](depri.html) ] [ weiter Depression ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [Video Seroquel](../definition/seroquel.htm) ] [ [depressiver Server](depressiver-server.htm) ]
 
 # Depression
 
@@ -145,7 +143,7 @@ geht, den anderen oder sich selbst zu zerstören". Gleichzeitig ist der
 Selbstwertkonflikt vorhanden "- überhöhte Ansprüche an sich selbst und
 gleichzeitig die vollkommene Selbstentwertung". Jetzt schauen Sie nicht so
 erstaunt. Ihnen ist gerade nur wieder ein Licht aufgegangen. Richtig, es trifft
-haargenau auf die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) zu und es ist unter anderem auch der
+haargenau auf die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) zu und es ist unter anderem auch der
 Grundkonflikt der Borderline-Störung. Hier sehen Sie, wie sehr die Depression zur
 Borderline-Störung gehört. Bitte, nicht umgekehrt! Die Ablehnung und die
 Abwertung die das Kind von seinen Eltern- insbesondere der Mutter- erfährt, führt
@@ -153,8 +151,6 @@ zwangsläufig zu der Frage: "Was ist mit mir los, dass ich nicht geliebt
 werde?" Diese Frage verinnerlicht sich so stark, dass sie die Selbstzweifel
 des später Erwachsenen begründet. Nun haben Sie auch Antworten auf die häufig
 auftretenden depressiven Episoden der Borderline-Störung. siehe 
-(auch [Beziehung](../beziehung/beziehung.htm) , [Dys-Stress](https://blz.borderliner.ch/biochemie/biochemie.htm#Bl-Stress) )
+(auch [Beziehung](../beziehung/beziehung.htm) , [Dys-Stress](https://borderliner.ch/biochemie/biochemie.htm#Bl-Stress) )
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

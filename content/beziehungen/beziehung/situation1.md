@@ -218,6 +218,4 @@ dich nicht mehr, aber das ist jetzt nicht mehr wichtig. Wichtig ist nur, dass
 wir uns lieben und in 6 Wochen heiraten.
 
 ©
-"Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](beziehung.htm) ] [ [Borderline-Störung Beziehung 2](beziehung1/beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](ratschl/rat.htm) ] [ Borderline-Störung, eine ganz normale Situation in einer ] [ [Borderline-Störung, die Kommunikation einer](beziehung1/kommu.htm) ] [ [Borderline-Störung, der Sex der Versöhnung](../trennung/weinen_schmerz.htm) ] [ [Borderline-Störung, Paradoxum](paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../warum_er_sie/warum_partner.htm) ]

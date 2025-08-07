@@ -11,9 +11,7 @@ slug: disso
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](dissoziation.htm) ]
 
 Die dissoziativen
 Störungen
@@ -711,9 +709,6 @@ auf sein Erleben, Reagieren und Sozialverhalten aufbauen. Bestimmte anhaltende S
 der Alternativ-Ichs, wie etwa Essstörungen  oder Borderline-Persönlichkeitssörungen , werden gegebenenfalls psychotherapeutisch
 im Rahmen der Richtlinienverfahren behandelt.
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](dissoziation.htm) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

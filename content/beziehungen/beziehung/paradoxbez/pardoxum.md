@@ -10,9 +10,7 @@ slug: pardoxum
 ---
 
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
-[ [Nach oben](../beziehung.htm) ] [ [Borderline-Störung Beziehung 2](../beziehung1/beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](../ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](../beziehung1/kommu.htm) ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ Borderline-Störung, Paradoxum ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]
 
 Sie haben nun eine Borderlinepersönlichkeit kennen gelernt.
 Sie geliebt, vertraut und nach den kurzen Momenten der Glückseeligkeit sind Sie
@@ -26,7 +24,7 @@ sein und Sie können gar nicht anders als sich dafür zu entscheiden,
 möglicherweise mit dem Gedanken " jetzt weiß ich alles und diesmal läuft
 es anders, ich kann jetzt damit umgehen" ist das Ihre Entscheidung. Ich
 habe Sie nicht ermutigt, sondern gewarnt!  Wenn Sie es tun dann halten Sie
-sich ein paar [Grundsätze](https://blz.borderliner.ch/beziehung/grunds/grunds.htm) vor Augen. Auf jeden Fall entscheiden Sie sich für einen langen und
+sich ein paar [Grundsätze](https://borderliner.ch/beziehung/grunds/grunds.htm) vor Augen. Auf jeden Fall entscheiden Sie sich für einen langen und
 harten Weg und dies aus einem Grunde -- Sie lieben.
 
 Dieser Weg wird für Sie immer eine
@@ -52,9 +50,6 @@ als Borderliner, und lernen Sie damit zu leben oder geben auf, nur dann tun Sie
 es sofort wenn Sie es feststellen. Sie ersparen sich und ihm einen großen
 Schmerz.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../beziehung.htm) ] [ [Borderline-Störung Beziehung 2](../beziehung1/beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](../ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](../beziehung1/kommu.htm) ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ Borderline-Störung, Paradoxum ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]

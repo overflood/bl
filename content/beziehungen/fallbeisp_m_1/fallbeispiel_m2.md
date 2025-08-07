@@ -10,7 +10,6 @@ slug: fallbeispiel_m2
 ---
 
 
-[ [Nach oben](fallbeispiel_m1.htm) ]
 
 Aber zurück zu M. (M. mit dem
 Teddy und den Sternenaugen)
@@ -223,7 +222,7 @@ der Zustand "Angst" wird bewusst erlebt.
 
 M. versuchte somit die weibliche
 Entwicklung aufzuhalten und verfiel in die [aktive
-Anorexie.](https://blz.borderliner.ch/ess/ess2/anorexianervosa.html) Bis das, sagen wir, auffliegt
+Anorexie.](https://borderliner.ch/ess/ess2/anorexianervosa.html) Bis das, sagen wir, auffliegt
 können unter Umständen Jahre vergehen. Gleiches gilt für die Bulimie. Sie musste
 mehr und mehr ansehen wie die Schwester geliebt wurde und wie die
 Beziehung der Eltern zueinander war. Sie befindet sich mittlerweile zwischen dem
@@ -312,10 +311,8 @@ Kontrolle, Macht
 
 e) Be-Achtung (Selbstwertgefühl)
 
-© "Team der Borderlinezone" 2002-2007
 
 (Haftungsausschluß: Die Personen und die
 Handlung sind frei erfunden und sämtliche Ähnlichkeiten mit lebenden
 oder toten Personen sind rein zufällig.)
 
-[ [Nach oben](fallbeispiel_m1.htm) ] [ [Borderline-Störung, der Fall M, Teil 4](fallbeispiel_m3.htm) ]

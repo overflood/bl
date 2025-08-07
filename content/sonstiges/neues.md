@@ -1,6 +1,5 @@
 ---
-title: Updates, Neues auf der Borderlinezone zur Borderline-Störung, Narzissmus, Depression,
-  Essstörung, ADHS
+title: Neues / Updates (Essstörung, ADHS)
 date: 2023-08-27
 draft: false
 aliases:
@@ -13,7 +12,7 @@ slug: neues
 
 Neues / Updates
 
-[](https://blz.borderliner.ch/indexa.html)
+<!-- entfernt -->
 
 Home
 
@@ -239,6 +238,6 @@ Seitensuche intern
 
 25.07.2007
 
-[](https://blz.borderliner.ch/indexa.html)
+[](https://borderliner.ch/indexa.html)
 
 Home

@@ -10,15 +10,13 @@ slug: trauer
 ---
 
 
-[ [Nach oben](../trennung/trennung.htm) ] [ Die Trauerphasen ] [ [Symptome in der Trennung](../trennung/symptome.htm) ] [ [ICH nach Borderline-Beziehung](../trennung/ich_nach_trennung.htm) ] [ [Borderline-Störung, mit dir war es so](../beziehung/beziehung2/beziehung2.htm) ] [ [Borderline-Störung, Rat in der Trennung](../trennung/ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](../trennung/trennung_treffen.htm) ] [ [Was Ihnen passieren kann](../trennung/was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](../trennung/stalking.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
 Die Trauerphasen
 
 Sie befinden sich in der Trauer, sei es
 wegen einer Trennung oder durch Tod. Beides ist ein und das Selbe. Ihre Psyche ( [limbisches
-System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) ) kann dies nicht unterscheiden. Die Trauer ist ein ehrliches
+System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) ) kann dies nicht unterscheiden. Die Trauer ist ein ehrliches
 Zeichen das Sie geliebt haben.  Ein Teil von Ihnen wurde genommen, durch
 welche Umstände auch immer und der ist gestorben oder stirbt langsam in Ihnen.
 Sie trauern um einen Teil von Ihnen der gegangen ist. Es wird Zeit brauchen um
@@ -82,8 +80,5 @@ Der Trauerprozess benötigt ganz klar Zeit
 und  Ihre Trauerarbeit dazu. So wie jede Beziehung Beziehungsarbeit ist,
 ist die Trauer Trauerarbeit.
 
-© "Team der Borderlinezone 2002"-2007
 
-[ [Nach oben](../trennung/trennung.htm) ] [ Die Trauerphasen ] [ [Symptome in der Trennung](../trennung/symptome.htm) ] [ [ICH nach Borderline-Beziehung](../trennung/ich_nach_trennung.htm) ] [ [Borderline-Störung, mit dir war es so](../beziehung/beziehung2/beziehung2.htm) ] [ [Borderline-Störung, Rat in der Trennung](../trennung/ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](../trennung/trennung_treffen.htm) ] [ [Was Ihnen passieren kann](../trennung/was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](../trennung/stalking.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]

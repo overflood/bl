@@ -10,9 +10,7 @@ slug: ich_depression
 ---
 
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](psychodynamisches_modell-normal.htm) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ psychodynamisches Modell Deprssion ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ]
 
 Psychodynamisches
 Modell
@@ -32,9 +30,9 @@ Sie von dort über den jeweils zugehörigen unteren Link oder über den Browser
 Returnbutton auf diese Seite zurück.
 
 [klick
-hier](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm)
+hier](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ICH:
 
@@ -128,11 +126,8 @@ VI       = Vergleich Ideal-Ich
 
 Auschnitt ÜBER-ICH
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](psychodynamisches_modell-normal.htm) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ psychodynamisches Modell Deprssion ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ]
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]

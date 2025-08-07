@@ -10,7 +10,6 @@ slug: kommu
 ---
 
 
-[ [Nach oben](../beziehung.htm) ] [ [Borderline-Störung Beziehung 2](beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](../ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ Borderline-Störung, die Kommunikation einer ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ [Borderline-Störung, Paradoxum](../paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]
 
 Die
 Kommunikation mit einer Borderlinepersönlichkeit
@@ -137,7 +136,5 @@ Den vorangegangenen Sex,
 Ausdruck der Liebe, erwähnte ich, um zu verdeutlichen, dass vorangegangene
 Liebesbekundungen schon nach Sekunden oder Minuten keine Relevanz mehr haben.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../beziehung.htm) ] [ [Borderline-Störung Beziehung 2](beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](../ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ Borderline-Störung, die Kommunikation einer ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ [Borderline-Störung, Paradoxum](../paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]

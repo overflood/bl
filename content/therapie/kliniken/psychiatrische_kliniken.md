@@ -10,7 +10,6 @@ slug: psychiatrische_kliniken
 ---
 
 
-[ [Nach oben](kliniken.htm) ] [ psychiatrische Kliniken, psychosomtische Kliniken ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]
 
 Sie sich über diese Deutschlandkarte an Ihr gewünschtes Ziel durchklicken. Die Karte ist in die jeweiligen Postleitzahlen aufgeteilt. | Sie sich über diese Deutschlandkarte an Ihr gewünschtes Ziel durchklicken. Die Karte ist in die jeweiligen Postleitzahlen aufgeteilt. |  |
 
@@ -550,4 +549,3 @@ Sie sich über diese Deutschlandkarte an Ihr gewünschtes Ziel durchklicken. Die
 88529 Zwiefalten |  | Zentrum
           für Psychiatrie, Psychotherapie, Neurologie und Rehabilitation, Münsterklinik |
 
-[ [Nach oben](kliniken.htm) ] [ psychiatrische Kliniken, psychosomtische Kliniken ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]

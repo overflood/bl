@@ -12,9 +12,7 @@ slug: anorexianervosa
 
 #
 
-[ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../esst1.html) ] [ [was ist ADS / ADHS Einleitung](../../ads/ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]
 
-[ [Nach oben](../esst1.html) ] [ [Bulimie](../ess1/bulemianervosa.html) ] [ Anorexia nervosa ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ]
 
 # Anorexie
 
@@ -132,7 +130,7 @@ BMI)
 QI = (Gewicht in
 kg) / ( Körpergröße in m) ^2
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Mit der fünften Stelle können näher
 gekennzeichnet werden:
@@ -159,7 +157,7 @@ anorektischen Frauen dar, die eine Hormonsubstitution erhalten (meist als
 kontrazeptive Medikation).
 
 E. Die Kriterien A. und B. für eine [Bulimia
-nervosa](https://blz.borderliner.ch/ess/ess1/bulemianervosa.html) werden nicht erfüllt.
+nervosa](https://borderliner.ch/ess/ess1/bulemianervosa.html) werden nicht erfüllt.
 
 Kommentar:
 
@@ -174,7 +172,5 @@ Pubertät ist die Abfolge der Pubertätsentwicklung verzögert oder gehemmt
 bei Jungen bleiben die Genitalien kindlich). Nach Remission wird die Pubertätsentwicklung
 bei verspäteter Menarche häufig normal abgeschlossen.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../esst1.html) ] [ [Anorexia Untergruppen](anorexia_5.html) ] [ [Die Entstehung der Anorexie](../entstehung_anorexia/entstehung_anorexie.htm) ]

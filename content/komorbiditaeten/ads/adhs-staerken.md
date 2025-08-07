@@ -10,9 +10,7 @@ slug: adhs-staerken
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](ads.html) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Symptome ADHS](symptome.htm) ] [ Stärken ADHS ] [ [AD(H)S Hochbegabte](adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](video_wahl.htm) ] [ [Erwachsene ADHS](ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](ads-kind/ads__adhs_kinder.htm) ]
 
 ADS / ADHS
 seine
@@ -487,7 +485,7 @@ ADHS
         zurück, in der er Berge von Papieren, Essays, Memos und E-Mails
         bearbeitet, durchdenkt und neue Konzepte entwickelt - manchmal dabei
         einzelne Worte wie "Langeweile" oder "Ärger"
-        bewusst laut ausrufend, "nur aus Spaß". [](https://blz.borderliner.ch) Wolfgang
+        bewusst laut ausrufend, "nur aus Spaß". [](https://borderliner.ch) Wolfgang
         Amadeus Mozart (*Salzburg
         27. Januar 1756, Wien 5. Dezember 1791) Er
         ist für jeden ein Begriff: als Sohn von Leopold Mozart einer der berühmtesten
@@ -503,7 +501,7 @@ ADHS
         anderseits aber auch als ungewöhnlich kreativ, innovativ und gefühlsbetont.
         Er war nur in seiner Musik und seinen Kompositionen organisiert und
         konnte hier seine besondere Begabung umsetzen. Ansonsten zog er
-        Konflikte geradezu an. [](https://blz.borderliner.ch) Thomas
+        Konflikte geradezu an. [](https://borderliner.ch) Thomas
         Alva Edison ( *Milan
         11. Februar 1847, West Orange 18. Oktober 1931) Thomas
         Edison ist ein berühmter amerikanischer Ingenieur und Erfinder. Er
@@ -517,7 +515,7 @@ ADHS
         gleichzeitig entwickelte. Er meldete über 2000 Patente an. Seine Arbeit 
         musste wahnsinnig viel Energie, Überzeugung und Mut zum Risiko gekostet
         haben und um so mehr man über ihn liest, um so deutlicher wird sichtbar
-        das er ein ADS-Typ ist, wie er im Buche steht. [](https://blz.borderliner.ch) Albert
+        das er ein ADS-Typ ist, wie er im Buche steht. [](https://borderliner.ch) Albert
         Einstein (*Ulm
         14. März 1879, Princeton 14. April 1955) Albert Einstein
         war ein deutsch-amerikanischer Physiker, einer der bedeutendsten
@@ -526,7 +524,7 @@ ADHS
         allgemeinen (1914/15) Relativitätstheorie bahnbrechend gewirkt hat.
         1921 bekam er einen Nobelpreis für Physik. Auch von ihm
         wird heute berichtet, dass er in seinem Lebenslauf ADS-Symptome bewiesen
-        hat. [](https://blz.borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
+        hat. [](https://borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
         Kalifornien, Vereinigte Staaten Amerika) ist ein US-amerikanischer
         Schauspieler. Er zählt zu den besten und bedeutendsten
         Charakterdarstellern seiner Generation. Tootsie, Rain Main, Sleepers
@@ -540,7 +538,6 @@ ADHS
         hinauswachsen. Und er spielt sie so überzeugend, dass das Publikum in
         seinen Filmen lachen und weinen kann. Er selber hat als junger Mann
         sein Studium abgebrochen und ist daraus zweifelslos weit
-        herausgewachsen. [](https://blz.borderliner.ch) Robin Williams Mary-Kate & Ashley Olsen Hilary Swank Jim Carey Tom Cruise Emma Watson George Burns Bill Crosby Liv Tyler Mariel Hemingway Will Smith Mariette Hartley Melissa Joan HartJohn Lennon Boa Kwon Avril Lavigne Daniel Bedingfield Jennifer Lopez Micheal Jordan Lynne Cox © "Team der Borderlinezone" 2007 [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Symptome ADHS](symptome.htm) ] [ Stärken ADHS ] [ [AD(H)S Hochbegabte](adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](video_wahl.htm) ] [ [Erwachsene ADHS](ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](ads-kind/ads__adhs_kinder.htm) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 ADHS
     Persönlichkeiten William
@@ -561,7 +558,7 @@ ADHS
         zurück, in der er Berge von Papieren, Essays, Memos und E-Mails
         bearbeitet, durchdenkt und neue Konzepte entwickelt - manchmal dabei
         einzelne Worte wie "Langeweile" oder "Ärger"
-        bewusst laut ausrufend, "nur aus Spaß". [](https://blz.borderliner.ch) Wolfgang
+        bewusst laut ausrufend, "nur aus Spaß". [](https://borderliner.ch) Wolfgang
         Amadeus Mozart (*Salzburg
         27. Januar 1756, Wien 5. Dezember 1791) Er
         ist für jeden ein Begriff: als Sohn von Leopold Mozart einer der berühmtesten
@@ -577,7 +574,7 @@ ADHS
         anderseits aber auch als ungewöhnlich kreativ, innovativ und gefühlsbetont.
         Er war nur in seiner Musik und seinen Kompositionen organisiert und
         konnte hier seine besondere Begabung umsetzen. Ansonsten zog er
-        Konflikte geradezu an. [](https://blz.borderliner.ch) Thomas
+        Konflikte geradezu an. [](https://borderliner.ch) Thomas
         Alva Edison ( *Milan
         11. Februar 1847, West Orange 18. Oktober 1931) Thomas
         Edison ist ein berühmter amerikanischer Ingenieur und Erfinder. Er
@@ -591,7 +588,7 @@ ADHS
         gleichzeitig entwickelte. Er meldete über 2000 Patente an. Seine Arbeit 
         musste wahnsinnig viel Energie, Überzeugung und Mut zum Risiko gekostet
         haben und um so mehr man über ihn liest, um so deutlicher wird sichtbar
-        das er ein ADS-Typ ist, wie er im Buche steht. [](https://blz.borderliner.ch) Albert
+        das er ein ADS-Typ ist, wie er im Buche steht. [](https://borderliner.ch) Albert
         Einstein (*Ulm
         14. März 1879, Princeton 14. April 1955) Albert Einstein
         war ein deutsch-amerikanischer Physiker, einer der bedeutendsten
@@ -600,7 +597,7 @@ ADHS
         allgemeinen (1914/15) Relativitätstheorie bahnbrechend gewirkt hat.
         1921 bekam er einen Nobelpreis für Physik. Auch von ihm
         wird heute berichtet, dass er in seinem Lebenslauf ADS-Symptome bewiesen
-        hat. [](https://blz.borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
+        hat. [](https://borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
         Kalifornien, Vereinigte Staaten Amerika) ist ein US-amerikanischer
         Schauspieler. Er zählt zu den besten und bedeutendsten
         Charakterdarstellern seiner Generation. Tootsie, Rain Main, Sleepers
@@ -614,7 +611,6 @@ ADHS
         hinauswachsen. Und er spielt sie so überzeugend, dass das Publikum in
         seinen Filmen lachen und weinen kann. Er selber hat als junger Mann
         sein Studium abgebrochen und ist daraus zweifelslos weit
-        herausgewachsen. [](https://blz.borderliner.ch) Robin Williams Mary-Kate & Ashley Olsen Hilary Swank Jim Carey Tom Cruise Emma Watson George Burns Bill Crosby Liv Tyler Mariel Hemingway Will Smith Mariette Hartley Melissa Joan HartJohn Lennon Boa Kwon Avril Lavigne Daniel Bedingfield Jennifer Lopez Micheal Jordan Lynne Cox © "Team der Borderlinezone" 2007 [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Symptome ADHS](symptome.htm) ] [ Stärken ADHS ] [ [AD(H)S Hochbegabte](adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](video_wahl.htm) ] [ [Erwachsene ADHS](ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](ads-kind/ads__adhs_kinder.htm) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 William
         Bill Henry Gates, III (* 28.
@@ -634,7 +630,7 @@ William
         zurück, in der er Berge von Papieren, Essays, Memos und E-Mails
         bearbeitet, durchdenkt und neue Konzepte entwickelt - manchmal dabei
         einzelne Worte wie "Langeweile" oder "Ärger"
-        bewusst laut ausrufend, "nur aus Spaß". [](https://blz.borderliner.ch) Wolfgang
+        bewusst laut ausrufend, "nur aus Spaß". [](https://borderliner.ch) Wolfgang
         Amadeus Mozart (*Salzburg
         27. Januar 1756, Wien 5. Dezember 1791) Er
         ist für jeden ein Begriff: als Sohn von Leopold Mozart einer der berühmtesten
@@ -650,7 +646,7 @@ William
         anderseits aber auch als ungewöhnlich kreativ, innovativ und gefühlsbetont.
         Er war nur in seiner Musik und seinen Kompositionen organisiert und
         konnte hier seine besondere Begabung umsetzen. Ansonsten zog er
-        Konflikte geradezu an. [](https://blz.borderliner.ch) Thomas
+        Konflikte geradezu an. [](https://borderliner.ch) Thomas
         Alva Edison ( *Milan
         11. Februar 1847, West Orange 18. Oktober 1931) Thomas
         Edison ist ein berühmter amerikanischer Ingenieur und Erfinder. Er
@@ -664,7 +660,7 @@ William
         gleichzeitig entwickelte. Er meldete über 2000 Patente an. Seine Arbeit 
         musste wahnsinnig viel Energie, Überzeugung und Mut zum Risiko gekostet
         haben und um so mehr man über ihn liest, um so deutlicher wird sichtbar
-        das er ein ADS-Typ ist, wie er im Buche steht. [](https://blz.borderliner.ch) Albert
+        das er ein ADS-Typ ist, wie er im Buche steht. [](https://borderliner.ch) Albert
         Einstein (*Ulm
         14. März 1879, Princeton 14. April 1955) Albert Einstein
         war ein deutsch-amerikanischer Physiker, einer der bedeutendsten
@@ -673,7 +669,7 @@ William
         allgemeinen (1914/15) Relativitätstheorie bahnbrechend gewirkt hat.
         1921 bekam er einen Nobelpreis für Physik. Auch von ihm
         wird heute berichtet, dass er in seinem Lebenslauf ADS-Symptome bewiesen
-        hat. [](https://blz.borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
+        hat. [](https://borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
         Kalifornien, Vereinigte Staaten Amerika) ist ein US-amerikanischer
         Schauspieler. Er zählt zu den besten und bedeutendsten
         Charakterdarstellern seiner Generation. Tootsie, Rain Main, Sleepers
@@ -687,7 +683,6 @@ William
         hinauswachsen. Und er spielt sie so überzeugend, dass das Publikum in
         seinen Filmen lachen und weinen kann. Er selber hat als junger Mann
         sein Studium abgebrochen und ist daraus zweifelslos weit
-        herausgewachsen. [](https://blz.borderliner.ch) Robin Williams Mary-Kate & Ashley Olsen Hilary Swank Jim Carey Tom Cruise Emma Watson George Burns Bill Crosby Liv Tyler Mariel Hemingway Will Smith Mariette Hartley Melissa Joan HartJohn Lennon Boa Kwon Avril Lavigne Daniel Bedingfield Jennifer Lopez Micheal Jordan Lynne Cox © "Team der Borderlinezone" 2007 [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Symptome ADHS](symptome.htm) ] [ Stärken ADHS ] [ [AD(H)S Hochbegabte](adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](video_wahl.htm) ] [ [Erwachsene ADHS](ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](ads-kind/ads__adhs_kinder.htm) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 William
         Bill Henry Gates, III (* 28.
@@ -707,7 +702,7 @@ William
         zurück, in der er Berge von Papieren, Essays, Memos und E-Mails
         bearbeitet, durchdenkt und neue Konzepte entwickelt - manchmal dabei
         einzelne Worte wie "Langeweile" oder "Ärger"
-        bewusst laut ausrufend, "nur aus Spaß". [](https://blz.borderliner.ch) Wolfgang
+        bewusst laut ausrufend, "nur aus Spaß". [](https://borderliner.ch) Wolfgang
         Amadeus Mozart (*Salzburg
         27. Januar 1756, Wien 5. Dezember 1791) Er
         ist für jeden ein Begriff: als Sohn von Leopold Mozart einer der berühmtesten
@@ -723,7 +718,7 @@ William
         anderseits aber auch als ungewöhnlich kreativ, innovativ und gefühlsbetont.
         Er war nur in seiner Musik und seinen Kompositionen organisiert und
         konnte hier seine besondere Begabung umsetzen. Ansonsten zog er
-        Konflikte geradezu an. [](https://blz.borderliner.ch) Thomas
+        Konflikte geradezu an. [](https://borderliner.ch) Thomas
         Alva Edison ( *Milan
         11. Februar 1847, West Orange 18. Oktober 1931) Thomas
         Edison ist ein berühmter amerikanischer Ingenieur und Erfinder. Er
@@ -737,7 +732,7 @@ William
         gleichzeitig entwickelte. Er meldete über 2000 Patente an. Seine Arbeit 
         musste wahnsinnig viel Energie, Überzeugung und Mut zum Risiko gekostet
         haben und um so mehr man über ihn liest, um so deutlicher wird sichtbar
-        das er ein ADS-Typ ist, wie er im Buche steht. [](https://blz.borderliner.ch) Albert
+        das er ein ADS-Typ ist, wie er im Buche steht. [](https://borderliner.ch) Albert
         Einstein (*Ulm
         14. März 1879, Princeton 14. April 1955) Albert Einstein
         war ein deutsch-amerikanischer Physiker, einer der bedeutendsten
@@ -746,7 +741,7 @@ William
         allgemeinen (1914/15) Relativitätstheorie bahnbrechend gewirkt hat.
         1921 bekam er einen Nobelpreis für Physik. Auch von ihm
         wird heute berichtet, dass er in seinem Lebenslauf ADS-Symptome bewiesen
-        hat. [](https://blz.borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
+        hat. [](https://borderliner.ch) Dustin Lee Hoffman (* 8.08 1937 in ,
         Kalifornien, Vereinigte Staaten Amerika) ist ein US-amerikanischer
         Schauspieler. Er zählt zu den besten und bedeutendsten
         Charakterdarstellern seiner Generation. Tootsie, Rain Main, Sleepers
@@ -760,7 +755,6 @@ William
         hinauswachsen. Und er spielt sie so überzeugend, dass das Publikum in
         seinen Filmen lachen und weinen kann. Er selber hat als junger Mann
         sein Studium abgebrochen und ist daraus zweifelslos weit
-        herausgewachsen. [](https://blz.borderliner.ch) Robin Williams Mary-Kate & Ashley Olsen Hilary Swank Jim Carey Tom Cruise Emma Watson George Burns Bill Crosby Liv Tyler Mariel Hemingway Will Smith Mariette Hartley Melissa Joan HartJohn Lennon Boa Kwon Avril Lavigne Daniel Bedingfield Jennifer Lopez Micheal Jordan Lynne Cox © "Team der Borderlinezone" 2007 [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Symptome ADHS](symptome.htm) ] [ Stärken ADHS ] [ [AD(H)S Hochbegabte](adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](video_wahl.htm) ] [ [Erwachsene ADHS](ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](ads-kind/ads__adhs_kinder.htm) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 William
         Bill Henry Gates, III (* 28.
@@ -780,7 +774,7 @@ William
         zurück, in der er Berge von Papieren, Essays, Memos und E-Mails
         bearbeitet, durchdenkt und neue Konzepte entwickelt - manchmal dabei
         einzelne Worte wie "Langeweile" oder "Ärger"
-        bewusst laut ausrufend, "nur aus Spaß". | [](https://blz.borderliner.ch)
+        bewusst laut ausrufend, "nur aus Spaß". | [](https://borderliner.ch)
 
 Wolfgang
         Amadeus Mozart (*Salzburg
@@ -798,7 +792,7 @@ Wolfgang
         anderseits aber auch als ungewöhnlich kreativ, innovativ und gefühlsbetont.
         Er war nur in seiner Musik und seinen Kompositionen organisiert und
         konnte hier seine besondere Begabung umsetzen. Ansonsten zog er
-        Konflikte geradezu an. | [](https://blz.borderliner.ch)
+        Konflikte geradezu an. | [](https://borderliner.ch)
 
 Thomas
         Alva Edison ( *Milan
@@ -814,7 +808,7 @@ Thomas
         gleichzeitig entwickelte. Er meldete über 2000 Patente an. Seine Arbeit 
         musste wahnsinnig viel Energie, Überzeugung und Mut zum Risiko gekostet
         haben und um so mehr man über ihn liest, um so deutlicher wird sichtbar
-        das er ein ADS-Typ ist, wie er im Buche steht. | [](https://blz.borderliner.ch)
+        das er ein ADS-Typ ist, wie er im Buche steht. | [](https://borderliner.ch)
 
 Albert
         Einstein (*Ulm
@@ -825,7 +819,7 @@ Albert
         allgemeinen (1914/15) Relativitätstheorie bahnbrechend gewirkt hat.
         1921 bekam er einen Nobelpreis für Physik. Auch von ihm
         wird heute berichtet, dass er in seinem Lebenslauf ADS-Symptome bewiesen
-        hat. | [](https://blz.borderliner.ch)
+        hat. | [](https://borderliner.ch)
 
 Dustin Lee Hoffman (* 8.08 1937 in ,
         Kalifornien, Vereinigte Staaten Amerika) ist ein US-amerikanischer
@@ -841,7 +835,7 @@ Dustin Lee Hoffman (* 8.08 1937 in ,
         hinauswachsen. Und er spielt sie so überzeugend, dass das Publikum in
         seinen Filmen lachen und weinen kann. Er selber hat als junger Mann
         sein Studium abgebrochen und ist daraus zweifelslos weit
-        herausgewachsen. | [](https://blz.borderliner.ch)
+        herausgewachsen. | [](https://borderliner.ch)
 
 Robin Williams Mary-Kate & Ashley Olsen Hilary Swank Jim Carey Tom Cruise Emma Watson George Burns Bill Crosby Liv Tyler Mariel Hemingway Will Smith Mariette Hartley Melissa Joan HartJohn Lennon Boa Kwon Avril Lavigne Daniel Bedingfield Jennifer Lopez Micheal Jordan Lynne Cox |
 
@@ -867,7 +861,7 @@ Wer
         einzelne Worte wie "Langeweile" oder "Ärger"
         bewusst laut ausrufend, "nur aus Spaß".
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Wolfgang
         Amadeus Mozart (*Salzburg
@@ -893,7 +887,7 @@ Er
         konnte hier seine besondere Begabung umsetzen. Ansonsten zog er
         Konflikte geradezu an.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Thomas
         Alva Edison ( *Milan
@@ -956,12 +950,7 @@ Er selber hat als junger Mann
 
 Robin Williams Mary-Kate & Ashley Olsen Hilary Swank Jim Carey Tom Cruise Emma Watson George Burns Bill Crosby Liv Tyler Mariel Hemingway Will Smith Mariette Hartley Melissa Joan HartJohn Lennon Boa Kwon Avril Lavigne Daniel Bedingfield Jennifer Lopez Micheal Jordan Lynne Cox
 
-© "Team der Borderlinezone" 2007
 
-[ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Symptome ADHS](symptome.htm) ] [ Stärken ADHS ] [ [AD(H)S Hochbegabte](adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](video_wahl.htm) ] [ [Erwachsene ADHS](ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](ads-kind/ads__adhs_kinder.htm) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Symptome ADHS](symptome.htm) ] [ Stärken ADHS ] [ [AD(H)S Hochbegabte](adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](video_wahl.htm) ] [ [Erwachsene ADHS](ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](ads-kind/ads__adhs_kinder.htm) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

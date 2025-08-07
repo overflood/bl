@@ -10,9 +10,7 @@ slug: borderlinespektrum_mit
 ---
 
 
-[ [Borderline-Störung, Einführung, was ist das?](bord1/bord1.html) ] [ [nach DMSR](bord4/dmsr.html) ] [ [nach ICD](bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ]
 
-[ [Nach oben](bord1/bord1.html) ] [ [Ich-Identität der Borderline-Störung](bord3/bord_stoerung_1.html) ] [ Borderlinespektrum & Komorbidität ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
 Die Borderline-Störung im Spektrum ihrer
 Komorbiditäten
@@ -171,11 +169,11 @@ Borderline-Störung noch einmal verschiebt. Die Grafik beschreibt zusätzlich
 die augeprägte Stärke der komorbiden Störung (hier als Bsp. der Narzissmus),
 die in die Borderline-Störung eingreift.
 
-[](https://blz.borderliner.ch) | [](https://blz.borderliner.ch)
+[](https://borderliner.ch) | [](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Ausgehend davon sollte man die
 Borderline-Störung mit ihren Komorbiditäten anders betrachten. Das Wort und
@@ -242,7 +240,7 @@ histrionische PS F60.4
 
 narzisstische PS F60.8
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Die Kombinationsmöglichkeiten einzelner
 Symptomatiken innerhalb des Borderlinspektrums, bzw. des Formenkreises der
@@ -250,7 +248,7 @@ Borderline-Störung, ist wie Sie sehen enorm groß.
 
 In der nächsten Grafik sehen Sie den
 Einfluss der Symptome der schizotypischen PS F21 (Borderlineschizophrenie) auf
-die [Borderline-Störung](https://blz.borderliner.ch/bord1/bord1.html) F21.
+die [Borderline-Störung](https://borderliner.ch/bord1/bord1.html) F21.
 
 F21 als eigenständige
 Persönlichkeitsstörung, bildet eine Sonderform innerhalb der
@@ -369,7 +367,7 @@ einmal ein Licht auf. Wenn Sie sich diesen Typus wie in der Grafik aufgezeigt
 als Partner ausgesucht haben, haben Sie sich einen der extremsten aus dem
 Spektrum herausgefischt.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Auch wenn Sie sich aus den beiden
 nachfolgenden Grafiken einen Typus, der übrigens nicht selten ist, gesucht
@@ -378,7 +376,7 @@ eher den weiblichen Narzissmus bezeichnet. In allen drei Fällen liegt eine schw
 Beziehungspathologie vor. Bei
 Betroffenen der Borderline-Störung, die relativ nah der Mitte des
 Borderlinespektrums und im narzisstischen Bereich liegen greifen gehäuft
-Symptome der paranoiden PS ein. (siehe hierzu auch [Stalking](https://blz.borderliner.ch/trennung/stalking.htm) )
+Symptome der paranoiden PS ein. (siehe hierzu auch [Stalking](https://borderliner.ch/trennung/stalking.htm) )
 (eingreifende Symptome grün)
 
 Die paranoide PS ist durch übertriebene
@@ -393,16 +391,16 @@ und häufiger, übertriebener Selbstbezogenheit
 neigen. (Hinzu kommt häufig ungerechtfertigtes Misstrauen
 an der sexuellen Treue des Partners)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Diese Grafik stellt eine sehr häufig
 auftretende Kombination in der Borderline-Störung dar. Diese Kombination kann
 man als humane Borderliner, gegenüber dem Partner, bezeichnen. Hier kann unter
 Umständen auch die Symptomatik der zwanghafte PS eingreifen.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Anhand der aufgeführten Beispiele von
 Kombinationen der Symptomatiken (nicht alle können hier aufgeführt werden)
@@ -462,12 +460,7 @@ Verständnis für das, nicht nur unserer Meinung nach, völlig fehl am Platz
 sitzende Postulat "Komorbid mit anderer x- PS" innerhalb der
 Borderline-Störung geschaffen zu haben.
 
-© "Team der Borderlinezone" 2007
 
-[ [Nach oben](bord1/bord1.html) ] [ [Präsentation Formenkreis Borderline-Störung](formenkreis-borderline.pps) ]
 
-[ [Ich-Identität der Borderline-Störung](bord3/bord_stoerung_1.html) ] [ Borderlinespektrum & Komorbidität ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
-[ [Borderline-Störung, Einführung, was ist das?](bord1/bord1.html) ] [ [nach DMSR](bord4/dmsr.html) ] [ [nach ICD](bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ]
 
-|  |  |  |  |

@@ -10,9 +10,7 @@ slug: rat
 ---
 
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
-[ [Nach oben](../beziehung.htm) ] [ [Borderline-Störung Beziehung 2](../beziehung1/beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../grunds/grunds.htm) ] [ leidet mein Partner unter einer Borderline-Störung ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](../beziehung1/kommu.htm) ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ [Borderline-Störung, Paradoxum](../paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]
 
 ist mein Ist oder
 war mein Partner eine Borderlinepersönlichkeit,
@@ -246,11 +244,8 @@ vorliegt, selber liefern.
 
 Natürlich erst wenn Sie alle
 Seiten gelesen haben.  Sie könne auch die die [Test
-zur Borderline-Störung](https://blz.borderliner.ch/bord/bord_test/einleitung_bps_test.html) verwenden.
+zur Borderline-Störung](https://borderliner.ch/bord/bord_test/einleitung_bps_test.html) verwenden.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../beziehung.htm) ] [ [Borderline-Störung Beziehung 2](../beziehung1/beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../grunds/grunds.htm) ] [ leidet mein Partner unter einer Borderline-Störung ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](../beziehung1/kommu.htm) ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ [Borderline-Störung, Paradoxum](../paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]

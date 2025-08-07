@@ -10,7 +10,6 @@ slug: spaltung
 ---
 
 
-[ [Nach oben](../bord/bord1/bord1.html) ] [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ Spaltung und Projektion Borderline-Störung ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
 Spaltung
 / Projektion
@@ -22,7 +21,7 @@ Borderliner ist bekämpfen gleich Vernichtung.
 Projektion heißt aber auch das Sie Ihr Imago auf den
 anderen projizieren.
 
-Die [Spaltung](https://blz.borderliner.ch/spaltung/spaltung/spaltung.htm) ist an sich nichts ungewöhnliches. Wie bereits
+Die [Spaltung](https://borderliner.ch/spaltung/spaltung/spaltung.htm) ist an sich nichts ungewöhnliches. Wie bereits
 festgestellt wurde unterliegt der Borderliner der aktiven Spaltung. Das heißt
 er tut dies nicht unbewusst sondern bewusst. Hinzu kommt noch das er nicht nur
 zwischen "gut und böse" spaltet sondern auch zwischen abwesend und anwesend.
@@ -37,16 +36,16 @@ zur Folge das dieser Mensch in zwischenmenschlichen Beziehungen das reinste
 Chaos erlebt. Zeitlich also vor der Verdrängung liegt die Spaltung und dies
 wiederum heißt Flucht. Diese wird gegen eine innere "Triebgefahr" --
 "ES" eingesetzt, doch nur dann wenn sie wie ein äußeres Gefahrensignal behandelt wird. Beachten Sie bitte hier die Projektion
-der Borderlinerpersönlichkeit ( [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ). Insofern ist der Borderliner ständig bereit mit Panikattacken zu
+der Borderlinerpersönlichkeit ( [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ). Insofern ist der Borderliner ständig bereit mit Panikattacken zu
 reagieren sobald seine Schutzmechanismen angegriffen werden, bzw. er  dies
 so sieht.
 
-Da die [Spaltung](https://blz.borderliner.ch/spaltung/spaltung/spaltung.htm) weniger Gegenbesetzungsenergie bedarf wie die
+Da die [Spaltung](https://borderliner.ch/spaltung/spaltung/spaltung.htm) weniger Gegenbesetzungsenergie bedarf wie die
 Verdrängung ist es dem Borderliner um ein vieles einfacher zu diesem
 Mechanismus zu greifen da er ja auch den nächst höheren Mechanismus nicht
 kennt.
 
-[Verdrängung](https://blz.borderliner.ch/bord/bord1/bord1.html#Verdrängung) wie auch Spaltung sind Schutzmechanismen des
+[Verdrängung](https://borderliner.ch/bord/bord1/bord1.html#Verdrängung) wie auch Spaltung sind Schutzmechanismen des
 "Ich". Der Nachteil der Spaltung besteht darin das im Gegensatz
 zur Verdrängung die abgespaltenen Einflüsse (Energien) permanent vorhanden
 bleiben, sie nicht aufgelöst werden. So ist es nicht verwunderlich das der Borderliner nach einem
@@ -83,7 +82,7 @@ sich also entfernen und wieder annähern) der Borderliner
 nicht. Die Mutter hat ihm hier genau das Gegenteil vermittelt, (ich bin gut --
 wenn du hier bist/ich bin böse -- wenn du dich entfernst, komm her und in dem
 Moment geh weg) Hier reicht ein ambivalentes Verhalten der Mutter aus. Auch
-können wir hier kurz auf die [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) bzw. das "Sein" nach einer
+können wir hier kurz auf die [Trennung](https://borderliner.ch/trennung/trennung.htm) bzw. das "Sein" nach einer
 Borderlinebeziehung eingehen. Der Expartner tut nichts anderes wie der kleine Borderliner als
 Kind er idealisiert den Partner obwohl er ihm so furchtbar weh tut/tat. Ein Schutzmechanismus der Seele.
 
@@ -96,7 +95,7 @@ Das Kind projiziert also seine Aggression auf das geliebte
 Objekt, muss es aber gleichzeitig idealisieren um es vor der Zerstörung durch die
 Aggression zu bewahren.
 
-Wir hatten festgestellt das das ICH als [Pufferzone](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) wirkt.  Pufferzone hier um diese Energien zu neutralisieren. Besteht also
+Wir hatten festgestellt das das ICH als [Pufferzone](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) wirkt.  Pufferzone hier um diese Energien zu neutralisieren. Besteht also
 nun im späteren Alter kein komplexes "ICH" kann es diese Energien nicht
 neutralisieren und es passiert was passieren muss. Die Energien prallen
 ungebremst aufeinander.  Ist diesem Falle das
@@ -160,10 +159,6 @@ gleichzeitig Angst auslöst. Und er wird
 wieder zur Leinwand in der Projektion des anderen. Jetzt beginnt der
 Teufelskreis oder sagen wir besser das Borderline-Dilemma.
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../bord/bord1/bord1.html) ] [ [Spaltung und Projektion in der Borderline-Störung Teil 2](spaltung/spaltung.htm) ] [ [Sprungverhalten der Borderline-Störung](sprungverhalten_borderline.htm) ]
 
-[ [Nach oben](../bord/bord1/bord1.html) ] [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ Spaltung und Projektion Borderline-Störung ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord/bord1/bord1.html) ] [ [nach DMSR](../bord/bord4/dmsr.html) ] [ [nach ICD](../bord/bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../bord/bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ]

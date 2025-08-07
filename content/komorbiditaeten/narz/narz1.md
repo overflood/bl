@@ -12,9 +12,7 @@ slug: narz1
 
 Narzissmus
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ]
 
-[ [Nach oben](../persstoerung/persstoerung1.html) ] [ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ Was ist Narzissmus ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
 Der Ursprung des Ausdrucks " Narzisst" liegt in der Sage das
 Narziss (Narcissus) der sich dem Begehren der Nymphe Echo verweigert. Er will lieben
@@ -34,7 +32,7 @@ Richtig ist das das die Borderline-Störung viel mit dem 
 pathologischem Narzissmus zu tun hat, da
 diese Störung, wie auch die Borderline-Störung, eine frühkindliche Störung ist und
 die narzisstischen
-Eigenschaften sich ja auch vor der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) entwickeln. Des weiteren sucht sich der Narzisst sehr oft eine Borderline-Störung
+Eigenschaften sich ja auch vor der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) entwickeln. Des weiteren sucht sich der Narzisst sehr oft eine Borderline-Störung
 (Borderlinepersönlichkeit) oder dependente Persönlichkeit für eine Beziehung
 ( [Komplementärstörung](../kompstoerung/komplimentaerstoerungen.htm) ).
 
@@ -78,7 +76,7 @@ Menschen ohne Schuldgefühle zu verfügen, sie zu beherrschen.
 Die Hauptkennzeichen einer Narzisstischen Persönlichkeitsstörung ist / sind
 Größenideen mit einer extrem egozentrischen Einstellung.
 
-Kommen wir zur Abwehr der Narzissten. Auch sie unterliegen den primitiven [Abwehrfunktionen](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) wie Spaltung, Verleugnung, Idealisierung und projektiver 
+Kommen wir zur Abwehr der Narzissten. Auch sie unterliegen den primitiven [Abwehrfunktionen](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) wie Spaltung, Verleugnung, Idealisierung und projektiver 
 Indentifiizierung.
 
 Im Gegensatz zur Borderline-Störung verfügt der Narzisst aber über eine
@@ -87,13 +85,13 @@ extremes Maß an Selbstbeherrschung auf.
 
 Wie Sie bereits wissen sprachen wir vom "ICH, ES, ÜBER-ICH"
   ( [siehe
-Psychodynamisches Modell narzisstische Persönlichkeit](https://blz.borderliner.ch/ich/psychodynamisches_modell-narzissmus.htm) ). Bei
+Psychodynamisches Modell narzisstische Persönlichkeit](https://borderliner.ch/ich/psychodynamisches_modell-narzissmus.htm) ). Bei
 der narzisstischen Störung verschwimmen, wie bei der Borderline-Störung, die Ich-Grenzen
 nicht. Er weiß sehr genau zwischen "ICH und DU" zu unterscheiden. Er,
 der Narzisst, hat ein "Ich-Ideal" welches er verschmelzt mit dem
 Idealobjekt  (in dem Falle womöglich Sie).
 
-Aber auch er unterliegt der starken [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) . Jeder Mensch von uns hat
+Aber auch er unterliegt der starken [Projektion](https://borderliner.ch/spaltung/spaltung.html) . Jeder Mensch von uns hat
 Anteile die er nicht mag. Der Narzisst projiziert seine für ihn nicht
 akzeptablen Anteile auf den anderen , die Anteile die sich nicht in sein
 Selbstkonzept einschmelzen lassen, und entwertet diese dort. Ergo, er entwertet
@@ -175,15 +173,12 @@ ist desto größer ist der Beziehungskonflikt. Hier liegt aber noch ein anderes
 Urproblem narzisstischer Beziehungen. Narzisstische Beziehungen beruhen immer
 auf gegenseitiger Abhängigkeit. (Der Narzisst wählt sich oft die hysterische,
 infantile, [dependente
-(abhängige) Persönlichkeit](https://blz.borderliner.ch/kompstoerung/dependent-narz-bez.htm) oder [Borderlinepersönlichkeit](https://blz.borderliner.ch/bord/bord1/bord1.html) . Durch die Abhängigkeit und Konzentration auf den
+(abhängige) Persönlichkeit](https://borderliner.ch/kompstoerung/dependent-narz-bez.htm) oder [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) . Durch die Abhängigkeit und Konzentration auf den
 Partner isoliert der Narzisst sich aber immer mehr und dies begünstigt bei ihm
 das Gefühl der "Beziehungsfalle".
 
 Die narzisstische Störung wird vom Borderliner wiederum
-als Beziehung oft bevorzugt. [Komplementärstörung](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm)
+als Beziehung oft bevorzugt. [Komplementärstörung](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm)
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../persstoerung/persstoerung1.html) ] [ [weiter Narzissmus](narzissmus/narz_1.htm) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ]

@@ -1,5 +1,4 @@
 ---
-title: Sitemap der Borderlinezone
 date: 2023-08-26
 draft: false
 aliases:

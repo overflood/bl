@@ -10,9 +10,7 @@ slug: beziehung2
 ---
 
 
-[ [Nach oben](../../trennung/trennung.htm) ] [ [Die Trauerphasen](../../trauer/trauer.htm) ] [ [Symptome in der Trennung](../../trennung/symptome.htm) ] [ [ICH nach Borderline-Beziehung](../../trennung/ich_nach_trennung.htm) ] [ Borderline-Störung, mit dir war es so ] [ [Borderline-Störung, Rat in der Trennung](../../trennung/ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](../../trennung/trennung_treffen.htm) ] [ [Was Ihnen passieren kann](../../trennung/was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](../../trennung/stalking.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
 Musik
 
@@ -122,24 +120,18 @@ DU,  NUR  DU,  BIST / WARST ETWAS   GANZ  BESONDERES. Frauen sollten
 FRAU durch MANN und
 SIE durch ER ersetzen ©(geschrieben
 von "Unbekannt" aber zutreffend.) ©
-Verändert "Team der Borderlinezone"  2002 [ [Nach oben](../../trennung/trennung.htm) ] [ [Die Trauerphasen](../../trauer/trauer.htm) ] [ [Symptome in der Trennung](../../trennung/symptome.htm) ] [ [ICH nach Borderline-Beziehung](../../trennung/ich_nach_trennung.htm) ] [ Borderline-Störung, mit dir war es so ] [ [Borderline-Störung, Rat in der Trennung](../../trennung/ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](../../trennung/trennung_treffen.htm) ] [ [Was Ihnen passieren kann](../../trennung/was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](../../trennung/stalking.htm) ] [ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
 Frauen sollten
 FRAU durch MANN und
 SIE durch ER ersetzen ©(geschrieben
 von "Unbekannt" aber zutreffend.) ©
-Verändert "Team der Borderlinezone"  2002 [ [Nach oben](../../trennung/trennung.htm) ] [ [Die Trauerphasen](../../trauer/trauer.htm) ] [ [Symptome in der Trennung](../../trennung/symptome.htm) ] [ [ICH nach Borderline-Beziehung](../../trennung/ich_nach_trennung.htm) ] [ Borderline-Störung, mit dir war es so ] [ [Borderline-Störung, Rat in der Trennung](../../trennung/ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](../../trennung/trennung_treffen.htm) ] [ [Was Ihnen passieren kann](../../trennung/was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](../../trennung/stalking.htm) ] [ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
 Frauen sollten
 FRAU durch MANN und
 SIE durch ER ersetzen ©(geschrieben
 von "Unbekannt" aber zutreffend.) ©
-Verändert "Team der Borderlinezone"  2002 [ [Nach oben](../../trennung/trennung.htm) ] [ [Die Trauerphasen](../../trauer/trauer.htm) ] [ [Symptome in der Trennung](../../trennung/symptome.htm) ] [ [ICH nach Borderline-Beziehung](../../trennung/ich_nach_trennung.htm) ] [ Borderline-Störung, mit dir war es so ] [ [Borderline-Störung, Rat in der Trennung](../../trennung/ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](../../trennung/trennung_treffen.htm) ] [ [Was Ihnen passieren kann](../../trennung/was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](../../trennung/stalking.htm) ] [ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
 ©(geschrieben
 von "Unbekannt" aber zutreffend.) ©
-Verändert "Team der Borderlinezone"  2002
 
-[ [Nach oben](../../trennung/trennung.htm) ] [ [Die Trauerphasen](../../trauer/trauer.htm) ] [ [Symptome in der Trennung](../../trennung/symptome.htm) ] [ [ICH nach Borderline-Beziehung](../../trennung/ich_nach_trennung.htm) ] [ Borderline-Störung, mit dir war es so ] [ [Borderline-Störung, Rat in der Trennung](../../trennung/ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](../../trennung/trennung_treffen.htm) ] [ [Was Ihnen passieren kann](../../trennung/was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](../../trennung/stalking.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]

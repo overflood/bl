@@ -10,7 +10,6 @@ slug: behandlung_von_ads__adhs
 ---
 
 
-[ [Nach oben](../ads.html) ] [ [psychodynamisches Modell ADHS](../ich_adhs.htm) ] [ [Symptome ADHS](../symptome.htm) ] [ [Stärken ADHS](../adhs-staerken.htm) ] [ [AD(H)S Hochbegabte](../adhs-hochbegabt/index.htm) ] [ Behandlung ADHS ] [ [Video ADHS](../video_wahl.htm) ] [ [Erwachsene ADHS](../ads-erwachsen/ads-erwachsen.htm) ] [ [Kinder ADHS](../ads-kind/ads__adhs_kinder.htm) ]
 
 Behandlung von ADS / ADHS
 
@@ -199,7 +198,7 @@ An Medikamenten werden bei Kindern wie
       Abhängigkeitsentwicklung deuten Untersuchungen sogar eher auf eine 
       Prävention einer späteren Missbrauchsproblematik hin. Auch Bedenken bei zusätzlich vorhandenen Tics, dahingehend, 
       dass sich dies durch die Ritalinbehandlung verstärken, haben anscheinend 
-      keine Grundlage. [](https://blz.borderliner.ch) Nach 
+      keine Grundlage. [](https://borderliner.ch) Nach 
       den 
       vorliegenden 
       Untersuchungen 
@@ -1579,7 +1578,6 @@ An Medikamenten werden bei Kindern wie
         und Wachheit, unabhängig davon ob sie  ADD haben oder nicht. Die 
         Besserung ist nur bei den Erkrankten eindeutiger. Mythos: Die Medikamente sollten abgesetzt werden wenn eine Kind in die 
         Pubertät kommt. Fakt: Nein!  80 % von denen die als Kinder Medikamente brauchen, 
-        brauchen sie auch als Teenagers. 50% brauchen sie noch als Erwachsene. © "Team der Borderlinezone" 2007 [ [Nach oben](../ads.html) ] [ [Ritalin](ritalin.htm) ] [ [Behandlung ADHS Erwachsener mit Ritalin](ritalin1/index.htm) ]
 
 Dosierungsbereich für Stimulantien bei Schulkindern
 
@@ -1624,7 +1622,7 @@ Entgegen früheren Bedenken hinsichtlich einer etwaigen
       Abhängigkeitsentwicklung deuten Untersuchungen sogar eher auf eine 
       Prävention einer späteren Missbrauchsproblematik hin. Auch Bedenken bei zusätzlich vorhandenen Tics, dahingehend, 
       dass sich dies durch die Ritalinbehandlung verstärken, haben anscheinend 
-      keine Grundlage. [](https://blz.borderliner.ch) Nach 
+      keine Grundlage. [](https://borderliner.ch) Nach 
       den 
       vorliegenden 
       Untersuchungen 
@@ -3004,7 +3002,6 @@ Entgegen früheren Bedenken hinsichtlich einer etwaigen
         und Wachheit, unabhängig davon ob sie  ADD haben oder nicht. Die 
         Besserung ist nur bei den Erkrankten eindeutiger. Mythos: Die Medikamente sollten abgesetzt werden wenn eine Kind in die 
         Pubertät kommt. Fakt: Nein!  80 % von denen die als Kinder Medikamente brauchen, 
-        brauchen sie auch als Teenagers. 50% brauchen sie noch als Erwachsene. © "Team der Borderlinezone" 2007 [ [Nach oben](../ads.html) ] [ [Ritalin](ritalin.htm) ] [ [Behandlung ADHS Erwachsener mit Ritalin](ritalin1/index.htm) ]
 
 Entgegen früheren Bedenken hinsichtlich einer etwaigen 
       Abhängigkeitsentwicklung deuten Untersuchungen sogar eher auf eine 
@@ -3012,7 +3009,7 @@ Entgegen früheren Bedenken hinsichtlich einer etwaigen
       dass sich dies durch die Ritalinbehandlung verstärken, haben anscheinend 
       keine Grundlage.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Nach 
       den 
@@ -5243,6 +5240,4 @@ Die Medikamente sollten abgesetzt werden wenn eine Kind in die
 Nein!  80 % von denen die als Kinder Medikamente brauchen, 
         brauchen sie auch als Teenagers. 50% brauchen sie noch als Erwachsene.
 
-© "Team der Borderlinezone" 2007
 
-[ [Nach oben](../ads.html) ] [ [Ritalin](ritalin.htm) ] [ [Behandlung ADHS Erwachsener mit Ritalin](ritalin1/index.htm) ]

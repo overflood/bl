@@ -11,9 +11,7 @@ slug: anorexia_5
 ---
 
 
-[ [Home](../../index.html) ] [ [Bulimie](../ess1/bulemianervosa.html) ] [ [Anorexia nervosa](anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ]
 
-[ [Nach oben](anorexianervosa.html) ] [ Anorexia Untergruppen ] [ [Die Entstehung der Anorexie](../entstehung_anorexia/entstehung_anorexie.htm) ]
 
 Anorexie Untergruppen
 
@@ -66,7 +64,5 @@ Appetitverlust
 psychogener
 Appetitverlust
 
-© "Team der Borderlinezone 
 2002-2007
 
-[ [Nach oben](anorexianervosa.html) ] [ Anorexia Untergruppen ] [ [Die Entstehung der Anorexie](../entstehung_anorexia/entstehung_anorexie.htm) ]

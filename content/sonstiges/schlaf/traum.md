@@ -12,11 +12,8 @@ slug: traum
 
 Traum Schlaf
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ Schlaf & Traum ][ [Derpression](../depression/depri.html) ]
 
-[ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ]
 
-[ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ]
 
 Traum:
 
@@ -80,10 +77,6 @@ Psyche ist, der "orthodoxe" dagegen rein für die körperlichen
 Energien. Werden also dies Schlafphasen verschoben können Sie sich selbst
 beantworten wie Sie sich nach einiger Zeit fühlen.
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ Schlaf & Traum ][ [Derpression](../depression/depri.html) ]
 
-[ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ]
 
-[ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ]

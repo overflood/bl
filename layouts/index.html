@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <div class="flex-l mw9 center ph3 flex-wrap">
+    <!-- Sidebar showing nested navigation -->
+    <aside class="w-20-l dn dib-l pr4 order-1">
+      {{ partial "sidebar.html" . }}
+    </aside>
+    <section class="w-100 w-80-l">
+      <header class="mt4">
+        <h1 class="f2 athelas mt0 mb3">{{ .Site.Title }}</h1>
+        {{ if .Content }}
+        <div class="nested-copy-line-height lh-copy f4 serif mid-gray mb4">
+          {{ .Content }}
+        </div>
+        {{ end }}
+      </header>
+      <ul class="list pl0">
+        {{ range .Site.Sections.ByTitle }}
+        <li class="mb3">
+          <a href="{{ .RelPermalink }}" class="link dark-blue f3">{{ .Title }}</a>
+          {{ with .Params.description }}
+          <p class="f6 gray mv1">{{ . }}</p>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+  </div>
+{{ end }}

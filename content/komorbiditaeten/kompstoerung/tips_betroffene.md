@@ -10,9 +10,7 @@ slug: tips_betroffene
 ---
 
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ Tips für Betroffene der dependenten Störung ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
 Tips für
 Betroffene der dependenten Störung
@@ -229,7 +227,7 @@ wollen und zwar so, dass Ihr Partner einen Sinn darin sieht.
 
 Das
 wäre übrigens der erste Schritt von [Eros
-zu Agape](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) .
+zu Agape](https://borderliner.ch/definition/definitionen.htm#Liebe) .
 
 Er,
 der Partner, fühlt sich dann durch Ihre Änderung/ Veränderung nicht belogen,
@@ -346,7 +344,7 @@ Der
 Kreisläufe kann es viele geben und alle sind unterschiedlich.
 
 Sollten
-Sie sich in einer [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) befinden, müssen Sie natürlich erst einmal die einzelnen Phasen bewältigen.
+Sie sich in einer [Trennung](https://borderliner.ch/trennung/trennung.htm) befinden, müssen Sie natürlich erst einmal die einzelnen Phasen bewältigen.
 
 Nun
 postulieren manche das Fernhalten von Problemfällen.
@@ -397,9 +395,6 @@ dass Sie das Gefühl haben, Ihnen ginge es erst einmal schlechter. Therapie ist
 wie eine Zwiebel. Nach einer Schale kommt die nächste und je näher Sie dem
 Kern kommen, desto mehr werden Sie weinen.
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ Tips für Betroffene der dependenten Störung ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]

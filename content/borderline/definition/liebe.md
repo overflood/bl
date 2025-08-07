@@ -10,9 +10,7 @@ slug: liebe
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](icd10.htm) ] [ [DSM-IV](dsm.htm) ] [ [Begriffsdefinitionen](definitionen.htm) ] [ [Drogen](definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](liebe1.htm) ] [ Liebe, Methapher ] [ [Was ist Glück?](../glueck/glueck.htm) ]
 
 WER HAT DAS SCHÖNSTE HERZ?
 
@@ -66,6 +64,4 @@ paßte nicht perfekt, da es einige ausgefranste Ränder hatte. Der junge Mann
 sah sein Herz an, nicht mehr perfekt, aber schöner als je zuvor, denn er spürte
 die Liebe des alten Mannes in sein Herz fließen. Sie umarmten sich und gingen weg, Seite an Seite.
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](liebe1.htm) ] [ Liebe, Methapher ] [ [Was ist Glück?](../glueck/glueck.htm) ]

@@ -12,10 +12,9 @@ slug: narz_1
 
 Narzissmus II
 
-[ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [med.
-Leitlinien Narzissmus](https://blz.borderliner.ch/narz/AWMF-Narzissmus.pdf) ]
+
+Leitlinien Narzissmus](https://borderliner.ch/narz/AWMF-Narzissmus.pdf) ]
 
 Der Narzisst braucht einen Spiegel um sich als das sehen zu
 können was er glaubt zu sein. Dieser Spiegel sind Sie (der Pfau). Anbieten tut
@@ -148,6 +147,4 @@ Narzissmus beinhaltet und das viele Diagnosen auf die narzisstische schlicht
 falsch sind da eine Borderline-Störung vorliegt.
 
 ©
-"Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../narz1.html) ] [ [medizin. Leitlinien Narzissmus](../AWMF-Narzissmus.pdf) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [Narzissmus nach DSM](../narz2/narzistische_persoenlichkeitsstoer_dmsr.html) ] [ [Narzissmus nach ICD-10](../narz1/narz_f60_4.html) ] [ [die narzisstische Perversion](../narz3/narzisstische_perversion.htm) ]

@@ -13,10 +13,9 @@ slug: impressum
 Impressum
 
 Wir danken den
-Förderern des Projektes  Borderlinezone recht herzlich
 
 [klick
-hier](https://blz.borderliner.ch/impressum/foerderer.htm)
+hier](https://borderliner.ch/impressum/foerderer.htm)
 
 Ansprechpartner Hauptseiten,
 Chat & Forum
@@ -30,15 +29,15 @@ Ort:             52076 Aachen
 Tel.:           
 0160 2276557
 
-Mail: [headoffice@blz.borderliner.ch](mailto:headoffice@blz.borderliner.ch)
+Mail: [headoffice@borderliner.ch](mailto:headoffice@borderliner.ch)
 
 Kontakt:
 Forum
 
 [HugoAd@gmx.de](mailto:HugoAd@gmx.de)
 
-[headoffice@blz.borderliner.ch](mailto:headoffice@blz.borderliner.ch)
+[headoffice@borderliner.ch](mailto:headoffice@borderliner.ch)
 
 Kontakt: Chat
 
-[headoffice@blz.borderliner.ch](mailto:headoffice@blz.borderliner.ch)
+[headoffice@borderliner.ch](mailto:headoffice@borderliner.ch)

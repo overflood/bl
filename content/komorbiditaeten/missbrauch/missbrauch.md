@@ -12,9 +12,8 @@ slug: missbrauch
 
 Missbrauch
 
-[ Persönlickeitsstörung ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Drogen](../definition/definitionen_1.htm) ]
+[ Persönlickeitsstörung ]
 
-[ [Nach oben](../trauma/trauma.htm) ] [ Missbrauch,  Formen, Folgen und Auswirkungen ] [ [nützliche Links zum Thema](missbrauch1.htm) ] [ [med.Leitlinien-Postraumatisches Belastungssyndrom](../trauma/med-leitlinien-ptsb.pdf) ]
 
 Bei Missbrauch denken wir in erster Linie an
 den sexuellen Missbrauch.
@@ -48,7 +47,7 @@ des anderen vor anderen Personen, das Selbstwertgefühl des anderen zerstören
 (narzisstische Beziehungen), erzwungenes Essverhalten.
 
 Menschen die ab dem Kleinstkindalter dem
-seelischem Missbrauch unterlagen z.B. die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) , schleppen diese
+seelischem Missbrauch unterlagen z.B. die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) , schleppen diese
 Strukturen (ich bin schuldig, ich habe es nicht anders verdient) oft ihr leben
 lang, zumindest bis in ein relativ hohes Alter (nur durch Therapie zu
 lösen), mit sich herum. Hier liegt die Ursache begründet warum
@@ -89,7 +88,7 @@ von Missbrauch. Sie gehen von psychosomatische Beschwerden wie z.B. (Schlafstör
 Albträume, Konzentrationsstörungen, Sprachstörungen, Unterleibs-
 Periodenprobleme, Hauterkrankungen (Neurodermitis), Allergien, gestörtes Körpergefühl, Angst- Panikattacken, sexuelle Dysfunktionen), über Persönlichkeitsstörungen, selbstschädigende oder
 selbstverletzende Handlungsweisen, suizidales
-Verhalten, [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) , Ausbildung von Neurosen, späteren Bindungs- und Beziehungsproblemen,, Süchte jeglicher Form,
+Verhalten, [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) , Ausbildung von Neurosen, späteren Bindungs- und Beziehungsproblemen,, Süchte jeglicher Form,
 Dissoziationsverhalten, sadomasochistisches Verhalten, sadistisches-
 masochistisches Verhalten, Depressionen,
  postraumatisches
@@ -98,8 +97,6 @@ Persönlichkeitsveränderungen, Ausbildung der Anorexie
 oder Bulimie, bis hin zum Zwangsverhalten.
 
 © "Team der
-Borderlinezone" 2002.-2007
 
-[ [Nach oben](../trauma/trauma.htm) ] [ Missbrauch,  Formen, Folgen und Auswirkungen ] [ [nützliche Links zum Thema](missbrauch1.htm) ] [ [med.Leitlinien-Postraumatisches Belastungssyndrom](../trauma/med-leitlinien-ptsb.pdf) ]
 
-[ Persönlickeitsstörung ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Drogen](../definition/definitionen_1.htm) ]
+[ Persönlickeitsstörung ]

@@ -10,7 +10,6 @@ slug: badduerkheim
 ---
 
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ Klinik Bad-Dürkheim ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]
 
 Die Psychosomatische Fachklinik
 Bad Dürkheim
@@ -140,4 +139,3 @@ Dr. Bernt Schmitz Fachklinik Bad Dürkheim Kurbrunnenstr. 12 67098 Bad Dürkheim
 zur
 Klinik [www.ahg.de/duerkheim](http://www.ahg.de/duerkheim)
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ Klinik Bad-Dürkheim ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]

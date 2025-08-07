@@ -10,9 +10,7 @@ slug: psychodynamisches_modell-normal
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](../persstoerung/persstoerung1.html) ] [ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ psychodynamiches Modell gesund ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
 Psychodynamisches Modell
 
@@ -67,8 +65,8 @@ freizusetzen, muß sie von etwas gebremst bzw. gesteuert werden dem
 "ES" und "Über-ICH". Jeder Trieb, der nichtbefriedigt wird, kann zum Tode
 führen.
 
-[](https://blz.borderliner.ch/schlaf/traum.htm) [fehlender
-Schlaf führt, nach dem Wassermangel, als zweites zum Tode.](https://blz.borderliner.ch/schlaf/traum.htm)
+[](https://borderliner.ch/schlaf/traum.htm) [fehlender
+Schlaf führt, nach dem Wassermangel, als zweites zum Tode.](https://borderliner.ch/schlaf/traum.htm)
 
 Die Antriebe sind jene Kräfte, die uns dazu
 treiben etwas ganz Bestimmtes zu tun.
@@ -152,7 +150,7 @@ Waage. Kippt das "ICH" so kippt logischerweise auch das Selbst.
 Betrachten wir uns nun was das ICH, das Selbst, das ES, und letztlich das
 Über-ICH genauer.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ICH:
 
@@ -282,7 +280,7 @@ der selbigen Abwehrmechanismen die Neurose. Nach dem alten Begriff der Neurose
 (Freud) verwenden Neurotiker einen Großteil ihrer Energie darauf, nicht
 annehmbare Teile ihrer Psyche umzulenken, zu verkleiden und neu
 zu kanalisieren, um dadurch ihre Angst zu reduzieren. So bleibt wenig Energie um
-ein produktives Leben oder eine befriedigende Beziehung zu führen. Die Abwehrmechanismen (A) des ICH sind: [Spaltung:](https://blz.borderliner.ch/spaltung/spaltung.html) sie ist ein Frühstadium der Abwehrmechanismen, (Baby bis 4 Jahre) der menschlichen Seele,
+ein produktives Leben oder eine befriedigende Beziehung zu führen. Die Abwehrmechanismen (A) des ICH sind: [Spaltung:](https://borderliner.ch/spaltung/spaltung.html) sie ist ein Frühstadium der Abwehrmechanismen, (Baby bis 4 Jahre) der menschlichen Seele,
 (Schutz des
 ICH), hier kann nur aufgespalten werden in gut und böse, sie wird angewendet
 solange kein vollständiges ICH zur Verfügung steht Kompensation die Verhüllung einer Schwäche durch Überbetonung eines Charakterzuges. Die
@@ -292,8 +290,8 @@ anzunehmen (beliebt bei der dependenten Persönlichkeit, zum Teil auch nicht
 stark ausgeprägte Borderlinepersönlichkeiten) Verschiebung ist die Entladung von aufgestauten, feindseligen Gefühlen auf 
 Objekte die weniger gefährlich sind als diejenigen welche die Emotionen ursprünglich hervorgerufen haben. (beliebt bei
     Borderline, auch Histrioniker) emotionale Isolierung ist
-die Vermeidung traumatischer Erlebnisse durch Rückzug in die Passivität ( [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) , [Trauma /
-postraumatisches Belastungssyndrom](https://blz.borderliner.ch/trauma/trauma.htm) ) Phantasie ist die
+die Vermeidung traumatischer Erlebnisse durch Rückzug in die Passivität ( [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) , [Trauma /
+postraumatisches Belastungssyndrom](https://borderliner.ch/trauma/trauma.htm) ) Phantasie ist die
 Befriedigung frustrierter Wünsche durch imaginäre Erfüllung (z. Bsp. Tagträume)
 (beliebt bei Ex-Partnern einer Borderline-Beziehung, aber auch beim Borderliner selbst) Idendifikation ist die Erhöhung des
 Selbstwertgefühls durch Identifikation mit einer anderen Person, oder
@@ -302,7 +300,7 @@ so das die Person sie nicht mehr als Bedrohung von außen erleben muss (Borderli
     dependente (abhängige) Persönlichkeit) Isolierung ist die Abtrennung emotionaler Regungen von angstbeladenen Situationen oder auch
 die Trennung unverträglicher Strebungen durch straffe gedankliche
 Zergliederung. Hier bleiben die widersprüchlichen Strebungen zwar erhalten,
-treten aber nicht gleichzeitig ins Bewusstsein. (Narzisst) [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ist die Übertragung der Missbilligung eigener Unzulänglichkeiten (schlechte
+treten aber nicht gleichzeitig ins Bewusstsein. (Narzisst) [Projektion](https://borderliner.ch/spaltung/spaltung.html) ist die Übertragung der Missbilligung eigener Unzulänglichkeiten (schlechte
 Anteile) oder auch unmoralischer Wünsche auf andere Personen (Borderline-Störung, aber
 auch Partner, Narzisst) Rationalisierung ist der Versuch sich einzureden das das eigene Verhalten verstandesmäßig begründet
 und so vor sich selbst und vor anderen gerechtfertigt ist (dependente
@@ -342,7 +340,7 @@ Sublimierung, Substitution, Verdrängung, Kompensation, etc. Gleichzeitig gleich
 Abwehrhandlungen (A+ C), Vorstellungen,
 Einstellungen, den Druck des ÜBER- ICH und ES aus, was zur Ausgleichung, hier
 Anhebung des Selbst führt. Zum
-  Verständnis noch einmal die Grafikausschnitt und Legende. das ICH [](https://blz.borderliner.ch) Legende ICH: A         =
+  Verständnis noch einmal die Grafikausschnitt und Legende. das ICH [](https://borderliner.ch) Legende ICH: A         =
     Abwehrmechanismen des ICH ( [16 Stück siehe oben](#ich-abwehr) ) B1       = Kräfte bzw.
     Energien die aus Säule I und II des Über-Ich auf das ICH drücken B2       = Kräfte bzw.
     Energien die aus Säule III des Über-Ich auf das ICH drücken C         =
@@ -362,7 +360,7 @@ Anhebung des Selbst führt. Zum
   durchzusetzen. Die Ich-Störung (wie in der Borderlien-Störung) bezeichnet
   dann, wie sie in der obigen Grafik sehen, eine Störung der [ICH-Funktionen](#ich-funktionen) ,
   bei der die Synthese zwischen den Ansprüchen von ES und Über-ICH und die
-  Abgrenzung gegenüber der Aussenwelt gestört sind. das Selbst [](https://blz.borderliner.ch) Legende Selbst: A         =
+  Abgrenzung gegenüber der Aussenwelt gestört sind. das Selbst [](https://borderliner.ch) Legende Selbst: A         =
     Abwehrmechanismen des ICH ( [16 Stück siehe oben](#ich-abwehr) ) B2       = Kräfte bzw.
     Energien die aus Säule III des Über-Ich auf das ICH drücken C         =
     psychische Abwehrenergien die das ICH für die Abwehrmechanismen und
@@ -402,7 +400,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     gestört sind, desto überwertiger wird das Selbstwertgefühl (aufgeblähtes
     Selbstkonzept=Selbstbild). Wir können auch sagen desto narzisstischer
     stellt sich die Person gegenüber der Aussenwelt dar. Das Selbstbild, auch
-    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://blz.borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
+    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
     sowohl durch die Selbstbeobachtung (SB) der
     eigenen Erlebnisse und des eigenen Handelns, als auch durch die
     verschiedenen Formen der Beurteilung durch andere. (Lob, Tadel, Aufwertung,
@@ -431,7 +429,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     Selbstwertgefühl zu beheben versucht. Das Minderwertigkeitsgefühl ist
     das Erleben von tiefgehender seelischer oder körperlicher
     Unzulänglichkeit. Das Minderwertigkeitsgefühl hat einen bedeutenden
-    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://blz.borderliner.ch/depression/depri.html) ).
+    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://borderliner.ch/depression/depri.html) ).
     Je nach ICH-Stabilität können sowohl endogene (von innen) Faktoren wie z.
     Bsp. Organminderung oder exogene (von aussen) Faktoren z. Bsp. zu harte oder
     zu weiche Erziehung, Beziehungskatastrophen (Borderline-Beziehung,
@@ -459,12 +457,12 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     erstreckt sich somit auch auf moralisches Handeln. Das Selbstvertrauen ist
     ein kräftiges Eigenmachtgefühl (nicht Omnipotenz = Allmachtgefühl) mit
     möglichen Schwierigkeiten fertig zu werden. Bei naivem übersteigertem
-    Eigenmachtgefühl ( [Narzissmus](https://blz.borderliner.ch/narz/narz1.html) )
+    Eigenmachtgefühl ( [Narzissmus](https://borderliner.ch/narz/narz1.html) )
     beruht das Selbstvertrauen auf ein Übersehen von realen
     Hindernissen. Die Selbstbeherrschung
     (Selbstkontrolle, auch Selbstregularien (SR)
     ist die Fähigkeit durch den vernünftigen Willen das Eigenerleben im sinne
-    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://blz.borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
+    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
     Selbstbeobachtung / Introspektion (SB)
     geknüpft. Selbstkontrolle ist z. Bsp. beim Belohnungsaufschub /
     Befriedigungsaufschub notwendig. Die Selbstbeobachtung /
@@ -472,7 +470,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     seelische Zustände und Vorgänge gerichtete Aufmerksamkeit. Sie ist, mit
     der Selbsterkenntnis (SE) Grundlage eine
     Verhaltensänderung. Die Selbstbeobachtung bedingt allerdings mehrere
-    Gefahren und wird von den [Behavioristen](https://blz.borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
+    Gefahren und wird von den [Behavioristen](https://borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
     aufgeführten Punkte sind folgende: Gefahr der Selbsttäuschung,
         besonders wenn die Selbstbeobachtung zugleich eine Selbstbeurteilung
         provoziert oder eine moralische Bewertung mit einschliesst die Frage ob es der Person
@@ -502,13 +500,13 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     es trotz der berechtigten Forderungen der Selbsterkenntnis (Pascal, Kant)
     immer wieder skeptische Stimmen (Goethe, Nitzsche) die darauf hinwiesen das
     der Mensch die Neigung hat sich nicht nur vor anderen sondern auch vor sich
-    selbst zu maskieren. das ES [](https://blz.borderliner.ch) Das "ES" liegt im
+    selbst zu maskieren. das ES [](https://borderliner.ch) Das "ES" liegt im
 Unbewussten und beinhaltet: wie bereits gesagt die [Triebe](#triebe) und Antriebe
 des Menschen. Dies sind gewaltige Energien die uns eigentlich das tun
 lassen was wir tun (wollen), und oder auch sollten. Das ES strebt nach der
 unmittelbaren und vollständigen Abfuhr seiner Triebenergien. (sehr schön zu
 sehen in der Borderline-Störung in ihrer sofortigen Triebebefriedigung) das
-Über-Ich einer gesunden Persönlichkeit [](https://blz.borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
+Über-Ich einer gesunden Persönlichkeit [](https://borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
     Ideal-Ich / Ideal Selbst versus Ich-Ideal / Ideal Objekte U        
     =
     Urprägungen, Urbeeinflussungen durch das Elternimago B1,B1  = Gesamtkraft, Gesamtenergie die aus Säule I
@@ -589,7 +587,7 @@ Individuums zu rechen. Nun kann man nicht alles von den drei Säulen des
 Über-ICH abhängig machen, da die Gesamtheit ein rückgekoppeltes Regelsystem
 ist, wie Sie sehen. Entscheidend ist also wie die einzelnen Funktionen ( A,
 A+C, SB, SE, SR, S, SS, SF, etc.) ineinander arbeiten um eine optimale
-Regelung zu ermöglichen. [](https://blz.borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
+Regelung zu ermöglichen. [](https://borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
 Arbeitsprinzipien des ES, ICH und Über-ICH erwähnen. das ES arbeitet nach dem Lustprinzip, das ICH arbeitet nach dem Realitätsprinzip
 und das ÜBER- ICH arbeitet nach dem
       Moralitätsprinzip Im einzelnen: Das Lustprinzip bezeichnet das
@@ -597,7 +595,7 @@ und das ÜBER- ICH arbeitet nach dem
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -610,8 +608,7 @@ und das ÜBER- ICH arbeitet nach dem
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
 "ÜBER-ICH"
 drückt somit von oben gegen "ICH" (ICH-Abwehr)
@@ -725,7 +722,7 @@ ein produktives Leben oder eine befriedigende Beziehung zu führen.
 
 Die Abwehrmechanismen (A) des ICH sind:
 
-1. [Spaltung:](https://blz.borderliner.ch/spaltung/spaltung.html) sie ist ein Frühstadium der Abwehrmechanismen, (Baby bis 4 Jahre) der menschlichen Seele,
+1. [Spaltung:](https://borderliner.ch/spaltung/spaltung.html) sie ist ein Frühstadium der Abwehrmechanismen, (Baby bis 4 Jahre) der menschlichen Seele,
 (Schutz des
 ICH), hier kann nur aufgespalten werden in gut und böse, sie wird angewendet
 solange kein vollständiges ICH zur Verfügung steht
@@ -743,8 +740,8 @@ Objekte die weniger gefährlich sind als diejenigen welche die Emotionen ursprü
     Borderline, auch Histrioniker)
 
 5. emotionale Isolierung ist
-die Vermeidung traumatischer Erlebnisse durch Rückzug in die Passivität ( [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) , [Trauma /
-postraumatisches Belastungssyndrom](https://blz.borderliner.ch/trauma/trauma.htm) )
+die Vermeidung traumatischer Erlebnisse durch Rückzug in die Passivität ( [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) , [Trauma /
+postraumatisches Belastungssyndrom](https://borderliner.ch/trauma/trauma.htm) )
 
 6. Phantasie ist die
 Befriedigung frustrierter Wünsche durch imaginäre Erfüllung (z. Bsp. Tagträume)
@@ -763,7 +760,7 @@ die Trennung unverträglicher Strebungen durch straffe gedankliche
 Zergliederung. Hier bleiben die widersprüchlichen Strebungen zwar erhalten,
 treten aber nicht gleichzeitig ins Bewusstsein. (Narzisst)
 
-10. [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ist die Übertragung der Missbilligung eigener Unzulänglichkeiten (schlechte
+10. [Projektion](https://borderliner.ch/spaltung/spaltung.html) ist die Übertragung der Missbilligung eigener Unzulänglichkeiten (schlechte
 Anteile) oder auch unmoralischer Wünsche auf andere Personen (Borderline-Störung, aber
 auch Partner, Narzisst)
 
@@ -800,7 +797,7 @@ damit aufzuheben (Borderline-Störung in der Abwertung, Partner in der Trennung)
   Schuldentlastung in der Identifizierung mit einer archetypischen mythischen
   Figur. Das ICH entrückt in eine "kollektivmythische" Existenz.
 
-[Spaltung:](https://blz.borderliner.ch/spaltung/spaltung.html) sie ist ein Frühstadium der Abwehrmechanismen, (Baby bis 4 Jahre) der menschlichen Seele,
+[Spaltung:](https://borderliner.ch/spaltung/spaltung.html) sie ist ein Frühstadium der Abwehrmechanismen, (Baby bis 4 Jahre) der menschlichen Seele,
 (Schutz des
 ICH), hier kann nur aufgespalten werden in gut und böse, sie wird angewendet
 solange kein vollständiges ICH zur Verfügung steht
@@ -818,8 +815,8 @@ Objekte die weniger gefährlich sind als diejenigen welche die Emotionen ursprü
     Borderline, auch Histrioniker)
 
 emotionale Isolierung ist
-die Vermeidung traumatischer Erlebnisse durch Rückzug in die Passivität ( [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) , [Trauma /
-postraumatisches Belastungssyndrom](https://blz.borderliner.ch/trauma/trauma.htm) )
+die Vermeidung traumatischer Erlebnisse durch Rückzug in die Passivität ( [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) , [Trauma /
+postraumatisches Belastungssyndrom](https://borderliner.ch/trauma/trauma.htm) )
 
 Phantasie ist die
 Befriedigung frustrierter Wünsche durch imaginäre Erfüllung (z. Bsp. Tagträume)
@@ -838,7 +835,7 @@ die Trennung unverträglicher Strebungen durch straffe gedankliche
 Zergliederung. Hier bleiben die widersprüchlichen Strebungen zwar erhalten,
 treten aber nicht gleichzeitig ins Bewusstsein. (Narzisst)
 
-[Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ist die Übertragung der Missbilligung eigener Unzulänglichkeiten (schlechte
+[Projektion](https://borderliner.ch/spaltung/spaltung.html) ist die Übertragung der Missbilligung eigener Unzulänglichkeiten (schlechte
 Anteile) oder auch unmoralischer Wünsche auf andere Personen (Borderline-Störung, aber
 auch Partner, Narzisst)
 
@@ -900,7 +897,7 @@ Einstellungen, den Druck des ÜBER- ICH und ES aus, was zur Ausgleichung, hier
 Anhebung des Selbst führt. Zum
   Verständnis noch einmal die Grafikausschnitt und Legende. das ICH
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ICH:
 
@@ -959,7 +956,7 @@ Das ICH in Verbindung mit seinen Abwehrmechanismen beinhaltet
   durchzusetzen. Die Ich-Störung (wie in der Borderlien-Störung) bezeichnet
   dann, wie sie in der obigen Grafik sehen, eine Störung der [ICH-Funktionen](#ich-funktionen) ,
   bei der die Synthese zwischen den Ansprüchen von ES und Über-ICH und die
-  Abgrenzung gegenüber der Aussenwelt gestört sind. das Selbst [](https://blz.borderliner.ch) Legende Selbst: A         =
+  Abgrenzung gegenüber der Aussenwelt gestört sind. das Selbst [](https://borderliner.ch) Legende Selbst: A         =
     Abwehrmechanismen des ICH ( [16 Stück siehe oben](#ich-abwehr) ) B2       = Kräfte bzw.
     Energien die aus Säule III des Über-Ich auf das ICH drücken C         =
     psychische Abwehrenergien die das ICH für die Abwehrmechanismen und
@@ -999,7 +996,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     gestört sind, desto überwertiger wird das Selbstwertgefühl (aufgeblähtes
     Selbstkonzept=Selbstbild). Wir können auch sagen desto narzisstischer
     stellt sich die Person gegenüber der Aussenwelt dar. Das Selbstbild, auch
-    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://blz.borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
+    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
     sowohl durch die Selbstbeobachtung (SB) der
     eigenen Erlebnisse und des eigenen Handelns, als auch durch die
     verschiedenen Formen der Beurteilung durch andere. (Lob, Tadel, Aufwertung,
@@ -1028,7 +1025,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     Selbstwertgefühl zu beheben versucht. Das Minderwertigkeitsgefühl ist
     das Erleben von tiefgehender seelischer oder körperlicher
     Unzulänglichkeit. Das Minderwertigkeitsgefühl hat einen bedeutenden
-    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://blz.borderliner.ch/depression/depri.html) ).
+    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://borderliner.ch/depression/depri.html) ).
     Je nach ICH-Stabilität können sowohl endogene (von innen) Faktoren wie z.
     Bsp. Organminderung oder exogene (von aussen) Faktoren z. Bsp. zu harte oder
     zu weiche Erziehung, Beziehungskatastrophen (Borderline-Beziehung,
@@ -1056,12 +1053,12 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     erstreckt sich somit auch auf moralisches Handeln. Das Selbstvertrauen ist
     ein kräftiges Eigenmachtgefühl (nicht Omnipotenz = Allmachtgefühl) mit
     möglichen Schwierigkeiten fertig zu werden. Bei naivem übersteigertem
-    Eigenmachtgefühl ( [Narzissmus](https://blz.borderliner.ch/narz/narz1.html) )
+    Eigenmachtgefühl ( [Narzissmus](https://borderliner.ch/narz/narz1.html) )
     beruht das Selbstvertrauen auf ein Übersehen von realen
     Hindernissen. Die Selbstbeherrschung
     (Selbstkontrolle, auch Selbstregularien (SR)
     ist die Fähigkeit durch den vernünftigen Willen das Eigenerleben im sinne
-    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://blz.borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
+    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
     Selbstbeobachtung / Introspektion (SB)
     geknüpft. Selbstkontrolle ist z. Bsp. beim Belohnungsaufschub /
     Befriedigungsaufschub notwendig. Die Selbstbeobachtung /
@@ -1069,7 +1066,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     seelische Zustände und Vorgänge gerichtete Aufmerksamkeit. Sie ist, mit
     der Selbsterkenntnis (SE) Grundlage eine
     Verhaltensänderung. Die Selbstbeobachtung bedingt allerdings mehrere
-    Gefahren und wird von den [Behavioristen](https://blz.borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
+    Gefahren und wird von den [Behavioristen](https://borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
     aufgeführten Punkte sind folgende: Gefahr der Selbsttäuschung,
         besonders wenn die Selbstbeobachtung zugleich eine Selbstbeurteilung
         provoziert oder eine moralische Bewertung mit einschliesst die Frage ob es der Person
@@ -1099,13 +1096,13 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     es trotz der berechtigten Forderungen der Selbsterkenntnis (Pascal, Kant)
     immer wieder skeptische Stimmen (Goethe, Nitzsche) die darauf hinwiesen das
     der Mensch die Neigung hat sich nicht nur vor anderen sondern auch vor sich
-    selbst zu maskieren. das ES [](https://blz.borderliner.ch) Das "ES" liegt im
+    selbst zu maskieren. das ES [](https://borderliner.ch) Das "ES" liegt im
 Unbewussten und beinhaltet: wie bereits gesagt die [Triebe](#triebe) und Antriebe
 des Menschen. Dies sind gewaltige Energien die uns eigentlich das tun
 lassen was wir tun (wollen), und oder auch sollten. Das ES strebt nach der
 unmittelbaren und vollständigen Abfuhr seiner Triebenergien. (sehr schön zu
 sehen in der Borderline-Störung in ihrer sofortigen Triebebefriedigung) das
-Über-Ich einer gesunden Persönlichkeit [](https://blz.borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
+Über-Ich einer gesunden Persönlichkeit [](https://borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
     Ideal-Ich / Ideal Selbst versus Ich-Ideal / Ideal Objekte U        
     =
     Urprägungen, Urbeeinflussungen durch das Elternimago B1,B1  = Gesamtkraft, Gesamtenergie die aus Säule I
@@ -1186,7 +1183,7 @@ Individuums zu rechen. Nun kann man nicht alles von den drei Säulen des
 Über-ICH abhängig machen, da die Gesamtheit ein rückgekoppeltes Regelsystem
 ist, wie Sie sehen. Entscheidend ist also wie die einzelnen Funktionen ( A,
 A+C, SB, SE, SR, S, SS, SF, etc.) ineinander arbeiten um eine optimale
-Regelung zu ermöglichen. [](https://blz.borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
+Regelung zu ermöglichen. [](https://borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
 Arbeitsprinzipien des ES, ICH und Über-ICH erwähnen. das ES arbeitet nach dem Lustprinzip, das ICH arbeitet nach dem Realitätsprinzip
 und das ÜBER- ICH arbeitet nach dem
       Moralitätsprinzip Im einzelnen: Das Lustprinzip bezeichnet das
@@ -1194,7 +1191,7 @@ und das ÜBER- ICH arbeitet nach dem
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -1207,8 +1204,7 @@ und das ÜBER- ICH arbeitet nach dem
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
 - Grad der Integration, Stabilität und Flexibilität der
       Person (ICH-Abwehr und deren Zusammensetzung, Angsttoleranz,
@@ -1239,7 +1235,7 @@ Ich-Stärke ist also auch die Fähigkeit das ICH oder Selbst
   bei der die Synthese zwischen den Ansprüchen von ES und Über-ICH und die
   Abgrenzung gegenüber der Aussenwelt gestört sind.
 
-das Selbst [](https://blz.borderliner.ch) Legende Selbst: A         =
+das Selbst [](https://borderliner.ch) Legende Selbst: A         =
     Abwehrmechanismen des ICH ( [16 Stück siehe oben](#ich-abwehr) ) B2       = Kräfte bzw.
     Energien die aus Säule III des Über-Ich auf das ICH drücken C         =
     psychische Abwehrenergien die das ICH für die Abwehrmechanismen und
@@ -1279,7 +1275,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     gestört sind, desto überwertiger wird das Selbstwertgefühl (aufgeblähtes
     Selbstkonzept=Selbstbild). Wir können auch sagen desto narzisstischer
     stellt sich die Person gegenüber der Aussenwelt dar. Das Selbstbild, auch
-    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://blz.borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
+    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
     sowohl durch die Selbstbeobachtung (SB) der
     eigenen Erlebnisse und des eigenen Handelns, als auch durch die
     verschiedenen Formen der Beurteilung durch andere. (Lob, Tadel, Aufwertung,
@@ -1308,7 +1304,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     Selbstwertgefühl zu beheben versucht. Das Minderwertigkeitsgefühl ist
     das Erleben von tiefgehender seelischer oder körperlicher
     Unzulänglichkeit. Das Minderwertigkeitsgefühl hat einen bedeutenden
-    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://blz.borderliner.ch/depression/depri.html) ).
+    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://borderliner.ch/depression/depri.html) ).
     Je nach ICH-Stabilität können sowohl endogene (von innen) Faktoren wie z.
     Bsp. Organminderung oder exogene (von aussen) Faktoren z. Bsp. zu harte oder
     zu weiche Erziehung, Beziehungskatastrophen (Borderline-Beziehung,
@@ -1336,12 +1332,12 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     erstreckt sich somit auch auf moralisches Handeln. Das Selbstvertrauen ist
     ein kräftiges Eigenmachtgefühl (nicht Omnipotenz = Allmachtgefühl) mit
     möglichen Schwierigkeiten fertig zu werden. Bei naivem übersteigertem
-    Eigenmachtgefühl ( [Narzissmus](https://blz.borderliner.ch/narz/narz1.html) )
+    Eigenmachtgefühl ( [Narzissmus](https://borderliner.ch/narz/narz1.html) )
     beruht das Selbstvertrauen auf ein Übersehen von realen
     Hindernissen. Die Selbstbeherrschung
     (Selbstkontrolle, auch Selbstregularien (SR)
     ist die Fähigkeit durch den vernünftigen Willen das Eigenerleben im sinne
-    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://blz.borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
+    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
     Selbstbeobachtung / Introspektion (SB)
     geknüpft. Selbstkontrolle ist z. Bsp. beim Belohnungsaufschub /
     Befriedigungsaufschub notwendig. Die Selbstbeobachtung /
@@ -1349,7 +1345,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     seelische Zustände und Vorgänge gerichtete Aufmerksamkeit. Sie ist, mit
     der Selbsterkenntnis (SE) Grundlage eine
     Verhaltensänderung. Die Selbstbeobachtung bedingt allerdings mehrere
-    Gefahren und wird von den [Behavioristen](https://blz.borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
+    Gefahren und wird von den [Behavioristen](https://borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
     aufgeführten Punkte sind folgende: Gefahr der Selbsttäuschung,
         besonders wenn die Selbstbeobachtung zugleich eine Selbstbeurteilung
         provoziert oder eine moralische Bewertung mit einschliesst die Frage ob es der Person
@@ -1379,13 +1375,13 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     es trotz der berechtigten Forderungen der Selbsterkenntnis (Pascal, Kant)
     immer wieder skeptische Stimmen (Goethe, Nitzsche) die darauf hinwiesen das
     der Mensch die Neigung hat sich nicht nur vor anderen sondern auch vor sich
-    selbst zu maskieren. das ES [](https://blz.borderliner.ch) Das "ES" liegt im
+    selbst zu maskieren. das ES [](https://borderliner.ch) Das "ES" liegt im
 Unbewussten und beinhaltet: wie bereits gesagt die [Triebe](#triebe) und Antriebe
 des Menschen. Dies sind gewaltige Energien die uns eigentlich das tun
 lassen was wir tun (wollen), und oder auch sollten. Das ES strebt nach der
 unmittelbaren und vollständigen Abfuhr seiner Triebenergien. (sehr schön zu
 sehen in der Borderline-Störung in ihrer sofortigen Triebebefriedigung) das
-Über-Ich einer gesunden Persönlichkeit [](https://blz.borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
+Über-Ich einer gesunden Persönlichkeit [](https://borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
     Ideal-Ich / Ideal Selbst versus Ich-Ideal / Ideal Objekte U        
     =
     Urprägungen, Urbeeinflussungen durch das Elternimago B1,B1  = Gesamtkraft, Gesamtenergie die aus Säule I
@@ -1466,7 +1462,7 @@ Individuums zu rechen. Nun kann man nicht alles von den drei Säulen des
 Über-ICH abhängig machen, da die Gesamtheit ein rückgekoppeltes Regelsystem
 ist, wie Sie sehen. Entscheidend ist also wie die einzelnen Funktionen ( A,
 A+C, SB, SE, SR, S, SS, SF, etc.) ineinander arbeiten um eine optimale
-Regelung zu ermöglichen. [](https://blz.borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
+Regelung zu ermöglichen. [](https://borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
 Arbeitsprinzipien des ES, ICH und Über-ICH erwähnen. das ES arbeitet nach dem Lustprinzip, das ICH arbeitet nach dem Realitätsprinzip
 und das ÜBER- ICH arbeitet nach dem
       Moralitätsprinzip Im einzelnen: Das Lustprinzip bezeichnet das
@@ -1474,7 +1470,7 @@ und das ÜBER- ICH arbeitet nach dem
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -1487,10 +1483,9 @@ und das ÜBER- ICH arbeitet nach dem
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
-[](https://blz.borderliner.ch) Legende Selbst: A         =
+[](https://borderliner.ch) Legende Selbst: A         =
     Abwehrmechanismen des ICH ( [16 Stück siehe oben](#ich-abwehr) ) B2       = Kräfte bzw.
     Energien die aus Säule III des Über-Ich auf das ICH drücken C         =
     psychische Abwehrenergien die das ICH für die Abwehrmechanismen und
@@ -1530,7 +1525,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     gestört sind, desto überwertiger wird das Selbstwertgefühl (aufgeblähtes
     Selbstkonzept=Selbstbild). Wir können auch sagen desto narzisstischer
     stellt sich die Person gegenüber der Aussenwelt dar. Das Selbstbild, auch
-    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://blz.borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
+    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
     sowohl durch die Selbstbeobachtung (SB) der
     eigenen Erlebnisse und des eigenen Handelns, als auch durch die
     verschiedenen Formen der Beurteilung durch andere. (Lob, Tadel, Aufwertung,
@@ -1559,7 +1554,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     Selbstwertgefühl zu beheben versucht. Das Minderwertigkeitsgefühl ist
     das Erleben von tiefgehender seelischer oder körperlicher
     Unzulänglichkeit. Das Minderwertigkeitsgefühl hat einen bedeutenden
-    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://blz.borderliner.ch/depression/depri.html) ).
+    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://borderliner.ch/depression/depri.html) ).
     Je nach ICH-Stabilität können sowohl endogene (von innen) Faktoren wie z.
     Bsp. Organminderung oder exogene (von aussen) Faktoren z. Bsp. zu harte oder
     zu weiche Erziehung, Beziehungskatastrophen (Borderline-Beziehung,
@@ -1587,12 +1582,12 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     erstreckt sich somit auch auf moralisches Handeln. Das Selbstvertrauen ist
     ein kräftiges Eigenmachtgefühl (nicht Omnipotenz = Allmachtgefühl) mit
     möglichen Schwierigkeiten fertig zu werden. Bei naivem übersteigertem
-    Eigenmachtgefühl ( [Narzissmus](https://blz.borderliner.ch/narz/narz1.html) )
+    Eigenmachtgefühl ( [Narzissmus](https://borderliner.ch/narz/narz1.html) )
     beruht das Selbstvertrauen auf ein Übersehen von realen
     Hindernissen. Die Selbstbeherrschung
     (Selbstkontrolle, auch Selbstregularien (SR)
     ist die Fähigkeit durch den vernünftigen Willen das Eigenerleben im sinne
-    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://blz.borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
+    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
     Selbstbeobachtung / Introspektion (SB)
     geknüpft. Selbstkontrolle ist z. Bsp. beim Belohnungsaufschub /
     Befriedigungsaufschub notwendig. Die Selbstbeobachtung /
@@ -1600,7 +1595,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     seelische Zustände und Vorgänge gerichtete Aufmerksamkeit. Sie ist, mit
     der Selbsterkenntnis (SE) Grundlage eine
     Verhaltensänderung. Die Selbstbeobachtung bedingt allerdings mehrere
-    Gefahren und wird von den [Behavioristen](https://blz.borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
+    Gefahren und wird von den [Behavioristen](https://borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
     aufgeführten Punkte sind folgende: Gefahr der Selbsttäuschung,
         besonders wenn die Selbstbeobachtung zugleich eine Selbstbeurteilung
         provoziert oder eine moralische Bewertung mit einschliesst die Frage ob es der Person
@@ -1630,13 +1625,13 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     es trotz der berechtigten Forderungen der Selbsterkenntnis (Pascal, Kant)
     immer wieder skeptische Stimmen (Goethe, Nitzsche) die darauf hinwiesen das
     der Mensch die Neigung hat sich nicht nur vor anderen sondern auch vor sich
-    selbst zu maskieren. das ES [](https://blz.borderliner.ch) Das "ES" liegt im
+    selbst zu maskieren. das ES [](https://borderliner.ch) Das "ES" liegt im
 Unbewussten und beinhaltet: wie bereits gesagt die [Triebe](#triebe) und Antriebe
 des Menschen. Dies sind gewaltige Energien die uns eigentlich das tun
 lassen was wir tun (wollen), und oder auch sollten. Das ES strebt nach der
 unmittelbaren und vollständigen Abfuhr seiner Triebenergien. (sehr schön zu
 sehen in der Borderline-Störung in ihrer sofortigen Triebebefriedigung) das
-Über-Ich einer gesunden Persönlichkeit [](https://blz.borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
+Über-Ich einer gesunden Persönlichkeit [](https://borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
     Ideal-Ich / Ideal Selbst versus Ich-Ideal / Ideal Objekte U        
     =
     Urprägungen, Urbeeinflussungen durch das Elternimago B1,B1  = Gesamtkraft, Gesamtenergie die aus Säule I
@@ -1717,7 +1712,7 @@ Individuums zu rechen. Nun kann man nicht alles von den drei Säulen des
 Über-ICH abhängig machen, da die Gesamtheit ein rückgekoppeltes Regelsystem
 ist, wie Sie sehen. Entscheidend ist also wie die einzelnen Funktionen ( A,
 A+C, SB, SE, SR, S, SS, SF, etc.) ineinander arbeiten um eine optimale
-Regelung zu ermöglichen. [](https://blz.borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
+Regelung zu ermöglichen. [](https://borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
 Arbeitsprinzipien des ES, ICH und Über-ICH erwähnen. das ES arbeitet nach dem Lustprinzip, das ICH arbeitet nach dem Realitätsprinzip
 und das ÜBER- ICH arbeitet nach dem
       Moralitätsprinzip Im einzelnen: Das Lustprinzip bezeichnet das
@@ -1725,7 +1720,7 @@ und das ÜBER- ICH arbeitet nach dem
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -1738,8 +1733,7 @@ und das ÜBER- ICH arbeitet nach dem
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
 Legende Selbst:
 
@@ -1849,7 +1843,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     gestört sind, desto überwertiger wird das Selbstwertgefühl (aufgeblähtes
     Selbstkonzept=Selbstbild). Wir können auch sagen desto narzisstischer
     stellt sich die Person gegenüber der Aussenwelt dar. Das Selbstbild, auch
-    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://blz.borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
+    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
     sowohl durch die Selbstbeobachtung (SB) der
     eigenen Erlebnisse und des eigenen Handelns, als auch durch die
     verschiedenen Formen der Beurteilung durch andere. (Lob, Tadel, Aufwertung,
@@ -1878,7 +1872,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     Selbstwertgefühl zu beheben versucht. Das Minderwertigkeitsgefühl ist
     das Erleben von tiefgehender seelischer oder körperlicher
     Unzulänglichkeit. Das Minderwertigkeitsgefühl hat einen bedeutenden
-    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://blz.borderliner.ch/depression/depri.html) ).
+    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://borderliner.ch/depression/depri.html) ).
     Je nach ICH-Stabilität können sowohl endogene (von innen) Faktoren wie z.
     Bsp. Organminderung oder exogene (von aussen) Faktoren z. Bsp. zu harte oder
     zu weiche Erziehung, Beziehungskatastrophen (Borderline-Beziehung,
@@ -1906,12 +1900,12 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     erstreckt sich somit auch auf moralisches Handeln. Das Selbstvertrauen ist
     ein kräftiges Eigenmachtgefühl (nicht Omnipotenz = Allmachtgefühl) mit
     möglichen Schwierigkeiten fertig zu werden. Bei naivem übersteigertem
-    Eigenmachtgefühl ( [Narzissmus](https://blz.borderliner.ch/narz/narz1.html) )
+    Eigenmachtgefühl ( [Narzissmus](https://borderliner.ch/narz/narz1.html) )
     beruht das Selbstvertrauen auf ein Übersehen von realen
     Hindernissen. Die Selbstbeherrschung
     (Selbstkontrolle, auch Selbstregularien (SR)
     ist die Fähigkeit durch den vernünftigen Willen das Eigenerleben im sinne
-    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://blz.borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
+    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
     Selbstbeobachtung / Introspektion (SB)
     geknüpft. Selbstkontrolle ist z. Bsp. beim Belohnungsaufschub /
     Befriedigungsaufschub notwendig. Die Selbstbeobachtung /
@@ -1919,7 +1913,7 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     seelische Zustände und Vorgänge gerichtete Aufmerksamkeit. Sie ist, mit
     der Selbsterkenntnis (SE) Grundlage eine
     Verhaltensänderung. Die Selbstbeobachtung bedingt allerdings mehrere
-    Gefahren und wird von den [Behavioristen](https://blz.borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
+    Gefahren und wird von den [Behavioristen](https://borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
     aufgeführten Punkte sind folgende: Gefahr der Selbsttäuschung,
         besonders wenn die Selbstbeobachtung zugleich eine Selbstbeurteilung
         provoziert oder eine moralische Bewertung mit einschliesst die Frage ob es der Person
@@ -1949,13 +1943,13 @@ mit der Säule III des "ÜBER-ICH", dem Ideal-Ich und
     es trotz der berechtigten Forderungen der Selbsterkenntnis (Pascal, Kant)
     immer wieder skeptische Stimmen (Goethe, Nitzsche) die darauf hinwiesen das
     der Mensch die Neigung hat sich nicht nur vor anderen sondern auch vor sich
-    selbst zu maskieren. das ES [](https://blz.borderliner.ch) Das "ES" liegt im
+    selbst zu maskieren. das ES [](https://borderliner.ch) Das "ES" liegt im
 Unbewussten und beinhaltet: wie bereits gesagt die [Triebe](#triebe) und Antriebe
 des Menschen. Dies sind gewaltige Energien die uns eigentlich das tun
 lassen was wir tun (wollen), und oder auch sollten. Das ES strebt nach der
 unmittelbaren und vollständigen Abfuhr seiner Triebenergien. (sehr schön zu
 sehen in der Borderline-Störung in ihrer sofortigen Triebebefriedigung) das
-Über-Ich einer gesunden Persönlichkeit [](https://blz.borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
+Über-Ich einer gesunden Persönlichkeit [](https://borderliner.ch) Legende ÜBER-ICH: VI        = Vergleich
     Ideal-Ich / Ideal Selbst versus Ich-Ideal / Ideal Objekte U        
     =
     Urprägungen, Urbeeinflussungen durch das Elternimago B1,B1  = Gesamtkraft, Gesamtenergie die aus Säule I
@@ -2036,7 +2030,7 @@ Individuums zu rechen. Nun kann man nicht alles von den drei Säulen des
 Über-ICH abhängig machen, da die Gesamtheit ein rückgekoppeltes Regelsystem
 ist, wie Sie sehen. Entscheidend ist also wie die einzelnen Funktionen ( A,
 A+C, SB, SE, SR, S, SS, SF, etc.) ineinander arbeiten um eine optimale
-Regelung zu ermöglichen. [](https://blz.borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
+Regelung zu ermöglichen. [](https://borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
 Arbeitsprinzipien des ES, ICH und Über-ICH erwähnen. das ES arbeitet nach dem Lustprinzip, das ICH arbeitet nach dem Realitätsprinzip
 und das ÜBER- ICH arbeitet nach dem
       Moralitätsprinzip Im einzelnen: Das Lustprinzip bezeichnet das
@@ -2044,7 +2038,7 @@ und das ÜBER- ICH arbeitet nach dem
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -2057,8 +2051,7 @@ und das ÜBER- ICH arbeitet nach dem
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
 1. das Selbstbild (wie sehe ich
     mich), über das soziale Selbst, das vermutete Fremdbild (so sieht man mich)
@@ -2115,7 +2108,7 @@ Je geringer die ICH-Diskrepanz
     stellt sich die Person gegenüber der Aussenwelt dar.
 
 Das Selbstbild, auch
-    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://blz.borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
+    Selbstkonzept genannt, beinhaltet die [Kognitionen](https://borderliner.ch/definition/definitionen.htm#kognition) und Gefühle, die man sich selbst gegenüber hat. Das Selbstbild entsteht
     sowohl durch die Selbstbeobachtung (SB) der
     eigenen Erlebnisse und des eigenen Handelns, als auch durch die
     verschiedenen Formen der Beurteilung durch andere. (Lob, Tadel, Aufwertung,
@@ -2150,7 +2143,7 @@ Das Selbstwertgefühl
 Das Minderwertigkeitsgefühl ist
     das Erleben von tiefgehender seelischer oder körperlicher
     Unzulänglichkeit. Das Minderwertigkeitsgefühl hat einen bedeutenden
-    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://blz.borderliner.ch/depression/depri.html) ).
+    Einfluss auf die Entstehung seelischer Leiden (Neurosen, [Depression](https://borderliner.ch/depression/depri.html) ).
     Je nach ICH-Stabilität können sowohl endogene (von innen) Faktoren wie z.
     Bsp. Organminderung oder exogene (von aussen) Faktoren z. Bsp. zu harte oder
     zu weiche Erziehung, Beziehungskatastrophen (Borderline-Beziehung,
@@ -2182,14 +2175,14 @@ Resultierend aus dem
     erstreckt sich somit auch auf moralisches Handeln. Das Selbstvertrauen ist
     ein kräftiges Eigenmachtgefühl (nicht Omnipotenz = Allmachtgefühl) mit
     möglichen Schwierigkeiten fertig zu werden. Bei naivem übersteigertem
-    Eigenmachtgefühl ( [Narzissmus](https://blz.borderliner.ch/narz/narz1.html) )
+    Eigenmachtgefühl ( [Narzissmus](https://borderliner.ch/narz/narz1.html) )
     beruht das Selbstvertrauen auf ein Übersehen von realen
     Hindernissen.
 
 Die Selbstbeherrschung
     (Selbstkontrolle, auch Selbstregularien (SR)
     ist die Fähigkeit durch den vernünftigen Willen das Eigenerleben im sinne
-    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://blz.borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
+    sozialer, menschlicher Normen, unabhängig von den Trieben und [Affekten](https://borderliner.ch/definition/definitionen.htm#affekt) zu gestalten. Die Selbstbeherrschung ist stark an die Fähigkeit der
     Selbstbeobachtung / Introspektion (SB)
     geknüpft. Selbstkontrolle ist z. Bsp. beim Belohnungsaufschub /
     Befriedigungsaufschub notwendig.
@@ -2199,7 +2192,7 @@ Die Selbstbeobachtung /
     seelische Zustände und Vorgänge gerichtete Aufmerksamkeit. Sie ist, mit
     der Selbsterkenntnis (SE) Grundlage eine
     Verhaltensänderung. Die Selbstbeobachtung bedingt allerdings mehrere
-    Gefahren und wird von den [Behavioristen](https://blz.borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
+    Gefahren und wird von den [Behavioristen](https://borderliner.ch/definition/definitionen.htm#Beha) abgelehnt. Die von Kritikern
     aufgeführten Punkte sind folgende:
 
 - Gefahr der Selbsttäuschung,
@@ -2262,7 +2255,7 @@ Kommen wir zur Selbsterkenntnis
 
 das ES
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Das "ES" liegt im
 Unbewussten und beinhaltet:
@@ -2276,7 +2269,7 @@ sehen in der Borderline-Störung in ihrer sofortigen Triebebefriedigung)
 das
 Über-Ich einer gesunden Persönlichkeit
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ÜBER-ICH:
 
@@ -2451,7 +2444,7 @@ ist, wie Sie sehen. Entscheidend ist also wie die einzelnen Funktionen ( A,
 A+C, SB, SE, SR, S, SS, SF, etc.) ineinander arbeiten um eine optimale
 Regelung zu ermöglichen.
 
-[](https://blz.borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
+[](https://borderliner.ch) Zum Abschluss möchte ich noch ganz kurz die
 Arbeitsprinzipien des ES, ICH und Über-ICH erwähnen. das ES arbeitet nach dem Lustprinzip, das ICH arbeitet nach dem Realitätsprinzip
 und das ÜBER- ICH arbeitet nach dem
       Moralitätsprinzip Im einzelnen: Das Lustprinzip bezeichnet das
@@ -2459,7 +2452,7 @@ und das ÜBER- ICH arbeitet nach dem
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -2472,8 +2465,7 @@ und das ÜBER- ICH arbeitet nach dem
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
 Zum Abschluss möchte ich noch ganz kurz die
 Arbeitsprinzipien des ES, ICH und Über-ICH erwähnen. das ES arbeitet nach dem Lustprinzip, das ICH arbeitet nach dem Realitätsprinzip
@@ -2483,7 +2475,7 @@ und das ÜBER- ICH arbeitet nach dem
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -2496,8 +2488,7 @@ und das ÜBER- ICH arbeitet nach dem
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
 - das ES arbeitet nach dem Lustprinzip,
 
@@ -2520,7 +2511,7 @@ Im einzelnen: Das Lustprinzip bezeichnet das
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung) Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
     ethische und soziale Forderungen abwandelt. So wird das Individuum davor
     bewahrt, in Verfolgung der auf Triebbefriedigung ausgerichteten ES-Impulse
@@ -2533,15 +2524,14 @@ Im einzelnen: Das Lustprinzip bezeichnet das
     weitgehende Annäherung des ICH an das ICH-Ideal / Ideal-Selbst zu erreichen
     versucht. Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+2005-2007
 
 - Das Lustprinzip bezeichnet das
     Grundprinzip von Handlungen die unter dem Motiv de Lustgewinnes erfolgen.
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung)
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung)
 
 - Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
@@ -2563,7 +2553,7 @@ Das Lustprinzip bezeichnet das
     Das ES arbeitet ausschliesslich nach dem Lustprinzip und strebt nach
     unmittelbarer und vollständigen Abfuhr seiner Triebenergien, und
     grösstmöglichen Lustgewinn, bzw. nach sofortiger Befriedigung der Triebe
-    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung)
+    und Bedürfnisse. (sehr schön zu sehen in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) in ihrer sofortigen Triebebefriedigung)
 
 Das Realitätsprinzip bezeichnet
     das Prinzip in dem das ICH die aus dem ES stammenden Triebimpulse in
@@ -2582,12 +2572,8 @@ Das Moralitätsprinzip
 
 Wechseln
 sie nun in das für Sie relevante psychodynamische Modell über einen der
-unteren Links!! © "Team der Borderlinezone"
-2005-2007 [ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
-
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](../persstoerung/persstoerung1.html) ] [ [psychodynamisches Modell Borderline](psychodynamisches_modell-borderline.htm) ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ]
+2005-2007
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+

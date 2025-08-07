@@ -10,9 +10,7 @@ slug: entstehung_anorexie
 ---
 
 
-[ [Bulimie](../ess1/bulemianervosa.html) ] [ [Anorexia nervosa](../ess2/anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ]
 
-[ [Nach oben](../ess2/anorexianervosa.html) ] [ [Anorexia Untergruppen](../ess2/anorexia_5.html) ] [ Die Entstehung der Anorexie ]
 
 Die
 Entstehung der Anorexie
@@ -31,7 +29,7 @@ Anorexie leiden auf alle möglichen Probleme eingegangen wird, doch es wird die
 Kindheit nicht behandelt und auch keine Verhaltenstherapie durchgeführt.
 
 Zu oft liegt auch bei beiden Krankheiten (Bulimie und
-Anorexie) die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) zugrunde.
+Anorexie) die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) zugrunde.
 
 Bitte verstehen Sie mich nicht falsch. Ein Bulimiekranker
 oder Anorexiekranker muss keine unterliegende Borderline-Störung aufweisen, auch
@@ -225,7 +223,7 @@ geschehen, wenn der Vater sie liebt
 und sie muß einen Weg finden der Mutter eine, wenn auch kleine Kraft,
 entgegenzubringen. Auch dies kann nur geschehen wenn der Vater sie liebt. Dies
 tritt in der genitalen Phase ein. [siehe
-M](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) in der das Kind jetzt Gefühlskonflikte bewältigen muß. Der Konflikt
+M](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) in der das Kind jetzt Gefühlskonflikte bewältigen muß. Der Konflikt
 zwischen Angst und Geborgenheit.
 
 Der Vater tritt also für solche Menschen in den
@@ -287,14 +285,11 @@ Krankheit und die Gedanken und Gefühle werden abgekapselt. Hier nicht
 abgespalten.
 
 Weitere Ursachen der Anorexie und Bulimie kann ein früher
-sexueller hauptsächlich oraler [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) sein.
+sexueller hauptsächlich oraler [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) sein.
 
 [Fallbeispiel
-M](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) [Fallbeispiel
-S](https://blz.borderliner.ch/der_fall_s/der_fall_s.htm)
+M](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) [Fallbeispiel
+S](https://borderliner.ch/der_fall_s/der_fall_s.htm)
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../ess2/anorexianervosa.html) ] [ [Anorexia Untergruppen](../ess2/anorexia_5.html) ] [ Die Entstehung der Anorexie ]
 
-[ [Bulimie](../ess1/bulemianervosa.html) ] [ [Anorexia nervosa](../ess2/anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ]

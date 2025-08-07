@@ -14,9 +14,7 @@ slug: stoerung_f60_31_borderline
 
 # Borderlinestörung
 
-[ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ [nach DMSR](../bord4/dmsr.html) ] [ nach ICD ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]
 
-[ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]
 
 # nach dem ICD-10
 diemit der Nr.F60.31
@@ -82,11 +80,7 @@ sehr breit. Multikomorbidität ist ein Zeichen der Borderlinestörung. Ich
 persönlich lehne diesen Begriff ab, denn die Borderlinestörung ist eine
 Kaskadenstörung, daß heißt einzelne andere Störungen greifen zu so und so
 viel % mit ein und haben sich auf der Basis der Borderlinestörung als Stufen entwickelt. © "Team der
-Borderlinezone" 2002-2007 [ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ [nach DMSR](../bord4/dmsr.html) ] [ nach ICD ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ] [ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]
 
 © "Team der
-Borderlinezone" 2002-2007 [ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ [nach DMSR](../bord4/dmsr.html) ] [ nach ICD ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ] [ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ [nach DMSR](../bord4/dmsr.html) ] [ nach ICD ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]
 
-[ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]

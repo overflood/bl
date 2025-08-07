@@ -10,7 +10,6 @@ slug: esst1
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ Esstörungen ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 Essstörungen
 
@@ -62,7 +61,7 @@ Ausbruch beider Störungen liegt oft um das 12. Lebensjahr, zusammenfallend mit
 dem ersten Eintritt der Periode.
 
 ( [Fallbeispiel
-M](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) )
+M](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) )
 
 Nach
 Schätzungen sterben 5% der Betroffenen an dieser Störung.
@@ -196,12 +195,9 @@ hingegen oft durch akute Belastungssituationen, wie z.B. Trennungen, Tod eines
 Angehörigen oder Partnerschaftsprobleme.
 
 Oft
-gehen beide Störungen einher mit anderen [Persönlichkeitsstörungen](https://blz.borderliner.ch/persstoerung/persstoerung1.html) , bzw. sind
-an diese gekoppelt (Komorbidität). So zum Beispiel die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) oder [ADHS](https://blz.borderliner.ch/ads/ads.html) .
+gehen beide Störungen einher mit anderen [Persönlichkeitsstörungen](https://borderliner.ch/persstoerung/persstoerung1.html) , bzw. sind
+an diese gekoppelt (Komorbidität). So zum Beispiel die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) oder [ADHS](https://borderliner.ch/ads/ads.html) .
 
 ©
-"Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../indexa.html) ] [ [Bulimie](ess1/bulemianervosa.html) ] [ [Anorexia nervosa](ess2/anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](med_leitlinien_ess.pdf) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ Esstörungen ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

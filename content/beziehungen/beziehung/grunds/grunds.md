@@ -81,7 +81,7 @@ aber sein Sie auch nicht der Lehrer.
 - Verurteilen
 Sie ihn nicht für seine Vergangenheit (sexuelle Kontakte)
 
-- In den [Trennungsphasen](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) bleiben Sie wie beschrieben.
+- In den [Trennungsphasen](https://borderliner.ch/trennung/ratschlaege_trennung.htm) bleiben Sie wie beschrieben.
 
 - Wenn er kommt und braucht Ihre Hilfe dann      sein
 Sie für Ihn angemessen da.
@@ -102,7 +102,7 @@ Papier.
 
 - Beachten
 Sie das Sie das [selbstschädigende,
-suizidale Verhalten](https://blz.borderliner.ch/ssv/ssvv.htm) des Borderliners nicht ändern oder unterbinden können.
+suizidale Verhalten](https://borderliner.ch/ssv/ssvv.htm) des Borderliners nicht ändern oder unterbinden können.
 Sie müssen mit diesen Ängsten leben. Bleiben Sie bei Suizidandrohungen ruhig und besonnen.
 
 - Unterstützen Sie ihn auf keinen Fall in der
@@ -192,7 +192,7 @@ aber sein Sie auch nicht der Lehrer.
 Verurteilen
 Sie ihn nicht für seine Vergangenheit (sexuelle Kontakte)
 
-In den [Trennungsphasen](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) bleiben Sie wie beschrieben.
+In den [Trennungsphasen](https://borderliner.ch/trennung/ratschlaege_trennung.htm) bleiben Sie wie beschrieben.
 
 Wenn er kommt und braucht Ihre Hilfe dann      sein
 Sie für Ihn angemessen da.
@@ -213,7 +213,7 @@ Papier.
 
 Beachten
 Sie das Sie das [selbstschädigende,
-suizidale Verhalten](https://blz.borderliner.ch/ssv/ssvv.htm) des Borderliners nicht ändern oder unterbinden können.
+suizidale Verhalten](https://borderliner.ch/ssv/ssvv.htm) des Borderliners nicht ändern oder unterbinden können.
 Sie müssen mit diesen Ängsten leben. Bleiben Sie bei Suizidandrohungen ruhig und besonnen.
 
 Unterstützen Sie ihn auf keinen Fall in der
@@ -291,7 +291,7 @@ Gefühl der inneren Leere keinen Alkohol zu trinken, keine Drogen zu nehmen,
       abzubauen.
 
 - Denken Sie daran das Ihr [selbstschädigende,
-suizidale Verhalten](https://blz.borderliner.ch/ssv/ssvv.htm) dem Partner sehr weh tut.
+suizidale Verhalten](https://borderliner.ch/ssv/ssvv.htm) dem Partner sehr weh tut.
 
 - Wenn Sie merken das Sie schneiden oder brennen
 wollen, oder eine andere selbstschädigende Handlung begehen wollen sagen Sie es
@@ -374,7 +374,7 @@ Gefühl der inneren Leere keinen Alkohol zu trinken, keine Drogen zu nehmen,
       abzubauen.
 
 Denken Sie daran das Ihr [selbstschädigende,
-suizidale Verhalten](https://blz.borderliner.ch/ssv/ssvv.htm) dem Partner sehr weh tut.
+suizidale Verhalten](https://borderliner.ch/ssv/ssvv.htm) dem Partner sehr weh tut.
 
 Wenn Sie merken das Sie schneiden oder brennen
 wollen, oder eine andere selbstschädigende Handlung begehen wollen sagen Sie es
@@ -395,9 +395,6 @@ will".
 Treiben Sie ihn nicht in die
 Ecke. Er wird beissen oder sich zurückziehen.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../beziehung.htm) ] [ [Borderline-Störung Beziehung 2](../beziehung1/beziehung1.htm) ] [ Borderline-Störung, Rat für Beziehung mit einer ] [ [leidet mein Partner unter einer Borderline-Störung](../ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](../beziehung1/kommu.htm) ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ [Borderline-Störung, Paradoxum](../paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]

@@ -10,9 +10,7 @@ slug: dependent-narz-bez
 ---
 
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ Beziehung Narzisst und Dependent ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
 Die narzisstisch- dependente Beziehung
 
@@ -23,7 +21,7 @@ Betrachten wir uns nun
 die Beziehung zwischen einer dependenten Persönlichkeit und einer
 narzisstischen Persönlichkeit. Fast wäre man geneigt zu sagen, im großen und
 ganzen unterscheidet sich diese Beziehung nicht von der vorhergehenden. Zumal ja
-die [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) die [narzisstische Störung](https://blz.borderliner.ch/narz/narz1.html) beinhaltet.
+die [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) die [narzisstische Störung](https://borderliner.ch/narz/narz1.html) beinhaltet.
 
 Lassen
 Sie uns genau hinsehen.
@@ -36,7 +34,7 @@ und die sofortigen Triebbefriedigungen der narzisstischen Persönlichkeit sind
 nicht so aggressionsbesetzt.
 
 Auch
-okkupiert die narzisstische Persönlichkeit nicht das ["Regelsystem"](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) , sondern
+okkupiert die narzisstische Persönlichkeit nicht das ["Regelsystem"](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) , sondern
 greift gezielt, zu ihrem Vorteil und nur zu diesem, ein.
 
 So
@@ -93,7 +91,7 @@ sehen Sie wieder, wer auch besonders gut geeignet ist. Richtig, die
 Borderlinepersönlichkeit.
 
 Ideal
-wären für den [Narzissten](https://blz.borderliner.ch/narz/narz1.html) beide. Die dependente Persönlichkeit für die
+wären für den [Narzissten](https://borderliner.ch/narz/narz1.html) beide. Die dependente Persönlichkeit für die
 Umsorgung und die Borderlinepersönlichkeit zuständig für Bewunderung und
 Idealisierung. Die Kollussion vermittelt immer ein Gefühl von Unentbehrlichkeit
 von einender und ermöglicht es gewissen Menschen, hier dem Narzissten, überhaupt
@@ -115,7 +113,7 @@ der Regel lernen sich die Beiden durch die Macht der Illussion kennen. Entweder
 ist die dependente Persönlichkeit der Retter, die den Narzissten von seinen
 Problemen erlöst oder sie glaubt sich am Ziel ihrer Wünsche und Träume. Und
 tatsächlich glaubt sie sich am Anfang der Beziehung, ähnlich der
-Borderlinebeziehung, im Nirvana. Diese Phase dauert, im Gegensatz zur [Borderline-Beziehung](https://blz.borderliner.ch/beziehung/beziehung.htm) , länger und vergeht nicht abrupt. Auch ist sie nicht
+Borderlinebeziehung, im Nirvana. Diese Phase dauert, im Gegensatz zur [Borderline-Beziehung](https://borderliner.ch/beziehung/beziehung.htm) , länger und vergeht nicht abrupt. Auch ist sie nicht
 symbiotisch. Die Symbiose lehnt der Narzisst, wie wir wissen, ab.
 
 Der
@@ -130,7 +128,7 @@ beiden Fällen ist im Kopf der dependenten Persönlichkeit "er, der Narzisst
 muss nur genügend geliebt werden, dann....."
 
 Dass
-die [narzisstische Persönlichkeit](https://blz.borderliner.ch/narz/narz1.html) in Wirklichkeit nicht intim und liebesfähig
+die [narzisstische Persönlichkeit](https://borderliner.ch/narz/narz1.html) in Wirklichkeit nicht intim und liebesfähig
 ist, weiß sie nicht und wenn sie es wissen würde, würde sie glauben, dass sie
 ihn mit ihrer Liebe schon fähig machen würde. Er müsste nur genug geliebt
 werden.
@@ -174,7 +172,7 @@ ein Mäuschen.
 
 Bei der Nutzbarmachung,
 der für ihn zweckdienlichen ???? (Wut) hilft ihm vor allem die Offenheit und
-der [Altruismus](https://blz.borderliner.ch/definition/definitionen.htm#Altruismus) der dependenten Persönlichkeit
+der [Altruismus](https://borderliner.ch/definition/definitionen.htm#Altruismus) der dependenten Persönlichkeit
 
 Sehr schnell findet er
 die für ihn maßgeblichen Schalthebel der dependenten Persönlichkeit. Die da wären
@@ -194,7 +192,7 @@ sind wir ehrlich, nicht ganz umsonst. Ab und zu, doch das ist nicht die Regel,
 ist es notwendig, ein wenig Schaum zu schlagen.
 
 Das Mäuschen, unsere
-dependente Persönlichkeit, wird zwar vom Habicht, dem [Narzissten,](https://blz.borderliner.ch/narz/narz1.html) nicht
+dependente Persönlichkeit, wird zwar vom Habicht, dem [Narzissten,](https://borderliner.ch/narz/narz1.html) nicht
 gefressen, sitzt aber in einem goldenen Käfig.
 
 Auf der einen Seite
@@ -220,7 +218,7 @@ Zwischendurch werden Schuldgefühle in die dependente Persönlichkeit induziert.
 in Verbindung mit der Mutation des Narzissten zum hilfebedürftigen Kleinkind.
 
 Da die narzisstische Persönlichkeit,
-wie auch die [Borderlinepersönlichkeit](https://blz.borderliner.ch/bord/bord1/bord1.html) , emotional auf einer infantilen
+wie auch die [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) , emotional auf einer infantilen
 Entwicklungsstufe stehen, kann es in solchen Situationen, leider viel zu oft,
 zur Gewalt kommen.
 
@@ -232,8 +230,5 @@ sein Verstand aussetzt. Im Gegenteil. Das Zurückfallen bezeichnet hier das
 Reaktions-/ Handlungsmuster.
 
 ©
-"Team der Borderlinezone" 2003-2007
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ Beziehung Narzisst und Dependent ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]

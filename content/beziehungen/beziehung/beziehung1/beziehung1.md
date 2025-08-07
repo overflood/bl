@@ -92,7 +92,7 @@ Macht und Kontrollbedürfnis, da Sie es natürlich tun.
 
 In eine normalen Beziehung pegeln sich
 Verhaltensmuster und Kommunikationsmuster aufeinander ein. Durch das nicht
-vorhersehbare, instabile, Verhalten eines Borderliners, bzw. der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ,
+vorhersehbare, instabile, Verhalten eines Borderliners, bzw. der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ,
 ist dies in solchen
 Beziehungen unmöglich. Grundlage einer tragfähigen Beziehung ist aber die
 funktionierende Kommunikation bzw. Interaktion beider Partner.
@@ -101,20 +101,20 @@ Jeder
 Mensch kommuniziert. Man kann nicht nicht kommunizieren. Die Kommunikation ruht
 auf zwei Säulen, der verbalen und der nonverbalen. Die verbale macht nur ca. 15%
 aus. Das schwierige ist, dass der Borderliner immer zwei, sich widersprechende ( [Ambivalenz](../../definition/definitionen.htm#Ambivalenz) ), Botschaften
-sendet. ( [Paradoxum der Kommunikation](https://blz.borderliner.ch/definition/definitionen.htm) ) Noch einmal zur Frage " warum habe ich mich in einen Borderliner verliebt
+sendet. ( [Paradoxum der Kommunikation](https://borderliner.ch/definition/definitionen.htm) ) Noch einmal zur Frage " warum habe ich mich in einen Borderliner verliebt
 und er sich in mich?"
 
 Zum ersten wussten Sie ja nicht das er/sie ein
 Borderliner ist, bzw. der Borderline-Störung unterliegt. Zum zweiten als Sie es merkten war es wahrscheinlich schon zu
 spät und Sie saßen in der (Sucht) Falle. Als nächstes müsste man fragen,
-wenn dann, welcher [Komplementärstörung](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Sie unterliegen und wie stark diese ausgeprägt ist. Aber das ist erst einmal
+wenn dann, welcher [Komplementärstörung](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Sie unterliegen und wie stark diese ausgeprägt ist. Aber das ist erst einmal
 zurückzustellen denn spielt im Moment des Kennenlernens keine oder nur eine untergeordnete
 Rolle. Sie spielt eine Rolle in der Frage warum Sie sich nicht lösen können
 oder konnten.
 
 Aber gehen wir vom 1. Moment des Kennenlernens aus.
 Jeder Mensch trägt in sich ein Imago, sagen wir einfach ein geprägtes Bild (Imagos
-= Urbilder, welche sich im [Über-ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) befinden und sich aus mehreren Teilen
+= Urbilder, welche sich im [Über-ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) befinden und sich aus mehreren Teilen
 zusammensetzen, dazu zählen Mutter, Vater, erste Bezugspersonen. Jedes der
 Imagos ist nicht vollständig), also sagen wir besser eine Landkarte. Weil, wie gesagt die Imagos nicht vollständig sind,
 ist somit diese Landkarte
@@ -140,7 +140,7 @@ fehlt". Weiterhin sendet er die Information "nimm mich, ich bin
 bereit, ich erfülle all deine Wünsche, ich bin das was du suchst". 
 Dieses Signal verstärkt er in der Regel durch mehrere sexuelle Bereitschaftssignale.
 Wobei es natürlich auch hier auf den Unterschied Mann / Frau ankommt. Der
-Borderliner spiegelt also Ihre [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) perfekt zurück.
+Borderliner spiegelt also Ihre [Projektion](https://borderliner.ch/spaltung/spaltung.html) perfekt zurück.
 
 Nun unterliegen Sie einem sogenanntem Paradigma. Das
 heißt Sie lassen nur Informationen zu die Sie zulassen wollen. Dieser Vorgang
@@ -184,7 +184,7 @@ Ihr Paradigma arbeitet ja perfekt. Sie können natürlich auch nicht den
 Menschen zum Psychiater schleppen, mit der Bitte um Überprüfung. Der Mensch
 entscheidet zu 85% aus dem "Bauch" das heißt nach Gefühl und nur zu
 15% aus dem Verstand, aus der Logik heraus. Das liegt an unseren 3 Gehirnen.
-Sitz Ihrer Gefühle ist das Mittelhirn, [limbische System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) , und dieses ist
+Sitz Ihrer Gefühle ist das Mittelhirn, [limbische System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) , und dieses ist
 wesentlich älter als der Sitz des Verstandes (Großhirn) und hier geht Alter
 vor Schönheit und Größe. Aus diesem Grund hat das limbische System immer das
 stärkere Sagen. Die Vorgänge sind wesentlich komplizierter, sollen aber hier
@@ -246,13 +246,10 @@ Die Gedankenfalle:
 
 Einige der nachfolgenden Ratschläge könne Ihnen
 vielleicht helfen, gewisse Dinge früher zu erkennen. Bedenken Sie immer das die
-Borderline-Störung ein breites [Spektrum](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm) besitzt, die Ausprägungen
+Borderline-Störung ein breites [Spektrum](https://borderliner.ch/bord/borderlinespektrum_mit.htm) besitzt, die Ausprägungen
 unterschiedlich stark sind und es eine große Rolle spielt wann sie ausgebrochen
 ist. Eine weiter Rolle spielt ob Sie oder der Borderliner rechts oder linkshirngelagert ist. Borderliner sind in der Regel rechtshirngelagert.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../beziehung.htm) ] [ Borderline-Störung Beziehung 2 ] [ [Borderline-Störung, Rat für Beziehung mit einer](../grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](../ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](kommu.htm) ] [ [Borderline-Störung, der Sex der Versöhnung](../../trennung/weinen_schmerz.htm) ] [ [Borderline-Störung, Paradoxum](../paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../../warum_er_sie/warum_partner.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]

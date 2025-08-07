@@ -10,9 +10,7 @@ slug: alkoholismus
 ---
 
 
-[ [Entstehung der Sucht](../definition/sucht.htm) ] [ [Amphetamine](../definition/ecstasy_und_amphetamine.htm) ] [ [Kokain](../definition/kokain_crack.htm) ] [ [Hallozinogene](../definition/hallozinogene.htm) ] [ [Opiate](../definition/opiate.htm) ] [ [Alkohol](alkohol.html) ] [ [mediz. Leitlinien Drogen](../definition/med-leitlinien-drogen.pdf) ]
 
-[ [Nach oben](alkohol.html) ] [ Aloholismus ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ [Rückfallgefahren](rueckfall.htm) ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ [Geschichte 2](geschichte1.htm) ] [ [Geschichte 3](geschichte2.htm) ]
 
 Alkoholismus
 
@@ -972,8 +970,5 @@ Wenn sie bei ehrlicher
 Selbstprüfung mehr als fünf Fragen mit "Ja" beantworten müssen, so
 besteht die Wahrscheinlichkeit, daß Sie Alkoholiker sind.
 
-© "Team der Borderlinezone" 2002-2006
 
-[ [Nach oben](alkohol.html) ] [ Aloholismus ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ [Rückfallgefahren](rueckfall.htm) ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ [Geschichte 2](geschichte1.htm) ] [ [Geschichte 3](geschichte2.htm) ]
 
-[ [Entstehung der Sucht](../definition/sucht.htm) ] [ [Amphetamine](../definition/ecstasy_und_amphetamine.htm) ] [ [Kokain](../definition/kokain_crack.htm) ] [ [Hallozinogene](../definition/hallozinogene.htm) ] [ [Opiate](../definition/opiate.htm) ] [ [Alkohol](alkohol.html) ] [ [mediz. Leitlinien Drogen](../definition/med-leitlinien-drogen.pdf) ]

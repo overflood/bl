@@ -16,11 +16,9 @@ nach der Nr. F60.4
 
 histrionische Persönlichkeitsstörung
 
-[ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](../../kompstoerung/komplimentaerstoerungen.htm) ] [ histrionische Persönlichkeitsstörung ] [ [Die dependente Störung](../../kompstoerung/dependente_stoerung.htm) ]
 
-Die allgemeinen Kriterien für eine [Persönlichkeitsstörung](https://blz.borderliner.ch/persstoerung/persstoerung1.html) müssen erfüllt
+Die allgemeinen Kriterien für eine [Persönlichkeitsstörung](https://borderliner.ch/persstoerung/persstoerung1.html) müssen erfüllt
 sein und mindestens vier der folgenden Eigenschaften oder Verhaltensweisen müssen
 vorliegen.
 
@@ -45,8 +43,5 @@ Persönlichkeitsstörung wurde früher, als die narzisstische
 Persönlichkeitsstörung noch nicht im ICD aufgenommen war (bis ICD-9), mit der
 narzisstischen Persönlichkeitsstörung gleichgesetzt.
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../../kompstoerung/komplimentaerstoerungen.htm) ] [ histrionische Persönlichkeitsstörung ] [ [Die dependente Störung](../../kompstoerung/dependente_stoerung.htm) ]
 
-[ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]

@@ -10,7 +10,6 @@ slug: gedichte1
 ---
 
 
-[ [Zurück](gedichte.html) ] [ [Nach oben](../widmung_1.html) ]
 
 Musik
 
@@ -197,7 +196,7 @@ Freiflug 9 Strophen für 9 Monate mit der einen
   mir stehen. Du sagtest: Ich liebe dich. Und ich glaubte dir ... Doch du hast meine Treue
   benutzt. Doch du hast mein Vertrauen
   gebrochen. Doch du standest nie zu mir. Doch du hast meine Liebe
-  zertreten. Bitte sag mir, warum? 23.06.2008 - 03:06:57 [ [Zurück](gedichte.html) ] [ [Nach oben](../widmung_1.html) ]
+  zertreten. Bitte sag mir, warum? 23.06.2008 - 03:06:57
 
 ©
 Freiflug
@@ -715,7 +714,6 @@ Bitte sag mir, warum?
 
 23.06.2008 - 03:06:57
 
-[ [Zurück](gedichte.html) ] [ [Nach oben](../widmung_1.html) ]
 
 #
 

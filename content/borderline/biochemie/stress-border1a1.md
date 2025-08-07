@@ -10,29 +10,28 @@ slug: stress-border1a1
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 Die Dis-Stressantwort des Körpers
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende:
 
 (1) Im Thalamus laufen die
 Nervenstränge der Sinnesorgane zusammen. Bei Gefahr aktiviert dieser den
-emotionalen Wächter, die [Amygdala](https://blz.borderliner.ch/gehirn/gehirn.htm#Amygdala) (Mandelkern). Dieser wiederum aktiviert über den
+emotionalen Wächter, die [Amygdala](https://borderliner.ch/gehirn/gehirn.htm#Amygdala) (Mandelkern). Dieser wiederum aktiviert über den
 Hypothalamus das CRH (Corticotropin-Releasing-Hormon).  Das CHR gibt nun
 das ACTH (adrenocorticotropes Hormon) im
 Hypophysenvorderlappen frei, und somit wird die HPA-Achse (die biochemische
 Stressachse beim Menschen) aktiviert. HPA steht für Hypothalamus (Hormon=CRH)
---> Pituitary ( [Hypophyse](https://blz.borderliner.ch/gehirn/gehirn.htm#Hypohyse) ,
+--> Pituitary ( [Hypophyse](https://borderliner.ch/gehirn/gehirn.htm#Hypohyse) ,
 Hormon = ATCH) --> adrenal cortex (Nebenniere, Hormon = Glucokordicoide).
 
 Aktiviert
 werden vereinfacht gesagt (3) Adrenalin, Noradrenalin, Anstieg
 Blutzuckerspiegel (Freisetzung von Energie = Gluconeogenese /
 Zuckerverbrennung), Cortisol (Adrenalin ist der Gegenspieler des Cortisol und
-versucht es herunter zu regeln), Steigerung Blutdruck (2) , Aktivierung [Sympatikus](https://blz.borderliner.ch/definition/definitionen.htm#Para) (2) . Erhöhung der Schilddrüsenfunktion, in späterer Folge dadurch
+versucht es herunter zu regeln), Steigerung Blutdruck (2) , Aktivierung [Sympatikus](https://borderliner.ch/definition/definitionen.htm#Para) (2) . Erhöhung der Schilddrüsenfunktion, in späterer Folge dadurch
 Erhöhung der Nervenleitgeschwindigkeiten (2) . Das Immunsystem mit seien
 Fresszellen (T-Lymphozyten und B-Lymphozyten) (6) , wird aktiviert. Die
 Muskeln verbrennen Fettsäuren statt Zucker, Verdauungsorgane drosseln ihren
@@ -63,7 +62,7 @@ Das sie durch den permanent erhöhten
 Cortisolspiegel krank werden, ihr Immunssystem massiv geschwächt wird steht
 ausser Zweifel. Möglicherweise haben Sie bemerkt, dass sie ca. ab den letzten
 2/3 der Borderline-Beziehung zunehmend an Gedächtnislücken leiden. Dies liegt
-an dem, zu lange, erhöhten Cortisolspiegel. Dieser schädigt den [Hippocampus](https://blz.borderliner.ch/gehirn/gehirn.htm#Hippo) und der wiederum ist für das bewusste Erinnern an Situationen
+an dem, zu lange, erhöhten Cortisolspiegel. Dieser schädigt den [Hippocampus](https://borderliner.ch/gehirn/gehirn.htm#Hippo) und der wiederum ist für das bewusste Erinnern an Situationen
 unentbehrlich. Die Schädigung des Hippocampus führt sehr oft zu
 langanhaltenden Gedächtnislücken, genau wie bei dem posttraumatischen
 Belastungssyndrom. Auch weitere Symptome wie Schlafstörungen, wechselnde
@@ -80,12 +79,8 @@ Gedächtnislücken innerhalb und nach der Beziehung massiv zugenommen haben. Es
 vergeht wieder, sofern sie nicht in die Rückfallfalle laufen oder sich einem
 andern Borderliner zu wenden. Nun verklagen sie Ihren Borderliner nicht gleich
 auf "seelische Körperverletzung" auch wenn dieser das (versucht), [in
-seinem Hass, mit Ihnen zu machen](https://blz.borderliner.ch/trennung/was_ihnen_passieren_kann.htm) .
+seinem Hass, mit Ihnen zu machen](https://borderliner.ch/trennung/was_ihnen_passieren_kann.htm) .
 
 ©
-"Team der Borderlinezone" 2002-2007
 
-[ [zurück](https://blz.borderliner.ch/biochemie/biochemie.htm#BL-Stress) ]
-[ [weiter Folgen von Dauer-Dis-Stress Teil 2](https://blz.borderliner.ch/biochemie/stress-border2a2.htm) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

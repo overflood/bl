@@ -10,7 +10,6 @@ slug: dependente_stoerung_1
 ---
 
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ dependente Störung & Komorbidität ]
 
 die abhängige / dependente Störung
 
@@ -24,7 +23,7 @@ verwenden.
 Die untere Grafik soll ein häufig
 vorkommend Konstellation von eingreifenden Symptomen aus der ängstlich
 (vermeidenden) PS F60.0 und der zwanghaften PS F60.5 darstellen. Der
-ausprägungsgrad der jeweils eingreifenden Symptome ist wie bei der [Borderline-Störung](https://blz.borderliner.ch//bord/bord1/bord1.html) natürlich unterschiedlich.
+ausprägungsgrad der jeweils eingreifenden Symptome ist wie bei der [Borderline-Störung](https://borderliner.ch//bord/bord1/bord1.html) natürlich unterschiedlich.
 
 Die zwanghafte
 Persönlichkeitsstörung ist gekennzeichnet durch Gefühle von Zweifel,
@@ -106,12 +105,12 @@ Vermeidung sozialer
       Aktivitäten die intensiven zwischenmenschlichen Kontakt bedingen, aus
       Furcht vor Kritik oder Ablehnung
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 So kann in der dependenten Störung durchaus eine emotionale
 Instabilität vorhanden sein. Die dependente Störung geht in der Regel mit
 einer Störung des Selbstbildes (siehe [psychodynamisches
-Modell](https://blz.borderliner.ch/ich/psychodynamisches_modell-dependent.htm) dependente Persönlichkeit) einher, egal welche Symptome anderer PS
+Modell](https://borderliner.ch/ich/psychodynamisches_modell-dependent.htm) dependente Persönlichkeit) einher, egal welche Symptome anderer PS
 mit vorhanden sind. Die Steuerung des Selbstbildes ist allerdings eine ganz
 andere als beispielsweise bei der Borderline-Störung. Auch sind bei
 Verlassenwerden Neigungen zum Suizid (bedingt dann durch das geringe
@@ -164,9 +163,6 @@ als Affe?
 Dann sollten wir auch her gehen und und als
 "Affenmenschen" bezeichnen.
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ dependente Störung & Komorbidität ]
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]

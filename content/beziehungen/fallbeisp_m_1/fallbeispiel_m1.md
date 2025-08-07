@@ -10,9 +10,7 @@ slug: fallbeispiel_m1
 ---
 
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord/bord1/bord1.html) ] [ [nach DMSR](../bord/bord4/dmsr.html) ] [ [nach ICD](../bord/bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../bord/bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ]
 
-[ [Nach oben](fallbeispiel_m.htm) ]
 
 Frösche gab es genug  die
 geduldig warteten und
@@ -57,7 +55,7 @@ oder meinen Sie das nur?
 In Beziehungen spricht sie
 sofort von der absoluten, unsterblichen Liebe, mystischen Verbindung und bietet sehr schnell
 Sexualität an, bzw. bevor die Beziehung beginnt. [(mit
-dir war es so)](https://blz.borderliner.ch/beziehung/beziehung2/beziehung2.htm) Sie macht Zukunftspläne und
+dir war es so)](https://borderliner.ch/beziehung/beziehung2/beziehung2.htm) Sie macht Zukunftspläne und
 verbalisiert diese auch (dies nach wenigen Stunden oder Tagen). Sie ist ein
 Mensch mit einem überstarken Bedürfnis nach Annahme, Wärme, Geborgenheit,
 Sexualität (wobei diese in jede Richtung geht), Achtung, Verstehen und Mittelpunkt. Immer wieder ist sie sehr
@@ -81,8 +79,8 @@ Es wird ungewöhnlicher? Eigentlich
 könnte man sagen "schön durchgeknallt".
 
 Ja,
-Sie denken richtig. M. leidet unter der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) (extrem stark
-ausgebildet) einhergehend mit [Anorexie](https://blz.borderliner.ch/ess/esst1.html) und Hypochondrie. Wobei es sich hier um
+Sie denken richtig. M. leidet unter der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) (extrem stark
+ausgebildet) einhergehend mit [Anorexie](https://borderliner.ch/ess/esst1.html) und Hypochondrie. Wobei es sich hier um
 eine Kaskadenstörung handelt (Multikomorbidität). Unterliegend ist die
 Borderline-Störung und
 aufgesetzt die Anorexie und Hypochondrie. Die Anorexie und Hypochondrie ist hier
@@ -98,11 +96,9 @@ Multikomorbidität, wobei ich persönlich im Falle der Borderlinestörung diesen
 Begriff ablehne und von  Kaskadenstörung spreche, deren Ursache die unterste Kaskade
 (die Borderline-Störung) ist.
 
-© "Team der Borderlinezone"
   2002-2007
 
 (Haftungsausschluß: Die Personen und die
 Handlung sind frei erfunden und sämtliche Ähnlichkeiten mit lebenden
 oder toten Personen sind rein zufällig.)
 
-[ [Nach oben](fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall M, Teil 3](fallbeispiel_m2.htm) ]

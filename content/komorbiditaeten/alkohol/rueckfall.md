@@ -10,7 +10,6 @@ slug: rueckfall
 ---
 
 
-[ [Nach oben](alkohol.html) ] [ [Aloholismus](alkoholismus.html) ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ Rückfallgefahren ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ [Geschichte 2](geschichte1.htm) ] [ [Geschichte 3](geschichte2.htm) ]
 
 A
 C H T U N G - RÜCKFALLGEFAHREN !
@@ -650,4 +649,3 @@ Kalorische Ldg.Spez. 48,204
 
 Eufusol PER 7,303
 
-[ [Nach oben](alkohol.html) ] [ [Aloholismus](alkoholismus.html) ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ Rückfallgefahren ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ [Geschichte 2](geschichte1.htm) ] [ [Geschichte 3](geschichte2.htm) ]

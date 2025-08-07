@@ -10,9 +10,7 @@ slug: dependente_stoerung
 ---
 
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](komplimentaerstoerungen.htm) ] [ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ Die dependente Störung ]
 
 Die dependente Störung
 
@@ -93,14 +91,14 @@ oder Verhaltensweisen müssen vorliegen
     Bestätigungen von anderen
 
 Da
-die dependente Störung als Komplementstörung zur [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) und zur [narzisstischen Störung](https://blz.borderliner.ch/narz/narz1.html) steht und sehr häufig mit starker Ausprägung der
+die dependente Störung als Komplementstörung zur [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) und zur [narzisstischen Störung](https://borderliner.ch/narz/narz1.html) steht und sehr häufig mit starker Ausprägung der
 Anorexie/ Bulimie einhergeht, wollen wir uns diese ein wenig näher anschauen.
 
 Wie
 bereits im Kapitel der "Borderline-Störung" erwähnt, leiden 70% aller
-Borderlinepersönlichkeiten an den Ess-Störungen, 60% am [Substanzmittelmissbrauch](https://blz.borderliner.ch/definition/definitionen.htm#Sucht) und 80% an der dependenten Störung. Aber nicht nur
+Borderlinepersönlichkeiten an den Ess-Störungen, 60% am [Substanzmittelmissbrauch](https://borderliner.ch/definition/definitionen.htm#Sucht) und 80% an der dependenten Störung. Aber nicht nur
 hier ist die Zahl sehr hoch. Die dependente Störung als solches, aber auch in
-Verbindung mit der [Ess-Störung](https://blz.borderliner.ch/ess/esst1.html) und Substanzmittelmissbrauch, ist wohl die,
+Verbindung mit der [Ess-Störung](https://borderliner.ch/ess/esst1.html) und Substanzmittelmissbrauch, ist wohl die,
 gerade bei Frauen, am häufigsten auftretende Störung.
 
 Dependente
@@ -132,15 +130,15 @@ kurzfristigen, haben kann, wenn ich nur an der obersten Kaskade herumdoktere und
 nicht auch die untere repariere.
 
 Wenn
-dem also so wäre, dann müsste die narzisstische Störung als Komorbidität der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) auftauchen. Tut sie aber nicht. Weil das ICD10 die [narzisstische
-Störung (F60.80)](https://blz.borderliner.ch/narz/narz1.html) nicht getrennt ausweist, kann nicht der Grund sein. Das DSM-IV weist sie
+dem also so wäre, dann müsste die narzisstische Störung als Komorbidität der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) auftauchen. Tut sie aber nicht. Weil das ICD10 die [narzisstische
+Störung (F60.80)](https://borderliner.ch/narz/narz1.html) nicht getrennt ausweist, kann nicht der Grund sein. Das DSM-IV weist sie
 getrennt aus. Richtig ist somit wohl eher, es wie Kernberg zu betrachten, der
 die narzisstische Störung unter der Borderlein-Störung einordnet.
 
 So
 bezweifle ich auch, dass es eine Komorbidität mit der dependenten Störung gibt.
 Da spricht zu vieles dagegen. Hier handelt es sich meiner Meinung nach wohl eher
-um ADAS- ler, vom Typ hyperaktiv oder Mischtyp des [ADHS](https://blz.borderliner.ch/ads/ads.html) , mit dependenter Störung
+um ADAS- ler, vom Typ hyperaktiv oder Mischtyp des [ADHS](https://borderliner.ch/ads/ads.html) , mit dependenter Störung
 oder sehr starken dependenten Strukturen. Die Borderlinepersönlichkeit hat
 allenfalls (starke) dependente Strukturen.
 
@@ -150,7 +148,7 @@ Begriffe verwenden wollen, eher in die Gruppe der Neurotiker, als Psychotiker.
 Borderlinepersönlichkeiten dagegen auf die Grenze beider, d.h. sie vereinen beides.
 
 Auch
-aus diesem Grund heraus betrachte ich die dependente Störung als [Komplementstörung](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) zur Borderline-Störung. Komplementär heißt hier nicht Gegensatz, sondern
+aus diesem Grund heraus betrachte ich die dependente Störung als [Komplementstörung](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) zur Borderline-Störung. Komplementär heißt hier nicht Gegensatz, sondern
 "sich ergänzend". So wie Schloss und Schlüssel. Oder besser ausgedrückt,
 wie Komplementärfarben, d.h. alle Farbenpaare, die im jeweiligen Verhältnis
 gemischt "weiß" ergeben.
@@ -175,13 +173,13 @@ obwohl sie es nicht sollten. Seine häufigen Trennungen bezeichnet der
 Borderliner als Versuch, sich aus seiner Abhängigkeit zu befreien und die
 Trennung ist dann der Sieg. Und so unrecht hat er gar nicht, denn abhängig von
 Ihnen ist er in der Idealisierungsphase wirklich. Aber auch durch seine
-Verlustangst, die allerdings ganz unbegründet ist, seinem [Substanzmittelmissbrauch](https://blz.borderliner.ch/definition/definitionen_1.htm) oder die Abhängigkeit von diesen, sieht er sich so.
+Verlustangst, die allerdings ganz unbegründet ist, seinem [Substanzmittelmissbrauch](https://borderliner.ch/definition/definitionen_1.htm) oder die Abhängigkeit von diesen, sieht er sich so.
 Aus diesen Gründen heraus bekommen sie häufig fälschlicherweise die Diagnose,
 dependente Störung oder sie wird mitdiagnostiziert (Komorbidität).
 
 Die
-dependente Störung tritt nicht unbedingt allein auf. Oft in Verbindung mit dem [ADS/ ADHS](https://blz.borderliner.ch/ads/ads.html) , der gemischten Persönlichkeitsstörung, der [Ess-Störung](https://blz.borderliner.ch/ess/esst1.html) , der
-rezidivierenden (wiederkehrenden) [Depression](https://blz.borderliner.ch/depression/depri.html) und insbesondere mit der/ einer
+dependente Störung tritt nicht unbedingt allein auf. Oft in Verbindung mit dem [ADS/ ADHS](https://borderliner.ch/ads/ads.html) , der gemischten Persönlichkeitsstörung, der [Ess-Störung](https://borderliner.ch/ess/esst1.html) , der
+rezidivierenden (wiederkehrenden) [Depression](https://borderliner.ch/depression/depri.html) und insbesondere mit der/ einer
 Substanzmittelabhängigkeit, bzw. dem Missbrauch dieser.
 
 Aber
@@ -207,9 +205,9 @@ erkannt wird.
 So
 kommt eine Frau in die Klinik, weil sie unter schweren Depressionen leidet und
 wird mit Zyprexa behandelt. Die dependente Störung allerdings wird nicht
-erkannt. Die [Depression](https://blz.borderliner.ch/depression/depri.html) ist hier Folge
+erkannt. Die [Depression](https://borderliner.ch/depression/depri.html) ist hier Folge
 ihrer jahrelangen Demütigungen (Mann = [narzisstische
-Störung](https://blz.borderliner.ch/narz/narz1.html) ) und des verzweifelten und ergebnislosen Kampfes, ihre Ehe
+Störung](https://borderliner.ch/narz/narz1.html) ) und des verzweifelten und ergebnislosen Kampfes, ihre Ehe
 zu beenden.
 
 Ein
@@ -233,7 +231,7 @@ Erwachsenenalter festgestellt.
 Bei
 vorgeschalteter bzw. stattgefundener Abhängigkeitsverschiebung und/ oder
 Suchtentwicklung ist es sogar für den Spezialisten äußerst schwierig die
-unterliegende, dependente [Persönlichkeitsstörung](https://blz.borderliner.ch/persstoerung/persstoerung1.html) zu erkennen. Auf der anderen
+unterliegende, dependente [Persönlichkeitsstörung](https://borderliner.ch/persstoerung/persstoerung1.html) zu erkennen. Auf der anderen
 Seite ist nicht bei jedem Alkohol-, Drogen- oder Medikamentenabhängigen eine
 unterliegende dependente Persönlichkeitsstörung vorhanden. Verwechseln Sie
 bitte nicht Sucht (krankheit) mit dependenter Störung. Die Sucht ist oft, nicht
@@ -734,7 +732,7 @@ Davor haben sie auch keine Angst. Es ist vielmehr das Wissen um die aufkommenden
 Das heißt, die Angst vor der Angst.
 
 Ähnlich
-Menschen der [Angststörung](https://blz.borderliner.ch/angststoerung/angststoerungen.htm) , ist das oft daraus resultierende Handeln, eine
+Menschen der [Angststörung](https://borderliner.ch/angststoerung/angststoerungen.htm) , ist das oft daraus resultierende Handeln, eine
 Vermeidungsstrategie vor der Angst- ergo nicht verlassen zu werden.
 
 Sie
@@ -749,7 +747,7 @@ bzw. mit Liebe" ergibt sich ein richtiger Kontext.
 
 Zu
 oft suchen sie sich gerade zerstörerische Beziehungen und finden sich dann in
-einer [Beziehung mit einer Borderlinepersönlichkeit](https://blz.borderliner.ch/beziehung/beziehung.htm) , einer narzisstisch gestörten
+einer [Beziehung mit einer Borderlinepersönlichkeit](https://borderliner.ch/beziehung/beziehung.htm) , einer narzisstisch gestörten
 Persönlichkeit oder einer suchtmittelabhängigen Persönlichkeit wieder. Das
 liegt zum einen daran, dass die dependente Störung als Komplementär zur narzisstischen
 und zur Borderline-Störung steht und zum anderen benötigen Menschen der
@@ -775,10 +773,10 @@ dependenten Persönlichkeit. Der dortige untere Link führt Sie wieder an diesen
 Punkt zurück.
 
 [zum
-psychodynamischen Modell der dependenten Persönlichkeit](https://blz.borderliner.ch/ich/psychodynamisches_modell-dependent.htm)
+psychodynamischen Modell der dependenten Persönlichkeit](https://borderliner.ch/ich/psychodynamisches_modell-dependent.htm)
 
 Im
-Gegensatz zur [narzisstischen Persönlichkeit](https://blz.borderliner.ch/narz/narz1.html) tendiert die dependente Persönlichkeit
+Gegensatz zur [narzisstischen Persönlichkeit](https://borderliner.ch/narz/narz1.html) tendiert die dependente Persönlichkeit
 dazu, ihr Selbstwertgefühl sich selbst,- nicht anderen gegenüber, zu
 verneinen, was logischerweise Minderwertigkeitsgefühle hervorruft. Der Grund
 zur Verneinung steht proportional zur Stärke der Abhängigkeit.
@@ -792,7 +790,7 @@ keins hat und die dependente Persönlichkeit nur einen Mangel daran hat.
 Durch
 ihre Angst vor Ablehnung, die Trennungsängste aktiviert und durch ihre Persönlichkeitsstruktur,
 sind sie sehr empfänglich für die emotionale Erpressung. Auch in dieser
-Hinsicht eignen sie sich besonders gut für die [narzisstische Persönlichkeit](https://blz.borderliner.ch/narz/narz1.html) und
+Hinsicht eignen sie sich besonders gut für die [narzisstische Persönlichkeit](https://borderliner.ch/narz/narz1.html) und
 das Spezialgebiet der Borderlinepersönlichkeit.
 
 Nicht
@@ -832,7 +830,7 @@ Bestrafung auffassen.
 Aber
 egal, ob sie schuldig sind oder nicht, die dependente Persönlichkeit fühlt
 sich immer schuldig. Ihnen kann man sagen, beweisen, dass sie es nicht sind.
-Egal, sie finden tausend Erklärungen für ihre Schuld. Durch ihre hohe [Emphatie](https://blz.borderliner.ch/definition/definitionen.htm#Emphatie) -Fähigkeit verstehen sie eher den anderen, als sich selbst, bzw. haben
+Egal, sie finden tausend Erklärungen für ihre Schuld. Durch ihre hohe [Emphatie](https://borderliner.ch/definition/definitionen.htm#Emphatie) -Fähigkeit verstehen sie eher den anderen, als sich selbst, bzw. haben
 eher für den Partner Verständnis, als für sich selbst.
 
 Für
@@ -868,7 +866,7 @@ aus falscher Rücksicht, mit sich selbst ab.
 Viele
 Dinge können bei ihnen das Gefühl der Ablehnung oder allein gelassen werden,
 hervorrufen. Da reicht es schon aus, wenn der Partner einfach nur einmal allein
-sein will. Allerdings ist das weniger stark und anders ausgeprägt, als bei der [Borderline](https://blz.borderliner.ch/bord/bord1/bord1.html) -, [narzisstischen](https://blz.borderliner.ch/narz/narz1.html) oder [histrionischen](https://blz.borderliner.ch/histrio/narz1/narz_f60_4.html) Persönlichkeit. Bei letzteren
+sein will. Allerdings ist das weniger stark und anders ausgeprägt, als bei der [Borderline](https://borderliner.ch/bord/bord1/bord1.html) -, [narzisstischen](https://borderliner.ch/narz/narz1.html) oder [histrionischen](https://borderliner.ch/histrio/narz1/narz_f60_4.html) Persönlichkeit. Bei letzteren
 Beiden bezieht sich das Gefühl der Ablehnung weniger auf das "Alleinlassen",
 als vielmehr auf ihr Ego und Selbstbild. Dependente Persönlichkeiten besitzen eine hohe Sensibilität, die bei ihnen leider
 nicht in die bewusste Realitätsprüfung einfließen. Diese, wenn wir so wollen,
@@ -887,7 +885,7 @@ schnell wahr, blenden sie aber unter der Überschrift "das wird schon, wenn
 
 Aus
 dem Paket, hohe Sensibilität, Trennungsangst
-(und diese wird bei gewissen Partnern, wie z.B. Borderlinern oder [Narzissten,](https://blz.borderliner.ch/narz/narz1.html) ständig
+(und diese wird bei gewissen Partnern, wie z.B. Borderlinern oder [Narzissten,](https://borderliner.ch/narz/narz1.html) ständig
 aktiviert) und der daraus resultierenden Angst vor Ablehnung (hier die Angst
 "der/ die Andere könnte besser sein") heraus veranlassen, sie häufig
 innerlich an die Treue des Partners zu zweifeln.
@@ -907,7 +905,7 @@ Motto "ich weiß zwar, dass....., aber ich will gar nicht wissen, was......"
 akzeptiert.
 
 Anders
-als bei der narzisstischen - oder der [Borderlinepersönlichkeit](https://blz.borderliner.ch/bord/bord1/bord1.html) , geht es der
+als bei der narzisstischen - oder der [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) , geht es der
 dependenten Persönlichkeit nicht um Macht über den Anderen und Kontrolle der
 Beziehung.
 
@@ -937,7 +935,7 @@ versucht wird, ins Unbewusste abzudrängen, was schließlich nie ganz gelingen
 kann, versucht die dependente Persönlichkeit oft den Weg der Introjektion.
 
 Die
-Introjektion (ein psychischer [Abwehrmechanismus](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) , ist die Einverleibung äußerer Werte und Standardbegriffe in die Ich-Struktur
+Introjektion (ein psychischer [Abwehrmechanismus](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) , ist die Einverleibung äußerer Werte und Standardbegriffe in die Ich-Struktur
 so das die Person sie nicht mehr als Bedrohung von außen erleben muss) ist normalerweise kein bewusster Vorgang. Das Fatale hier ist, dass durch das
 Nichtgelingen der Verdrängung, das Objekt bewusst introjeziert wird, mit der Maßgabe,
 es im ICH wieder aufzurichten
@@ -1051,14 +1049,14 @@ Verhalten gegen den Partner. Ihr ICH und ÜBER- ICH (Gewissen) lässt das nicht 
 widerstrebt ihnen. Eher sehen sie hier ein Motiv, es noch besser machen zu müssen,
 noch mehr zu lieben oder fressen die Frustrationen lieber in sich hinein und
 verschieben dann die Aggressionen, z.B. auf Alkohol- welcher dann ÜBER- ICH und
-ICH außer Kraft setzt und Aggressionen zulässt, andere [Drogen](https://blz.borderliner.ch/definition/definitionen_1.htm) , Medikamente
-oder auf vielleicht bestehende [Essstörungen](https://blz.borderliner.ch/ess/esst1.html) . Aber auch psychosomatische
+ICH außer Kraft setzt und Aggressionen zulässt, andere [Drogen](https://borderliner.ch/definition/definitionen_1.htm) , Medikamente
+oder auf vielleicht bestehende [Essstörungen](https://borderliner.ch/ess/esst1.html) . Aber auch psychosomatische
 Beschwerden sind häufig. Dauern die Frustrationen über einen längeren
-Zeitraum an, sind [Depressionen](https://blz.borderliner.ch/depression/depri.1.html) gar nicht so selten.
+Zeitraum an, sind [Depressionen](https://borderliner.ch/depression/depri.1.html) gar nicht so selten.
 
 Allgemein
 sind dependente Persönlichkeiten eher [introvertiert, als
-extravertiert](https://blz.borderliner.ch/warum_er_sie/warum_partner.htm) .
+extravertiert](https://borderliner.ch/warum_er_sie/warum_partner.htm) .
 
 Sie
 sind äußerst liebevoll, hingebungsvoll und emphatisch. Partner dependenter
@@ -1085,7 +1083,7 @@ Aber
 wieder zurück.
 
 Die
-dependente Persönlichkeit ist romantisch und glaubt an die alles bewältigende [Macht der Liebe](https://blz.borderliner.ch/definition/liebe1.htm) . Womit sie gar nicht so unrecht hat, wäre da nicht ihr falscher
+dependente Persönlichkeit ist romantisch und glaubt an die alles bewältigende [Macht der Liebe](https://borderliner.ch/definition/liebe1.htm) . Womit sie gar nicht so unrecht hat, wäre da nicht ihr falscher
 Grundgedanke (Quantität an Liebe erzeugt Liebe). Aus der Angst heraus, just in
 diesem Moment abgelehnt zu werden, tun Sie sich in oder nach einem Streit trotz
 Ihrer Dependenz sehr schwer, sich zu entschuldigen. Sie warten auf ein Zeichen
@@ -1094,7 +1092,7 @@ des Partners.
 Ablehnung,
 Verlustängste, das Gefühl, nicht gebraucht zu werden, Schuldgefühle, der
 Kampf, sich gegen Ihr Gewissen entscheiden zu müssen, um eine destruktive
-Beziehung verlassen zu können, der Verlust des Partners lässt sie oft zu [Alkohol oder anderen Drogen](https://blz.borderliner.ch/definition/definitionen_1.htm) greifen, um sich zu betäuben, bzw. die daraus
+Beziehung verlassen zu können, der Verlust des Partners lässt sie oft zu [Alkohol oder anderen Drogen](https://borderliner.ch/definition/definitionen_1.htm) greifen, um sich zu betäuben, bzw. die daraus
 entstehenden seelischen Schmerzen nicht mehr zu spüren. Hier tritt dann oft die
 besagte Abhängigkeitsverschiebung, die viele Formen annehmen kann, ein.
 
@@ -1107,7 +1105,7 @@ Die
 Abhängigkeitsverschiebung, sofern sie eintritt, gestaltet sich bei Männern und
 Frauen unterschiedlich. So gehen Männer eher in Richtung Arbeit, Sport, Alkohol
 und Drogen. Frauen dagegen in Richtung Beziehung, Co- Abhängigkeit, [Alkohol und
-Tabletten](https://blz.borderliner.ch/definition/definitionen_1.htm) . Natürlich existieren bei beiden auch Mischformen. Eine exakte
+Tabletten](https://borderliner.ch/definition/definitionen_1.htm) . Natürlich existieren bei beiden auch Mischformen. Eine exakte
 Abgrenzung ist hier kaum möglich. Jede Form der Abhängigkeit greift bei der
 dependenten Persönlichkeit in erster Linie die psychische Abhängigkeit.
 Bleiben wir kurz bei der Verschiebung, deren Gefährlichkeit häufig viel zu
@@ -1173,7 +1171,7 @@ Suizidgedanken. Geht der Partner jetzt oder schon früher, kann die Verschiebung
 abgeschlossen werden. Der Entzug vom Partner wird dann mit noch stärkerer Sucht
 kompensiert und Endstation ist der Bahnhof.
 
-Ein [doppelter Entzug](https://blz.borderliner.ch/glueck/glueck.htm#glück-entzug) , d.h. einmal vom Partner und einmal vom Suchtmittel, ist ohne
+Ein [doppelter Entzug](https://borderliner.ch/glueck/glueck.htm#glück-entzug) , d.h. einmal vom Partner und einmal vom Suchtmittel, ist ohne
 Spezialistenhilfe fast unmöglich.
 
 Zugegeben,
@@ -1193,7 +1191,7 @@ arbeiten, ihre Cholesterinwerte sind schon viel zu hoch. Ich schreibe ihnen
 etwas zur Beruhigung und Stimmungsaufhellung auf."
 
 Unsere
-dependente Persönlichkeit geht nach Hause, mit z.B. Normoc oder Lexotanil (sind Medikamente aus der Gruppe der [Benzodiazepine](https://blz.borderliner.ch/definition/definitionen.htm#Benzos) ) und schluckt diese
+dependente Persönlichkeit geht nach Hause, mit z.B. Normoc oder Lexotanil (sind Medikamente aus der Gruppe der [Benzodiazepine](https://borderliner.ch/definition/definitionen.htm#Benzos) ) und schluckt diese
 Tabletten fleißig nach Verordnung. Der Arzt, kann er auch gar nicht, hat die
 dependente Störung nicht erkannt. Alkohol braucht die dependente Persönlichkeit
 jetzt nicht, dafür hat sie jetzt die Benzos. Sie würde nie auf die Idee
@@ -1224,7 +1222,7 @@ Und was heißt das schon. Hauptsache es wirkt.
 
 Das
 tut es wirklich, denn es hat die gleiche Wirkung, wie Morphin [(dockt
-an die gleichen Rezeptoren an und zwei Teile Tramal sind ein Teil Morphin.)](https://blz.borderliner.ch/definition/definitionen_1.htm#Schmerzmittel)
+an die gleichen Rezeptoren an und zwei Teile Tramal sind ein Teil Morphin.)](https://borderliner.ch/definition/definitionen_1.htm#Schmerzmittel)
 
 Nach
 geraumer Zeit, die Schmerzen sind eigentlich schon gar nicht mehr da, werden die Schmerzen weniger und das Tramal wird
@@ -1276,7 +1274,7 @@ Teil des Lebens oder Lebensabschnitt betrachten. Für sie war es DAS Leben und
 so fehlt ihnen im wahrsten Sinne der Sinn für das Weiterleben.
 
 Sie
-brauchen sehr lange, um zu verarbeiten. Im Gegensatz zu anderen, wie z.B. der [Borderlinepersönlichkeit](https://blz.borderliner.ch/bord/bord1/bord1.html) , bei der der neue Partner ja bereits vorhanden ist,
+brauchen sehr lange, um zu verarbeiten. Im Gegensatz zu anderen, wie z.B. der [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) , bei der der neue Partner ja bereits vorhanden ist,
 bzw. in Aussicht steht oder der narzisstischen Persönlichkeit, wenden sie sich
 erst nach geraumer Zeit einer neuen Beziehung zu. Sie geben sich alle Mühe und
 treffen doch meist auf den nächsten "gestörten" Fall.
@@ -1472,7 +1470,7 @@ nicht als Ersatzpartner wahrgenommen. Es ist vielmehr, was das Kind ausfüllt.
 Er füllte Erwartungshaltungen, wie erwiderte Liebe, das Freuen, wenn die
 Mutter nach Hause kommt, für den anderen da zu sein, ihm Hilfe geben zu können,
 dadurch Liebe zurück zu bekommen- also der Quantitätsgedanke dependenter Persönlichkeiten
-" [viel Liebe erzeugt viel Liebe](https://blz.borderliner.ch/definition/liebe1.htm) "- etc.
+" [viel Liebe erzeugt viel Liebe](https://borderliner.ch/definition/liebe1.htm) "- etc.
 
 Nicht
 zuletzt zu wissen, dass man nicht
@@ -1529,7 +1527,7 @@ Beziehungen sucht, die von vornherein außerhalb des Gitters bleiben (müssen).
 
 Anders
 ausgedrückt, sucht sie sich "Problembeziehungen", die von vornherein keine
-wirkliche [Intimität](https://blz.borderliner.ch/definition/definitionen.htm#Intimität) zulassen. Sollte jemand auftauchen, der wirkliche Intimität
+wirkliche [Intimität](https://borderliner.ch/definition/definitionen.htm#Intimität) zulassen. Sollte jemand auftauchen, der wirkliche Intimität
 zulassen will und kann, dann kann sie nicht aus der Gitterbox.
 
 Das
@@ -1624,7 +1622,7 @@ Bleiben
 wir somit beim "Was".
 
 Für
-Michels Mutter heißt das durch die Bank weg, fehlende [Emphatie](https://blz.borderliner.ch/definition/definitionen.htm#Emphatie) .
+Michels Mutter heißt das durch die Bank weg, fehlende [Emphatie](https://borderliner.ch/definition/definitionen.htm#Emphatie) .
 Die Gründe hierfür sind vollkommen unrelevant. Sie liegen in ihrer Kindheit
 begründet und haben uns nicht zu interessieren.
 
@@ -1646,7 +1644,7 @@ Fakt
 ist, ob Michel nun Angst hatte oder nicht, ob er nun losstapfte oder nicht, ob
 die Mutter zu Hause geblieben wäre oder nicht, ob er nun selbstständig war
 oder nicht, es vergessen hatte, was die Mutter sagte oder nicht, dass die Mutter
-keine [Emphatie](https://blz.borderliner.ch/definition/definitionen.htm#Emphatie) zeigte. Im Gegenteil. Ihr Verhalten war nicht nur ohne Emphatie,
+keine [Emphatie](https://borderliner.ch/definition/definitionen.htm#Emphatie) zeigte. Im Gegenteil. Ihr Verhalten war nicht nur ohne Emphatie,
 sondern auch noch ambivalent (Stolz in den Augen, aber...). Kein Kind kann mit
 Ambivalenz umgehen. Welche der beiden
 Informationen soll es nehmen? Es wird immer die nehmen, die für das Kind der
@@ -1656,7 +1654,7 @@ die Mutter. Doch es ist vollkommen egal, welche Information das Kind nimmt, es
 liegt verkehrt. Das beruht auf der Tatsache, dass der Sender nicht weiß, dass
 er zwei Informationen gesendet hat, denen er die gleiche Gewichtung gab und
 selbst keine Prioritätsentscheidung getroffen hat. Manch von Ihnen kennen das
-aus der [Borderline-Beziehung](https://blz.borderliner.ch/beziehung/beziehung.htm) , in der die Borderlinepersönlichkeit grundsätzlich
+aus der [Borderline-Beziehung](https://borderliner.ch/beziehung/beziehung.htm) , in der die Borderlinepersönlichkeit grundsätzlich
 ambivalente Informationen liefert.
 
 Egal
@@ -1765,7 +1763,7 @@ ihm bekommt er keine ambivalenten Gefühle/ Infos.
 
 Wie
 wir bereits wissen, versucht jeder Mensch, ob jung, ob alt, ob Borderliner,
-Narzisst, Dependent, Shizoid, das [ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) zu schützen und benutzt dafür unbewusste
+Narzisst, Dependent, Shizoid, das [ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) zu schützen und benutzt dafür unbewusste
 Abwehrmechanismen. Was Michel hier tut, ist nichts anderes, als den
 Abwehrmechanismus der Substitution gegenüber dem ICH anzuwenden. Er besetzt
 also das ursprüngliche Triebobjekt, die Mutter, durch ein Ersatzobjekt. Die
@@ -1774,7 +1772,7 @@ die Sublimierung, wie z.B. von Inge angewendet.
 
 Für
 viele, wenn nicht sogar für die meisten dependenten Persönlichkeiten, steht
-vor der [Sublimierung](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) als Erwachsener in der Kindheit irgendwo die Substitution.
+vor der [Sublimierung](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) als Erwachsener in der Kindheit irgendwo die Substitution.
 Beide Abwehrmechanismen können aber ohne weiteres im Erwachsenenalter
 nebeneinander existent sein. Genauso kann weiterhin nur die Substitution ohne
 Sublimierung- (in Verbindung mit anderen Abwehrmechanismen) existent sein.
@@ -1785,7 +1783,7 @@ bei Michel Zeigen seiner Angst, aus inneren oder äußeren Gründen verhindert
 wird. In diesem Fall liegen bei Michel beide Gründe vor.
 
 Der
-innere ist die Angst vor der Reaktion der Mutter, durch die [Ambivalenz](https://blz.borderliner.ch/definition/definitionen.htm#Ambivalenz) . Der äußere
+innere ist die Angst vor der Reaktion der Mutter, durch die [Ambivalenz](https://borderliner.ch/definition/definitionen.htm#Ambivalenz) . Der äußere
 Grund ist die Mutter selbst, d.h. ihre Übermacht, Ambivalenz und fehlende
 Emphatie.
 
@@ -1850,12 +1848,12 @@ liegenden, nichtaufgelösten Konflikt.
 Da
 der Spannungsausdruck sich nicht gegen die Mutter, da übermächtig und überlebensnotwendig,
 richten kann, richtet sie sich entweder in Form der Aggression gegen andere
-Kinder, Spielzeug etc. oder gegen sich selbst, z.B. [Selbstverletzungen](https://blz.borderliner.ch/ssv/ssvv.htm) (Kopf
+Kinder, Spielzeug etc. oder gegen sich selbst, z.B. [Selbstverletzungen](https://borderliner.ch/ssv/ssvv.htm) (Kopf
 irgendwo gegen hauen), Verweigerung der Nahrungsaufnahme.
 
 Auch
 hier greift der Schutzmechanismus
-des ICH als [Substitution](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) . Im ersteren Fall wird die aus dem ES stammende
+des ICH als [Substitution](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) . Im ersteren Fall wird die aus dem ES stammende
 Aggression gegen ein anderes Kind
 oder Spielzeug gerichtet und im zweiten fall wird sie auf das eigene ICH zurückgesendet
 (Reversion). Hier erkennen Sie z.B. einen Abwehrmechanismus der Borderlinepersönlichkeit
@@ -1888,7 +1886,7 @@ Borderliner oder Narzissten zu verstehen ist da schon schwieriger.
 
 Doch
 wenn wir wissen, dass die Borderlinepersönlichkeit wie ein Kind fühlt und die
-gleichen [Abwehrmechanismen](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) nutzt und wir uns an unser Kindsein erinnern, dann können
+gleichen [Abwehrmechanismen](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) nutzt und wir uns an unser Kindsein erinnern, dann können
 wir ihr gegenüber auch emphatisch sein und sie somit besser verstehen.
 
 Aber
@@ -1992,7 +1990,7 @@ schneller "erwachsen" werden und andere Überlebensstrategien
 (Abwehrmechanismen) benutzen, als seinem Alter entsprechend.
 
 Voraussetzung
-für die Entwicklung eines unabhängigen [ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich) des Kindes ist die
+für die Entwicklung eines unabhängigen [ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich) des Kindes ist die
 wechselseitige, allmähliche Trennung von Mutter und Kind. Das Kind muss
 begleitet werden von einem entstehenden Gefühl der Individuation, einer
 einzigartigen, stabilen Identität. Grundlage ist immer eine ausreichende,
@@ -2002,7 +2000,6 @@ auch einer, wenn auch anderen, psychischen Störung zu laufen.
 Würden
 wir die optimale Ablösungskurve eines Kindes darstellen, ergebe sich Folgende:
 
-|
 
 Entsprechend (schematische
 Darstellung) die von Michel:
@@ -2031,7 +2028,7 @@ Weiterhin
 können wir davon ausgehen, dass Michel große Probleme hat, schmerzhafte Gefühle,
 wie Angst, Hilflosigkeit oder Trauer offen, bzw. jemanden zu zeigen. Jeder
 Versuch einer anderen Person, diese Schutzmauer zu durchbrechen, würde Angst
-auslösen und zu [Abwehrmechanismen](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) führen.
+auslösen und zu [Abwehrmechanismen](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) führen.
 
 Würde
 Michel auf eine Borderlinepersönlichkeit treffen, die ja durch ihre nahtlose
@@ -2083,13 +2080,13 @@ Problematik der dependenten Persönlichkeit liegt hier im durchhalten.
 Sehr
 häufig geben sie, obwohl der Leidensdruck sehr groß war, schon nach kurzer
 Zeit wieder auf. Entweder, weil es ihnen wieder besser geht und sie der Meinung
-sind, [Therapie](https://blz.borderliner.ch/theraformen/theraformen.htm) oder [Selbsthilfegruppe](https://blz.borderliner.ch/selbsthilfe/selbsthilfe.htm) bringt sowieso nichts oder haben es nicht (mehr) nötig oder aber, weil es ihnen, erst
+sind, [Therapie](https://borderliner.ch/theraformen/theraformen.htm) oder [Selbsthilfegruppe](https://borderliner.ch/selbsthilfe/selbsthilfe.htm) bringt sowieso nichts oder haben es nicht (mehr) nötig oder aber, weil es ihnen, erst
 einmal, noch schlecht geht. Was in einer Therapie, zumindest mit
 Ursachenfindung, völlig normal ist.
 
 Auf
 keinem Fall dürfen bei der dependenten Persönlichkeit [abhängigkeitserzeugende
-Medikamente](https://blz.borderliner.ch/definition/definitionen.htm#Medis) und wenn, nur kurzfristig und unter ärztlicher Aufsicht, eingesetzt
+Medikamente](https://borderliner.ch/definition/definitionen.htm#Medis) und wenn, nur kurzfristig und unter ärztlicher Aufsicht, eingesetzt
 werden. Eine Abhängigkeitsverschiebung kann jederzeit eintreten. Auch müssen
 dependente Persönlichkeiten mit der Einnahme von Schmerzmittel über einen längeren
 Zeitraum äußerst vorsichtig umgehen.
@@ -2102,7 +2099,7 @@ Verschiebung oder eine Kaskadenstörung vorliegt. Er, der Spezialist, muss die
 
 Am
 Beispiel der [Anorexia / Nervosa oder
-Bulimie](https://blz.borderliner.ch/ess/esst1.html) sieht man, wie häufig eine
+Bulimie](https://borderliner.ch/ess/esst1.html) sieht man, wie häufig eine
 Kaskadenstörung vorliegen kann. Wenn hier, z.B. eine dependente Störung unter
 der Ess-Störung liegt und NUR die Essstörung behandelt wird, d.h. die
 dependente Störung nicht erkannt wird, ist der Rückfall oder eine Verschiebung vorprogrammiert. Die dependente Störung
@@ -2116,7 +2113,7 @@ der dependenten Störung auftreten.
 Ich
 möchte zum Abschluss noch einmal betonen. Eine Störung liegt erst dann vor,
 wenn das Regelsystem nicht mehr in der Lage ist, wie im Falle der Depression, Störfaktoren
-abzufangen und aus zu balancieren. Eine [Persönlichkeitsstörung](https://blz.borderliner.ch/persstoerung/persstoerung1.html) liegt erst dann
+abzufangen und aus zu balancieren. Eine [Persönlichkeitsstörung](https://borderliner.ch/persstoerung/persstoerung1.html) liegt erst dann
 vor, wenn das Regelsystem so schlecht oder unangepasst funktioniert, dass es ein
 überdauerndes Muster von innerem Erleben und Verhalten ausmacht, welches
 merklich von den Erwartungen der sozial- kulturellen Umwelt/ Umgebung abweicht
@@ -2124,17 +2121,14 @@ oder im Sinne von krank, das Regelsystem zusammenbricht oder so unangebracht
 funktioniert, dass dadurch ich selbst oder andere geschädigt werden.
 
 Warum
-Sie sich gerade Heinz den [Borderliner](https://blz.borderliner.ch/bord/bord1/bord1.html) oder Willy den [Narzissten](https://blz.borderliner.ch/narz/narz1.html) gesucht haben,
+Sie sich gerade Heinz den [Borderliner](https://borderliner.ch/bord/bord1/bord1.html) oder Willy den [Narzissten](https://borderliner.ch/narz/narz1.html) gesucht haben,
 finden Sie im Kapitel: " [Warum
-suchte ich mir sie / ihn als Partner](https://blz.borderliner.ch/warum_er_sie/warum_partner.htm) ?"
+suchte ich mir sie / ihn als Partner](https://borderliner.ch/warum_er_sie/warum_partner.htm) ?"
 
 Im
 Kapitel "Depressionen" erfahren Sie, warum Sie gerade in oder nach
 Trennungen so gefährdet sind.
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](komplimentaerstoerungen.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]

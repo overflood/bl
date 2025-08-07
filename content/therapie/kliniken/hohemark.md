@@ -10,7 +10,6 @@ slug: hohemark
 ---
 
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ Klinik Hohemark ]
 
 Klinik Hohe Mark
 
@@ -79,4 +78,3 @@ Klinik Hohe Mark     Friedländerstraße 2         
 
 Tel. 06171 - 204 - 0 Fax 06171 - 204 - 3024
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ Klinik Hohemark ]

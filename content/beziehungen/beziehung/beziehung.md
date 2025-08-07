@@ -10,17 +10,11 @@ slug: beziehung
 ---
 
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord/bord1/bord1.html) [ [nach DMSR](../bord/bord4/dmsr.html) [ [nach ICD](../bord/bord2/stoerung_f60_31_borderline.html) [ [Borderlinetest Einleitung](../bord/bord_test/einleitung_bps_test.html) [ [Borderline-Störung, der Fall M, Teil 1](../fallbeisp_m_1/fallbeispiel_m.htm) [ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ] [ [Nach oben](../bord/bord1/bord1.html) [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) [ [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ] [Borderline-Störung Beziehung II](beziehung1/beziehung1.htm)
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord/bord1/bord1.html) [ [nach DMSR](../bord/bord4/dmsr.html) [ [nach ICD](../bord/bord2/stoerung_f60_31_borderline.html) [ [Borderlinetest Einleitung](../bord/bord_test/einleitung_bps_test.html) [ [Borderline-Störung, der Fall M, Teil 1](../fallbeisp_m_1/fallbeispiel_m.htm)
 
-[ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ]
 
-[ [Nach oben](../bord/bord1/bord1.html) [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html)
 
-[ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ]
 
-[ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) [ [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
 [Borderline-Störung Beziehung II](beziehung1/beziehung1.htm)
 
@@ -83,15 +77,15 @@ Beziehung Teil I Einleiten möchte ich das
         Borderlinekurzfristiginstabileabschnittsbeziehung. Wie
         ich bereits erwähnte lehne ich den Begriff der Multikomorbidität ab,
         da, meiner Meinung nach, die Borderline-Störung eine Kaskadenstörung ist. Das heisst das mit-krank
-        (nebeneinander wie es die das Wort [Komorbidität](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) . 
+        (nebeneinander wie es die das Wort [Komorbidität](https://borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) . 
         Eine Kaskade ist ein aufgestaffeltes Muster (wie eine Treppe). Das heißt das
         die anderen "Ko"  Störungen sich auf Grundlage der Borderline-Störung entwickelt haben. Das in den Diagnosen des Borderliners
         F60.31. + F 32.x  (Depression, x = Untergruppen), oder auch [Anorexie,
-          Bulimie](https://blz.borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
+          Bulimie](https://borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
         denn es ist Teil der Kaskade. Richtig ist das es, zumindest den Krankenkassen
         gegenüber, einzeln aufgeführt wird. Allerdings hat wohl niemand je einen
         Borderliner ohne F32.x gesehen. Dennoch haben wir verschiedene Gruppen. [Das
-          Spektrum der Borderlinestörung](https://blz.borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
+          Spektrum der Borderlinestörung](https://borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
         Planetensystem vorstellen. Den harten Kern, dann die immer weiter entfernten.
         Wie ich bereits sagte nicht jeder Borderliner schneidet sich, warum auch? Es gibt andere
         Methoden um sich "fertig zu machen", sich zu bestrafen oder Druck
@@ -108,11 +102,11 @@ Beziehung Teil I Einleiten möchte ich das
           den Borderliner dessen Störung um das 30. Lebensjahr ausgebrochen ist (hier
           bestehen in der Regel vorhandene Kaskaden die  eingreifen) e)
           den Borderliner der schizotypischen Störung ( [Borderlineschizophrenie](../bord/borderlinespektrum_mit.htm#f21) F 21) d)
-          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) im
+          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) im
           späteren Alter (langandauernder Extrembelastung) eine
           Persönlichkeitsveränderung (F62), oder nicht aufgelöste posttraumatische
           Erfahrungen ( [posttraumatisches
-            Belastungssyndrom](https://blz.borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
+            Belastungssyndrom](https://borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
           starker Borderlinestrukturen erfahren haben, bzw. diese daraus erwachsen sind
           und durch die Verhärtung der Strukturen eine Borderline-Störung heute
           diagnostiziert wird und in dem Sinne für das ICD-10 auch vorhanden ist. Alle
@@ -152,7 +146,7 @@ Beziehung Teil I Einleiten möchte ich das
           Wie lange dauert Kurzfristigkeit? d)
           Warum leide ich so, warum habe ich so geliebt? e)
           Warum verliebte ich mich in einen Borderliner und er sich in mich?  (siehe
-          auch) [(Komplementärstörung)](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Fassen
+          auch) [(Komplementärstörung)](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Fassen
         wir die Fragen zusammen. Als erstes könnte man sagen das eine Borderline_Beziehung nicht möglich ist nach unserem Verständnis. Doch wir
         relativieren es ein wenig. Sie ist möglich  und zu führen im Zeichen der
         Instabilität, der Kurzfristigkeit und des Chaos. Wir wissen ja, das einzig
@@ -171,17 +165,17 @@ Beziehung Teil I Einleiten möchte ich das
         des Partner ausgeprägt ist. Ein weitere wichtiger Faktor ist wann die
         Borderline-Störung ausgebrochen ist. (ist bereits beschrieben) Das heißt wie
         stabil sein soziales Umfeld ist. Wie
-        in den [Begrifferklärungen](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://blz.borderliner.ch/definition/definitionen.htm#Agape) sondern
-        immer eine [Erosbeziehung](https://blz.borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
+        in den [Begrifferklärungen](https://borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://borderliner.ch/definition/definitionen.htm#Agape) sondern
+        immer eine [Erosbeziehung](https://borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
         enormen Leidensdruck. Warum
         liebten Sie und leiden nun so? Im folgenden verbleiben wir vorerst im
         Großen und ganzen bei den biochemischen Vorgängen, die im Falle der
         Borderline-Beziehung, in Ihnen ablaufen. Ich versuche es einfach zu erklären, vieles ist
-        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
+        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
         und wie bereits gesagt ist der Borderliner ein weißes stück Papier, eine
         perfekte Leinwand, er hat kein Imago, und erfüllt jeden Ihrer unbewussten
-        Wünsche ( [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
-        den Vamp zur Oma. Sie erinnern sich? Chamelionartig! Biochemisch, [(Biochemie)](https://blz.borderliner.ch/biochemie/biochemie.htm) wobei wir
+        Wünsche ( [Projektion](https://borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
+        den Vamp zur Oma. Sie erinnern sich? Chamelionartig! Biochemisch, [(Biochemie)](https://borderliner.ch/biochemie/biochemie.htm) wobei wir
         hier nicht zu tief eingreifen wollen, passiert in Ihrem Gehirn folgendes. Es
         werden Dopamin, Serotonin, Noradrenalin, Endorphine, sagen wir einfach
         Glückshormone, produziert. Sie alle kennen das Gefühl der
@@ -200,8 +194,8 @@ Beziehung Teil I Einleiten möchte ich das
         einer Borderline-Beziehung, bzw. wenn Sie "ihn/sie" kennen lernen, sieht
         die ganze Geschichte ein wenig anders aus. Da der Borderliner ja die Symbiose
         sucht, das heißt die absolute Verschmelzung mit dem anderen ICH damit er ICH
-        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://blz.borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
-          / neurotische Liebe)](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
+        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
+          / neurotische Liebe)](https://borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
         langsam, nicht Zug um Zug
         und nicht 100% sondern, bedingt durch sofortige Trieb- Bedürfnisbefriedigung, sofort alles und dann mit 500%. Er gibt Ihnen also vom 1.
         Tag an das perfekte Wunschbild (Ihr Imago), welches Sie unbewusst auf ihn projizieren und er es somit zurückspiegelt, wieder. Und hebelt somit
@@ -218,9 +212,9 @@ Beziehung Teil I Einleiten möchte ich das
         geliebt haben und so leiden) zu. Die Wirkung ist die gleiche wie Heroin oder
         andere Opiate, sie machen süchtig. Ihre Glückshormone sind ja nichts anderes
         wie körpereigene Suchtstoffe. Ihr Suchtgedächtnis (im [limbischen
-          System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
+          System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
         sich diesen [Zustand
-          (Glück](https://blz.borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
+          (Glück](https://borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
         "High Level" Zustand immer wieder herzustellen. Hierzu
         ein kurzer Ausflug zum Glück. Nach H. Deutsch, amerikanisch - östereichische
         Psychoanalytikern und Freud-Schülerin, entspring das Streben nach Glück immer
@@ -239,9 +233,9 @@ Beziehung Teil I Einleiten möchte ich das
         sofern ist der Borderliner (die Borderline-Störung) hier auf der besseren
         Seite, denn er erlebt, trotz seiner fast unvorstellbaren Abstürze, immer wieder
         die höchste Erfüllung. -- Wenn auch nur kurzfristig. -- [weiterführende
-        Ausführung zum Glück](https://blz.borderliner.ch/glueck/glueck.htm) Ein
+        Ausführung zum Glück](https://borderliner.ch/glueck/glueck.htm) Ein
         weiterer Aspekt, warum Ihr limbisches System versucht diesen Zustand wieder
-        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://blz.borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
+        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
         mehr. Das
         alles macht es
         für Sie in den
@@ -259,16 +253,16 @@ Beziehung Teil I Einleiten möchte ich das
         entzogen und Sie bekommen eine andere Droge proportional verpasst, die da
         heissen Stresshormone (Cortisol und Adrenalin). Schlagartig weil diese Phasen
         ja beim Borderliner schlagartig, innerhalb von Stunden einsetzen. In
-        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://blz.borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
-        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://blz.borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
+        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
+        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
         allgemein beschissen. Ihr Hirnstoffwechsel ist jetzt damit beschäftigt
         das irgendwie in die Reihe zu bringen und den Körper, da er ja auch den
         Köperstoffwechsel steuert bzw. mit eingreift, es ist ein verbundenes, rückgekoppeltes System,
         nicht kollabieren zu lassen. Ihr gesamter,  je nach Dauer des Entzuges,
         Körper und die Psyche spielen vollkommen verrückt. Nachdem Sie sich nun ein
         wenig erholt haben steht Ihr Borderliner wieder vor der Tür und bittet flehend
-        (im wahrsten Sinne des Wortes) um Verzeihung. Was passiert in mit Ihrem Hirnstoffwechsel? [](https://blz.borderliner.ch) Ihre
-        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://blz.borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
+        (im wahrsten Sinne des Wortes) um Verzeihung. Was passiert in mit Ihrem Hirnstoffwechsel? [](https://borderliner.ch) Ihre
+        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
         sich ( [neuronale Netzwerke](../gehirn/neuronale_netzwerke.htm) ) ganz genau an den damaligen Zustand und versucht natürlich im Gegenzug
         diesen wieder herzustellen. Hier sehen Sie aber bereits wie durcheinander alles
         ist. Bevor Sie überhaupt begreifen können was los ist werden Sie von einem
@@ -277,37 +271,37 @@ Beziehung Teil I Einleiten möchte ich das
         es zur nächsten Distanz und Abwertungsphase des Borderliners kommt. Nun tritt
         ein psychologisches Gesetz in Kraft, das Gesetz der Instabilität. Das heißt,
         das sich die Abstände des Auf und Ab immer mehr verkürzen und sich mehr zum Ab
-        verlagern. Der kalte Entzug bleibt immer, nur die Zeiten dessen  variieren. [](https://blz.borderliner.ch) Das
+        verlagern. Der kalte Entzug bleibt immer, nur die Zeiten dessen  variieren. [](https://borderliner.ch) Das
         kein das Mensch durchhält ist verständlich. Ihr Gehirnstoffwechsel kommt nicht
         mehr mit dem regulieren nach. Entweder Sie sind high/stoned oder down, in beiden
         Fällen begreifen Sie die Realität nicht mehr. ( [ein
-          ganz normaler Tag](https://blz.borderliner.ch/beziehung/situation1.htm) ) Dazwischen
+          ganz normaler Tag](https://borderliner.ch/beziehung/situation1.htm) ) Dazwischen
         scheint es nichts zu geben. Jede Borderline-Beziehung sieht natürlich anders aus
         und die Grafiken sollen es auch nur veranschaulichen, dennoch bleibt der rote
-        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://blz.borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://blz.borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
+        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
         Kurve dramatisch. Oft kann diese an einem Tag zig mal auf und ab gehen. Anhand
         der Kurve zeigt sich welche Achterbahn Ihr Hirnstoffwechsel, ihre Psyche, ja Ihr
         ganzer Körper mitmacht. ( [siehe
-          hierzu Biochemie / Dys-Stress](https://blz.borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
-        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://blz.borderliner.ch/biochemie/biochemie.htm) zu
+          hierzu Biochemie / Dys-Stress](https://borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
+        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://borderliner.ch/biochemie/biochemie.htm) zu
         regulieren. Dies hat zur Folge das Sie instabil und krank werden.  Krank im
         Sinne a) von Süchtig (kommt von siechen und heißt krank), denn Ihr Körper
         verlangt die Glückshormone als Droge um dem qualvollen Entzug ein Ende zu setzen. Zum
-        anderen auch krank in Sinne der [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) ,
+        anderen auch krank in Sinne der [Symptome](https://borderliner.ch/trennung/symptome.htm) ,
         da wie gesagt, der Hirnstoffwechsel Einfluss hat auf den [Körperstoffwechsel](../biochemie/biochemie.htm#Bl-Stress) und somit auf Ihr Immunsystem. Anhand der Grafiken sehen Sie das eine stabile,
         tragfähige Beziehung mit einem Borderliner wohl kaum möglich ist. Natürlich
         können Sie ein Fan der Achterbahn sein. Aber
-        zurück zur [Sucht](https://blz.borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
+        zurück zur [Sucht](https://borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
         Durch diese, sagen wir Beziehungsbedingungen, werden sie also süchtig nach den Glücksbotenstoffen die Ihnen aber nur der Borderliner in diesem Übermaß, in
         dieser Form bescheren kann. So wird er zum Dealer und sie zum Drogen-Abhängigen. Der
         Borderliner bestimmt ab sofort Zeitpunkt und Maß der Droge und er bestimmt
         Zeitpunkt und Dauer des kalten Entzugs. Das ist quälend. Natürlich merkt das
-        Ihr ["ICH"](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
+        Ihr ["ICH"](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
         ja auch den einen oder anderen hoffnungslosen Trennungsversuch. Zusätzlich
         erzeugt dieses "merken" eine innere Spannung in Ihnen. Ein Kampf der zwei Stimmen in
         Ihnen. Die eine die da sagt "geh, sonst gehst du drauf" und die
         andere die sagt "geh nicht sonst gehst du drauf".  Hier greift
-        das Beispiel ( [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
+        das Beispiel ( [Trennung](https://borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
         Punkt an dem man den Suchtkreis nicht mehr ohne prof. Hilfe verlassen
         kann. In
         den Trennungsphasen, Abwertungsphasen spielt Ihr Hirn Ihnen einen Streich. 1.)
@@ -318,7 +312,7 @@ Beziehung Teil I Einleiten möchte ich das
           Granatenangriff ausgesetzt ist. Irgendwann brechen ein paar Verteidigungslinien
           (Ihre Abwehrmechanismen) und klappern dann da so vor sich hin. Nennt man dann
           Depression. Anders gesagt Sie bewerfen den "Feind" mit Wattebällchen. 2.)
-          Werden ja nun die [Stresshormone](https://blz.borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
+          Werden ja nun die [Stresshormone](https://borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
           Das Cortisol versucht nun krampfhaft das Adrenalin herunter zu regeln. Ihr Blutzuckerspiegel
           wird drastisch erhöht um Energiereserven freizusetzen. Auch dies schützt Ihre Nerven und Psyche vor dem kollabieren. Eine
           Lähmungssituation tritt erst einmal ein. Aber nun haben Sie ein Problem, denn
@@ -327,16 +321,16 @@ Beziehung Teil I Einleiten möchte ich das
           Reserven mehr haben, nicht mehr können interessiert ihn wenig. Im Gegenteil er
           verdeutlicht Ihnen das wenn Sie nicht laufen und nicht schnell genug sind er
           "gehen muss". Ergo laufen sie. 3.)
-          Ihr [Suchtgedächtnis](https://blz.borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge. 4.)
+          Ihr [Suchtgedächtnis](https://borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge. 4.)
           Ihr Neokortex (Großhirn) kann nicht oder nur gering arbeiten. Die Logik, 1+1=2,
-          funktioniert nicht mehr, da das [limbische System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
+          funktioniert nicht mehr, da das [limbische System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
           können somit die Situation nicht "logisch" nachvollziehen.
           Gefühlsmäßig schon gar nicht, weil Hirnstoffwechsel spielt verrückt. Auf
         deutsch Sie sind vollkommen durch den Wind. Sie blenden (Verdrängung,
         stückchenweise
         zulassen und Verarbeitung und dies geschieht auch als Schutzmechanismus der
         Psyche) erst einmal alles Schlechte aus. Die Verdrängung ist ja eine höher
-        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) .
+        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://borderliner.ch/spaltung/spaltung.html) .
         Nun könnte man meinen die Borderliner seien Seismographen, denn sobald Sie
         anfangen zu verarbeiten (sie reparieren Ihre Verteidigungsanlagen) und sich bei Ihnen einiges wieder eingeregelt hat steht
         er vor der Tür. Sehr unwahrscheinlich das Sie jetzt, je nachdem wie lange das
@@ -366,7 +360,7 @@ Beziehung Teil I Einleiten möchte ich das
           2.) sind sie der Masochist und werden wenn der Borderliner geht zum Täter und
           Sadisten da er ja in der Spaltung Sie nur als böse sehen kann und Sie durch
           seine freiflottierende Angst zum "bösen" Verfolger werden. ( [paranoide
-            Strukturen aus F60.0](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm#f60) ) bei
+            Strukturen aus F60.0](https://borderliner.ch/bord/borderlinespektrum_mit.htm#f60) ) bei
           3.)
           sind sie der Sadist Ergo
         sind wir wieder bei dem Punkt an wir sagen können " Egal was Sie machen,
@@ -377,7 +371,7 @@ Beziehung Teil I Einleiten möchte ich das
           Psyche destabilisiert . Grafik auf die die
         Beziehung bezogen. Das heißt Sie werden immer instabiler und Ihre Psyche
         verliert an Halt und Stärke. Anders gesagt ihr Selbstwertgefühl wird Stück um
-        Stück mehr zerstört. [](https://blz.borderliner.ch) Ihr
+        Stück mehr zerstört. [](https://borderliner.ch) Ihr
         Körper schreit ja nach der Droge (Hirnstoffwechsel) und wenn Sie nun in den
         Trennungsphasen, Abwertungsphasen Alkohol oder andere Dinge zu sich nehmen, um
         den Schmerz zu betäuben, erzielen Sie nichts anderes als eine Suchtverschiebung. Süchtig waren Sie schon
@@ -386,13 +380,13 @@ Beziehung Teil I Einleiten möchte ich das
         Suchtkreislauf begeben und dort schwer wieder rauskommen. Da
         Sie nun die Dinge nicht verarbeiten können, Ihnen allein der Zeitfaktor
         fehlt, die Regulierung des Hirnstoffwechsels nicht mehr funktioniert, potenziert
-        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) und [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
+        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://borderliner.ch/trennung/symptome.htm) und [Trennung](https://borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
         viele von Ihnen nun zum Alkohol oder anderen Mitteln mit dem Sie natürlich dem
         Borderliner wieder Macht, Druck und Kontrollpunkte in die Hand geben. Nun
-        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
+        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
         perfekte Überlebensstrategien zu entwickeln, uns Dinge vorzuspielen die nicht
         vorhanden sind, erreicht durch [biochemische
-          Vorgänge](https://blz.borderliner.ch/biochemie/biochemie.htm) . Früher
+          Vorgänge](https://borderliner.ch/biochemie/biochemie.htm) . Früher
         oder später befinden Sie sich also in einem Abhängigkeitsverhältnis zum
         Borderliner und ich möchte es noch einmal wiederholen, dies aus 4 Gründen. 1.)
           Ihre Psyche, Ihr Selbstwertgefühl, Selbstbewusstsein ist in einem desolatem
@@ -406,7 +400,7 @@ Beziehung Teil I Einleiten möchte ich das
             süchtiger Sie werden desto abhängiger werden Sie, desto mehr wird Ihr Psyche
             destabilisiert, desto kraftloser werden Sie, desto weniger gelingt es Ihnen sich
         zu lösen. [Betrachten
-        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://blz.borderliner.ch/beziehung/situation1.htm) Eine
+        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://borderliner.ch/beziehung/situation1.htm) Eine
         Borderline-Beziehung verhält sich wie die Beziehung eines Planeten zu einem
         schwarzen Loch, der diesem zu nahe gekommen ist. Zuerst befindet sich der Planet
         in einem Planetensystem in einer stabilen Umlaufbahn. Zu dieser Zeit zieht das
@@ -426,8 +420,8 @@ Beziehung Teil I Einleiten möchte ich das
         Zentrum des schwarzen Loches so nahe, dass er nach wenigen Umkreisungen
         (Strudel) um selbiges hineinstürzt und sich in Bruchstücken, völlig zerfetzt,
         in einer andern Dimension wiederfindet. Noch ein Tipp: ( [siehe
-            auch Fragen](https://blz.borderliner.ch/beziehung/ratschl/rat.htm) ) oder
-              ( [Trennung](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
+            auch Fragen](https://borderliner.ch/beziehung/ratschl/rat.htm) ) oder
+              ( [Trennung](https://borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
             Sie Ihre Vergangenheit dem Borderliner nicht oder nur teilweise preis. Auch wenn
             er massive Forderungen danach stellt und oder droht. Er wird es in den
             Abwertungsphasen, Trennungsphasen gegen Sie verwenden, auch wenn er Ihnen heute
@@ -439,7 +433,7 @@ Beziehung Teil I Einleiten möchte ich das
         verstärkt und verfeinert, gegen K. tun und zwar nur aus dem Grund weil M. weiß
         wie sehr es K. trifft. Dafür
         können Sie später sagen [mit
-          dir war es so](https://blz.borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
+          dir war es so](https://borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
         Sie "ihn" nie oder nur teilweise in Ihre privaten Dinge, gerade
         Geldangelegenheiten und unangenehme Dinge der Vergangenheit, schauen. Auch hier wird er das Wissen darum gegen Sie
         verwenden. Beachten Sie das der Hass des Borderliners, wenn er geht, grenzenlos
@@ -447,7 +441,6 @@ Beziehung Teil I Einleiten möchte ich das
         Borderliners (der Borderline-Störung) sind anonyme Hinweise) Sie verstehen?
         Dazu unter Trennung und ["Was
           Ihnen passieren kann"](../trennung/was_ihnen_passieren_kann.htm) mehr. ©
-    "Team der Borderlinezone" 2002-2007
 
 Beziehung Teil I Einleiten möchte ich das
         "Geheimnis" um die Frage wer oder was ist ein Borderliner und ist eine
@@ -508,15 +501,15 @@ Beziehung Teil I Einleiten möchte ich das
         Borderlinekurzfristiginstabileabschnittsbeziehung. Wie
         ich bereits erwähnte lehne ich den Begriff der Multikomorbidität ab,
         da, meiner Meinung nach, die Borderline-Störung eine Kaskadenstörung ist. Das heisst das mit-krank
-        (nebeneinander wie es die das Wort [Komorbidität](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) . 
+        (nebeneinander wie es die das Wort [Komorbidität](https://borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) . 
         Eine Kaskade ist ein aufgestaffeltes Muster (wie eine Treppe). Das heißt das
         die anderen "Ko"  Störungen sich auf Grundlage der Borderline-Störung entwickelt haben. Das in den Diagnosen des Borderliners
         F60.31. + F 32.x  (Depression, x = Untergruppen), oder auch [Anorexie,
-          Bulimie](https://blz.borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
+          Bulimie](https://borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
         denn es ist Teil der Kaskade. Richtig ist das es, zumindest den Krankenkassen
         gegenüber, einzeln aufgeführt wird. Allerdings hat wohl niemand je einen
         Borderliner ohne F32.x gesehen. Dennoch haben wir verschiedene Gruppen. [Das
-          Spektrum der Borderlinestörung](https://blz.borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
+          Spektrum der Borderlinestörung](https://borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
         Planetensystem vorstellen. Den harten Kern, dann die immer weiter entfernten.
         Wie ich bereits sagte nicht jeder Borderliner schneidet sich, warum auch? Es gibt andere
         Methoden um sich "fertig zu machen", sich zu bestrafen oder Druck
@@ -533,11 +526,11 @@ Beziehung Teil I Einleiten möchte ich das
           den Borderliner dessen Störung um das 30. Lebensjahr ausgebrochen ist (hier
           bestehen in der Regel vorhandene Kaskaden die  eingreifen) e)
           den Borderliner der schizotypischen Störung ( [Borderlineschizophrenie](../bord/borderlinespektrum_mit.htm#f21) F 21) d)
-          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) im
+          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) im
           späteren Alter (langandauernder Extrembelastung) eine
           Persönlichkeitsveränderung (F62), oder nicht aufgelöste posttraumatische
           Erfahrungen ( [posttraumatisches
-            Belastungssyndrom](https://blz.borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
+            Belastungssyndrom](https://borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
           starker Borderlinestrukturen erfahren haben, bzw. diese daraus erwachsen sind
           und durch die Verhärtung der Strukturen eine Borderline-Störung heute
           diagnostiziert wird und in dem Sinne für das ICD-10 auch vorhanden ist. Alle
@@ -577,7 +570,7 @@ Beziehung Teil I Einleiten möchte ich das
           Wie lange dauert Kurzfristigkeit? d)
           Warum leide ich so, warum habe ich so geliebt? e)
           Warum verliebte ich mich in einen Borderliner und er sich in mich?  (siehe
-          auch) [(Komplementärstörung)](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Fassen
+          auch) [(Komplementärstörung)](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Fassen
         wir die Fragen zusammen. Als erstes könnte man sagen das eine Borderline_Beziehung nicht möglich ist nach unserem Verständnis. Doch wir
         relativieren es ein wenig. Sie ist möglich  und zu führen im Zeichen der
         Instabilität, der Kurzfristigkeit und des Chaos. Wir wissen ja, das einzig
@@ -596,17 +589,17 @@ Beziehung Teil I Einleiten möchte ich das
         des Partner ausgeprägt ist. Ein weitere wichtiger Faktor ist wann die
         Borderline-Störung ausgebrochen ist. (ist bereits beschrieben) Das heißt wie
         stabil sein soziales Umfeld ist. Wie
-        in den [Begrifferklärungen](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://blz.borderliner.ch/definition/definitionen.htm#Agape) sondern
-        immer eine [Erosbeziehung](https://blz.borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
+        in den [Begrifferklärungen](https://borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://borderliner.ch/definition/definitionen.htm#Agape) sondern
+        immer eine [Erosbeziehung](https://borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
         enormen Leidensdruck. Warum
         liebten Sie und leiden nun so? Im folgenden verbleiben wir vorerst im
         Großen und ganzen bei den biochemischen Vorgängen, die im Falle der
         Borderline-Beziehung, in Ihnen ablaufen. Ich versuche es einfach zu erklären, vieles ist
-        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
+        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
         und wie bereits gesagt ist der Borderliner ein weißes stück Papier, eine
         perfekte Leinwand, er hat kein Imago, und erfüllt jeden Ihrer unbewussten
-        Wünsche ( [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
-        den Vamp zur Oma. Sie erinnern sich? Chamelionartig! Biochemisch, [(Biochemie)](https://blz.borderliner.ch/biochemie/biochemie.htm) wobei wir
+        Wünsche ( [Projektion](https://borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
+        den Vamp zur Oma. Sie erinnern sich? Chamelionartig! Biochemisch, [(Biochemie)](https://borderliner.ch/biochemie/biochemie.htm) wobei wir
         hier nicht zu tief eingreifen wollen, passiert in Ihrem Gehirn folgendes. Es
         werden Dopamin, Serotonin, Noradrenalin, Endorphine, sagen wir einfach
         Glückshormone, produziert. Sie alle kennen das Gefühl der
@@ -625,8 +618,8 @@ Beziehung Teil I Einleiten möchte ich das
         einer Borderline-Beziehung, bzw. wenn Sie "ihn/sie" kennen lernen, sieht
         die ganze Geschichte ein wenig anders aus. Da der Borderliner ja die Symbiose
         sucht, das heißt die absolute Verschmelzung mit dem anderen ICH damit er ICH
-        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://blz.borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
-          / neurotische Liebe)](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
+        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
+          / neurotische Liebe)](https://borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
         langsam, nicht Zug um Zug
         und nicht 100% sondern, bedingt durch sofortige Trieb- Bedürfnisbefriedigung, sofort alles und dann mit 500%. Er gibt Ihnen also vom 1.
         Tag an das perfekte Wunschbild (Ihr Imago), welches Sie unbewusst auf ihn projizieren und er es somit zurückspiegelt, wieder. Und hebelt somit
@@ -643,9 +636,9 @@ Beziehung Teil I Einleiten möchte ich das
         geliebt haben und so leiden) zu. Die Wirkung ist die gleiche wie Heroin oder
         andere Opiate, sie machen süchtig. Ihre Glückshormone sind ja nichts anderes
         wie körpereigene Suchtstoffe. Ihr Suchtgedächtnis (im [limbischen
-          System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
+          System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
         sich diesen [Zustand
-          (Glück](https://blz.borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
+          (Glück](https://borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
         "High Level" Zustand immer wieder herzustellen. Hierzu
         ein kurzer Ausflug zum Glück. Nach H. Deutsch, amerikanisch - östereichische
         Psychoanalytikern und Freud-Schülerin, entspring das Streben nach Glück immer
@@ -664,9 +657,9 @@ Beziehung Teil I Einleiten möchte ich das
         sofern ist der Borderliner (die Borderline-Störung) hier auf der besseren
         Seite, denn er erlebt, trotz seiner fast unvorstellbaren Abstürze, immer wieder
         die höchste Erfüllung. -- Wenn auch nur kurzfristig. -- [weiterführende
-        Ausführung zum Glück](https://blz.borderliner.ch/glueck/glueck.htm) Ein
+        Ausführung zum Glück](https://borderliner.ch/glueck/glueck.htm) Ein
         weiterer Aspekt, warum Ihr limbisches System versucht diesen Zustand wieder
-        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://blz.borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
+        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
         mehr. Das
         alles macht es
         für Sie in den
@@ -684,16 +677,16 @@ Beziehung Teil I Einleiten möchte ich das
         entzogen und Sie bekommen eine andere Droge proportional verpasst, die da
         heissen Stresshormone (Cortisol und Adrenalin). Schlagartig weil diese Phasen
         ja beim Borderliner schlagartig, innerhalb von Stunden einsetzen. In
-        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://blz.borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
-        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://blz.borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
+        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
+        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
         allgemein beschissen. Ihr Hirnstoffwechsel ist jetzt damit beschäftigt
         das irgendwie in die Reihe zu bringen und den Körper, da er ja auch den
         Köperstoffwechsel steuert bzw. mit eingreift, es ist ein verbundenes, rückgekoppeltes System,
         nicht kollabieren zu lassen. Ihr gesamter,  je nach Dauer des Entzuges,
         Körper und die Psyche spielen vollkommen verrückt. Nachdem Sie sich nun ein
         wenig erholt haben steht Ihr Borderliner wieder vor der Tür und bittet flehend
-        (im wahrsten Sinne des Wortes) um Verzeihung. Was passiert in mit Ihrem Hirnstoffwechsel? [](https://blz.borderliner.ch) Ihre
-        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://blz.borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
+        (im wahrsten Sinne des Wortes) um Verzeihung. Was passiert in mit Ihrem Hirnstoffwechsel? [](https://borderliner.ch) Ihre
+        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
         sich ( [neuronale Netzwerke](../gehirn/neuronale_netzwerke.htm) ) ganz genau an den damaligen Zustand und versucht natürlich im Gegenzug
         diesen wieder herzustellen. Hier sehen Sie aber bereits wie durcheinander alles
         ist. Bevor Sie überhaupt begreifen können was los ist werden Sie von einem
@@ -702,37 +695,37 @@ Beziehung Teil I Einleiten möchte ich das
         es zur nächsten Distanz und Abwertungsphase des Borderliners kommt. Nun tritt
         ein psychologisches Gesetz in Kraft, das Gesetz der Instabilität. Das heißt,
         das sich die Abstände des Auf und Ab immer mehr verkürzen und sich mehr zum Ab
-        verlagern. Der kalte Entzug bleibt immer, nur die Zeiten dessen  variieren. [](https://blz.borderliner.ch) Das
+        verlagern. Der kalte Entzug bleibt immer, nur die Zeiten dessen  variieren. [](https://borderliner.ch) Das
         kein das Mensch durchhält ist verständlich. Ihr Gehirnstoffwechsel kommt nicht
         mehr mit dem regulieren nach. Entweder Sie sind high/stoned oder down, in beiden
         Fällen begreifen Sie die Realität nicht mehr. ( [ein
-          ganz normaler Tag](https://blz.borderliner.ch/beziehung/situation1.htm) ) Dazwischen
+          ganz normaler Tag](https://borderliner.ch/beziehung/situation1.htm) ) Dazwischen
         scheint es nichts zu geben. Jede Borderline-Beziehung sieht natürlich anders aus
         und die Grafiken sollen es auch nur veranschaulichen, dennoch bleibt der rote
-        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://blz.borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://blz.borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
+        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
         Kurve dramatisch. Oft kann diese an einem Tag zig mal auf und ab gehen. Anhand
         der Kurve zeigt sich welche Achterbahn Ihr Hirnstoffwechsel, ihre Psyche, ja Ihr
         ganzer Körper mitmacht. ( [siehe
-          hierzu Biochemie / Dys-Stress](https://blz.borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
-        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://blz.borderliner.ch/biochemie/biochemie.htm) zu
+          hierzu Biochemie / Dys-Stress](https://borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
+        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://borderliner.ch/biochemie/biochemie.htm) zu
         regulieren. Dies hat zur Folge das Sie instabil und krank werden.  Krank im
         Sinne a) von Süchtig (kommt von siechen und heißt krank), denn Ihr Körper
         verlangt die Glückshormone als Droge um dem qualvollen Entzug ein Ende zu setzen. Zum
-        anderen auch krank in Sinne der [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) ,
+        anderen auch krank in Sinne der [Symptome](https://borderliner.ch/trennung/symptome.htm) ,
         da wie gesagt, der Hirnstoffwechsel Einfluss hat auf den [Körperstoffwechsel](../biochemie/biochemie.htm#Bl-Stress) und somit auf Ihr Immunsystem. Anhand der Grafiken sehen Sie das eine stabile,
         tragfähige Beziehung mit einem Borderliner wohl kaum möglich ist. Natürlich
         können Sie ein Fan der Achterbahn sein. Aber
-        zurück zur [Sucht](https://blz.borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
+        zurück zur [Sucht](https://borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
         Durch diese, sagen wir Beziehungsbedingungen, werden sie also süchtig nach den Glücksbotenstoffen die Ihnen aber nur der Borderliner in diesem Übermaß, in
         dieser Form bescheren kann. So wird er zum Dealer und sie zum Drogen-Abhängigen. Der
         Borderliner bestimmt ab sofort Zeitpunkt und Maß der Droge und er bestimmt
         Zeitpunkt und Dauer des kalten Entzugs. Das ist quälend. Natürlich merkt das
-        Ihr ["ICH"](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
+        Ihr ["ICH"](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
         ja auch den einen oder anderen hoffnungslosen Trennungsversuch. Zusätzlich
         erzeugt dieses "merken" eine innere Spannung in Ihnen. Ein Kampf der zwei Stimmen in
         Ihnen. Die eine die da sagt "geh, sonst gehst du drauf" und die
         andere die sagt "geh nicht sonst gehst du drauf".  Hier greift
-        das Beispiel ( [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
+        das Beispiel ( [Trennung](https://borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
         Punkt an dem man den Suchtkreis nicht mehr ohne prof. Hilfe verlassen
         kann. In
         den Trennungsphasen, Abwertungsphasen spielt Ihr Hirn Ihnen einen Streich. 1.)
@@ -743,7 +736,7 @@ Beziehung Teil I Einleiten möchte ich das
           Granatenangriff ausgesetzt ist. Irgendwann brechen ein paar Verteidigungslinien
           (Ihre Abwehrmechanismen) und klappern dann da so vor sich hin. Nennt man dann
           Depression. Anders gesagt Sie bewerfen den "Feind" mit Wattebällchen. 2.)
-          Werden ja nun die [Stresshormone](https://blz.borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
+          Werden ja nun die [Stresshormone](https://borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
           Das Cortisol versucht nun krampfhaft das Adrenalin herunter zu regeln. Ihr Blutzuckerspiegel
           wird drastisch erhöht um Energiereserven freizusetzen. Auch dies schützt Ihre Nerven und Psyche vor dem kollabieren. Eine
           Lähmungssituation tritt erst einmal ein. Aber nun haben Sie ein Problem, denn
@@ -752,16 +745,16 @@ Beziehung Teil I Einleiten möchte ich das
           Reserven mehr haben, nicht mehr können interessiert ihn wenig. Im Gegenteil er
           verdeutlicht Ihnen das wenn Sie nicht laufen und nicht schnell genug sind er
           "gehen muss". Ergo laufen sie. 3.)
-          Ihr [Suchtgedächtnis](https://blz.borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge. 4.)
+          Ihr [Suchtgedächtnis](https://borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge. 4.)
           Ihr Neokortex (Großhirn) kann nicht oder nur gering arbeiten. Die Logik, 1+1=2,
-          funktioniert nicht mehr, da das [limbische System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
+          funktioniert nicht mehr, da das [limbische System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
           können somit die Situation nicht "logisch" nachvollziehen.
           Gefühlsmäßig schon gar nicht, weil Hirnstoffwechsel spielt verrückt. Auf
         deutsch Sie sind vollkommen durch den Wind. Sie blenden (Verdrängung,
         stückchenweise
         zulassen und Verarbeitung und dies geschieht auch als Schutzmechanismus der
         Psyche) erst einmal alles Schlechte aus. Die Verdrängung ist ja eine höher
-        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) .
+        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://borderliner.ch/spaltung/spaltung.html) .
         Nun könnte man meinen die Borderliner seien Seismographen, denn sobald Sie
         anfangen zu verarbeiten (sie reparieren Ihre Verteidigungsanlagen) und sich bei Ihnen einiges wieder eingeregelt hat steht
         er vor der Tür. Sehr unwahrscheinlich das Sie jetzt, je nachdem wie lange das
@@ -791,7 +784,7 @@ Beziehung Teil I Einleiten möchte ich das
           2.) sind sie der Masochist und werden wenn der Borderliner geht zum Täter und
           Sadisten da er ja in der Spaltung Sie nur als böse sehen kann und Sie durch
           seine freiflottierende Angst zum "bösen" Verfolger werden. ( [paranoide
-            Strukturen aus F60.0](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm#f60) ) bei
+            Strukturen aus F60.0](https://borderliner.ch/bord/borderlinespektrum_mit.htm#f60) ) bei
           3.)
           sind sie der Sadist Ergo
         sind wir wieder bei dem Punkt an wir sagen können " Egal was Sie machen,
@@ -802,7 +795,7 @@ Beziehung Teil I Einleiten möchte ich das
           Psyche destabilisiert . Grafik auf die die
         Beziehung bezogen. Das heißt Sie werden immer instabiler und Ihre Psyche
         verliert an Halt und Stärke. Anders gesagt ihr Selbstwertgefühl wird Stück um
-        Stück mehr zerstört. [](https://blz.borderliner.ch) Ihr
+        Stück mehr zerstört. [](https://borderliner.ch) Ihr
         Körper schreit ja nach der Droge (Hirnstoffwechsel) und wenn Sie nun in den
         Trennungsphasen, Abwertungsphasen Alkohol oder andere Dinge zu sich nehmen, um
         den Schmerz zu betäuben, erzielen Sie nichts anderes als eine Suchtverschiebung. Süchtig waren Sie schon
@@ -811,13 +804,13 @@ Beziehung Teil I Einleiten möchte ich das
         Suchtkreislauf begeben und dort schwer wieder rauskommen. Da
         Sie nun die Dinge nicht verarbeiten können, Ihnen allein der Zeitfaktor
         fehlt, die Regulierung des Hirnstoffwechsels nicht mehr funktioniert, potenziert
-        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) und [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
+        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://borderliner.ch/trennung/symptome.htm) und [Trennung](https://borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
         viele von Ihnen nun zum Alkohol oder anderen Mitteln mit dem Sie natürlich dem
         Borderliner wieder Macht, Druck und Kontrollpunkte in die Hand geben. Nun
-        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
+        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
         perfekte Überlebensstrategien zu entwickeln, uns Dinge vorzuspielen die nicht
         vorhanden sind, erreicht durch [biochemische
-          Vorgänge](https://blz.borderliner.ch/biochemie/biochemie.htm) . Früher
+          Vorgänge](https://borderliner.ch/biochemie/biochemie.htm) . Früher
         oder später befinden Sie sich also in einem Abhängigkeitsverhältnis zum
         Borderliner und ich möchte es noch einmal wiederholen, dies aus 4 Gründen. 1.)
           Ihre Psyche, Ihr Selbstwertgefühl, Selbstbewusstsein ist in einem desolatem
@@ -831,7 +824,7 @@ Beziehung Teil I Einleiten möchte ich das
             süchtiger Sie werden desto abhängiger werden Sie, desto mehr wird Ihr Psyche
             destabilisiert, desto kraftloser werden Sie, desto weniger gelingt es Ihnen sich
         zu lösen. [Betrachten
-        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://blz.borderliner.ch/beziehung/situation1.htm) Eine
+        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://borderliner.ch/beziehung/situation1.htm) Eine
         Borderline-Beziehung verhält sich wie die Beziehung eines Planeten zu einem
         schwarzen Loch, der diesem zu nahe gekommen ist. Zuerst befindet sich der Planet
         in einem Planetensystem in einer stabilen Umlaufbahn. Zu dieser Zeit zieht das
@@ -851,8 +844,8 @@ Beziehung Teil I Einleiten möchte ich das
         Zentrum des schwarzen Loches so nahe, dass er nach wenigen Umkreisungen
         (Strudel) um selbiges hineinstürzt und sich in Bruchstücken, völlig zerfetzt,
         in einer andern Dimension wiederfindet. Noch ein Tipp: ( [siehe
-            auch Fragen](https://blz.borderliner.ch/beziehung/ratschl/rat.htm) ) oder
-              ( [Trennung](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
+            auch Fragen](https://borderliner.ch/beziehung/ratschl/rat.htm) ) oder
+              ( [Trennung](https://borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
             Sie Ihre Vergangenheit dem Borderliner nicht oder nur teilweise preis. Auch wenn
             er massive Forderungen danach stellt und oder droht. Er wird es in den
             Abwertungsphasen, Trennungsphasen gegen Sie verwenden, auch wenn er Ihnen heute
@@ -864,7 +857,7 @@ Beziehung Teil I Einleiten möchte ich das
         verstärkt und verfeinert, gegen K. tun und zwar nur aus dem Grund weil M. weiß
         wie sehr es K. trifft. Dafür
         können Sie später sagen [mit
-          dir war es so](https://blz.borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
+          dir war es so](https://borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
         Sie "ihn" nie oder nur teilweise in Ihre privaten Dinge, gerade
         Geldangelegenheiten und unangenehme Dinge der Vergangenheit, schauen. Auch hier wird er das Wissen darum gegen Sie
         verwenden. Beachten Sie das der Hass des Borderliners, wenn er geht, grenzenlos
@@ -872,7 +865,6 @@ Beziehung Teil I Einleiten möchte ich das
         Borderliners (der Borderline-Störung) sind anonyme Hinweise) Sie verstehen?
         Dazu unter Trennung und ["Was
           Ihnen passieren kann"](../trennung/was_ihnen_passieren_kann.htm) mehr. ©
-    "Team der Borderlinezone" 2002-2007
 
 Einleiten möchte ich das
         "Geheimnis" um die Frage wer oder was ist ein Borderliner und ist eine
@@ -933,15 +925,15 @@ Einleiten möchte ich das
         Borderlinekurzfristiginstabileabschnittsbeziehung. Wie
         ich bereits erwähnte lehne ich den Begriff der Multikomorbidität ab,
         da, meiner Meinung nach, die Borderline-Störung eine Kaskadenstörung ist. Das heisst das mit-krank
-        (nebeneinander wie es die das Wort [Komorbidität](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) . 
+        (nebeneinander wie es die das Wort [Komorbidität](https://borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) . 
         Eine Kaskade ist ein aufgestaffeltes Muster (wie eine Treppe). Das heißt das
         die anderen "Ko"  Störungen sich auf Grundlage der Borderline-Störung entwickelt haben. Das in den Diagnosen des Borderliners
         F60.31. + F 32.x  (Depression, x = Untergruppen), oder auch [Anorexie,
-          Bulimie](https://blz.borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
+          Bulimie](https://borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
         denn es ist Teil der Kaskade. Richtig ist das es, zumindest den Krankenkassen
         gegenüber, einzeln aufgeführt wird. Allerdings hat wohl niemand je einen
         Borderliner ohne F32.x gesehen. Dennoch haben wir verschiedene Gruppen. [Das
-          Spektrum der Borderlinestörung](https://blz.borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
+          Spektrum der Borderlinestörung](https://borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
         Planetensystem vorstellen. Den harten Kern, dann die immer weiter entfernten.
         Wie ich bereits sagte nicht jeder Borderliner schneidet sich, warum auch? Es gibt andere
         Methoden um sich "fertig zu machen", sich zu bestrafen oder Druck
@@ -958,11 +950,11 @@ Einleiten möchte ich das
           den Borderliner dessen Störung um das 30. Lebensjahr ausgebrochen ist (hier
           bestehen in der Regel vorhandene Kaskaden die  eingreifen) e)
           den Borderliner der schizotypischen Störung ( [Borderlineschizophrenie](../bord/borderlinespektrum_mit.htm#f21) F 21) d)
-          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) im
+          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) im
           späteren Alter (langandauernder Extrembelastung) eine
           Persönlichkeitsveränderung (F62), oder nicht aufgelöste posttraumatische
           Erfahrungen ( [posttraumatisches
-            Belastungssyndrom](https://blz.borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
+            Belastungssyndrom](https://borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
           starker Borderlinestrukturen erfahren haben, bzw. diese daraus erwachsen sind
           und durch die Verhärtung der Strukturen eine Borderline-Störung heute
           diagnostiziert wird und in dem Sinne für das ICD-10 auch vorhanden ist. Alle
@@ -1002,7 +994,7 @@ Einleiten möchte ich das
           Wie lange dauert Kurzfristigkeit? d)
           Warum leide ich so, warum habe ich so geliebt? e)
           Warum verliebte ich mich in einen Borderliner und er sich in mich?  (siehe
-          auch) [(Komplementärstörung)](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Fassen
+          auch) [(Komplementärstörung)](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) Fassen
         wir die Fragen zusammen. Als erstes könnte man sagen das eine Borderline_Beziehung nicht möglich ist nach unserem Verständnis. Doch wir
         relativieren es ein wenig. Sie ist möglich  und zu führen im Zeichen der
         Instabilität, der Kurzfristigkeit und des Chaos. Wir wissen ja, das einzig
@@ -1021,17 +1013,17 @@ Einleiten möchte ich das
         des Partner ausgeprägt ist. Ein weitere wichtiger Faktor ist wann die
         Borderline-Störung ausgebrochen ist. (ist bereits beschrieben) Das heißt wie
         stabil sein soziales Umfeld ist. Wie
-        in den [Begrifferklärungen](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://blz.borderliner.ch/definition/definitionen.htm#Agape) sondern
-        immer eine [Erosbeziehung](https://blz.borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
+        in den [Begrifferklärungen](https://borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://borderliner.ch/definition/definitionen.htm#Agape) sondern
+        immer eine [Erosbeziehung](https://borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
         enormen Leidensdruck. Warum
         liebten Sie und leiden nun so? Im folgenden verbleiben wir vorerst im
         Großen und ganzen bei den biochemischen Vorgängen, die im Falle der
         Borderline-Beziehung, in Ihnen ablaufen. Ich versuche es einfach zu erklären, vieles ist
-        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
+        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
         und wie bereits gesagt ist der Borderliner ein weißes stück Papier, eine
         perfekte Leinwand, er hat kein Imago, und erfüllt jeden Ihrer unbewussten
-        Wünsche ( [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
-        den Vamp zur Oma. Sie erinnern sich? Chamelionartig! Biochemisch, [(Biochemie)](https://blz.borderliner.ch/biochemie/biochemie.htm) wobei wir
+        Wünsche ( [Projektion](https://borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
+        den Vamp zur Oma. Sie erinnern sich? Chamelionartig! Biochemisch, [(Biochemie)](https://borderliner.ch/biochemie/biochemie.htm) wobei wir
         hier nicht zu tief eingreifen wollen, passiert in Ihrem Gehirn folgendes. Es
         werden Dopamin, Serotonin, Noradrenalin, Endorphine, sagen wir einfach
         Glückshormone, produziert. Sie alle kennen das Gefühl der
@@ -1050,8 +1042,8 @@ Einleiten möchte ich das
         einer Borderline-Beziehung, bzw. wenn Sie "ihn/sie" kennen lernen, sieht
         die ganze Geschichte ein wenig anders aus. Da der Borderliner ja die Symbiose
         sucht, das heißt die absolute Verschmelzung mit dem anderen ICH damit er ICH
-        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://blz.borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
-          / neurotische Liebe)](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
+        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
+          / neurotische Liebe)](https://borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
         langsam, nicht Zug um Zug
         und nicht 100% sondern, bedingt durch sofortige Trieb- Bedürfnisbefriedigung, sofort alles und dann mit 500%. Er gibt Ihnen also vom 1.
         Tag an das perfekte Wunschbild (Ihr Imago), welches Sie unbewusst auf ihn projizieren und er es somit zurückspiegelt, wieder. Und hebelt somit
@@ -1068,9 +1060,9 @@ Einleiten möchte ich das
         geliebt haben und so leiden) zu. Die Wirkung ist die gleiche wie Heroin oder
         andere Opiate, sie machen süchtig. Ihre Glückshormone sind ja nichts anderes
         wie körpereigene Suchtstoffe. Ihr Suchtgedächtnis (im [limbischen
-          System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
+          System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
         sich diesen [Zustand
-          (Glück](https://blz.borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
+          (Glück](https://borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
         "High Level" Zustand immer wieder herzustellen. Hierzu
         ein kurzer Ausflug zum Glück. Nach H. Deutsch, amerikanisch - östereichische
         Psychoanalytikern und Freud-Schülerin, entspring das Streben nach Glück immer
@@ -1089,9 +1081,9 @@ Einleiten möchte ich das
         sofern ist der Borderliner (die Borderline-Störung) hier auf der besseren
         Seite, denn er erlebt, trotz seiner fast unvorstellbaren Abstürze, immer wieder
         die höchste Erfüllung. -- Wenn auch nur kurzfristig. -- [weiterführende
-        Ausführung zum Glück](https://blz.borderliner.ch/glueck/glueck.htm) Ein
+        Ausführung zum Glück](https://borderliner.ch/glueck/glueck.htm) Ein
         weiterer Aspekt, warum Ihr limbisches System versucht diesen Zustand wieder
-        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://blz.borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
+        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
         mehr. Das
         alles macht es
         für Sie in den
@@ -1109,16 +1101,16 @@ Einleiten möchte ich das
         entzogen und Sie bekommen eine andere Droge proportional verpasst, die da
         heissen Stresshormone (Cortisol und Adrenalin). Schlagartig weil diese Phasen
         ja beim Borderliner schlagartig, innerhalb von Stunden einsetzen. In
-        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://blz.borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
-        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://blz.borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
+        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
+        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
         allgemein beschissen. Ihr Hirnstoffwechsel ist jetzt damit beschäftigt
         das irgendwie in die Reihe zu bringen und den Körper, da er ja auch den
         Köperstoffwechsel steuert bzw. mit eingreift, es ist ein verbundenes, rückgekoppeltes System,
         nicht kollabieren zu lassen. Ihr gesamter,  je nach Dauer des Entzuges,
         Körper und die Psyche spielen vollkommen verrückt. Nachdem Sie sich nun ein
         wenig erholt haben steht Ihr Borderliner wieder vor der Tür und bittet flehend
-        (im wahrsten Sinne des Wortes) um Verzeihung. Was passiert in mit Ihrem Hirnstoffwechsel? [](https://blz.borderliner.ch) Ihre
-        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://blz.borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
+        (im wahrsten Sinne des Wortes) um Verzeihung. Was passiert in mit Ihrem Hirnstoffwechsel? [](https://borderliner.ch) Ihre
+        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
         sich ( [neuronale Netzwerke](../gehirn/neuronale_netzwerke.htm) ) ganz genau an den damaligen Zustand und versucht natürlich im Gegenzug
         diesen wieder herzustellen. Hier sehen Sie aber bereits wie durcheinander alles
         ist. Bevor Sie überhaupt begreifen können was los ist werden Sie von einem
@@ -1127,37 +1119,37 @@ Einleiten möchte ich das
         es zur nächsten Distanz und Abwertungsphase des Borderliners kommt. Nun tritt
         ein psychologisches Gesetz in Kraft, das Gesetz der Instabilität. Das heißt,
         das sich die Abstände des Auf und Ab immer mehr verkürzen und sich mehr zum Ab
-        verlagern. Der kalte Entzug bleibt immer, nur die Zeiten dessen  variieren. [](https://blz.borderliner.ch) Das
+        verlagern. Der kalte Entzug bleibt immer, nur die Zeiten dessen  variieren. [](https://borderliner.ch) Das
         kein das Mensch durchhält ist verständlich. Ihr Gehirnstoffwechsel kommt nicht
         mehr mit dem regulieren nach. Entweder Sie sind high/stoned oder down, in beiden
         Fällen begreifen Sie die Realität nicht mehr. ( [ein
-          ganz normaler Tag](https://blz.borderliner.ch/beziehung/situation1.htm) ) Dazwischen
+          ganz normaler Tag](https://borderliner.ch/beziehung/situation1.htm) ) Dazwischen
         scheint es nichts zu geben. Jede Borderline-Beziehung sieht natürlich anders aus
         und die Grafiken sollen es auch nur veranschaulichen, dennoch bleibt der rote
-        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://blz.borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://blz.borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
+        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
         Kurve dramatisch. Oft kann diese an einem Tag zig mal auf und ab gehen. Anhand
         der Kurve zeigt sich welche Achterbahn Ihr Hirnstoffwechsel, ihre Psyche, ja Ihr
         ganzer Körper mitmacht. ( [siehe
-          hierzu Biochemie / Dys-Stress](https://blz.borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
-        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://blz.borderliner.ch/biochemie/biochemie.htm) zu
+          hierzu Biochemie / Dys-Stress](https://borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
+        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://borderliner.ch/biochemie/biochemie.htm) zu
         regulieren. Dies hat zur Folge das Sie instabil und krank werden.  Krank im
         Sinne a) von Süchtig (kommt von siechen und heißt krank), denn Ihr Körper
         verlangt die Glückshormone als Droge um dem qualvollen Entzug ein Ende zu setzen. Zum
-        anderen auch krank in Sinne der [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) ,
+        anderen auch krank in Sinne der [Symptome](https://borderliner.ch/trennung/symptome.htm) ,
         da wie gesagt, der Hirnstoffwechsel Einfluss hat auf den [Körperstoffwechsel](../biochemie/biochemie.htm#Bl-Stress) und somit auf Ihr Immunsystem. Anhand der Grafiken sehen Sie das eine stabile,
         tragfähige Beziehung mit einem Borderliner wohl kaum möglich ist. Natürlich
         können Sie ein Fan der Achterbahn sein. Aber
-        zurück zur [Sucht](https://blz.borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
+        zurück zur [Sucht](https://borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
         Durch diese, sagen wir Beziehungsbedingungen, werden sie also süchtig nach den Glücksbotenstoffen die Ihnen aber nur der Borderliner in diesem Übermaß, in
         dieser Form bescheren kann. So wird er zum Dealer und sie zum Drogen-Abhängigen. Der
         Borderliner bestimmt ab sofort Zeitpunkt und Maß der Droge und er bestimmt
         Zeitpunkt und Dauer des kalten Entzugs. Das ist quälend. Natürlich merkt das
-        Ihr ["ICH"](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
+        Ihr ["ICH"](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
         ja auch den einen oder anderen hoffnungslosen Trennungsversuch. Zusätzlich
         erzeugt dieses "merken" eine innere Spannung in Ihnen. Ein Kampf der zwei Stimmen in
         Ihnen. Die eine die da sagt "geh, sonst gehst du drauf" und die
         andere die sagt "geh nicht sonst gehst du drauf".  Hier greift
-        das Beispiel ( [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
+        das Beispiel ( [Trennung](https://borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
         Punkt an dem man den Suchtkreis nicht mehr ohne prof. Hilfe verlassen
         kann. In
         den Trennungsphasen, Abwertungsphasen spielt Ihr Hirn Ihnen einen Streich. 1.)
@@ -1168,7 +1160,7 @@ Einleiten möchte ich das
           Granatenangriff ausgesetzt ist. Irgendwann brechen ein paar Verteidigungslinien
           (Ihre Abwehrmechanismen) und klappern dann da so vor sich hin. Nennt man dann
           Depression. Anders gesagt Sie bewerfen den "Feind" mit Wattebällchen. 2.)
-          Werden ja nun die [Stresshormone](https://blz.borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
+          Werden ja nun die [Stresshormone](https://borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
           Das Cortisol versucht nun krampfhaft das Adrenalin herunter zu regeln. Ihr Blutzuckerspiegel
           wird drastisch erhöht um Energiereserven freizusetzen. Auch dies schützt Ihre Nerven und Psyche vor dem kollabieren. Eine
           Lähmungssituation tritt erst einmal ein. Aber nun haben Sie ein Problem, denn
@@ -1177,16 +1169,16 @@ Einleiten möchte ich das
           Reserven mehr haben, nicht mehr können interessiert ihn wenig. Im Gegenteil er
           verdeutlicht Ihnen das wenn Sie nicht laufen und nicht schnell genug sind er
           "gehen muss". Ergo laufen sie. 3.)
-          Ihr [Suchtgedächtnis](https://blz.borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge. 4.)
+          Ihr [Suchtgedächtnis](https://borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge. 4.)
           Ihr Neokortex (Großhirn) kann nicht oder nur gering arbeiten. Die Logik, 1+1=2,
-          funktioniert nicht mehr, da das [limbische System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
+          funktioniert nicht mehr, da das [limbische System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
           können somit die Situation nicht "logisch" nachvollziehen.
           Gefühlsmäßig schon gar nicht, weil Hirnstoffwechsel spielt verrückt. Auf
         deutsch Sie sind vollkommen durch den Wind. Sie blenden (Verdrängung,
         stückchenweise
         zulassen und Verarbeitung und dies geschieht auch als Schutzmechanismus der
         Psyche) erst einmal alles Schlechte aus. Die Verdrängung ist ja eine höher
-        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) .
+        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://borderliner.ch/spaltung/spaltung.html) .
         Nun könnte man meinen die Borderliner seien Seismographen, denn sobald Sie
         anfangen zu verarbeiten (sie reparieren Ihre Verteidigungsanlagen) und sich bei Ihnen einiges wieder eingeregelt hat steht
         er vor der Tür. Sehr unwahrscheinlich das Sie jetzt, je nachdem wie lange das
@@ -1216,7 +1208,7 @@ Einleiten möchte ich das
           2.) sind sie der Masochist und werden wenn der Borderliner geht zum Täter und
           Sadisten da er ja in der Spaltung Sie nur als böse sehen kann und Sie durch
           seine freiflottierende Angst zum "bösen" Verfolger werden. ( [paranoide
-            Strukturen aus F60.0](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm#f60) ) bei
+            Strukturen aus F60.0](https://borderliner.ch/bord/borderlinespektrum_mit.htm#f60) ) bei
           3.)
           sind sie der Sadist Ergo
         sind wir wieder bei dem Punkt an wir sagen können " Egal was Sie machen,
@@ -1227,7 +1219,7 @@ Einleiten möchte ich das
           Psyche destabilisiert . Grafik auf die die
         Beziehung bezogen. Das heißt Sie werden immer instabiler und Ihre Psyche
         verliert an Halt und Stärke. Anders gesagt ihr Selbstwertgefühl wird Stück um
-        Stück mehr zerstört. [](https://blz.borderliner.ch) Ihr
+        Stück mehr zerstört. [](https://borderliner.ch) Ihr
         Körper schreit ja nach der Droge (Hirnstoffwechsel) und wenn Sie nun in den
         Trennungsphasen, Abwertungsphasen Alkohol oder andere Dinge zu sich nehmen, um
         den Schmerz zu betäuben, erzielen Sie nichts anderes als eine Suchtverschiebung. Süchtig waren Sie schon
@@ -1236,13 +1228,13 @@ Einleiten möchte ich das
         Suchtkreislauf begeben und dort schwer wieder rauskommen. Da
         Sie nun die Dinge nicht verarbeiten können, Ihnen allein der Zeitfaktor
         fehlt, die Regulierung des Hirnstoffwechsels nicht mehr funktioniert, potenziert
-        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) und [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
+        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://borderliner.ch/trennung/symptome.htm) und [Trennung](https://borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
         viele von Ihnen nun zum Alkohol oder anderen Mitteln mit dem Sie natürlich dem
         Borderliner wieder Macht, Druck und Kontrollpunkte in die Hand geben. Nun
-        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
+        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
         perfekte Überlebensstrategien zu entwickeln, uns Dinge vorzuspielen die nicht
         vorhanden sind, erreicht durch [biochemische
-          Vorgänge](https://blz.borderliner.ch/biochemie/biochemie.htm) . Früher
+          Vorgänge](https://borderliner.ch/biochemie/biochemie.htm) . Früher
         oder später befinden Sie sich also in einem Abhängigkeitsverhältnis zum
         Borderliner und ich möchte es noch einmal wiederholen, dies aus 4 Gründen. 1.)
           Ihre Psyche, Ihr Selbstwertgefühl, Selbstbewusstsein ist in einem desolatem
@@ -1256,7 +1248,7 @@ Einleiten möchte ich das
             süchtiger Sie werden desto abhängiger werden Sie, desto mehr wird Ihr Psyche
             destabilisiert, desto kraftloser werden Sie, desto weniger gelingt es Ihnen sich
         zu lösen. [Betrachten
-        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://blz.borderliner.ch/beziehung/situation1.htm) Eine
+        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://borderliner.ch/beziehung/situation1.htm) Eine
         Borderline-Beziehung verhält sich wie die Beziehung eines Planeten zu einem
         schwarzen Loch, der diesem zu nahe gekommen ist. Zuerst befindet sich der Planet
         in einem Planetensystem in einer stabilen Umlaufbahn. Zu dieser Zeit zieht das
@@ -1276,8 +1268,8 @@ Einleiten möchte ich das
         Zentrum des schwarzen Loches so nahe, dass er nach wenigen Umkreisungen
         (Strudel) um selbiges hineinstürzt und sich in Bruchstücken, völlig zerfetzt,
         in einer andern Dimension wiederfindet. Noch ein Tipp: ( [siehe
-            auch Fragen](https://blz.borderliner.ch/beziehung/ratschl/rat.htm) ) oder
-              ( [Trennung](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
+            auch Fragen](https://borderliner.ch/beziehung/ratschl/rat.htm) ) oder
+              ( [Trennung](https://borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
             Sie Ihre Vergangenheit dem Borderliner nicht oder nur teilweise preis. Auch wenn
             er massive Forderungen danach stellt und oder droht. Er wird es in den
             Abwertungsphasen, Trennungsphasen gegen Sie verwenden, auch wenn er Ihnen heute
@@ -1289,7 +1281,7 @@ Einleiten möchte ich das
         verstärkt und verfeinert, gegen K. tun und zwar nur aus dem Grund weil M. weiß
         wie sehr es K. trifft. Dafür
         können Sie später sagen [mit
-          dir war es so](https://blz.borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
+          dir war es so](https://borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
         Sie "ihn" nie oder nur teilweise in Ihre privaten Dinge, gerade
         Geldangelegenheiten und unangenehme Dinge der Vergangenheit, schauen. Auch hier wird er das Wissen darum gegen Sie
         verwenden. Beachten Sie das der Hass des Borderliners, wenn er geht, grenzenlos
@@ -1297,7 +1289,6 @@ Einleiten möchte ich das
         Borderliners (der Borderline-Störung) sind anonyme Hinweise) Sie verstehen?
         Dazu unter Trennung und ["Was
           Ihnen passieren kann"](../trennung/was_ihnen_passieren_kann.htm) mehr. ©
-    "Team der Borderlinezone" 2002-2007
 
 Einleiten möchte ich das
         "Geheimnis" um die Frage wer oder was ist ein Borderliner und ist eine
@@ -1380,15 +1371,15 @@ Als
 Wie
         ich bereits erwähnte lehne ich den Begriff der Multikomorbidität ab,
         da, meiner Meinung nach, die Borderline-Störung eine Kaskadenstörung ist. Das heisst das mit-krank
-        (nebeneinander wie es die das Wort [Komorbidität](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) . 
+        (nebeneinander wie es die das Wort [Komorbidität](https://borderliner.ch/bord/borderlinespektrum_mit.htm) vorsieht) liegt bedingt in der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) . 
         Eine Kaskade ist ein aufgestaffeltes Muster (wie eine Treppe). Das heißt das
         die anderen "Ko"  Störungen sich auf Grundlage der Borderline-Störung entwickelt haben. Das in den Diagnosen des Borderliners
         F60.31. + F 32.x  (Depression, x = Untergruppen), oder auch [Anorexie,
-          Bulimie](https://blz.borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
+          Bulimie](https://borderliner.ch/ess/esst1.html) , etc. steht ist völlig normal,
         denn es ist Teil der Kaskade. Richtig ist das es, zumindest den Krankenkassen
         gegenüber, einzeln aufgeführt wird. Allerdings hat wohl niemand je einen
         Borderliner ohne F32.x gesehen. Dennoch haben wir verschiedene Gruppen. [Das
-          Spektrum der Borderlinestörung](https://blz.borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
+          Spektrum der Borderlinestörung](https://borderliner.ch/bord/bord1/bord1.html#Spektrum) ist unendlich weit und wir können es uns vielleicht wie unser
         Planetensystem vorstellen. Den harten Kern, dann die immer weiter entfernten.
         Wie ich bereits sagte nicht jeder Borderliner schneidet sich, warum auch? Es gibt andere
         Methoden um sich "fertig zu machen", sich zu bestrafen oder Druck
@@ -1417,11 +1408,11 @@ e)
           den Borderliner der schizotypischen Störung ( [Borderlineschizophrenie](../bord/borderlinespektrum_mit.htm#f21) F 21)
 
 d)
-          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://blz.borderliner.ch/missbrauch/missbrauch.htm) im
+          und den Borderliner der in dem Sinne gar keiner ist, sondern durch [Missbrauch](https://borderliner.ch/missbrauch/missbrauch.htm) im
           späteren Alter (langandauernder Extrembelastung) eine
           Persönlichkeitsveränderung (F62), oder nicht aufgelöste posttraumatische
           Erfahrungen ( [posttraumatisches
-            Belastungssyndrom](https://blz.borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
+            Belastungssyndrom](https://borderliner.ch/trauma/trauma.htm) )  (F43.1), eine Richtung
           starker Borderlinestrukturen erfahren haben, bzw. diese daraus erwachsen sind
           und durch die Verhärtung der Strukturen eine Borderline-Störung heute
           diagnostiziert wird und in dem Sinne für das ICD-10 auch vorhanden ist.
@@ -1491,7 +1482,7 @@ d)
 
 e)
           Warum verliebte ich mich in einen Borderliner und er sich in mich?  (siehe
-          auch) [(Komplementärstörung)](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm)
+          auch) [(Komplementärstörung)](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm)
 
 Fassen
         wir die Fragen zusammen. Als erstes könnte man sagen das eine Borderline_Beziehung nicht möglich ist nach unserem Verständnis. Doch wir
@@ -1520,8 +1511,8 @@ Als nächstes ist
         stabil sein soziales Umfeld ist.
 
 Wie
-        in den [Begrifferklärungen](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://blz.borderliner.ch/definition/definitionen.htm#Agape) sondern
-        immer eine [Erosbeziehung](https://blz.borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
+        in den [Begrifferklärungen](https://borderliner.ch/definition/definitionen.htm#Liebe) (Liebe) kurz angerissen ist eine Borderline-Beziehung nie eine [Agape-](https://borderliner.ch/definition/definitionen.htm#Agape) sondern
+        immer eine [Erosbeziehung](https://borderliner.ch/definition/definitionen.htm#Agape) . Sie beinhaltet immer starke Leidenschaft und einen
         enormen Leidensdruck.
 
 Warum
@@ -1530,13 +1521,13 @@ Warum
         Borderline-Beziehung, in Ihnen ablaufen.
 
 Ich versuche es einfach zu erklären, vieles ist
-        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
+        bereits erklärt worden. Jeder Mensch trägt in sich ein [Imago](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#überich-norm) (Urbild, inneres Bild)
         und wie bereits gesagt ist der Borderliner ein weißes stück Papier, eine
         perfekte Leinwand, er hat kein Imago, und erfüllt jeden Ihrer unbewussten
-        Wünsche ( [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
+        Wünsche ( [Projektion](https://borderliner.ch/spaltung/spaltung.html) ). Er kann ja, blitzschnell, alles sein von der Krankenschwester über
         den Vamp zur Oma. Sie erinnern sich? Chamelionartig!
 
-Biochemisch, [(Biochemie)](https://blz.borderliner.ch/biochemie/biochemie.htm) wobei wir
+Biochemisch, [(Biochemie)](https://borderliner.ch/biochemie/biochemie.htm) wobei wir
         hier nicht zu tief eingreifen wollen, passiert in Ihrem Gehirn folgendes. Es
         werden Dopamin, Serotonin, Noradrenalin, Endorphine, sagen wir einfach
         Glückshormone, produziert. Sie alle kennen das Gefühl der
@@ -1559,8 +1550,8 @@ In
         einer Borderline-Beziehung, bzw. wenn Sie "ihn/sie" kennen lernen, sieht
         die ganze Geschichte ein wenig anders aus. Da der Borderliner ja die Symbiose
         sucht, das heißt die absolute Verschmelzung mit dem anderen ICH damit er ICH
-        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://blz.borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
-          / neurotische Liebe)](https://blz.borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
+        sein kann (er besizt ja kein ICH, sondern nur [ICH-Fragmente](https://borderliner.ch/ich/psychodynamisches_modell-borderline.htm) ), leben kann, idealisiert [(Pseudo
+          / neurotische Liebe)](https://borderliner.ch/definition/definitionen.htm#Liebe) er Sie. Das heißt aber auch er gibt nicht
         langsam, nicht Zug um Zug
         und nicht 100% sondern, bedingt durch sofortige Trieb- Bedürfnisbefriedigung, sofort alles und dann mit 500%. Er gibt Ihnen also vom 1.
         Tag an das perfekte Wunschbild (Ihr Imago), welches Sie unbewusst auf ihn projizieren und er es somit zurückspiegelt, wieder. Und hebelt somit
@@ -1579,9 +1570,9 @@ Ihr
         geliebt haben und so leiden) zu. Die Wirkung ist die gleiche wie Heroin oder
         andere Opiate, sie machen süchtig. Ihre Glückshormone sind ja nichts anderes
         wie körpereigene Suchtstoffe. Ihr Suchtgedächtnis (im [limbischen
-          System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
+          System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) ) merkt
         sich diesen [Zustand
-          (Glück](https://blz.borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
+          (Glück](https://borderliner.ch/glueck/glueck.htm#sucht) ) blitzschnell und versucht natürlich später diesen
         "High Level" Zustand immer wieder herzustellen.
 
 Hierzu
@@ -1608,11 +1599,11 @@ In
         die höchste Erfüllung. -- Wenn auch nur kurzfristig. --
 
 [weiterführende
-        Ausführung zum Glück](https://blz.borderliner.ch/glueck/glueck.htm)
+        Ausführung zum Glück](https://borderliner.ch/glueck/glueck.htm)
 
 Ein
         weiterer Aspekt, warum Ihr limbisches System versucht diesen Zustand wieder
-        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://blz.borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
+        herzustellen, ist die Ausbildung neuronaler (potenzierter) [Netzwerke](https://borderliner.ch/gehirn/neuronale_netzwerke.htm) die im Laufe dieser Beziehung drastisch herausgebildet werden. Dazu später
         mehr.
 
 Das
@@ -1638,8 +1629,8 @@ Was
         ja beim Borderliner schlagartig, innerhalb von Stunden einsetzen.
 
 In
-        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://blz.borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
-        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://blz.borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
+        der Suchtmedizin sagt man dazu kalter Entzug und die [(Symptome)](https://borderliner.ch/trennung/symptome.htm) sind vergleichbar mit Alkohol oder Drogenentzug. Da ja Serotonin auch für
+        ihr allgemeines Wohlbefinden ( Steuerung [Symphatikus / Parasymphatikus](https://borderliner.ch/definition/definitionen.htm#Para) ) zuständig ist, geht es Ihnen sowieso schon mal ganz
         allgemein beschissen. Ihr Hirnstoffwechsel ist jetzt damit beschäftigt
         das irgendwie in die Reihe zu bringen und den Körper, da er ja auch den
         Köperstoffwechsel steuert bzw. mit eingreift, es ist ein verbundenes, rückgekoppeltes System,
@@ -1648,10 +1639,10 @@ In
         wenig erholt haben steht Ihr Borderliner wieder vor der Tür und bittet flehend
         (im wahrsten Sinne des Wortes) um Verzeihung. Was passiert in mit Ihrem Hirnstoffwechsel?
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Ihre
-        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://blz.borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
+        Glückshormone werden wieder hoch katapultiert und Ihr [Suchtgedächtnis](https://borderliner.ch/gehirn/gehirn.jpg#sucht) erinnert
         sich ( [neuronale Netzwerke](../gehirn/neuronale_netzwerke.htm) ) ganz genau an den damaligen Zustand und versucht natürlich im Gegenzug
         diesen wieder herzustellen. Hier sehen Sie aber bereits wie durcheinander alles
         ist. Bevor Sie überhaupt begreifen können was los ist werden Sie von einem
@@ -1664,41 +1655,41 @@ Bis
         das sich die Abstände des Auf und Ab immer mehr verkürzen und sich mehr zum Ab
         verlagern. Der kalte Entzug bleibt immer, nur die Zeiten dessen  variieren.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Das
         kein das Mensch durchhält ist verständlich. Ihr Gehirnstoffwechsel kommt nicht
         mehr mit dem regulieren nach. Entweder Sie sind high/stoned oder down, in beiden
         Fällen begreifen Sie die Realität nicht mehr. ( [ein
-          ganz normaler Tag](https://blz.borderliner.ch/beziehung/situation1.htm) ) Dazwischen
+          ganz normaler Tag](https://borderliner.ch/beziehung/situation1.htm) ) Dazwischen
         scheint es nichts zu geben. Jede Borderline-Beziehung sieht natürlich anders aus
         und die Grafiken sollen es auch nur veranschaulichen, dennoch bleibt der rote
-        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://blz.borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://blz.borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
+        Faden. Soll heißen, das sie im großen und ganzen gleich sind. Ist aber nun noch [Alkohol](https://borderliner.ch/definition/definitionen_1.htm) oder Schmerzmittel, [Amphetamine oder andere Drogen](https://borderliner.ch/definition/definitionen_1.htm) im Spiel verändert sich die
         Kurve dramatisch. Oft kann diese an einem Tag zig mal auf und ab gehen. Anhand
         der Kurve zeigt sich welche Achterbahn Ihr Hirnstoffwechsel, ihre Psyche, ja Ihr
         ganzer Körper mitmacht. ( [siehe
-          hierzu Biochemie / Dys-Stress](https://blz.borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
-        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://blz.borderliner.ch/biochemie/biochemie.htm) zu
+          hierzu Biochemie / Dys-Stress](https://borderliner.ch/biochemie/biochemie.htm#Stress) ) Ihr Körper hat gar keine Zeit mehr in einen
+        "normalen" Rhythmus zu kommen. bzw. den [Hirnstoffwechsel](https://borderliner.ch/biochemie/biochemie.htm) zu
         regulieren. Dies hat zur Folge das Sie instabil und krank werden.  Krank im
         Sinne a) von Süchtig (kommt von siechen und heißt krank), denn Ihr Körper
         verlangt die Glückshormone als Droge um dem qualvollen Entzug ein Ende zu setzen. Zum
-        anderen auch krank in Sinne der [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) ,
+        anderen auch krank in Sinne der [Symptome](https://borderliner.ch/trennung/symptome.htm) ,
         da wie gesagt, der Hirnstoffwechsel Einfluss hat auf den [Körperstoffwechsel](../biochemie/biochemie.htm#Bl-Stress) und somit auf Ihr Immunsystem. Anhand der Grafiken sehen Sie das eine stabile,
         tragfähige Beziehung mit einem Borderliner wohl kaum möglich ist. Natürlich
         können Sie ein Fan der Achterbahn sein.
 
 Aber
-        zurück zur [Sucht](https://blz.borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
+        zurück zur [Sucht](https://borderliner.ch/glueck/glueck.htm#sucht) der Sie bereits, nicht wissentlich, unterliegen, d.h. Sie sind bereits krank.
         Durch diese, sagen wir Beziehungsbedingungen, werden sie also süchtig nach den Glücksbotenstoffen die Ihnen aber nur der Borderliner in diesem Übermaß, in
         dieser Form bescheren kann. So wird er zum Dealer und sie zum Drogen-Abhängigen. Der
         Borderliner bestimmt ab sofort Zeitpunkt und Maß der Droge und er bestimmt
         Zeitpunkt und Dauer des kalten Entzugs. Das ist quälend. Natürlich merkt das
-        Ihr ["ICH"](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
+        Ihr ["ICH"](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) und versucht sich dagegen zu wehren, deshalb unternehmen Sie
         ja auch den einen oder anderen hoffnungslosen Trennungsversuch. Zusätzlich
         erzeugt dieses "merken" eine innere Spannung in Ihnen. Ein Kampf der zwei Stimmen in
         Ihnen. Die eine die da sagt "geh, sonst gehst du drauf" und die
         andere die sagt "geh nicht sonst gehst du drauf".  Hier greift
-        das Beispiel ( [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
+        das Beispiel ( [Trennung](https://borderliner.ch/trennung/trennung.htm) ) das für jeden Süchtigen gilt. Es gibt einen
         Punkt an dem man den Suchtkreis nicht mehr ohne prof. Hilfe verlassen
         kann.
 
@@ -1715,7 +1706,7 @@ In
           Depression. Anders gesagt Sie bewerfen den "Feind" mit Wattebällchen.
 
 2.)
-          Werden ja nun die [Stresshormone](https://blz.borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
+          Werden ja nun die [Stresshormone](https://borderliner.ch/biochemie/biochemie.htm#Bl-Stress) Cortisol und Adrenalin, auch Schutzbotenstoffe genannt, auch im Übermaß produziert.
           Das Cortisol versucht nun krampfhaft das Adrenalin herunter zu regeln. Ihr Blutzuckerspiegel
           wird drastisch erhöht um Energiereserven freizusetzen. Auch dies schützt Ihre Nerven und Psyche vor dem kollabieren. Eine
           Lähmungssituation tritt erst einmal ein. Aber nun haben Sie ein Problem, denn
@@ -1726,11 +1717,11 @@ In
           "gehen muss". Ergo laufen sie.
 
 3.)
-          Ihr [Suchtgedächtnis](https://blz.borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge.
+          Ihr [Suchtgedächtnis](https://borderliner.ch/glueck/glueck.htm#sucht) schaltet ein und verlangt nach der Droge.
 
 4.)
           Ihr Neokortex (Großhirn) kann nicht oder nur gering arbeiten. Die Logik, 1+1=2,
-          funktioniert nicht mehr, da das [limbische System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
+          funktioniert nicht mehr, da das [limbische System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) Sie voll im Griff hat. Sie
           können somit die Situation nicht "logisch" nachvollziehen.
           Gefühlsmäßig schon gar nicht, weil Hirnstoffwechsel spielt verrückt.
 
@@ -1739,7 +1730,7 @@ Auf
         stückchenweise
         zulassen und Verarbeitung und dies geschieht auch als Schutzmechanismus der
         Psyche) erst einmal alles Schlechte aus. Die Verdrängung ist ja eine höher
-        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) .
+        entwickelte Form der psychischen Abwehr, anders wie beim Borderliner die [Spaltung](https://borderliner.ch/spaltung/spaltung.html) .
         Nun könnte man meinen die Borderliner seien Seismographen, denn sobald Sie
         anfangen zu verarbeiten (sie reparieren Ihre Verteidigungsanlagen) und sich bei Ihnen einiges wieder eingeregelt hat steht
         er vor der Tür. Sehr unwahrscheinlich das Sie jetzt, je nachdem wie lange das
@@ -1795,7 +1786,7 @@ bei
           2.) sind sie der Masochist und werden wenn der Borderliner geht zum Täter und
           Sadisten da er ja in der Spaltung Sie nur als böse sehen kann und Sie durch
           seine freiflottierende Angst zum "bösen" Verfolger werden. ( [paranoide
-            Strukturen aus F60.0](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm#f60) )
+            Strukturen aus F60.0](https://borderliner.ch/bord/borderlinespektrum_mit.htm#f60) )
 
 bei
           3.)
@@ -1814,7 +1805,7 @@ Innerhalb
         verliert an Halt und Stärke. Anders gesagt ihr Selbstwertgefühl wird Stück um
         Stück mehr zerstört.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Ihr
         Körper schreit ja nach der Droge (Hirnstoffwechsel) und wenn Sie nun in den
@@ -1827,15 +1818,15 @@ Ihr
 Da
         Sie nun die Dinge nicht verarbeiten können, Ihnen allein der Zeitfaktor
         fehlt, die Regulierung des Hirnstoffwechsels nicht mehr funktioniert, potenziert
-        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://blz.borderliner.ch/trennung/symptome.htm) und [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
+        sich Ihr innerer Druck enorm. Er staffelt sich regelrecht auf. Die Folgen sind ( [Symptome](https://borderliner.ch/trennung/symptome.htm) und [Trennung](https://borderliner.ch/trennung/trennung.htm) ). Um dem inneren psychischen Druck standzuhalten greifen
         viele von Ihnen nun zum Alkohol oder anderen Mitteln mit dem Sie natürlich dem
         Borderliner wieder Macht, Druck und Kontrollpunkte in die Hand geben.
 
 Nun
-        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://blz.borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
+        wissen Sie, zum Teil, warum Sie glauben noch nie so geliebt zu haben und in der [Trennung](https://borderliner.ch/trennung/trennung.htm) so leiden. Um unsere Psyche zu schützen ist das Gehirn in der Lage
         perfekte Überlebensstrategien zu entwickeln, uns Dinge vorzuspielen die nicht
         vorhanden sind, erreicht durch [biochemische
-          Vorgänge](https://blz.borderliner.ch/biochemie/biochemie.htm) .
+          Vorgänge](https://borderliner.ch/biochemie/biochemie.htm) .
 
 Früher
         oder später befinden Sie sich also in einem Abhängigkeitsverhältnis zum
@@ -1870,7 +1861,7 @@ Fazit: Die Abstände des Auf und Ab werden immer kürzer. Die Dauer des Entzuges
         zu lösen.
 
 [Betrachten
-        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://blz.borderliner.ch/beziehung/situation1.htm) Eine
+        wir uns einmal eine ganz normale Borderlinesituation Situation an einem Tag](https://borderliner.ch/beziehung/situation1.htm) Eine
         Borderline-Beziehung verhält sich wie die Beziehung eines Planeten zu einem
         schwarzen Loch, der diesem zu nahe gekommen ist. Zuerst befindet sich der Planet
         in einem Planetensystem in einer stabilen Umlaufbahn. Zu dieser Zeit zieht das
@@ -1890,8 +1881,8 @@ Fazit: Die Abstände des Auf und Ab werden immer kürzer. Die Dauer des Entzuges
         Zentrum des schwarzen Loches so nahe, dass er nach wenigen Umkreisungen
         (Strudel) um selbiges hineinstürzt und sich in Bruchstücken, völlig zerfetzt,
         in einer andern Dimension wiederfindet. Noch ein Tipp: ( [siehe
-            auch Fragen](https://blz.borderliner.ch/beziehung/ratschl/rat.htm) ) oder
-              ( [Trennung](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
+            auch Fragen](https://borderliner.ch/beziehung/ratschl/rat.htm) ) oder
+              ( [Trennung](https://borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
             Sie Ihre Vergangenheit dem Borderliner nicht oder nur teilweise preis. Auch wenn
             er massive Forderungen danach stellt und oder droht. Er wird es in den
             Abwertungsphasen, Trennungsphasen gegen Sie verwenden, auch wenn er Ihnen heute
@@ -1903,7 +1894,7 @@ Fazit: Die Abstände des Auf und Ab werden immer kürzer. Die Dauer des Entzuges
         verstärkt und verfeinert, gegen K. tun und zwar nur aus dem Grund weil M. weiß
         wie sehr es K. trifft. Dafür
         können Sie später sagen [mit
-          dir war es so](https://blz.borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
+          dir war es so](https://borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
         Sie "ihn" nie oder nur teilweise in Ihre privaten Dinge, gerade
         Geldangelegenheiten und unangenehme Dinge der Vergangenheit, schauen. Auch hier wird er das Wissen darum gegen Sie
         verwenden. Beachten Sie das der Hass des Borderliners, wenn er geht, grenzenlos
@@ -1911,7 +1902,6 @@ Fazit: Die Abstände des Auf und Ab werden immer kürzer. Die Dauer des Entzuges
         Borderliners (der Borderline-Störung) sind anonyme Hinweise) Sie verstehen?
         Dazu unter Trennung und ["Was
           Ihnen passieren kann"](../trennung/was_ihnen_passieren_kann.htm) mehr. ©
-    "Team der Borderlinezone" 2002-2007
 
 Eine
         Borderline-Beziehung verhält sich wie die Beziehung eines Planeten zu einem
@@ -1933,8 +1923,8 @@ Eine
         Zentrum des schwarzen Loches so nahe, dass er nach wenigen Umkreisungen
         (Strudel) um selbiges hineinstürzt und sich in Bruchstücken, völlig zerfetzt,
         in einer andern Dimension wiederfindet. Noch ein Tipp: ( [siehe
-            auch Fragen](https://blz.borderliner.ch/beziehung/ratschl/rat.htm) ) oder
-              ( [Trennung](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
+            auch Fragen](https://borderliner.ch/beziehung/ratschl/rat.htm) ) oder
+              ( [Trennung](https://borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
             Sie Ihre Vergangenheit dem Borderliner nicht oder nur teilweise preis. Auch wenn
             er massive Forderungen danach stellt und oder droht. Er wird es in den
             Abwertungsphasen, Trennungsphasen gegen Sie verwenden, auch wenn er Ihnen heute
@@ -1946,7 +1936,7 @@ Eine
         verstärkt und verfeinert, gegen K. tun und zwar nur aus dem Grund weil M. weiß
         wie sehr es K. trifft. Dafür
         können Sie später sagen [mit
-          dir war es so](https://blz.borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
+          dir war es so](https://borderliner.ch/beziehung/beziehung2/beziehung2.htm) . Lassen
         Sie "ihn" nie oder nur teilweise in Ihre privaten Dinge, gerade
         Geldangelegenheiten und unangenehme Dinge der Vergangenheit, schauen. Auch hier wird er das Wissen darum gegen Sie
         verwenden. Beachten Sie das der Hass des Borderliners, wenn er geht, grenzenlos
@@ -1954,19 +1944,18 @@ Eine
         Borderliners (der Borderline-Störung) sind anonyme Hinweise) Sie verstehen?
         Dazu unter Trennung und ["Was
           Ihnen passieren kann"](../trennung/was_ihnen_passieren_kann.htm) mehr. ©
-    "Team der Borderlinezone" 2002-2007
 
 - Noch ein Tipp: ( [siehe
-            auch Fragen](https://blz.borderliner.ch/beziehung/ratschl/rat.htm) ) oder
-              ( [Trennung](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
+            auch Fragen](https://borderliner.ch/beziehung/ratschl/rat.htm) ) oder
+              ( [Trennung](https://borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
             Sie Ihre Vergangenheit dem Borderliner nicht oder nur teilweise preis. Auch wenn
             er massive Forderungen danach stellt und oder droht. Er wird es in den
             Abwertungsphasen, Trennungsphasen gegen Sie verwenden, auch wenn er Ihnen heute
         sagt das er das nie tun würde. Dazu ein Fallbeispiel:
 
 Noch ein Tipp: ( [siehe
-            auch Fragen](https://blz.borderliner.ch/beziehung/ratschl/rat.htm) ) oder
-              ( [Trennung](https://blz.borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
+            auch Fragen](https://borderliner.ch/beziehung/ratschl/rat.htm) ) oder
+              ( [Trennung](https://borderliner.ch/trennung/ratschlaege_trennung.htm) ) Geben
             Sie Ihre Vergangenheit dem Borderliner nicht oder nur teilweise preis. Auch wenn
             er massive Forderungen danach stellt und oder droht. Er wird es in den
             Abwertungsphasen, Trennungsphasen gegen Sie verwenden, auch wenn er Ihnen heute
@@ -1982,7 +1971,7 @@ K:
 
 Dafür
         können Sie später sagen [mit
-          dir war es so](https://blz.borderliner.ch/beziehung/beziehung2/beziehung2.htm) .
+          dir war es so](https://borderliner.ch/beziehung/beziehung2/beziehung2.htm) .
 
 Lassen
         Sie "ihn" nie oder nur teilweise in Ihre privaten Dinge, gerade
@@ -1994,18 +1983,11 @@ Lassen
           Ihnen passieren kann"](../trennung/was_ihnen_passieren_kann.htm) mehr.
 
 ©
-    "Team der Borderlinezone" 2002-2007
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord/bord1/bord1.html) [ [nach DMSR](../bord/bord4/dmsr.html) [ [nach ICD](../bord/bord2/stoerung_f60_31_borderline.html) [ [Borderlinetest Einleitung](../bord/bord_test/einleitung_bps_test.html) [ [Borderline-Störung, der Fall M, Teil 1](../fallbeisp_m_1/fallbeispiel_m.htm) [ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ] [ [Nach oben](../bord/bord1/bord1.html) [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) [ [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ] [Borderline-Störung Beziehung II](beziehung1/beziehung1.htm)
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord/bord1/bord1.html) [ [nach DMSR](../bord/bord4/dmsr.html) [ [nach ICD](../bord/bord2/stoerung_f60_31_borderline.html) [ [Borderlinetest Einleitung](../bord/bord_test/einleitung_bps_test.html) [ [Borderline-Störung, der Fall M, Teil 1](../fallbeisp_m_1/fallbeispiel_m.htm)
 
-[ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ]
 
-[ [Nach oben](../bord/bord1/bord1.html) [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html)
 
-[ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ]
 
-[ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) [ [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) [ [Trennung einer Borderline-Beziehung](../trennung/trennung.htm) ]
 
 [Borderline-Störung Beziehung II](beziehung1/beziehung1.htm)

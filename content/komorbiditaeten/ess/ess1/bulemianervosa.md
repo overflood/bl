@@ -10,7 +10,6 @@ slug: bulemianervosa
 ---
 
 
-[ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../esst1.html) ] [ [was ist ADS / ADHS Einleitung](../../ads/ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ] [ [Nach oben](../esst1.html) ] [ Bulimie ] [ [Anorexia nervosa](../ess2/anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ] Bulimie Unter dem Oberbegriff
 Ess-Störung (Essstörungen) werden zwei wichtige und
 eindeutige Syndrome beschrieben: Anorexia nervosa und Bulimia nervosa
 (Bulimie). Weniger spezifische bulimische Störungen wie übermäßiges Essen
@@ -21,7 +20,7 @@ Heisshunger (Essattacken) und eine übertriebene Beschäftigung mit der Kontroll
 charakterisiert. Dies veranlaßt die Patientin, mit extremen Maßnahmen den
 dickmachenden Effekt der zugeführten Nahrung zu mildern. Der Terminus bezieht
 sich nur auf die Form der Störung, die psychopathologisch mit der Anorexia
-nervosa vergleichbar ist. Die Alters- und Geschlechtsverteilung ähnelt der [Anorexia nervosa](https://blz.borderliner.ch/ess/ess2/anorexianervosa.html) , das Alter bei Beginn liegt geringfügig höher. Die Störung
+nervosa vergleichbar ist. Die Alters- und Geschlechtsverteilung ähnelt der [Anorexia nervosa](https://borderliner.ch/ess/ess2/anorexianervosa.html) , das Alter bei Beginn liegt geringfügig höher. Die Störung
 kann nach einer Anorexia nervosa auftreten und umgekehrt. So erscheint eine
 vormals anorektische Patientin nach einer Gewichtszunahme oder durch
 Wiederauftreten der Menstruation zunächst gebessert, dann aber stellt sich ein
@@ -49,7 +48,7 @@ Muskelschwäche) sowie zu weiterem starken Gewichtsverlust. Diagnostische Leitli
     psychopathologische Auffälligkeiten fehlen); einer eher allgemeinen Störung
     der Persönlichkeit. Die Eßstörung kann etwa mit Alkoholabhängigkeit und
     kleineren Vergehen (z.B. Ladendiebstahl) verbunden sein. [Depressive
-    Störung](https://blz.borderliner.ch/depression/depri.html#Depression) (bulemische Patientinnen erleben häufig depressive Symptome). Dazugehörige Begriffe: nicht näher bezeichnete Bulimie Hyperorexia nervosa Kriterien A. Häufige Episoden von
+    Störung](https://borderliner.ch/depression/depri.html#Depression) (bulemische Patientinnen erleben häufig depressive Symptome). Dazugehörige Begriffe: nicht näher bezeichnete Bulimie Hyperorexia nervosa Kriterien A. Häufige Episoden von
 Freßattacken (in einem Zeitraum von drei Monaten
 mindestens zweimal pro Woche) bei denen große Mengen an Nahrung in sehr kurzer
 Zeit konsumiert werden. B. Andauernde Beschäftigung mit dem Essen, eine unwiderstehliche Gier oder
@@ -58,10 +57,8 @@ oder mehreren der folgenden Verhaltensweisen entgegenzusteuern: selbstinduzierte
     von Abführmitteln, zeitweilige Hungerperioden, Gebrauch von Appetitzüglern,
     Schilddrüsenpräparaten oder Diuretika. Wenn die Bulimie bei Diabetikern
     auftritt, kann es zu einer Vernachlässigung der Insulinbehandlung kommen. D. Selbstwahrnehmung als "zu fett", mit einer sich aufdrängenden
-Furcht, zu dick zu werden. © "Team der Borderlinezone"
-2002-2007 [ [Nach oben](../esst1.html) ] [ [atypische Bulimie](atypisch_bulemia_nervosa.html) ] [ Bulimie ] [ [Anorexia nervosa](../ess2/anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ]
+2002-2007
 
-[ [Nach oben](../esst1.html) ] [ Bulimie ] [ [Anorexia nervosa](../ess2/anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ]
 
 Bulimie
 
@@ -84,7 +81,7 @@ Heisshunger (Essattacken) und eine übertriebene Beschäftigung mit der Kontroll
 charakterisiert. Dies veranlaßt die Patientin, mit extremen Maßnahmen den
 dickmachenden Effekt der zugeführten Nahrung zu mildern. Der Terminus bezieht
 sich nur auf die Form der Störung, die psychopathologisch mit der Anorexia
-nervosa vergleichbar ist. Die Alters- und Geschlechtsverteilung ähnelt der [Anorexia nervosa](https://blz.borderliner.ch/ess/ess2/anorexianervosa.html) , das Alter bei Beginn liegt geringfügig höher. Die Störung
+nervosa vergleichbar ist. Die Alters- und Geschlechtsverteilung ähnelt der [Anorexia nervosa](https://borderliner.ch/ess/ess2/anorexianervosa.html) , das Alter bei Beginn liegt geringfügig höher. Die Störung
 kann nach einer Anorexia nervosa auftreten und umgekehrt. So erscheint eine
 vormals anorektische Patientin nach einer Gewichtszunahme oder durch
 Wiederauftreten der Menstruation zunächst gebessert, dann aber stellt sich ein
@@ -130,7 +127,7 @@ Eine Bulimia nervosa muß differenziert werden von
     kleineren Vergehen (z.B. Ladendiebstahl) verbunden sein.
 
 3. [Depressive
-    Störung](https://blz.borderliner.ch/depression/depri.html#Depression) (bulemische Patientinnen erleben häufig depressive Symptome).
+    Störung](https://borderliner.ch/depression/depri.html#Depression) (bulemische Patientinnen erleben häufig depressive Symptome).
 
 Dazugehörige Begriffe:
 
@@ -165,9 +162,7 @@ oder mehreren der folgenden Verhaltensweisen entgegenzusteuern:
 D. Selbstwahrnehmung als "zu fett", mit einer sich aufdrängenden
 Furcht, zu dick zu werden.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../esst1.html) ] [ [atypische Bulimie](atypisch_bulemia_nervosa.html) ]
 
-[ Bulimie ] [ [Anorexia nervosa](../ess2/anorexianervosa.html) ] [ [med.-Leitlinien-Essstörungen](../med_leitlinien_ess.pdf) ]
+[ Bulimie ]

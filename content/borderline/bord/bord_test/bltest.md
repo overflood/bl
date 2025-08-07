@@ -11,7 +11,6 @@ slug: bltest
 ---
 
 
-[ [Nach oben](einleitung_bps_test.html) ] [ [Borderlinepersönlichkeitstest 1](test1.htm) ] [ Borderlinepersönlichkeitstest 2 ]
 
 Dieser Test ist für Sie vereinfacht. Er beinhaltet 115
 Fragen und Antworten. Vier Bereiche werden erfaßt
@@ -1098,6 +1097,4 @@ Er liefert lediglich
 Anhaltspunkte für die Wahrscheinlichkeit.
 
 ©
-  "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](einleitung_bps_test.html) ] [ [Borderlinepersönlichkeitstest 1](test1.htm) ] [ Borderlinepersönlichkeitstest 2 ]

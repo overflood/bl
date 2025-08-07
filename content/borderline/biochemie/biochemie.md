@@ -10,8 +10,11 @@ categories:
 slug: biochemie
 ---
 
+<!-- Abbildung: Synapse als Beispielbild für die Biochemie des Gehirns -->
+![Synapse im Gehirn](/legacy/synapse1.gif)
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ Die Biochemie des Gehirns ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
+
+
 
 Alle biochemischen Vorgänge unseres Gehirns
 
@@ -48,7 +51,7 @@ Stress, gemessen
 in Mikrogramm pro Deziliter Blutplasma. (linke Leiste Mikrogr., untere
 Tageszeit)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Kommt dieser Ablauf durcheinander, das heißt bei erhöhtem
 Dis-Stress, z.B. in einer Borderlinebeziehung, kommt der gesamte Stoffwechsel
@@ -211,7 +214,7 @@ Diesen Job übernimmt Vitamin B6. (Vorkommen: Reichlich in Bierhefe vorhanden)
 Methionin braucht um voll aktiv werden zu können die B-Vitamine
 Folsäure und B-12. (Auch sie sind in Bierhefe in hohen Maße enthalten)
 
-[Schlaf](https://blz.borderliner.ch/schlaf/traum.htm) Unser Schlaf besteht auch aus Eiweiß. In den sogenannten Raphekernen im Gehirn gibt es bestimmte
+[Schlaf](https://borderliner.ch/schlaf/traum.htm) Unser Schlaf besteht auch aus Eiweiß. In den sogenannten Raphekernen im Gehirn gibt es bestimmte
 Zonen, die schon am Nachmittag auf Tryptophan warten, um daraus Serotonin zu synthetisieren.
 Aus Serotonin macht die Zirbeldrüse dann Melatoninmoleküle. Melatonin wird als das Schlafhormon bezeichnet, weil es eben
 diesen herbeiführt.
@@ -285,6 +288,4 @@ Gedächtnisleistung und hemmt die Produktion von Antikörpern für Ihr
 Immunsystem. (Stress macht krank)
 
 ©
-"Team der Borderlinezone" 2002-2007
 
-[ [Stress in einer Borderline-Beziehung 1](stress-border1a1.htm) ] [ [Stress in eine Borderline-Beziheung 2](stress-border2a2.htm) ] [ [Gehirn](../gehirn/gehirn.htm) ] [ [exekutive Funktionen in der Borderline-Störung](../bord/exekutive_funktionen.htm) ]

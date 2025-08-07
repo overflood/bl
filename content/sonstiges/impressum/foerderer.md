@@ -10,10 +10,8 @@ slug: foerderer
 ---
 
 
-Förderer der Borderlinezone
 
 Herzlichsten Dank an die
-Förderer der Borderlinezone:
 
 - Bärbelfrosch
 

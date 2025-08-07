@@ -10,7 +10,6 @@ slug: seroquel
 ---
 
 
-[ [Nach oben](../depression/depri.html) ] [ [weiter Depression](../depression/depression.htm) ] [ [psychodynamisches Modell Deprssion](../depression/ich_depression.htm) ] [ Video Seroquel ] [ [depressiver Server](../depression/depressiver-server.htm) ]
 
 Film
 zur Wirkungsweise von Seroqel (atypisches Antipsychotika / aus der Gruppe der
@@ -21,4 +20,4 @@ Wählen Sie Ihre
 Verbindungsgeschwindigkeit
 
 [Video
-DSL](https://blz.borderliner.ch/definition/video_dsl.htm) [Video ISDN](https://blz.borderliner.ch/definition/video_isdn.htm) [Video Modem 56K](https://blz.borderliner.ch/definition/video_modem.htm)
+DSL](https://borderliner.ch/definition/video_dsl.htm) [Video ISDN](https://borderliner.ch/definition/video_isdn.htm) [Video Modem 56K](https://borderliner.ch/definition/video_modem.htm)

@@ -10,9 +10,7 @@ slug: was_ihnen_passieren_kann
 ---
 
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](trennung.htm) ]
 
-[ [Nach oben](trennung.htm) ] [ [Die Trauerphasen](../trauer/trauer.htm) ] [ [Symptome in der Trennung](symptome.htm) ] [ [ICH nach Borderline-Beziehung](ich_nach_trennung.htm) ] [ [Borderline-Störung, mit dir war es so](../beziehung/beziehung2/beziehung2.htm) ] [ [Borderline-Störung, Rat in der Trennung](ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](trennung_treffen.htm) ] [ Was Ihnen passieren kann ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](stalking.htm) ]
 
 #
 
@@ -24,7 +22,7 @@ slug: was_ihnen_passieren_kann
 
 Bevor wir hier einsteigen, halten Sie sich noch einmal die
 Spaltung, die Wut, den Hass (enttäuschte Liebe) und die Angst des Borderliners
-vor Augen. Halten Sie sich noch einmal die (narzisstische) Borderline-Beziehung die [Komplementstörung](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) vor Augen. Es geht also zuerst einmal um Ihre Vernichtung, siehe [Projektion](https://blz.borderliner.ch/spaltung/spaltung.html) ,
+vor Augen. Halten Sie sich noch einmal die (narzisstische) Borderline-Beziehung die [Komplementstörung](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) vor Augen. Es geht also zuerst einmal um Ihre Vernichtung, siehe [Projektion](https://borderliner.ch/spaltung/spaltung.html) ,
 denn Sie sind in der Trennung, in der Spaltung die Personifizierung der Gefahr.
 Die frei flottierende Angst des Borderliners ist nicht mehr frei flottierend. Sie
 ist jetzt zielgerichtet und hat einen Namen. So liebevoll, so zärtlich er Ihren
@@ -34,13 +32,13 @@ an Sie erinnern.
 
 Dieses Erinnern aber können schon einfache Trigger auslösen.
 Wenn Sie jetzt sagen: .. dann kann er sich doch auch an das Gute
-erinnern?, haben Sie das Kapitel der [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) nicht richtig gelesen. Er kann sich nur an das Schlechte- die Dinge, die in
+erinnern?, haben Sie das Kapitel der [Spaltung](https://borderliner.ch/spaltung/spaltung.html) nicht richtig gelesen. Er kann sich nur an das Schlechte- die Dinge, die in
 seiner Wirklichkeit vorhanden sind- erinnern. Auch wenn er (der Borderliner) es
 wollte, es geht nicht.
 
 Von der oben genannten Angst muss sich der Borderliner
 somit unter allen Umständen befreien. Da der Borderliner in der Trennung nicht
-allein ist, d.h. der neue Ritter/ Fee vorhanden ist- je nach [Komplementstörung](https://blz.borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) -
+allein ist, d.h. der neue Ritter/ Fee vorhanden ist- je nach [Komplementstörung](https://borderliner.ch/kompstoerung/komplimentaerstoerungen.htm) -
 kann das für Sie eine hochexplosive Mischung bedeuten.
 
 Wer reitet so spät durch Nacht und Wind auf einem
@@ -59,7 +57,7 @@ Aber zurück.
 
 Nachfolgend einige Dinge, die Ihnen einfach so passieren
 können und deren Wahrscheinlichkeit, je näher die [Borderlinepersönlichkeit im
-Zentrum des Spektrums](https://blz.borderliner.ch/bord/bord1/bord1.html#Spektrum) liegt, steigt.
+Zentrum des Spektrums](https://borderliner.ch/bord/bord1/bord1.html#Spektrum) liegt, steigt.
 
 Der eine oder andere wird vielleicht am Ende des Kapitels
 sagen: ..das gibt es doch gar nicht, kann doch nicht sein, das glaube ich
@@ -162,7 +160,7 @@ Sie die ver- rückte Meinung und die Sichtweise des Borderliners nicht ändern.
 Wenn Sie es schaffen, denken Sie genau so krank wie der Borderliner. Das Erfüllen
 seiner Wünsche war Manipulation und seine Schlafstörungen- die er immer hat-
 sind jetzt die Folgen seines Traumatas, [einer posttraumatischen
-Belastungsstörung](https://blz.borderliner.ch/trauma/trauma.htm) .
+Belastungsstörung](https://borderliner.ch/trauma/trauma.htm) .
 Und jetzt braucht er- der Borderliner- eine Therapie, denn er und nicht Sie war
 in einer zerstörerischen Beziehung. Ist doch alles ganz einfach, finden Sie
 nicht?
@@ -292,17 +290,17 @@ Sie ihr noch vor ein paar Tagen geschenkt haben.
     5a ) - Dafür ist es nur notwendig, dass sich Ihr Ex- Partner in
 psychiatrische Behandlung begibt,
 sich krank schreiben lässt und sich am Besten noch ein Streßsyndromattestieren lässt. Da viele Borderliner gleichzeitig Hyperchonder ( [siehe
-Fall M](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .) sind, ist dies kein Problem.
+Fall M](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .) sind, ist dies kein Problem.
 
 zu
     5a ) - Dafür ist es nur notwendig, dass sich Ihr Ex- Partner in
 psychiatrische Behandlung begibt,
 sich krank schreiben lässt und sich am Besten noch ein Streßsyndromattestieren lässt. Da viele Borderliner gleichzeitig Hyperchonder ( [siehe
-Fall M](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .) sind, ist dies kein Problem.
+Fall M](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .) sind, ist dies kein Problem.
 
 zu 5b) - Jetzt wird es richtig
 interessant. Dieser Punkt trifft auf die Männer unter Ihnen zu. Im Streit, das
-wissen wir, macht der Borderliner die unmöglichsten Dinge, auch [dissoziiert](https://blz.borderliner.ch/disso/dissoziation.htm) er unter Umständen. Er rastet aus. Unter Umständen
+wissen wir, macht der Borderliner die unmöglichsten Dinge, auch [dissoziiert](https://borderliner.ch/disso/dissoziation.htm) er unter Umständen. Er rastet aus. Unter Umständen
 rennt er aus dem Haus und rennt auf die nächste Polizeidienststelle. Wenn Sie
 jetzt noch Sex mit ihm (dem Borderliner) hatten, sind Sie geliefert. Sie wissen,
 wie schnell es umschlagen kann bzw. zur Explosion kommt beim Borderliner. Weiter
@@ -459,11 +457,10 @@ stark geworden. Na ja, zumindest können Sie sich ganz beruhigt zur Nachtruhe
 begeben. Die Realität ist nicht unbedingt
 nur vorhanden, wenn wir Sie sehen, d o c h Vevendo
 Vides (wer glaubt wird sehen) ©
-"Team der Borderlinezone" 2005-2007 [ [Nach oben](trennung.htm) ] [ [Die Trauerphasen](../trauer/trauer.htm) ] [ [Symptome in der Trennung](symptome.htm) ] [ [ICH nach Borderline-Beziehung](ich_nach_trennung.htm) ] [ [Borderline-Störung, mit dir war es so](../beziehung/beziehung2/beziehung2.htm) ] [ [Borderline-Störung, Rat in der Trennung](ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](trennung_treffen.htm) ] [ Was Ihnen passieren kann ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](stalking.htm) ] [ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](trennung.htm) ]
 
 - zu 5b) - Jetzt wird es richtig
 interessant. Dieser Punkt trifft auf die Männer unter Ihnen zu. Im Streit, das
-wissen wir, macht der Borderliner die unmöglichsten Dinge, auch [dissoziiert](https://blz.borderliner.ch/disso/dissoziation.htm) er unter Umständen. Er rastet aus. Unter Umständen
+wissen wir, macht der Borderliner die unmöglichsten Dinge, auch [dissoziiert](https://borderliner.ch/disso/dissoziation.htm) er unter Umständen. Er rastet aus. Unter Umständen
 rennt er aus dem Haus und rennt auf die nächste Polizeidienststelle. Wenn Sie
 jetzt noch Sex mit ihm (dem Borderliner) hatten, sind Sie geliefert. Sie wissen,
 wie schnell es umschlagen kann bzw. zur Explosion kommt beim Borderliner. Weiter
@@ -476,7 +473,7 @@ Schreien.
 
 zu 5b) - Jetzt wird es richtig
 interessant. Dieser Punkt trifft auf die Männer unter Ihnen zu. Im Streit, das
-wissen wir, macht der Borderliner die unmöglichsten Dinge, auch [dissoziiert](https://blz.borderliner.ch/disso/dissoziation.htm) er unter Umständen. Er rastet aus. Unter Umständen
+wissen wir, macht der Borderliner die unmöglichsten Dinge, auch [dissoziiert](https://borderliner.ch/disso/dissoziation.htm) er unter Umständen. Er rastet aus. Unter Umständen
 rennt er aus dem Haus und rennt auf die nächste Polizeidienststelle. Wenn Sie
 jetzt noch Sex mit ihm (dem Borderliner) hatten, sind Sie geliefert. Sie wissen,
 wie schnell es umschlagen kann bzw. zur Explosion kommt beim Borderliner. Weiter
@@ -786,8 +783,5 @@ nur vorhanden, wenn wir Sie sehen, d o c h
 Vides (wer glaubt wird sehen)
 
 ©
-"Team der Borderlinezone" 2005-2007
 
-[ [Nach oben](trennung.htm) ] [ [Die Trauerphasen](../trauer/trauer.htm) ] [ [Symptome in der Trennung](symptome.htm) ] [ [ICH nach Borderline-Beziehung](ich_nach_trennung.htm) ] [ [Borderline-Störung, mit dir war es so](../beziehung/beziehung2/beziehung2.htm) ] [ [Borderline-Störung, Rat in der Trennung](ratschlaege_trennung.htm) ] [ [Borderline-Störung, ein Treffen in der Trennung](trennung_treffen.htm) ] [ Was Ihnen passieren kann ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](stalking.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](trennung.htm) ]

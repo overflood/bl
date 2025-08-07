@@ -10,7 +10,6 @@ slug: geschichte1
 ---
 
 
-[ [Nach oben](alkohol.html) ] [ [Aloholismus](alkoholismus.html) ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ [Rückfallgefahren](rueckfall.htm) ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ Geschichte 2 ] [ [Geschichte 3](geschichte2.htm) ]
 
 Geschichte
 2
@@ -994,4 +993,3 @@ dahinter? Sicherlich die Angst, was kommt auf mich zu, was erwartet mich?
 Schaffe ich den normalen Weg, komme ich Zuhause zurecht???????? ©
 Mathias Rüberg
 
-[ [Nach oben](alkohol.html) ] [ [Aloholismus](alkoholismus.html) ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ [Rückfallgefahren](rueckfall.htm) ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ Geschichte 2 ] [ [Geschichte 3](geschichte2.htm) ]

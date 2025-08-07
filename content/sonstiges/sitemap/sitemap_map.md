@@ -10,25 +10,17 @@ slug: sitemap_map
 ---
 
 
-Sitemap der Borderlinezone
 
-|  | Index der Borderlinezone
 
-|  | Startseite der Borderlinezone
 
-|  | Vorwort der Borderlinezone
 
 |  | Seitensuche intern
 
 |  | Neues / Geändertes
 
-|  | Gästebuch der Borderlinezone
 
-|  | die Borderlinezone empfehlen
 
-|  | Chat der Borderlinezone
 
-|  | Forum der Borderlinezone
 
 | ICD-10
 
@@ -506,7 +498,6 @@ Deutschland, Östereich, Schweiz
 
 |  | mehrere Suchmaschinen
 
-|  | Schlusswort der Borderlinezone
 
 |  | Mail an den Webmaster
 
@@ -526,4 +517,3 @@ Deutschland, Östereich, Schweiz
 
 |  | Suchtberater
 
-Sitemap der Borderlinezone

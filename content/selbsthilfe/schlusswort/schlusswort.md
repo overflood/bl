@@ -1,5 +1,4 @@
 ---
-title: Schlusswort zur Borderline-Störung der Borderlinezone
 date: 2023-08-27
 draft: false
 aliases:
@@ -80,7 +79,7 @@ bewältigen.
 
 Entscheiden Sie sich für
 den anderen Weg, so sind Sie bitte genauso konsequent, egal wie weh es Ihnen tut.
-Wie bereits in den Seiten beschrieben darf Ihre Liebe nicht die Grenze des [Altruismus](https://blz.borderliner.ch/definition/definitionen.htm) überschreiten.
+Wie bereits in den Seiten beschrieben darf Ihre Liebe nicht die Grenze des [Altruismus](https://borderliner.ch/definition/definitionen.htm) überschreiten.
 
 Wir wünschen Ihnen Erfolg
 auf dem Weg den Sie, wie auch immer er aussehen wird, beschreiten werden und

@@ -205,4 +205,3 @@ Seratonin, die der Körper nicht mehr verkraften kann. Vor der Kombination von
 Kokain und Amphetamin wird ebenfalls gewarnt, da dies die Wirkung noch
 potenziert, was den Rausch noch uneinschätzbarer werden lässt.
 
-[ [Nach oben](definitionen_1.htm) ] [ [Entstehung der Sucht](sucht.htm) ] [ Amphetamine ] [ [Kokain](kokain_crack.htm) ] [ [Hallozinogene](hallozinogene.htm) ] [ [Opiate](opiate.htm) ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](med-leitlinien-drogen.pdf) ]

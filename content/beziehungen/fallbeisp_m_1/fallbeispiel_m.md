@@ -15,9 +15,7 @@ Fallbeispiel M.
 (ein prädestiniertes
 Beispiel)
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord/bord1/bord1.html) ] [ [nach DMSR](../bord/bord4/dmsr.html) ] [ [nach ICD](../bord/bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../bord/bord_test/einleitung_bps_test.html) ] [ Borderline-Störung, der Fall M, Teil 1 ] [ [Borderline-Störung, der Fall "S"](../der_fall_s/der_fall_s.htm) ]
 
 M. ist weiblich, 38 Jahre,
 schön?, intelligent? und sehr erfolgreich in ihrem Beruf. Sie hat studiert und in
@@ -71,10 +69,8 @@ Oft hatte man das Gefühl sie,
 die Prinzessin, lebte nur für den Moment der Erlösung durch den
 Prinzen.
 
-© "Team der Borderlinezone"2002-2007
 
 (Haftungsausschluß: Die Personen und die
 Handlung sind frei erfunden und sämtliche Ähnlichkeiten mit lebenden
 oder toten Personen sind rein  zufällig.)
 
-[ [Nach oben](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, der Fall M, Teil 2](fallbeispiel_m1.htm) ]

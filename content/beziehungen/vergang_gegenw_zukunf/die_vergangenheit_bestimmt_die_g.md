@@ -10,9 +10,7 @@ slug: die_vergangenheit_bestimmt_die_g
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](../persstoerung/persstoerung1.html) ] [ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ Prägung v. Denken, Fühlen, Handeln ] [ [psychodynamiches Modell gesund](../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
 Prägung von Denken,
 Fühlen, Handeln
@@ -30,7 +28,7 @@ Neokortex) sich viel später (entwicklungsbiologisch), wie auch beim
 heranwachsenden Menschen, entwickelt hat ist die emotionale Seele wesentlich
 schneller und mächtiger. Hier geht Alter vor Schönheit. Ihre emotionale Seele
 liegt im [limbischen
-System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System) . Eine wichtige Rolle, wenn nicht sogar die
+System](https://borderliner.ch/gehirn/gehirn.htm#limbisches System) . Eine wichtige Rolle, wenn nicht sogar die
 Entscheidende, spielt hier der Mandelkern, auch Amygdala, genannt. Er ist der
 emotionale Wächter Ihres Seins. Der Mensch besitzt dessen zwei. Einen in der
 rechten Hirnhälfte und einen in der linken Hirnhälfte. Die Hirnhälften sind
@@ -42,7 +40,7 @@ Borderlienepersönlichkeiten sind in der Regel Rechtshirn gelagert, Narzissten,
 Schizoide in der Regel Linkshirngelagert.
 
 Warum nun bestimmt die
-Vergangenheit ihre Zukunft, die des [Borderliners](https://blz.borderliner.ch/bord/bord1/bord1.html) (Borderline-Störung), [Narzissten](https://blz.borderliner.ch/narz/narz1.html) Schizoiden, des [Anorektikers](https://blz.borderliner.ch/ess/ess2/anorexianervosa.html) , des [Bulimikers](https://blz.borderliner.ch/ess/ess1/bulemianervosa.html) etc.?
+Vergangenheit ihre Zukunft, die des [Borderliners](https://borderliner.ch/bord/bord1/bord1.html) (Borderline-Störung), [Narzissten](https://borderliner.ch/narz/narz1.html) Schizoiden, des [Anorektikers](https://borderliner.ch/ess/ess2/anorexianervosa.html) , des [Bulimikers](https://borderliner.ch/ess/ess1/bulemianervosa.html) etc.?
 
 Versuchen wir es einfach zu
 erklären. Ich möchte nicht in biochemische, psychologische, neurologische
@@ -80,7 +78,7 @@ Hund das 1. Jahr 7 Menschenjahre sind, sind dem zu Folge 6 Monate 3,5 Jahre und
 sprechen von 12 Wochen). Dann sind wir wieder bei den 21 Monaten.
 
 Aber zurück. Der Hund wächst
-beim Mann auf, besitzt andere [neurale Schaltungen](https://blz.borderliner.ch/gehirn/gehirn.htm#Synapse) und hat nicht den
+beim Mann auf, besitzt andere [neurale Schaltungen](https://borderliner.ch/gehirn/gehirn.htm#Synapse) und hat nicht den
 ausgebildeten Neokortex wie der Mensch. Insofern entwickelt sich sein limbisches
 System wesentlich höher / ausgeprägter als beim Menschen. Er unterliegt also
 mehr gefühlsmäßigen Handlungen die zum Teil durch Konditionierung und zum
@@ -173,7 +171,7 @@ jede noch so kleine Aktion / Reaktion der Mutter achtet, um weitern Schaden von
 dem Kinde abzuhalten.
 
 Beim Hund hat ein sogenannter [synaptischer
-Lernvorgang](https://blz.borderliner.ch/gehirn/gehirn.htm#Synapse) (Anstoß gewisser neuronaler Netzwerke) stattgefunden.
+Lernvorgang](https://borderliner.ch/gehirn/gehirn.htm#Synapse) (Anstoß gewisser neuronaler Netzwerke) stattgefunden.
 
 Der Vater kommt nach Hause und
 die Mutter schildert den Vorfall. Natürlich aus ihrer Sicht (der Hund die
@@ -191,9 +189,6 @@ Befehl war."
 Übertragen Sie das auf die
 zwischenmenschliche Borderline-Beziehung.
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](../persstoerung/persstoerung1.html) ] [ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ Prägung v. Denken, Fühlen, Handeln ] [ [psychodynamiches Modell gesund](../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]

@@ -10,9 +10,7 @@ slug: psychodynamisches_modell-borderline
 ---
 
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](psychodynamisches_modell-normal.htm) ] [ psychodynamisches Modell Borderline ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ]
 
 Psychodynamisches Modell
 
@@ -30,13 +28,13 @@ Sie von dort über den jeweils zugehörigen unteren Link oder über den Browser
 Returnbutton auf diese Seite zurück.
 
 [klick
-hier](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm)
+hier](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ICH:
 
-- A1-3   = [Abwehrmechanismen des ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
+- A1-3   = [Abwehrmechanismen des ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
 
 - B1       = Kraft bzw. Energie
     die aus Säule I und II des Über-Ich auf das ICH treffen
@@ -79,7 +77,7 @@ Legende ICH:
 - VI       = Vergleich Ideal-Ich
     / Ideal Selbst versus Ich-Ideal / Ideal Objekte
 
-A1-3   = [Abwehrmechanismen des ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
+A1-3   = [Abwehrmechanismen des ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr)
 
 B1       = Kraft bzw. Energie
     die aus Säule I und II des Über-Ich auf das ICH treffen
@@ -125,7 +123,7 @@ VI       = Vergleich Ideal-Ich
 Die Über-Ich-Struktur einer
 Borderlinepersönlichkeit
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ÜBER-ICH:
 
@@ -258,9 +256,6 @@ oben als Pufferzone. Gäbe es diese nicht würde das "ICH" regelrecht zerfetzt
 durch
 die auftreffenden Energien.
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](psychodynamisches_modell-normal.htm) ] [ psychodynamisches Modell Borderline ] [ [psychodynamisches Modell nach Borderlinebeziehung](ich_nach_trennung.htm) ] [ [psychodynamisches Modell Deprssion](ich_depression.htm) ] [ [psychodynamisches Modell Narzissmus](psychodynamisches_modell-narzissmus.htm) ] [ [psychodynamisches Modell Dependent](psychodynamisches_modell-dependent.htm) ] [ [psychodynamisches Modell ADHS](ich_adhs.htm) ] [ [Präsentation psychodynamische Modelle](../persstoerung/psychodynamische_modelle_04.pps) ]
 
-[ [spezifische Persönlichkeitsstörung](../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../narz/narz1.html) ] [ [Kömplementärstörungen](../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../persstoerung/med-leitlinien-ps.pdf) ]

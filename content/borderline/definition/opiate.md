@@ -7,10 +7,10 @@ aliases:
 categories:
 - borderline
 slug: opiate
+description: "Opiate sind eine Gruppe von Substanzen, die aus dem Schlafmohn isoliert oder synthetisch hergestellt werden. Sie wirken stark schmerzstillend, bergen jedoch ein hohes Abhängigkeitsrisiko."
 ---
 
 
-| [ [Nach oben](definitionen_1.htm) ] [ [Entstehung der Sucht](sucht.htm) ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ [Hallozinogene](hallozinogene.htm) ] [ Opiate ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](http://www.uni-duesseldorf.de/AWMF/ll/076-007.htm) ]
 
 | Opiate Substanzgruppe der Opiate Historisch-medizinische Perspektive Wie entsteht Schmerz? Wirkmechanismus von Schmerz im Gehirn Pharmakodynamik und -kinetik Applikationsformen Toleranz Entzug Problematisierung Substanzgruppe der Opiate Historisch-medizinische Perspektive Die Bestrebungen europäischer Mediziner im 19. Jahrhundert, die bis dahin beobachteten 
         unerwünschten Nebenwirkungen beim Opium-Gebrauch zu modifizieren und nur die positiven
@@ -90,9 +90,7 @@ intravenös (z.B. Heroin, Morphin) Atemdepression bei Überdosierung | innerhalb
 
 Inhalieren rauchen | in wenigen Minuten
 
-| [ [Nach oben](definitionen_1.htm) ] [ [Entstehung der Sucht](sucht.htm) ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ [Hallozinogene](hallozinogene.htm) ] [ Opiate ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](med-leitlinien-drogen.pdf) ]
 
-[ [Nach oben](definitionen_1.htm) ] [ [Entstehung der Sucht](sucht.htm) ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ [Hallozinogene](hallozinogene.htm) ] [ Opiate ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](http://www.uni-duesseldorf.de/AWMF/ll/076-007.htm) ]
 
 #### Opiate
 
@@ -1553,4 +1551,3 @@ Psychische Probleme gelten nicht als normale Reaktion auf "unnormale", d.h.
         "normal" und angepaßt, Pharmakonzerne verdienen viel Geld am Konsum und der
         Staat spart an guter psychosozialer Unterstützung.
 
-[ [Nach oben](definitionen_1.htm) ] [ [Entstehung der Sucht](sucht.htm) ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ [Hallozinogene](hallozinogene.htm) ] [ Opiate ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](med-leitlinien-drogen.pdf) ]

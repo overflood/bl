@@ -10,7 +10,6 @@ slug: bailant
 ---
 
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ Bailant-Kliniken ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]
 
 Michael-Balint-Klinik
 
@@ -57,4 +56,3 @@ Telefon: 07725 - 932- 0 07725 -
 
 [www.michael-balint-klinik.de](http://www.michael-balint-klinik.de) [info@michael-balint-klinik.de](mailto:info@michael-balint-klinik.de)
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ Bailant-Kliniken ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]

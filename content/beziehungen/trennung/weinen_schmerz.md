@@ -10,9 +10,7 @@ slug: weinen_schmerz
 ---
 
 
-[ [Nach oben](../beziehung/beziehung.htm) ] [ [Borderline-Störung Beziehung 2](../beziehung/beziehung1/beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../beziehung/grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](../beziehung/ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../beziehung/situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](../beziehung/beziehung1/kommu.htm) ] [ Borderline-Störung, der Sex der Versöhnung ] [ [Borderline-Störung, Paradoxum](../beziehung/paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../warum_er_sie/warum_partner.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](trennung.htm) ]
 
 Der Sex der
 Versöhnung
@@ -54,7 +52,7 @@ ist für ihn so überwältigend, so grenzenlos in seiner Intensität, dass er
 die tiefsten Winkel seiner Seele berührt und es ihn in Form der Tränen förmlich
 hinweg reisst. Was ihn erfasst, ist das gesamte Spektrum der Liebe, inklusive der
 Vergangenheit und zwar schlagartig. In diesem Moment begreift der Borderliner
-auf höchster Ebene sein [instabiles "ICH"](https://blz.borderliner.ch/bord/bord3/bord_stoerung_1.html) ,
+auf höchster Ebene sein [instabiles "ICH"](https://borderliner.ch/bord/bord3/bord_stoerung_1.html) ,
 begreift das Ausmass der Borderline-Störung und hasst sich selbst. Da er eine
 solche Intensität der Gefühle kaum kennt, er weiß nicht damit umzugehen, er
 durch seine Ich- Fragmente keine Chance hat, diese irgendwie zu puffern, ist er
@@ -72,7 +70,7 @@ Kampfes ist.
 
 Diese Empfindungen werden später vom Borderliner als schöne
 Momente bezeichnet. Sicher, eine lapidare Umschreibung dessen, doch wie bereits
-erwähnt, kann der Borderliner (die Borderline-Störung) durch die [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) später keine gefühlsmäßige
+erwähnt, kann der Borderliner (die Borderline-Störung) durch die [Spaltung](https://borderliner.ch/spaltung/spaltung.html) später keine gefühlsmäßige
 Beziehung in der Erinnerung herstellen. Er "weiß" nur, dass es schön war.
 Gleichzeitig ist aber das Wort "Momente" beim Borderliner eine Abwertung
 ("es waren doch nur Momente, ja es gab Momente da war ich glücklich
@@ -105,7 +103,7 @@ Beweis geliefert und des Borderliners Sichtweise bestätigt. Hie muss allerdings
 gesagt werden, dass der Borderliner nicht unbedingt unrecht haben muss, denn die
 vom Borderliner gesehene Verhaltensweise trifft ohne Weiteres auf die narzisstische Persönlichkeitsstörung (wenn stark ausgebildet) zu.
 
-Da die [narzisstische](https://blz.borderliner.ch/narz/narz1.html) [Persönlichkeitsstörung](https://blz.borderliner.ch/narz/narz1.html) eine [Komplementstörung](../kompstoerung/komplimentaerstoerungen.htm) zur [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ist und der Borderliner sich nur
+Da die [narzisstische](https://borderliner.ch/narz/narz1.html) [Persönlichkeitsstörung](https://borderliner.ch/narz/narz1.html) eine [Komplementstörung](../kompstoerung/komplimentaerstoerungen.htm) zur [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ist und der Borderliner sich nur
 zu gern den Narzissten
 sucht, kann die beschriebene Sichtweise des Borderliners durchaus Relevanz
 haben. In diesem Abschnitt allerdings ist nicht die narzisstische Störung
@@ -122,9 +120,6 @@ und uneingeschränkt zur Verfügung stehen. So verhält es sich beim Borderliner
 Was für das Baby die Brust ist, sind für den Borderliner Beziehungen. Richtig
 gelesen, Beziehungen (High- Level, volle Brust). Für ihn sind sie überlebensnotwendig.
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](../beziehung/beziehung.htm) ] [ [Borderline-Störung Beziehung 2](../beziehung/beziehung1/beziehung1.htm) ] [ [Borderline-Störung, Rat für Beziehung mit einer](../beziehung/grunds/grunds.htm) ] [ [leidet mein Partner unter einer Borderline-Störung](../beziehung/ratschl/rat.htm) ] [ [Borderline-Störung, eine ganz normale Situation in einer](../beziehung/situation1.htm) ] [ [Borderline-Störung, die Kommunikation einer](../beziehung/beziehung1/kommu.htm) ] [ Borderline-Störung, der Sex der Versöhnung ] [ [Borderline-Störung, Paradoxum](../beziehung/paradoxbez/pardoxum.htm) ] [ [warum suchte ich mir diesen Partner?](../warum_er_sie/warum_partner.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](trennung.htm) ]

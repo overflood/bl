@@ -10,7 +10,6 @@ slug: ritalin
 ---
 
 
-[ [Nach oben](behandlung_von_ads__adhs.htm) ] [ Ritalin ] [ [Behandlung ADHS Erwachsener mit Ritalin](ritalin1/index.htm) ]
 
 Ritalin / Methylphenidat
 
@@ -498,4 +497,3 @@ beeindruckt war Marguerite davon, dass sich ihre Leistung im Tennisspiel unter
 Einnahme dieses Medikaments steigerte. Von ihrem Spitznamen Rita leitet sich der
 bekannte Handelsname Ritalin für Methylphenidat ab.
 
-[ [Nach oben](behandlung_von_ads__adhs.htm) ] [ Ritalin ] [ [Behandlung ADHS Erwachsener mit Ritalin](ritalin1/index.htm) ]

@@ -10,7 +10,6 @@ slug: test1
 ---
 
 
-[ [Nach oben](einleitung_bps_test.html) ] [ Borderlinepersönlichkeitstest 1 ] [ [Borderlinepersönlichkeitstest 2](bltest.htm) ]
 
 Selbsteinschätzung
 Borderlinepersönlichkeitstest mit 52 Fragen
@@ -386,9 +385,7 @@ Er liefert lediglich Anhaltspunkte
 für die
 Wahrscheinlichkeit.
 
-© "Team der Borderlinezone" 2002
 -2006 nach: Conte, H. R., Plutchik, R., Karasu, T. B., and Jerrett, I. A self-report borderline
 scale: Discriminative validity and preliminary norms. J. Nerv. Ment.
 Dis., 168: 428-435, 1980
 
-[ [Nach oben](einleitung_bps_test.html) ] [ Borderlinepersönlichkeitstest 1 ] [ [Borderlinepersönlichkeitstest 2](bltest.htm) ]

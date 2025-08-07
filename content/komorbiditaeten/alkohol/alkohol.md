@@ -10,7 +10,6 @@ slug: alkohol
 ---
 
 
-[ [Nach oben](../definition/definitionen_1.htm) ] [ [Entstehung der Sucht](../definition/sucht.htm) ] [ [Amphetamine](../definition/ecstasy_und_amphetamine.htm) ] [ [Kokain](../definition/kokain_crack.htm) ] [ [Hallozinogene](../definition/hallozinogene.htm) ] [ [Opiate](../definition/opiate.htm) ] [ Alkohol ] [ [mediz. Leitlinien Drogen](../definition/med-leitlinien-drogen.pdf) ]
 
 Alkohol
 
@@ -57,7 +56,7 @@ Wir wissen er verändert bei
 längerem Missbrauch die gesamte Persönlichkeit des Menschen.
 
 Alkohol ist eine Droge, die
-zur Abhängigkeit vom Typ [Barbiturate/Tranquilizer](https://blz.borderliner.ch/definition/definitionen.htm) führen kann.
+zur Abhängigkeit vom Typ [Barbiturate/Tranquilizer](https://borderliner.ch/definition/definitionen.htm) führen kann.
 
 Warum aber nun reagieren die
 Menschen so unterschiedlich auf Alkohol?
@@ -182,7 +181,7 @@ Einnahme bis zu einem gewissen Grad (bis zum sozialem Abrutsch) von der
 Gesellschaft akzeptiert und sogar gefördert wird.  Dann ist er ausgestoßen
 und es wird mit dem Finger auf ihn gezeigt.
 
-[(Definitionen)](https://blz.borderliner.ch/definition/definitionen.htm) Medikamente, Beruhigungsmittel (
+[(Definitionen)](https://borderliner.ch/definition/definitionen.htm) Medikamente, Beruhigungsmittel (
 Barbiturate, Morphine, Tanquilizer, Opiate) unterliegen dem BTM-Gesetz, sind
 verschreibungspflichtig und werden somit legalisiert. Die Suchtgefährdung
 gegenüber Alkohol liegt wesentlich höher. (Tavor 5-6 Wochen) und die Wirkung
@@ -200,15 +199,15 @@ Für einen Medikamenten-missbräuchler
 rationalisieren oder zu verstecken.
 
 [Siehe
-M. die Wechselwirkung Alkohol-Schmerzmittel-Amphetamine](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) hilft es in komplementären
+M. die Wechselwirkung Alkohol-Schmerzmittel-Amphetamine](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) hilft es in komplementären
 Grenzen, zum anderen es in akzeptablen sozialen Grenzen zu halten oder unbemerkt
 zu bleiben.
 
 Suchterzeugende Mittel haben immer die
 Eigenschaft das eine Dosissteigerung erforderlich ist um die gleiche Wirkung /
-Zustand zu erzielen. Dies gilt natürlich nicht wenn Sie auf den Trichter wie [M](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .
+Zustand zu erzielen. Dies gilt natürlich nicht wenn Sie auf den Trichter wie [M](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .
 kommen. Sucht oder Missbrauch muss nicht immer mit dem sozialen Abstieg einher
-gehen oder enden, im Gegenteil. wie im Falle von [M](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .
+gehen oder enden, im Gegenteil. wie im Falle von [M](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m.htm) .
 zu sehen. Hier wird durch die Verkettung der drei Störungen (Kaskadenstörung)
 und die Wechselwirkung des Alkohol-Medikamentenmissbrauchs ein psychischer
 Zusammenbruch die Folge sein.
@@ -276,6 +275,4 @@ gekommen?"
 Und eines sollten wir nie vergessen es kann
 jeden treffen. Zu viele sagten "mich trifft / betrifft es doch nicht"!
 
-© "Team der Borderlinezone" 2002-2006
 
-[ [Nach oben](../definition/definitionen_1.htm) ] [ [Aloholismus](alkoholismus.html) ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ [Rückfallgefahren](rueckfall.htm) ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ [Geschichte 2](geschichte1.htm) ] [ [Geschichte 3](geschichte2.htm) ]

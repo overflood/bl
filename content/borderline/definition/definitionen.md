@@ -10,7 +10,6 @@ slug: definitionen
 ---
 
 
-[ [Nach oben](../indexa.html) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](icd10.htm) ] [ [DSM-IV](dsm.htm) ] [ Begriffsdefinitionen ] [ [Drogen](definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 Begriffsdefinitionen
 
@@ -97,9 +96,9 @@ Aggressionstrieb
 bezeichnete einen 1908
 von Adler eingeführten Begriff der den als Ursache der Aggression angenommenen
 antrieb bezeichnet. Ab 1920 greift Freud diesen Begriff auf und fasst darunter
-die Todestriebe, soweit sie nach aussen gewendet sind zusammen. (siehe [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) )
+die Todestriebe, soweit sie nach aussen gewendet sind zusammen. (siehe [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) )
 
-[Alkohol](https://blz.borderliner.ch/alkohol/alkohol.html)
+[Alkohol](https://borderliner.ch/alkohol/alkohol.html)
 
 Altruismus
 
@@ -186,9 +185,9 @@ Menschen aus Gedanken, Gefühlen, Absichten oder anderen geistigen Prozessen zu
 erklären. Der Mensch ist hier eine biologische Maschine, ein reiner
 Reiz-Reaktions-Mechanismus.
 
-[Depression](https://blz.borderliner.ch/depression/depri.html)
+[Depression](https://borderliner.ch/depression/depri.html)
 
-[Drogen](https://blz.borderliner.ch/definition/definitionen_1.htm)
+[Drogen](https://borderliner.ch/definition/definitionen_1.htm)
 
 Emotionen
 
@@ -296,7 +295,7 @@ lassen. "Ihn" verstehen auch ohne Worte, die
       Symbiose, aber auch die Distanz?
 
 Nun was ist Liebe? [(kurze
-Geschichte)](https://blz.borderliner.ch/definition/liebe.htm)
+Geschichte)](https://borderliner.ch/definition/liebe.htm)
 
 Unterscheiden wir  zwischen Verliebtheit und Liebe.
 Verliebtheit hat nichts mit  Liebe zu tun, leider und ist nichts weiter wie ein biochemischer Vorgang im 
@@ -339,7 +338,7 @@ sagt. Keine menschliche Zuwendung, keine Wärme, keinen Kontakt zu einem
 Lebewesen. Was glauben sie würde passieren? Das Kind würde sterben.
 
 Immer wieder, auch in der Fachliteratur
-wird im Zusammenhang mit dem [Borderlinesyndrom](https://blz.borderliner.ch/persstoerung/persstoerung1.html) der [Narzissmus](https://blz.borderliner.ch/narz/narz1.html) (2.Seite) erwähnt. Fakt ist
+wird im Zusammenhang mit dem [Borderlinesyndrom](https://borderliner.ch/persstoerung/persstoerung1.html) der [Narzissmus](https://borderliner.ch/narz/narz1.html) (2.Seite) erwähnt. Fakt ist
 das es in jedem Menschen einen Narzissmus gibt, doch wenn er die Grenze der Pathologie
 überschreitet ist die Liebe nicht mehr möglich.
 
@@ -353,7 +352,7 @@ leidenschaftliche Liebe. Beide existieren und für beide gibt es genug Verfechte
 Eros beinhaltet immer einen Leidensdruck, denn Leidenschaft bedingt eben auch
 das Gegenteil.  Agape ist ohne Neid, ohne Besitzanspruch und dringt auf Förderung
 des anderen. Eros beinhaltet immer starke Emotionen, Wellen die nicht vom Neokortex
-gesteuert werden, sondern vom [limbischen System.](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches System)
+gesteuert werden, sondern vom [limbischen System.](https://borderliner.ch/gehirn/gehirn.htm#limbisches System)
 
 Es gibt aber noch die
 neurotische Liebe und die Pseudoliebe.
@@ -388,7 +387,7 @@ Das
 Gegenteil von Liebe ist Gleichgültigkeit
 
 [Ausführliche
-Darstellung](https://blz.borderliner.ch/definition/liebe1.htm) zum Thema Liebe und Hass
+Darstellung](https://borderliner.ch/definition/liebe1.htm) zum Thema Liebe und Hass
 
 Lüge
 
@@ -401,7 +400,7 @@ Begriff gebildet nach einem Roman
 des östereichischen Schriftstellers "Sacher-Masoch". Bezeichnet
 diejenige Perversion, bei der das Erleben des Orgasmus mit dem Erleiden von
 Demütigungen, Schmerz oder Qual einhergeht. Nach Freud erklärt sich der
-Masochismus aus dem Auftreten sadistischer Impulse des [Über-ICH](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) gegen das ICH (Strafbedürfnis) bei der Verwirklichung sexueller Tendenzen.
+Masochismus aus dem Auftreten sadistischer Impulse des [Über-ICH](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) gegen das ICH (Strafbedürfnis) bei der Verwirklichung sexueller Tendenzen.
 Diese Konstellation stellt dabei eine Wiederholung des Ödipus- bzw.
 Elektrakomplexes dar.
 
@@ -465,7 +464,7 @@ vegetativen (autonomen) Nervensystems welches
 die inneren Organe des Menschen versorgt und beruhigenden, Einfluss
 hat.
 
-[Projektion](https://blz.borderliner.ch/spaltung/spaltung.html)
+[Projektion](https://borderliner.ch/spaltung/spaltung.html)
 
 Trieb / Antrieb
 
@@ -517,7 +516,7 @@ Hirn, nach längerem Gebrauch, zu Matsch machen) (man kann auch sagen Sie
 verblöden langsam). Viele Schmerzmittel werden aus Mischpräparaten hergestellt
 und können somit genauso, oder stärker, in die Abhängigkeit führen. Für
 Medikamente gilt die Besonderheit der Halbwertszeit, [siehe
-M.](https://blz.borderliner.ch/fallbeisp_m_1/fallbeispiel_m1.htm) Die
+M.](https://borderliner.ch/fallbeisp_m_1/fallbeispiel_m1.htm) Die
 Halbwertszeit ist diejenige in der der Wirkstoff im Körper bleibt. Anders wie
 bei Alkohol wird es nicht mit x/prom/mg abgebaut. Ein angeblich mildes Mittel
 ist z.B. Valium. Viele Kliniken setzen es mittlerweile für den körperlichen
@@ -613,11 +612,8 @@ möglich, schlaferzwingend
 Stärker antriebsteigernd und schwächer stimmungshemmend sind
 MAO-Hemmer. (Monoaminooxidasehemmer)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](../indexa.html) ] [ [Antidepressiva Seroxat](antidepressiva.htm) ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ [Valium](borderline-valium.htm) ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
 
-[ [Nach oben](../indexa.html) ] [ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](icd10.htm) ] [ [DSM-IV](dsm.htm) ] [ Begriffsdefinitionen ] [ [Drogen](definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

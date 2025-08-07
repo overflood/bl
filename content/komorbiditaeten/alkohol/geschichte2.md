@@ -10,7 +10,6 @@ slug: geschichte2
 ---
 
 
-[ [Nach oben](alkohol.html) ] [ [Aloholismus](alkoholismus.html) ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ [Rückfallgefahren](rueckfall.htm) ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ [Geschichte 2](geschichte1.htm) ] [ Geschichte 3 ]
 
 Geschichte 3
 
@@ -390,4 +389,3 @@ Nachricht", bin ich entlassen und verlasse so schnell ich kann diesen Ort der Be
 
 ©Peter Goltz
 
-[ [Nach oben](alkohol.html) ] [ [Aloholismus](alkoholismus.html) ] [ [Trinken PDF](trinken.pdf) ] [ [med. Leitlinien alkholbed. Störungen](postakute-behandlung-alkoholbedingter-stoerungen.pdf) ] [ [Rückfallgefahren](rueckfall.htm) ] [ [Alkoholrückfallgefahren](alkohol-rueckfallgefahren.pdf) ] [ [Geschichte 1](geschichte.htm) ] [ [Geschichte 2](geschichte1.htm) ] [ Geschichte 3 ]

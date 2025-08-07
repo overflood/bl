@@ -12,9 +12,7 @@ slug: einleitung_bps_test
 
 ### Borderlinetest, Borderline-Störung Test, Borderlinepersönlichkeitstest
 
-[ [Home](../../index.html) ] [ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]
 
-[ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ [nach DMSR](../bord4/dmsr.html) ] [ [nach ICD](../bord2/stoerung_f60_31_borderline.html) ] [ Borderlinetest Einleitung ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]
 
 Nachfolgend haben wir Ihnen 2
 Test zur Verfügung gestellt
@@ -96,8 +94,5 @@ Beachten Sie bitte
 das die Tests Ihnen nur einen Anhaltspunkt liefern kann. Um eine BPS zu
 diagnostizieren bedarf es mehr.
 
-©"Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Borderlinepersönlichkeitstest 1](test1.htm) ] [ [Borderlinepersönlichkeitstest 2](bltest.htm) ]
 
-[ [Home](../../index.html) ] [ [spezifische Persönlichkeitsstörung](../../persstoerung/spezifische_f60/spezifische_f60.html) ] [ [Was ist Narzissmus](../../narz/narz1.html) ] [ [Kömplementärstörungen](../../kompstoerung/komplimentaerstoerungen.htm) ] [ [Prägung v. Denken, Fühlen, Handeln](../../vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) ] [ [psychodynamiches Modell gesund](../../ich/psychodynamisches_modell-normal.htm) ] [ [med.-Leitlinien-Perönlichkeitsstörung](../../persstoerung/med-leitlinien-ps.pdf) ]

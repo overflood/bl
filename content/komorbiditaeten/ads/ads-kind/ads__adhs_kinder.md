@@ -10,13 +10,10 @@ slug: ads__adhs_kinder
 ---
 
 
-[ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]
 
-[ [Nach oben](../ads.html) ] [ [psychodynamisches Modell ADHS](../ich_adhs.htm) ] [ [Symptome ADHS](../symptome.htm) ] [ [Stärken ADHS](../adhs-staerken.htm) ] [ [AD(H)S Hochbegabte](../adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](../behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](../video_wahl.htm) ] [ [Erwachsene ADHS](../ads-erwachsen/ads-erwachsen.htm) ] [ Kinder ADHS ]
 
 ADS / ADHS Kinder
 
-|
 
 Nicht 
 		ursächlich ist:
@@ -534,7 +531,6 @@ Ein
         Depressionen können die Folge sein. Bekannt ist dieses Phänomen unter anderem aus der
         Schule, wo immer wieder hochbegabte Schüler in fortgeschrittenen
         Klassenstufen einen erheblichen Leistungseinbruch zeigen, ohne dass
-        sonstige äußere Gründe dies erklären könnten. © "Team der Borderlinezone" 2007 [ [Nach oben](../ads.html) ] [ [Leitlinien-ADHS-Kinder](leitlinien-adhs-kinder-jugendaerzte.pdf) ] [ [Behandlungswegweiser ADHS](behandlungswegweiser-nrw.pdf) ] [ [ADHS Test Kind](ads-typ.pdf) ] [ [ADHS Test Mädchen](addgirls.pdf) ]
 
 Zusammenfassung 
       gesicherter biographischer Risikofaktoren für die Entstehung psychischer 
@@ -664,6 +660,4 @@ Bekannt ist dieses Phänomen unter anderem aus der
         Klassenstufen einen erheblichen Leistungseinbruch zeigen, ohne dass
         sonstige äußere Gründe dies erklären könnten.
 
-© "Team der Borderlinezone" 2007
 
-[ [Nach oben](../ads.html) ] [ [Leitlinien-ADHS-Kinder](leitlinien-adhs-kinder-jugendaerzte.pdf) ] [ [Behandlungswegweiser ADHS](behandlungswegweiser-nrw.pdf) ] [ [ADHS Test Kind](ads-typ.pdf) ] [ [ADHS Test Mädchen](addgirls.pdf) ]

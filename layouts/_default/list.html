@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <div class="flex-l mw9 center ph3 flex-wrap">
+    <!-- Sidebar for list pages -->
+    <aside class="w-20-l dn dib-l pr4 order-1">
+      {{ partial "sidebar.html" . }}
+    </aside>
+    <section class="w-100 w-80-l">
+      <header class="mt4">
+        <h1 class="f2 athelas mt0 mb3">{{ .Title }}</h1>
+      </header>
+      {{ if .Content }}
+      <div class="nested-copy-line-height lh-copy f4 serif mid-gray mb4">
+        {{ .Content }}
+      </div>
+      {{ end }}
+      <ul class="list pl0">
+        {{ range .Pages.ByTitle }}
+        <li class="mb3">
+          <a href="{{ .RelPermalink }}" class="link dark-blue f4">{{ .Title }}</a>
+          {{ with .Params.description }}
+          <p class="f6 gray mv1">{{ . }}</p>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+  </div>
+{{ end }}

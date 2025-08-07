@@ -14,6 +14,6 @@ Sie kommen nach Hause und .........
 
 Sorry Ihr Browser unterstützt diesen Plug In nicht
 
-[](https://blz.borderliner.ch/trennung/trennung.htm#Film)
+[](https://borderliner.ch/trennung/trennung.htm#Film)
 
 zurück zum Ausgangspunkt

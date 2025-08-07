@@ -12,7 +12,6 @@ slug: badbramstedt
 
 liniken zur Behandlung und Therapie von Borderline-Störung, Narzissmus, Depression, Ess-Störung, ADHS, posttraumatisches Belastungssyndrom
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ Klinik Bad-Bramstedt ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]
 
 Medizinisch-Psychosomatische
 Klinik Bad Bramstedt
@@ -126,4 +125,3 @@ Telefax :    04192/504-550
 Ansprechpartner: Dr. med. Michael
 Armbrust [marmbrust@schoen-kliniken.de](mailto:marmbrust@schoen-kliniken.de)
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ Klinik Bad-Bramstedt ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ [Klinik Schwedenstein](schwedenstein.htm) ] [ [Klinik Hohemark](hohemark.htm) ]

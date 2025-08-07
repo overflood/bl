@@ -10,9 +10,7 @@ slug: bord_stoerung_1
 ---
 
 
-[ [Nach oben](../bord1/bord1.html) ] [ Ich-Identität der Borderline-Störung ] [ [Borderlinespektrum & Komorbidität](../borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](../../trennung/trennung.htm) ]
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ [nach DMSR](../bord4/dmsr.html) ] [ [nach ICD](../bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]
 
 ICH Identität
 
@@ -26,7 +24,7 @@ Sexualleben zeichnet ihn hier.
 
 Da er keine klare Unterscheidung zwischen dem Ich und Du hat, unterliegt er
 der [projektiven
-Identifizierung.](https://blz.borderliner.ch/spaltung/spaltung.html) Dies heißt, dass er sein Gegenüber in sich übernimmt. Er
+Identifizierung.](https://borderliner.ch/spaltung/spaltung.html) Dies heißt, dass er sein Gegenüber in sich übernimmt. Er
 wird zum "Du". In diesem Bezug unterliegt er auch der primitiven
 Idealisierung. Da ein Idol nicht kontinuierlich das hergeben kann, was von ihm
 erwartet wird, kommt es unweigerlich zu Enttäuschungen. Und da der Borderliner
@@ -95,13 +93,10 @@ ihm sofort befriedigt werden. Geschieht dies nicht, bekommt der Partner die
 komplexe orale Wut zu spüren. Die Reaktion ist also wiederum (wie bei einem 3
 jährigem Kind) extrem. Aggression, in Form von Gewalt, emotionale Erpressung,
 verlassen werden, oder [selbstschädigende
-Handlungen](https://blz.borderliner.ch/ssv/ssvv.htm) sind die unmittelbare Folge.
+Handlungen](https://borderliner.ch/ssv/ssvv.htm) sind die unmittelbare Folge.
 
 Wenn dies geschieht und ein/e neue/r "weißer Ritter/Fee" ist nicht in
 Aussicht, kehrt der Borderliner reumütig zum alten "Idol" zurück.
 
-© "Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../bord1/bord1.html) ] [ [psychodynamisches Modell Borderline-Störung](../bord1/psychodynamisches_modell-borderline.htm) ]
 
-[ [Borderline-Störung, Einführung, was ist das?](../bord1/bord1.html) ] [ [nach DMSR](../bord4/dmsr.html) ] [ [nach ICD](../bord2/stoerung_f60_31_borderline.html) ] [ [Borderlinetest Einleitung](../bord_test/einleitung_bps_test.html) ] [ [Borderline-Störung, der Fall M, Teil 1](../../fallbeisp_m_1/fallbeispiel_m.htm) ] [ [Borderline-Störung, der Fall "S"](../../der_fall_s/der_fall_s.htm) ]

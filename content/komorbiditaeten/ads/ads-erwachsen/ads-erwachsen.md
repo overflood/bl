@@ -10,9 +10,7 @@ slug: ads-erwachsen
 ---
 
 
-[ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]
 
-[ [Nach oben](../ads.html) ] [ [psychodynamisches Modell ADHS](../ich_adhs.htm) ] [ [Symptome ADHS](../symptome.htm) ] [ [Stärken ADHS](../adhs-staerken.htm) ] [ [AD(H)S Hochbegabte](../adhs-hochbegabt/index.htm) ] [ [Behandlung ADHS](../behandlung/behandlung_von_ads__adhs.htm) ] [ [Video ADHS](../video_wahl.htm) ] [ Erwachsene ADHS ] [ [Kinder ADHS](../ads-kind/ads__adhs_kinder.htm) ]
 
 ADS / ADHS Erwachsene
 
@@ -345,7 +343,6 @@ Differenzialdiagnose
 		und 
 		Strafzettel 
 		wegen 
-		Verkehrsvergehen © "Team der Borderlinezone" 2007 [ [Nach oben](../ads.html) ] [ [ADHS Lexika](../adhs-lexikon-1/index.htm) ] [ [ADHS Erwachsene 1](adhs-erwachsen1/index.htm) ] [ [ADHS Erwachsene 2](adhs-erwachsen2/index.htm) ] [ [ADHS Erwachsen 3](adhs-erwachsen3/index.htm) ] [ [ADHS Erwachsen 4](adhs-erwachsen4/index.htm) ] [ [ADHS Ewachsene Präsentation](adhs-erwachsen5/adhs-erwachsen5.pps) ] [ [ADHS & Komorbidität](adhs-komorbid/index.htm) ] [ [AD(H)S Tests](../ads-test/adhs_tests.htm) ] [ [med. Leitlinien ADHS Erwachsene](med-leitlinien-adhs.pdf) ] [ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]
 
 Die 
 			Unterscheidung 
@@ -569,7 +566,6 @@ Die
 		und 
 		Strafzettel 
 		wegen 
-		Verkehrsvergehen © "Team der Borderlinezone" 2007 [ [Nach oben](../ads.html) ] [ [ADHS Lexika](../adhs-lexikon-1/index.htm) ] [ [ADHS Erwachsene 1](adhs-erwachsen1/index.htm) ] [ [ADHS Erwachsene 2](adhs-erwachsen2/index.htm) ] [ [ADHS Erwachsen 3](adhs-erwachsen3/index.htm) ] [ [ADHS Erwachsen 4](adhs-erwachsen4/index.htm) ] [ [ADHS Ewachsene Präsentation](adhs-erwachsen5/adhs-erwachsen5.pps) ] [ [ADHS & Komorbidität](adhs-komorbid/index.htm) ] [ [AD(H)S Tests](../ads-test/adhs_tests.htm) ] [ [med. Leitlinien ADHS Erwachsene](med-leitlinien-adhs.pdf) ] [ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]
 
 Die 
 			Unterscheidung 
@@ -977,7 +973,6 @@ Ein oftmals bleibendes
 		und 
 		Strafzettel 
 		wegen 
-		Verkehrsvergehen © "Team der Borderlinezone" 2007 [ [Nach oben](../ads.html) ] [ [ADHS Lexika](../adhs-lexikon-1/index.htm) ] [ [ADHS Erwachsene 1](adhs-erwachsen1/index.htm) ] [ [ADHS Erwachsene 2](adhs-erwachsen2/index.htm) ] [ [ADHS Erwachsen 3](adhs-erwachsen3/index.htm) ] [ [ADHS Erwachsen 4](adhs-erwachsen4/index.htm) ] [ [ADHS Ewachsene Präsentation](adhs-erwachsen5/adhs-erwachsen5.pps) ] [ [ADHS & Komorbidität](adhs-komorbid/index.htm) ] [ [AD(H)S Tests](../ads-test/adhs_tests.htm) ] [ [med. Leitlinien ADHS Erwachsene](med-leitlinien-adhs.pdf) ] [ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]
 
 Die häufigen
             Folgen einer ADHS im Erwachsenenalter Persönliche Probleme - Schlechte Konzentration. Häufiges Verlieren von Sachen (z.B.: 
@@ -991,7 +986,6 @@ Die häufigen
 		und 
 		Strafzettel 
 		wegen 
-		Verkehrsvergehen © "Team der Borderlinezone" 2007 [ [Nach oben](../ads.html) ] [ [ADHS Lexika](../adhs-lexikon-1/index.htm) ] [ [ADHS Erwachsene 1](adhs-erwachsen1/index.htm) ] [ [ADHS Erwachsene 2](adhs-erwachsen2/index.htm) ] [ [ADHS Erwachsen 3](adhs-erwachsen3/index.htm) ] [ [ADHS Erwachsen 4](adhs-erwachsen4/index.htm) ] [ [ADHS Ewachsene Präsentation](adhs-erwachsen5/adhs-erwachsen5.pps) ] [ [ADHS & Komorbidität](adhs-komorbid/index.htm) ] [ [AD(H)S Tests](../ads-test/adhs_tests.htm) ] [ [med. Leitlinien ADHS Erwachsene](med-leitlinien-adhs.pdf) ] [ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]
 
 - Persönliche Probleme - Schlechte Konzentration. Häufiges Verlieren von Sachen (z.B.: 
       Autoschlüssel, Werkzeug....) - Schlechte  akademische Leistungen und Abschlüsse. oft Schulabbrecher - schlechte Karrierechancen - Ehe- 
@@ -1010,8 +1004,5 @@ Die häufigen
 		wegen 
 		Verkehrsvergehen
 
-© "Team der Borderlinezone" 2007
 
-[ [Nach oben](../ads.html) ] [ [ADHS Lexika](../adhs-lexikon-1/index.htm) ] [ [ADHS Erwachsene 1](adhs-erwachsen1/index.htm) ] [ [ADHS Erwachsene 2](adhs-erwachsen2/index.htm) ] [ [ADHS Erwachsen 3](adhs-erwachsen3/index.htm) ] [ [ADHS Erwachsen 4](adhs-erwachsen4/index.htm) ] [ [ADHS Ewachsene Präsentation](adhs-erwachsen5/adhs-erwachsen5.pps) ] [ [ADHS & Komorbidität](adhs-komorbid/index.htm) ] [ [AD(H)S Tests](../ads-test/adhs_tests.htm) ] [ [med. Leitlinien ADHS Erwachsene](med-leitlinien-adhs.pdf) ]
 
-[ [Persönlickeitsstörung](../../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../../schlaf/traum.htm) ] [ [Derpression](../../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../../trauma/trauma.htm) ] [ [Dissoziation](../../disso/dissoziation.htm) ] [ [Esstörungen](../../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads.html) ] [ [Angststörungen](../../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../../theraformen/theraformen.htm) ] [ [ICD-10](../../definition/icd10.htm) ] [ [DSM-IV](../../definition/dsm.htm) ] [ [Begriffsdefinitionen](../../definition/definitionen.htm) ] [ [Drogen](../../definition/definitionen_1.htm) ] [ [Selbsthilfe](../../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../../widmung/widmung_1.html) ]

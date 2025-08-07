@@ -10,7 +10,6 @@ slug: fallbeispiel_m3
 ---
 
 
-[ [Nach oben](fallbeispiel_m2.htm) ]
 
 M. merkte sehr schnell das diese Dinge
 nur kurzfristig helfen. In dieser Zeit griff sie auch kurzfristig auf eine
@@ -46,14 +45,14 @@ schafften in jeder Hinsicht und Situationen Alibifunktionen und traten in eine
 nicht mehr aufzuhebende Wechselwirkung.
 
 Die Borderline-Störung und das Bild des
-Vaters ließen sie, zumindest ab Studium, sehr schnell die Droge [Alkohol](https://blz.borderliner.ch/alkohol/alkohol.html) entdecken. Ich will nicht sagen das der Vater Alkoholiker war, um Himmels
+Vaters ließen sie, zumindest ab Studium, sehr schnell die Droge [Alkohol](https://borderliner.ch/alkohol/alkohol.html) entdecken. Ich will nicht sagen das der Vater Alkoholiker war, um Himmels
 willen, nein. Aber M. wusste das es eine entspannende, angstlösende 
 Wirkung hat. Auch wieder bedingt durch die Borderline-Störung verlor sie sehr
 bald das Maß dafür und entwickelte ein Suchtverhalten. Das Beste was ihr
 passieren konnte war die Bar "Club" zu führen. 7 Bier und 8 Whisky
 waren da schon normal.
 
-Der [Alkohol](https://blz.borderliner.ch/alkohol/alkohol.html) half 
+Der [Alkohol](https://borderliner.ch/alkohol/alkohol.html) half 
 ihr in vieler Hinsicht. Er füllte die innerliche Leere, sie konnte gelöst
 sein, reduzierte die inneren
 Spannungen, verschob die Realität, dämpfte die Schuldgefühle. Schuldgefühle
@@ -81,7 +80,7 @@ mittlerweile sehr zerstört war. M. wünschte sich sehr ein Kind, zumindest gab
 sie es, in den Beziehungen, anfänglich, immer vor. Drei mal dürfen Sie raten warum? Und so kam was kommen
 musste, ein Zusammenbruch
 mit 34/35. Bedingt durch äußere soziale Umstände, erfolgte Abtreibung, dann Beziehungen beendet, griff sie zur Arbeit,
-Alkohol in extremen Maße, gefolgt vom nicht Essen (Anorexie) und den Griff zu [Schmerzmitteln](https://blz.borderliner.ch/definition/definitionen.htm) bedingt durch die Hypochondrie. Die Grundlage des wechselseitigen 
+Alkohol in extremen Maße, gefolgt vom nicht Essen (Anorexie) und den Griff zu [Schmerzmitteln](https://borderliner.ch/definition/definitionen.htm) bedingt durch die Hypochondrie. Die Grundlage des wechselseitigen 
 Missbrauchs war weit früher doch er verstärkte sich hier erheblich. Von
 seelischen bis hin zu psychosamtischen Beschwerden, körperlichen Schmerzen,
 zeigte M. nun alles was in irgendeiner Form vorhanden hätte sein können. Der Körper,
@@ -89,7 +88,7 @@ die Seele spielten nicht mehr mit und es erfolgte eine Aufnahme in die
 psychiatrische Klinik.
 M. hatte im Laufe der Zeit sehr gut gelernt Symptomatiken zu verstecken und so
 wurde sie zwar behandelt, aber wieder nicht auf die Ursachen. Man erkannte zwar
-die [Suchtproblematik](https://blz.borderliner.ch/definition/definitionen_1.htm) und die Anorexie, doch mehr nicht. So wurde sie
+die [Suchtproblematik](https://borderliner.ch/definition/definitionen_1.htm) und die Anorexie, doch mehr nicht. So wurde sie
 stabilisiert entlassen und begab sich in ambulante Therapie. Da M. natürlich
 "Beziehungsprobleme" hatte (denn der andere ist ja krank) verstand sie es auch hier sehr gut von den eigentlichen
 Dingen abzulenken. Die Therapeutin kümmerte sich zwar um das aktive anorektische
@@ -111,11 +110,11 @@ weinte aus einem tiefen inneren Schmerz heraus und fragte sich "warum werde ich
 nicht geliebt?" Es gab Momente in denen sie sehr glücklich schien doch
 konnte dies in wenigen Minuten ins extreme Gegenteil schlagen. Bedingt durch die
 Anorexie den Alkohol und Tablettenmissbrauch war M. Hirn- wie auch Körperstoffwechsel
-nicht mehr im Gleichgeweicht. Zum anderen wissen wir das Der [Hirnstoffwechsel](https://blz.borderliner.ch/biochemie/biochemie.htm) (Gleichgewicht an Botenstoffen / Transmittern) bei einem Borderliner sowieso
+nicht mehr im Gleichgeweicht. Zum anderen wissen wir das Der [Hirnstoffwechsel](https://borderliner.ch/biochemie/biochemie.htm) (Gleichgewicht an Botenstoffen / Transmittern) bei einem Borderliner sowieso
 aus dem "klinischen" Rahmen fällt. Durch all diese Dinge war M`s
 Immunsystem  sowieso geschwächt. Welches wiederum "gut" für die
 Hypochondrie war.  Sie steht um 6.00 Uhr morgens auf und hatte sich den
-Abend vorher [1,5 Flaschen Prosecco](https://blz.borderliner.ch/alkohol/alkohol.html) gegönnt. Sagen wir sie hat 5 Stunden
+Abend vorher [1,5 Flaschen Prosecco](https://borderliner.ch/alkohol/alkohol.html) gegönnt. Sagen wir sie hat 5 Stunden
 geschlafen ist also gegen 0.00 Uhr zu Bett gegangen. Sie lag also irgendwo bei
 1,6 - 1,8 Pomille und benötigte somit ca. 19 Stunden um 0,0 Prom. zu erreichen. 
 Sie lag also am Morgen noch ca. bei 1,1 Prom. Für M. war das kein Problem, war
@@ -138,19 +137,19 @@ nicht geliebt werden.
 
 Dies wiederum (obiger Abschnitt), der momentane Krankheitszustand, rechtfertigt die Einnahme von Schmerzmitteln.
 viele Schmerzmittel enthalten
-Morphine bzw. Morphinderivate/Opiumderivate. Sie sind synthetisch und vergleichbar mit körpereigenen Morphine ( [Endorphine](https://blz.borderliner.ch/biochemie/biochemie.htm) ). Die [synthetischen Morphine](https://blz.borderliner.ch/definition/definitionen.htm) docken an die gleichen Rezeptoren an wie
+Morphine bzw. Morphinderivate/Opiumderivate. Sie sind synthetisch und vergleichbar mit körpereigenen Morphine ( [Endorphine](https://borderliner.ch/biochemie/biochemie.htm) ). Die [synthetischen Morphine](https://borderliner.ch/definition/definitionen.htm) docken an die gleichen Rezeptoren an wie
 die körpereigenen. Zum anderen verhindern sie die Eigenproduktion und lassen es
 das System verlernen diese in ausreichendem Maße zu produzieren. Morphine
 haben zum Teil eine andere Wirkung als Alkohol. Sie beruhigen zwar und es kann
 unter Umständen zu rauschähnlichen Zuständen kommen (z.B. Tramal), dennoch
 und es ist nicht geklärt warum, besitzen sie nach dem Genuss von Alkohol, d.h.
 wenn dieser schon fast abgebaut ist, eine Überbrückungsfunktion (ohne
-Rauschzustand) und wirken auf das [Belohnungssystem](https://blz.borderliner.ch/biochemie/biochemie.htm) (Glück) zum Teil mit
+Rauschzustand) und wirken auf das [Belohnungssystem](https://borderliner.ch/biochemie/biochemie.htm) (Glück) zum Teil mit
 aufputschender Wirkung (ähnlich Amphetamine).
 
 Nachdem M. ja Schmerzen hatte bzw.
 krank war wurde die Einnahme von Schmerzmitteln [Definitionen
-/ Halbwertszeit](https://blz.borderliner.ch/definition/definitionen.htm) vollkommen legitim für sie. Und hier kommen wir zur
+/ Halbwertszeit](https://borderliner.ch/definition/definitionen.htm) vollkommen legitim für sie. Und hier kommen wir zur
 besagten Wasserflasche, die zwei Funktionen erfüllte. Zum einen stillte sie das
 Schluckbedürfnis und zum anderen wurde der trockenen Mund befeuchtet. Morphine
 haben die die Eigenschaft Mundtrockenheit hervorzurufen. Und wenn es M.
@@ -170,18 +169,16 @@ abzubauen, die innere Leere zu füllen, sich zu fühlen, geliebt zu werden und
 zur Bindungsmanipulation. Der Alkohol, die Medikamente wie beschrieben. Alle drei Störungen sicherten
 M. somit das Überleben ihrer Seele.
 
-Das [selbstschädigende Verhalten](https://blz.borderliner.ch/ssv/ssvv.htm) von M. hatte somit enorme Ausmaße erreicht.
+Das [selbstschädigende Verhalten](https://borderliner.ch/ssv/ssvv.htm) von M. hatte somit enorme Ausmaße erreicht.
 
 Nun werden Sie sich fragen ob 
 eine Beziehung mit M. überhaupt möglich ist. Sie ist es, die Frage ist nur wie
 lange? Die Antwort können Sie sich selbst geben.
 
-Hier greift das Wort Beziehung aus dem Kapitel [Beziehung](https://blz.borderliner.ch/beziehung/beziehung.htm) .
+Hier greift das Wort Beziehung aus dem Kapitel [Beziehung](https://borderliner.ch/beziehung/beziehung.htm) .
 
-© "Team der Borderlinezone" 2002-207
 
 (Haftungsausschluß: Die Personen und die
 Handlung sind frei erfunden und sämtliche Ähnlichkeiten mit lebenden oder
 toten Personen sind rein zufällig.)
 
-[ [Nach oben](fallbeispiel_m2.htm) ]

@@ -1,0 +1,32 @@
+{{/* Sidebar navigation that lists all sections and their pages */}}
+<nav class="mb4">
+  <ul class="list pl0">
+    {{ range .Site.Sections }}
+      <li class="mb2">
+        <a href="{{ .RelPermalink }}" class="link dark-blue fw6">{{ .Title }}</a>
+        {{ if .Sections }}
+        <ul class="list pl3 mt1">
+          {{ range .Sections }}
+            <li class="mb1">
+              <a href="{{ .RelPermalink }}" class="link dark-blue">{{ .Title }}</a>
+              {{ if .Pages }}
+              <ul class="list pl3 mt1">
+                {{ range .Pages.ByTitle }}
+                  <li><a href="{{ .RelPermalink }}" class="link dark-blue">{{ .Title }}</a></li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+        {{ else if .Pages }}
+        <ul class="list pl3 mt1">
+          {{ range .Pages.ByTitle }}
+            <li><a href="{{ .RelPermalink }}" class="link dark-blue">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</nav>

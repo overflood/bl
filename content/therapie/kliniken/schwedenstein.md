@@ -10,7 +10,6 @@ slug: schwedenstein
 ---
 
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ Klinik Schwedenstein ] [ [Klinik Hohemark](hohemark.htm) ]
 
 Klinik
 Schwedenstein Fachklinik für Psychosomatische Medizin
@@ -240,10 +239,9 @@ Telefon (03 59 55)
 
 [www.klinik-schwedenstein.de](http://www.klinik-schwedenstein.de) · [info@klinik-schwedenstein.de](mailto:info@klinik-schwedenstein.de)
 
-Informationen als PDF-Dokument. [hier](file:///C:/Dokumente und Einstellungen/Team der blz.borderliner.ch/Eigene Webs/kliniken/schwedenstein.pdf) )
+Informationen als PDF-Dokument. [hier](file:///C:/Dokumente und Einstellungen/Team der borderliner.ch/Eigene Webs/kliniken/schwedenstein.pdf) )
 
 ( zum lesen des Dokumentes
 benötigen Sie den Acrobat Reader ) [Download
 Acrabat-Reader](http://www.adobe.de/products/acrobat/readstep2.html)
 
-[ [Nach oben](kliniken.htm) ] [ [psychiatrische Kliniken, psychosomtische Kliniken](psychiatrische_kliniken.htm) ] [ [Klinik Bad-Bramstedt](badbramstedt.htm) ] [ [Klinik Bad-Dürkheim](badduerkheim.htm) ] [ [Bailant-Kliniken](bailant.htm) ] [ Klinik Schwedenstein ] [ [Klinik Hohemark](hohemark.htm) ]

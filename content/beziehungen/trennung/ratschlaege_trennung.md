@@ -14,9 +14,7 @@ Ratschläge in der und für die Trennung
 
 einer Borderline-Beziehungen
 
-[ [Nach oben](trennung.htm) ] [ [Die Trauerphasen](../trauer/trauer.htm) ] [ [Symptome in der Trennung](symptome.htm) ] [ [ICH nach Borderline-Beziehung](ich_nach_trennung.htm) ] [ [Borderline-Störung, mit dir war es so](../beziehung/beziehung2/beziehung2.htm) ] [ Borderline-Störung, Rat in der Trennung ] [ [Borderline-Störung, ein Treffen in der Trennung](trennung_treffen.htm) ] [ [Was Ihnen passieren kann](was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](stalking.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](trennung.htm) ]
 
 Diese Ratschläge sollen Ihnen helfen
 Schlimmeres zu verhindern. Welche und ob Sie welche annehmen bleibt Ihnen
@@ -27,12 +25,12 @@ Sie sich vor Augen das
 Sie sich in
 einem psychischen Ausnahmezustand befinden, ihr Hirnstoffwechsel nicht mehr
 "normal" funktioniert und Sie ganz anders reagieren, handeln, denken
-und fühlen als unter normalen Umständen. [(Beziehung)](https://blz.borderliner.ch/beziehung/beziehung.htm)
+und fühlen als unter normalen Umständen. [(Beziehung)](https://borderliner.ch/beziehung/beziehung.htm)
 
 - Da
 Ihr Hirnstoffwechsel verrückt spielt führen Sie ihm Hilfe zu. Nehmen Sie
 zusätzlich Vitamin B (komplex), Vitamin C, Magnesium, Zink und Calcium zu sich. Erhältlich in der
-Apotheke. [(Biochemie)](https://blz.borderliner.ch/biochemie/biochemie.htm)
+Apotheke. [(Biochemie)](https://borderliner.ch/biochemie/biochemie.htm)
 
 - Denken
 Sie immer daran das Sie NICHT schuldig sind, auch wenn diese Schuldgefühle Sie
@@ -59,7 +57,7 @@ wenn dann nur kurzfristig, sondern dient dem Manipulationsverhalten.
 Sie den Gedanken, bei einer totalen Trennung, dass ein freundschaftliches
 Verhältnis möglich ist oder wäre. Das wird es nie geben (Ausnahmen gibt es
 zwar, allerdings sind diese äußerst selten). Denn a) sind Sie
-jetzt schwarz und werden es auch bleiben [(Spaltung)](https://blz.borderliner.ch/spaltung/spaltung.html) . b) Wäre das für den Borderliner eine
+jetzt schwarz und werden es auch bleiben [(Spaltung)](https://borderliner.ch/spaltung/spaltung.html) . b) Wäre das für den Borderliner eine
 "als ob Beziehung", die er durch seine Spaltungsmechanismus nicht
 führen kann.
 
@@ -73,12 +71,12 @@ Sie sich vor Augen das
 Sie sich in
 einem psychischen Ausnahmezustand befinden, ihr Hirnstoffwechsel nicht mehr
 "normal" funktioniert und Sie ganz anders reagieren, handeln, denken
-und fühlen als unter normalen Umständen. [(Beziehung)](https://blz.borderliner.ch/beziehung/beziehung.htm)
+und fühlen als unter normalen Umständen. [(Beziehung)](https://borderliner.ch/beziehung/beziehung.htm)
 
 Da
 Ihr Hirnstoffwechsel verrückt spielt führen Sie ihm Hilfe zu. Nehmen Sie
 zusätzlich Vitamin B (komplex), Vitamin C, Magnesium, Zink und Calcium zu sich. Erhältlich in der
-Apotheke. [(Biochemie)](https://blz.borderliner.ch/biochemie/biochemie.htm)
+Apotheke. [(Biochemie)](https://borderliner.ch/biochemie/biochemie.htm)
 
 Denken
 Sie immer daran das Sie NICHT schuldig sind, auch wenn diese Schuldgefühle Sie
@@ -105,7 +103,7 @@ Vergessen
 Sie den Gedanken, bei einer totalen Trennung, dass ein freundschaftliches
 Verhältnis möglich ist oder wäre. Das wird es nie geben (Ausnahmen gibt es
 zwar, allerdings sind diese äußerst selten). Denn a) sind Sie
-jetzt schwarz und werden es auch bleiben [(Spaltung)](https://blz.borderliner.ch/spaltung/spaltung.html) . b) Wäre das für den Borderliner eine
+jetzt schwarz und werden es auch bleiben [(Spaltung)](https://borderliner.ch/spaltung/spaltung.html) . b) Wäre das für den Borderliner eine
 "als ob Beziehung", die er durch seine Spaltungsmechanismus nicht
 führen kann.
 
@@ -166,11 +164,11 @@ umschalten.
 
 - Führen
 Sie Tagebuch indem Sie nicht nur die Geschehnisse des Tages niederschreiben
-sondern auch Ihre Gedanken, Hoffnungen, Gefühle und ganz wichtig Ihre [Träume](https://blz.borderliner.ch/schlaf/traum.htm) [.](http://irrer.online-in.de/schlaf/traum.htm) Es wird Ihnen helfen Spannungen abzubauen und zu überprüfen wo Sie in dem zu bewältigendem
+sondern auch Ihre Gedanken, Hoffnungen, Gefühle und ganz wichtig Ihre [Träume](https://borderliner.ch/schlaf/traum.htm) [.](http://irrer.online-in.de/schlaf/traum.htm) Es wird Ihnen helfen Spannungen abzubauen und zu überprüfen wo Sie in dem zu bewältigendem
 Prozeß stehen.
 
 - Versuchen
-Sie sich möglichst von [Triggern](https://blz.borderliner.ch/definition/definitionen.htm) fern zu halten. Gehen Sie nicht
+Sie sich möglichst von [Triggern](https://borderliner.ch/definition/definitionen.htm) fern zu halten. Gehen Sie nicht
 dort spazieren wo Sie mit "ihm/ihr" waren. Schauen Sie sich keine
 Bilder der Vergangenheit an. Das alles können Sie machen wenn Sie wieder stabil
 sind. Entfernen Sie alles aus der Wohnung welches Sie in irgendeiner Form daran
@@ -184,7 +182,7 @@ verstehen und zulassen, so oft wie möglich darüber.
 - Versuchen
 Sie nicht zu [kompensieren,
 Ihr Verdrängungsmechanismus arbeitet sowieso, nicht bewußt zu unterdrücken
-oder zu verdrängen](https://blz.borderliner.ch/definition/definitionen.htm) . Das
+oder zu verdrängen](https://borderliner.ch/definition/definitionen.htm) . Das
 heißt zuviel Sport, andere Aktivitäten, Stands, etc. Ihr Unterbewusstsein arbeitet. Es würde kommen und dann viel heftiger  und unkontrollierbarer wie
 jetzt. ( z. Bsp. Depressionen, Psychosen, Burn - Out- Syndrom)
 
@@ -310,11 +308,11 @@ umschalten.
 
 Führen
 Sie Tagebuch indem Sie nicht nur die Geschehnisse des Tages niederschreiben
-sondern auch Ihre Gedanken, Hoffnungen, Gefühle und ganz wichtig Ihre [Träume](https://blz.borderliner.ch/schlaf/traum.htm) [.](http://irrer.online-in.de/schlaf/traum.htm) Es wird Ihnen helfen Spannungen abzubauen und zu überprüfen wo Sie in dem zu bewältigendem
+sondern auch Ihre Gedanken, Hoffnungen, Gefühle und ganz wichtig Ihre [Träume](https://borderliner.ch/schlaf/traum.htm) [.](http://irrer.online-in.de/schlaf/traum.htm) Es wird Ihnen helfen Spannungen abzubauen und zu überprüfen wo Sie in dem zu bewältigendem
 Prozeß stehen.
 
 Versuchen
-Sie sich möglichst von [Triggern](https://blz.borderliner.ch/definition/definitionen.htm) fern zu halten. Gehen Sie nicht
+Sie sich möglichst von [Triggern](https://borderliner.ch/definition/definitionen.htm) fern zu halten. Gehen Sie nicht
 dort spazieren wo Sie mit "ihm/ihr" waren. Schauen Sie sich keine
 Bilder der Vergangenheit an. Das alles können Sie machen wenn Sie wieder stabil
 sind. Entfernen Sie alles aus der Wohnung welches Sie in irgendeiner Form daran
@@ -328,7 +326,7 @@ verstehen und zulassen, so oft wie möglich darüber.
 Versuchen
 Sie nicht zu [kompensieren,
 Ihr Verdrängungsmechanismus arbeitet sowieso, nicht bewußt zu unterdrücken
-oder zu verdrängen](https://blz.borderliner.ch/definition/definitionen.htm) . Das
+oder zu verdrängen](https://borderliner.ch/definition/definitionen.htm) . Das
 heißt zuviel Sport, andere Aktivitäten, Stands, etc. Ihr Unterbewusstsein arbeitet. Es würde kommen und dann viel heftiger  und unkontrollierbarer wie
 jetzt. ( z. Bsp. Depressionen, Psychosen, Burn - Out- Syndrom)
 
@@ -415,8 +413,5 @@ krank zu sein, Sie können nichts dafür, doch es ist eine Schande keine Hilfe
 zu suchen und anzunehmen.
 
 © "Team der
-Borderlinezone" 2002-2007
 
-[ [Nach oben](trennung.htm) ] [ [Die Trauerphasen](../trauer/trauer.htm) ] [ [Symptome in der Trennung](symptome.htm) ] [ [ICH nach Borderline-Beziehung](ich_nach_trennung.htm) ] [ [Borderline-Störung, mit dir war es so](../beziehung/beziehung2/beziehung2.htm) ] [ Borderline-Störung, Rat in der Trennung ] [ [Borderline-Störung, ein Treffen in der Trennung](trennung_treffen.htm) ] [ [Was Ihnen passieren kann](was_ihnen_passieren_kann.htm) ] [ [Stalking der Borderline-Störung oder das falsche Opfersyndrom](stalking.htm) ]
 
-[ [Ich-Identität der Borderline-Störung](../bord/bord3/bord_stoerung_1.html) ] [ [Borderlinespektrum & Komorbidität](../bord/borderlinespektrum_mit.htm) ] [ [Spaltung und Projektion Borderline-Störung](../spaltung/spaltung.html) ] [ [Selbstverletzung  Borderline-Störung](../ssv/ssvv.htm) ] [ [Missbrauch,  Formen, Folgen und Auswirkungen](../bord/missbrauch.htm) ] [ [Borderline-Störung, Beziehung](../beziehung/beziehung.htm) ] [ [Interview mit einer Borderlinepersönlichkeit](../bord/interview_mit_borderline.htm) ] [ [Trennung einer Borderline-Beziehung](trennung.htm) ]

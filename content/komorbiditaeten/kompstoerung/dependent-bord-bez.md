@@ -10,9 +10,7 @@ slug: dependent-bord-bez
 ---
 
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]
 
-[ [Nach oben](dependente_stoerung.htm) ] [ Beziehung Dependent und Borderline ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
 Die
 Dependente- Borderline Beziehung
@@ -39,13 +37,13 @@ nie verlassen würde und die dependente Persönlichkeit sendet die Signale
 sowieso.
 
 Als
-Nutzobjekt zur sofortigen Bedürfnisbefriedigung der [Borderlinepersönlichkeit](https://blz.borderliner.ch/bord/bord1/bord1.html) ist die dependente Persönlichkeit bestens geeignet. Sie wartet regelrecht
+Nutzobjekt zur sofortigen Bedürfnisbefriedigung der [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) ist die dependente Persönlichkeit bestens geeignet. Sie wartet regelrecht
 darauf, die Bedürfnisse der Borderlinpersönlichkeit (Borderline-Störung) befriedigen zu dürfen. In
 dieser Beziehung kann die Borderlinepersönlichkeit ihrem Sadismus freien Lauf
 lassen, da die dependente Persönlichkeit dies, und wenn sie noch so leidet,
 heroisch erträgt. Auch wehrt sie sich kaum oder äußerst selten wie sehr sie
 verletzt wird. Sie darf sogar in den Masochismus, als Verleugnungsmechanismus ( [psychische
-Ich-Abwehr](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) ),
+Ich-Abwehr](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) ),
 abgleiten.
 
 Wird
@@ -86,7 +84,7 @@ sich für die dependente Persönlichkeit der Kreis (der Borderliner braucht
 mich, weil..., somit "ich werde geliebt, weil gebraucht) wieder schließt.
 
 Die
-Borderlinepersönlichkeit bekommt die [Liebe](https://blz.borderliner.ch/definition/liebe1.htm) und die Anerkennung, die sucht, aber
+Borderlinepersönlichkeit bekommt die [Liebe](https://borderliner.ch/definition/liebe1.htm) und die Anerkennung, die sucht, aber
 durch ihre Störung nicht halten kann. Der Borderliner kann, weil der andere
 dependent ist, das ewige Wechselspiel von Nähe und Distanz und seine
 Ambivalenz, welche er aus der Kindheit kennt, voll ausleben. So bekommt er in
@@ -125,7 +123,7 @@ der Borderlinepersönlichkeit bekommt die dependente Persönlichkeit das Gefühl
 gebraucht zu werden, was ja für diese wiederum "ich werde geliebt"
 bedeutet. Da sie ja vom Borderliner, im Wechselspiel nicht verlassen wird, bestätigt
 sich für ihn nur "ich muss mich nur noch mehr anstrengen, noch mehr
-lieben". Dass dies die Normalität des Borderliners (der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ) ist, sieht die dependente
+lieben". Dass dies die Normalität des Borderliners (der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ) ist, sieht die dependente
 Persönlichkeit nicht.
 
 Sie
@@ -151,7 +149,7 @@ abwerten, verstehen und Schuld zu weisen (Ambivalenz). Ist der Borderliner
 verschieben.
 
 Beide
-sind in der [Kindheit](https://blz.borderliner.ch/vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) verhaftet und die Beziehung lässt sie wieder und wieder
+sind in der [Kindheit](https://borderliner.ch/vergang_gegenw_zukunf/die_vergangenheit_bestimmt_die_g.htm) verhaftet und die Beziehung lässt sie wieder und wieder
 diese erleben. Jeder der beiden, natürlich jeweils andere Stadien der Kindheit.
 Beide versuchen über den anderen ihre Verletzungen der Kindheit ungeschehen zu
 machen.
@@ -177,20 +175,20 @@ und Deckel, gesucht und gefunden.
 
 Die
 Beziehung in dieser Konstellation ist für beide am intensivsten. Und wenn die
-dependente Persönlichkeit noch [ADHS](https://blz.borderliner.ch/ads/ads.html) im Erwachsenenalter besitzt, geht's
+dependente Persönlichkeit noch [ADHS](https://borderliner.ch/ads/ads.html) im Erwachsenenalter besitzt, geht's
 aber richtig zur Sache. Das ist die Krönung, das Non Plus Ultra.
 
 Die
 Gefühle, in jeder Richtung, die sie dann innerhalb der Beziehung erleben, sind
 so überwältigend, dass beiden die Worte fehlen. Für sie ist es, zumindest bis
 zum Ende, die große, [absolute
-Liebe](https://blz.borderliner.ch/definition/liebe1.htm) . Vom Borderliner als Mystik, Magie oder als
+Liebe](https://borderliner.ch/definition/liebe1.htm) . Vom Borderliner als Mystik, Magie oder als
 Folge der Reinkarnation bezeichnet. Später natürlich als einzige Katastrophe.
 
 In
 der Trennung einer solchen Beziehung hat es die dependente Persönlichkeit
 besonders schwer. Aus folgenden Gründen. Wenn sie es denn schafft, sich zu
-trennen, hält sie dies kaum durch, da wie üblich der [Borderliner](https://blz.borderliner.ch/bord/bord1/bord1.html) wieder
+trennen, hält sie dies kaum durch, da wie üblich der [Borderliner](https://borderliner.ch/bord/bord1/bord1.html) wieder
 auftaucht, um das Spiel auf zu nehmen, wenn der Betroffene an Stabilität
 gewonnen hat, oder weil es ja in der Struktur der dependenten Persönlichkeit
 liegt, sich selbst Schuld zuzuweisen und diese Schuldgefühle über das Aufheben
@@ -201,7 +199,7 @@ der Beziehung ist ja zuerst einmal folgendes passiert. Die Borderlinepersönlich
 hat den "Regelmechanismus", über den wir sprachen, der dependenten Persönlichkeit
 übernommen. Das heißt nicht, das hat er sich zu eigen gemacht, sondern der
 Borderliner regelt jetzt. Das Kontroll- und Machtbedürfnis des Borderliners
-(der Borderline-Störung) wurde ja von der dependenten Persönlichkeit, Ihnen, erfüllt. Sie hätten schon [ADHS](https://blz.borderliner.ch/ads/ads.html) - ler sein müssen, um dem, zumindest zum Teil, hätten widerstehen zu können.
+(der Borderline-Störung) wurde ja von der dependenten Persönlichkeit, Ihnen, erfüllt. Sie hätten schon [ADHS](https://borderliner.ch/ads/ads.html) - ler sein müssen, um dem, zumindest zum Teil, hätten widerstehen zu können.
 Und bei einem vollkommen "Normalen" wäre es gar nicht erst soweit gekommen,
 denn der hätte den Borderliner gleich zum Teufel gejagt.
 
@@ -232,7 +230,7 @@ Persönlichkeit das Verhalten des Borderliners auf sich bezieht.
 
 Der
 Hintergrund dessen liegt im [limbischen
-System](https://blz.borderliner.ch/gehirn/gehirn.htm#limbisches system) (dort liegt das innere Kind jedes Menschen), hauptsächlich in dem
+System](https://borderliner.ch/gehirn/gehirn.htm#limbisches system) (dort liegt das innere Kind jedes Menschen), hauptsächlich in dem
 Falle in der Amygdala dem emotionalen Wächter des Menschen. Das limbische
 System kennt kein Gestern oder Morgen. Es ist zeitlos, es kennt nur
 Gefühlszustände, die wiederum neuronale Netzwerke aktivieren. Es kann also in
@@ -250,7 +248,7 @@ Entwicklungsgeschichte um ein vielfaches älter ist als das Großhirn.
 
 Bei
 einer [gesunden
-ICH-Struktur](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) regelt das ICH über angemessene Abwehrmechanismen diesen
+ICH-Struktur](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) regelt das ICH über angemessene Abwehrmechanismen diesen
 Selbstwert nach und das Grosshirn greift ein und verklickert dem limbischen
 System das die jetzige Situation nichts mit der damaligen als Kind zu tun hat.
 Über die gesunde ICH-Struktur versteht das auch das limbische System und lässt
@@ -258,7 +256,7 @@ ein Regeln des ICH zu.
 
 Anders
 bei der dependenten Persönlichkeit, die ja im Bereich der Neurosen liegt --
-d.h. sie verwendet immer die gleichen (falschen) [Abwehrmechanismen](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) ,
+d.h. sie verwendet immer die gleichen (falschen) [Abwehrmechanismen](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm#ich-abwehr) ,
 deren Über-ICH  eine normale Regelung kaum zu lässt. Wie sie gesehen
 haben sind ja die Säulen I (Gewissen) und II (Leitbilder) des [Über-ICH
 der dependenten Persönlichkeit](../ich/psychodynamisches_modell-dependent.htm) zu stark ausgeprägt, woraus die
@@ -290,24 +288,24 @@ die wie oben gesagt der Borderliner nur zeitlich bedingt kurzfristig ertragen
 kann und  durch die massiven unrealistischen Forderungen des Borderliners
 und deren Nichterfüllbarkeit, welches der Borderliner sofort wahrnimmt, erfolgt
 wieder der [Wechsel
-des Borderliners in die Distanz](https://blz.borderliner.ch/spaltung/sprungverhalten_borderline.htm) .
+des Borderliners in die Distanz](https://borderliner.ch/spaltung/sprungverhalten_borderline.htm) .
 
 Das
 hat zur Folge, dass der dependenten Persönlichkeit gegen Ende der Beziehung nur
 noch ein verschlissenes, klapperndes, [kaum mehr funktionierendes
-"Regelsystem"](https://blz.borderliner.ch/trennung/ich_nach_trennung.htm) zur Verfügung steht. In der entgültigen Trennung dann, wobei
+"Regelsystem"](https://borderliner.ch/trennung/ich_nach_trennung.htm) zur Verfügung steht. In der entgültigen Trennung dann, wobei
 man ja nie weiß, welche Trennung nun die entgültige ist, bricht dieses
 klapperndes "Regelsystem" wie ein marodes Holzgerüst vollkommen zusammen.
-Was wir dann sehen, ist z.B. die [Depression](https://blz.borderliner.ch/depression/depri.html) und /oder das Abgleiten in den [Substanzmittelmissbrauch](https://blz.borderliner.ch/definition/definitionen_1.htm) .
+Was wir dann sehen, ist z.B. die [Depression](https://borderliner.ch/depression/depri.html) und /oder das Abgleiten in den [Substanzmittelmissbrauch](https://borderliner.ch/definition/definitionen_1.htm) .
 
 Sie
 muss durch ihre Persönlichkeitsstruktur ungeheure Energien aufbringen, um ein
 Getrenntsein einigermaßen überstehen zu können. Durch Abhängigkeitsverschiebung
 kann sie in einer Sucht landen. Die Schuldgefühle, die sowieso schon vorhanden
 sind, sind durch die Abwertungen und Schuldzuweisungen des Borderliners, wie wir
-wissen Teil der [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ) übermächtig.
+wissen Teil der [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ) übermächtig.
 Da für sie die Beziehung oberste Priorität hat/hatte, versteht sie die kalte
-und grausame Vorgehensweise ( [Spaltung](https://blz.borderliner.ch/spaltung/spaltung.html) ) des Borderliners nicht. Gut, die ist eh
+und grausame Vorgehensweise ( [Spaltung](https://borderliner.ch/spaltung/spaltung.html) ) des Borderliners nicht. Gut, die ist eh
 von kaum jemanden zu verstehen.
 
 Und
@@ -321,9 +319,9 @@ handelt, wird sie wiederum verurteilt. Fatal, denn dies öffnet dem "Borderlineh
 und dessen Aussagen und Handlungen Tür und Tor.
 
 Denn
-jetzt bestätigt sich die [Paranoia](https://blz.borderliner.ch/bord/borderlinespektrum_mit.htm#f60.0) der Borderlinepersönlichkeit ( [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ),
+jetzt bestätigt sich die [Paranoia](https://borderliner.ch/bord/borderlinespektrum_mit.htm#f60.0) der Borderlinepersönlichkeit ( [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ),
 dass der zurückgebliebene
-Partner "der böse Verfolger" ist und kann ihn sogar, ganz modern, als [Stalker](https://blz.borderliner.ch/trennung/stalking.htm) darstellen.
+Partner "der böse Verfolger" ist und kann ihn sogar, ganz modern, als [Stalker](https://borderliner.ch/trennung/stalking.htm) darstellen.
 
 Wir
 können zusammenfassend sagen, dass in einer Borderline-Beziehung die dependente
@@ -339,14 +337,11 @@ kann das die Chance für die dependente (abhängige) Persönlichkeit sein, ihren
 Kreislauf zu durchbrechen.
 
 [was
-Ihnen passieren kann](https://blz.borderliner.ch/trennung/was_ihnen_passieren_kann.htm)
+Ihnen passieren kann](https://borderliner.ch/trennung/was_ihnen_passieren_kann.htm)
 
 [Ihre
-ICH-Struktur nach einer solchen Beziehung](https://blz.borderliner.ch/trennung/ich_nach_trennung.htm)
+ICH-Struktur nach einer solchen Beziehung](https://borderliner.ch/trennung/ich_nach_trennung.htm)
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [Nach oben](dependente_stoerung.htm) ] [ Beziehung Dependent und Borderline ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ [Selbstfragen zur dependenten Störung](dependent_selbstfr.htm) ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]

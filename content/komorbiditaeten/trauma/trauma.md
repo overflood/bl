@@ -10,7 +10,6 @@ slug: trauma
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ Trauma und postraumatisches Belastungssyndrom ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ]
 
 Das Trauma
 
@@ -26,7 +25,7 @@ physiologische Reaktion bei extremem Streß hat Auswirkungen auf das menschliche
 Gehirn, die auch die daraus entstehende Symptomatik erklärlich macht.
 
 Sie führt unter
-anderem dazu, dass ein Bereich des Gehirns, der so genannte Hippocampus, [](file:///C:/Dokumente und Einstellungen/Team der blz.borderliner.ch/Eigene Webs/gehirn/gehirn.htm) der uns hilft Dinge zu integrieren und archivieren, dysfunktional wird und ein
+anderem dazu, dass ein Bereich des Gehirns, der so genannte Hippocampus, [](file:///C:/Dokumente und Einstellungen/Team der borderliner.ch/Eigene Webs/gehirn/gehirn.htm) der uns hilft Dinge zu integrieren und archivieren, dysfunktional wird und ein
 anderer Hirnbereich, die Amygdala (Mandelkern) die Ängste, die Gefühle und
 Sinneseindrücke dieser Situation abspeichert ohne zeitliche Zuordnung. Auslösereize,
 die an das Trauma erinnern, führen dann immer wieder dazu, dass das qualvoll
@@ -52,7 +51,7 @@ Opfer ritueller Gewalt, kann zu Andauernden Persönlichkeitsveränderungen nach
 Extrembelastung führen. Diese Störung ist gekennzeichnet durch eine äußerst
 feindliche und mißtrauische Haltung gegenüber der Welt, durch soziale Leere
 und Hoffnungslosigkeit sowie ein chronisches Gefühl der Anspannung bei ständigem
-Entfremdungsgefühl. Ebenso kann es zu [Dissoziativen Störungen](https://blz.borderliner.ch/disso/disso.htm) kommen, bis hin
+Entfremdungsgefühl. Ebenso kann es zu [Dissoziativen Störungen](https://borderliner.ch/disso/disso.htm) kommen, bis hin
 zur Dissoziativen Identitätsstörung (DIS) (früher multiple Persönlichkeitsstörung).
 Häufig sind es auch viele körperliche Symptome, die Gewaltopfern die Bewältigung
 des Alltags schwer machen, zum Beispiel als chronische Schmerzerkrankung oder

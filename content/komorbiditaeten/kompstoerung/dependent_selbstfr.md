@@ -10,9 +10,7 @@ slug: dependent_selbstfr
 ---
 
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ Selbstfragen zur dependenten Störung ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
 Selbstfragen
 zur dependenten Störung
@@ -54,7 +52,7 @@ hinzuziehen. Konzentrieren Sie sich bei der Beantwortung auf sich selbst und
 Ihre Gefühle, nicht auf den Verstand und Logik.
 
 Beachten
-Sie Folgendes (sieh auch [Biochemie](https://blz.borderliner.ch/biochemie/biochemie.htm) ), wenn Sie aus einer
+Sie Folgendes (sieh auch [Biochemie](https://borderliner.ch/biochemie/biochemie.htm) ), wenn Sie aus einer
 Borderlinebeziehung kommen oder in einer solchen sind, befanden bzw. befinden
 Sie sich sowieso in einem Abhängigkeitsverhältnis. Das heißt, Sie haben
 dependente Strukturen entwickelt oder bestehende werden drastisch verstärkt.
@@ -118,12 +116,11 @@ Diagnose mitbringen. Das kratzt an ihrem Ego. Ist
 das der Fall, können Sie den Therapeuten sowieso in den Wind schießen. Er
 sollte konstruktiv mit Ihrer Vorarbeit umgehen. Sie können ihn aber auch
 dadurch testen. Wie dem auch sei, eine Therapie (z. Bsp. [Gesprächs-, kognitive
-Verhaltenstherapie,](https://blz.borderliner.ch/theraformen/theraformen.htm) etc.) kann hier nicht geliefert werden. Wieder
+Verhaltenstherapie,](https://borderliner.ch/theraformen/theraformen.htm) etc.) kann hier nicht geliefert werden. Wieder
 nur einige Vorschläge, Hilfen, bzw. Lösungsansätze. Das Erkennen ist ja noch
 keine Lösung, sondern nur der zweite Schritt. Sie
 müssen erst einmal für sich entscheiden, ob Sie etwas verändern wollen und
-wenn ja, wie? Viele Wege führen nach Rom. © "Team der Borderlinezone"
-2003-2007 [ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ Selbstfragen zur dependenten Störung ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ] [ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]
+2003-2007
 
 Trinken Sie gerade Alkohol, während Sie diese Seite lesen und 
       Wenn ja, warum? (Trennung?) |  |  |
@@ -561,7 +558,7 @@ Ist
 das der Fall, können Sie den Therapeuten sowieso in den Wind schießen. Er
 sollte konstruktiv mit Ihrer Vorarbeit umgehen. Sie können ihn aber auch
 dadurch testen. Wie dem auch sei, eine Therapie (z. Bsp. [Gesprächs-, kognitive
-Verhaltenstherapie,](https://blz.borderliner.ch/theraformen/theraformen.htm) etc.) kann hier nicht geliefert werden.
+Verhaltenstherapie,](https://borderliner.ch/theraformen/theraformen.htm) etc.) kann hier nicht geliefert werden.
 
 Wieder
 nur einige Vorschläge, Hilfen, bzw. Lösungsansätze. Das Erkennen ist ja noch
@@ -571,9 +568,6 @@ Sie
 müssen erst einmal für sich entscheiden, ob Sie etwas verändern wollen und
 wenn ja, wie? Viele Wege führen nach Rom.
 
-© "Team der Borderlinezone"
 2003-2007
 
-[ [Nach oben](dependente_stoerung.htm) ] [ [Beziehung Dependent und Borderline](dependent-bord-bez.htm) ] [ [Beziehung Narzisst und Dependent](dependent-narz-bez.htm) ] [ Selbstfragen zur dependenten Störung ] [ [Tips für Betroffene der dependenten Störung](tips_betroffene.htm) ] [ [dependente Störung & Komorbidität](dependente_stoerung_1.htm) ]
 
-[ [histrionische Persönlichkeitsstörung](../histrio/narz1/narz_f60_4.html) ] [ [Die dependente Störung](dependente_stoerung.htm) ]

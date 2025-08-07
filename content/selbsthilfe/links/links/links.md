@@ -10,7 +10,6 @@ slug: links
 ---
 
 
-[ [Nach oben](../../selbsthilfe/selbsthilfe.htm) ] [ [Adressen-Krisenintervention](../../selbsthilfe/adressen-krisenintervention.htm) ] [ nützliche Links ] [ [Kliniken](../../kliniken/kliniken.htm) ] [ [Änderungsantrag](../../selbsthilfe/verschlimmerungsantrag-bl.pdf) ] [ [Wochenplan](../../selbsthilfe/wochenplan.htm) ] [ [Wochenplan PDF](../../selbsthilfe/wochenplan.pdf) ]
 
 sehr nützliche Links, Adressen und Telefonnummern
 
@@ -47,4 +46,3 @@ mich hiermit ausdrücklich von allen Inhalten aller gelinkten Seiten auf meiner
 Homepage und mache mir ihre Inhalte nicht zu eigen. Diese Erklärung gilt für
 alle auf dieser Homepage angebrachten Links die zu Angeboten Dritter führen.
 
-[ [Nach oben](../../selbsthilfe/selbsthilfe.htm) ] [ [Adressen-Krisenintervention](../../selbsthilfe/adressen-krisenintervention.htm) ] [ nützliche Links ] [ [Kliniken](../../kliniken/kliniken.htm) ] [ [Änderungsantrag](../../selbsthilfe/verschlimmerungsantrag-bl.pdf) ] [ [Wochenplan](../../selbsthilfe/wochenplan.htm) ] [ [Wochenplan PDF](../../selbsthilfe/wochenplan.pdf) ]

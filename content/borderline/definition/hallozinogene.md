@@ -10,7 +10,6 @@ slug: hallozinogene
 ---
 
 
-[ [Nach oben](definitionen_1.htm) ] [ [Entstehung der Sucht](sucht.htm) ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ Hallozinogene ] [ [Opiate](opiate.htm) ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](med-leitlinien-drogen.pdf) ]
 
 Hallozinogene
 
@@ -116,4 +115,3 @@ Ololiuqui (Samen einer Trichterpflanze), Alanjaska (Rinde
 einer Liane), Ketamin (Narkosemittel), MDMA (Ecstasy) und die sogenannten
 "Designerdrogen" gehören zu den Halluzinogenen dritter Ordnung.
 
-[ [Nach oben](definitionen_1.htm) ] [ [Entstehung der Sucht](sucht.htm) ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ Hallozinogene ] [ [Opiate](opiate.htm) ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](med-leitlinien-drogen.pdf) ]

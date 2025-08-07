@@ -10,19 +10,17 @@ slug: gehirn
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
-[ [Nach oben](../biochemie/biochemie.htm) ] [ [Stress in einer Borderline-Beziehung 1](../biochemie/stress-border1a1.htm) ] [ [Stress in eine Borderline-Beziheung 2](../biochemie/stress-border2a2.htm) ] [ Gehirn ] [ [exekutive Funktionen in der Borderline-Störung](../bord/exekutive_funktionen.htm) ]
 
 Das menschliche Gehirn
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch) | [](https://blz.borderliner.ch)
+[](https://borderliner.ch) | [](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Kortex (auch Neo-Kortex) = Großhirn, Sitz der Logik, des Verstandes, der
 motorischen Assoziationsfelder und der Projektionsfelder. Es ist das Zentrum aller
@@ -104,11 +102,11 @@ Umcodierung und Übertragung von Informationen aus dem Kurzzeit- in das
 Langzeitgedächtnis und das Behalten räumlicher Orientierungen. Er steht in
 sehr enger Verbindung zwischen Gedächtnis, Streßbewältigung  ( [eine
 erhörte längerfristige Freisetzung von Glukocortikoiden führt zur Zerstörung
-hippcampaler Neuronen](https://blz.borderliner.ch/beziehung/beziehung.htm#Stress) ), Alter und Schlaf da der Hippocampus bei voller
+hippcampaler Neuronen](https://borderliner.ch/beziehung/beziehung.htm#Stress) ), Alter und Schlaf da der Hippocampus bei voller
 Funktion einen bremsenden Einfluß auf die Ausschüttung des Corticotropin
 Releasing Hormons (CRH) (Stereßfreigabehormon des Hyphotalamus, gibt dann (ACTH),
 hat und dieser folglich im Alter bei fehlendem Tiefschlaf weniger gebremst wird.
-Dies hat zur Folge weniger Schlaf und unruhiger [Schlaf](https://blz.borderliner.ch/schlaf/traum.htm) .
+Dies hat zur Folge weniger Schlaf und unruhiger [Schlaf](https://borderliner.ch/schlaf/traum.htm) .
 
 Amygdala = Sie ist der entscheidende
 Wächter bei der Kontrolle der Emotionen und hat entscheidenden Einfluß auf das
@@ -116,11 +114,11 @@ emotionale Gedächtnis. Wird auch als Mandelkern bezeichnet.
 
 Das limbische System Sitz der Gefühle
 
-[](https://blz.borderliner.ch) | [](https://blz.borderliner.ch)
+[](https://borderliner.ch) | [](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Gleichgültig ob
 uns Sinneswahrnehmungen, Verhaltensweisen, Erlebnisse oder Drogen Glücksgefühle
@@ -181,7 +179,7 @@ Der Nucleus accumbens (Teil des limbischen
 Systems) | Das Belohnungssystem
 (Teil des limbischen System)
 
-[](https://blz.borderliner.ch) | [](https://blz.borderliner.ch)
+[](https://borderliner.ch) | [](https://borderliner.ch)
 
 Der Nucleus accumbens (Teil des limbischen
 Systems)
@@ -189,9 +187,9 @@ Systems)
 Das Belohnungssystem
 (Teil des limbischen System)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Dabei spielt der Nucleus accumbens eine Schlüsselrolle.
 Man könnte ihn auch als zentrale Schaltstelle des Belohnungssystems
@@ -236,8 +234,8 @@ hervorrufen, ist jedoch noch weitgehend unbekannt.
 
 Sucht, egal welche führt also zu Gewöhnung und
 im Umkehrschluss zu Entzugserscheinungen. Dies ist nicht nur deutlich zu sehen
-bei der Einnahme von chemischen Drogen, sondern auch in einer [Borderline-Beziehung](https://blz.borderliner.ch/beziehung/beziehung.htm) .
-Und hier nicht nur beim Partner sondern auch bei der [Borderlinepersönlichkeit](https://blz.borderliner.ch/bord/bord1/bord1.html) selbst. Es besteht kein Unterschied, dem dem Belohnungssystem ist es egal welche
+bei der Einnahme von chemischen Drogen, sondern auch in einer [Borderline-Beziehung](https://borderliner.ch/beziehung/beziehung.htm) .
+Und hier nicht nur beim Partner sondern auch bei der [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) selbst. Es besteht kein Unterschied, dem dem Belohnungssystem ist es egal welche
 Droge es verpasst bekommt, zu Einnahme von chemischen Drogen.
 
 Nach der Einnahme chemischer Drogen ist das Glück meist
@@ -251,7 +249,7 @@ gewünschten euphorische Wirkung erzielen.
 Irgendwann dient die Drogeneinnahme nur noch dazu,
 die oft schweren physischen, wie auch psychischen Entzugssymptome zu vermeiden.
 
-Gleiches gilt bezogen auf die [Borderline-Beziehung](https://blz.borderliner.ch/beziehung/beziehung.htm) . Irgendwann ist der Partner an dem Punkt das er versucht
+Gleiches gilt bezogen auf die [Borderline-Beziehung](https://borderliner.ch/beziehung/beziehung.htm) . Irgendwann ist der Partner an dem Punkt das er versucht
 diese "Droge", genannt Borderliner, die ihn tötet, sich einzuverleiben
 um den quälenden psychischen (die auch körperlich wahrgenommen werden)
 Schmerzen zu entgehen.
@@ -259,7 +257,7 @@ Schmerzen zu entgehen.
 Das neuronale Netzwerk, seine Neuronen und
 Synapsen
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Was passiert nun, wenn wir uns erinnern, zum Beispiel an das
 Gesicht des Expartners?
@@ -267,7 +265,7 @@ Gesicht des Expartners?
 Ein spezielles Gesicht entspricht im Gehirn einer ganz
 bestimmten Kombination vieler Nervenzellen, einer
 Netzwerkstruktur, die, allein durch ein Signal (Trigger), das heißt jemand der
-ähnlich geht, riecht, aussieht, welches nicht bewußt aufgenommen werden muß, gemeinsam feuern . [](https://blz.borderliner.ch) hier ein Ausschnitt als Beispiel. Dieses
+ähnlich geht, riecht, aussieht, welches nicht bewußt aufgenommen werden muß, gemeinsam feuern . [](https://borderliner.ch) hier ein Ausschnitt als Beispiel. Dieses
 Ausschnitt im Netzwerk nun feuert nun in erhöhtem Maße und löst eine ganze
 Kaskade von Empfindungen, Bildern und Reaktionen aus. Warum das so ist, ist
 ziemlich einfach zu erklären. Dieses Netzwerk, welches jetzt feuert, ist mit
@@ -283,7 +281,7 @@ entsteht ein Muster im Gehirn, das den Expartner repräsentiert. So gibt es für
 alle Objekte, Zahlen, Gesichter Sachverhalte ein spezielles Muster von
 Nervenzellen, die gemeinsam aktiv sind.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Eine biologische Nervenzelle besteht aus dem eigentlichen
 Zellkörper (Soma), den Dendriten, das sind kurze Leitungen (um
@@ -306,11 +304,11 @@ proportional zur ankommenden Spikefrequenz. Dabei können die Spikes zur
 Anregung des Somas beitragen (exzitatorische Synapsen) oder im Gegenteil hemmend
 wirken (inhibitorische Synapsen).
 
-[](https://blz.borderliner.ch) | [](https://blz.borderliner.ch)
+[](https://borderliner.ch) | [](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 An diesem Bsp. sehen Sie stärkere Dendriten und Axone und weniger stärkere.
 Wie dargestellt heißt die Verbindung zwischen beiden Neuronen Synapse (siehe
@@ -341,9 +339,9 @@ Borderline-Beziehung mehr oder weniger geschädigt sind und es Ihnen so schwer
 fällt Gewesenes zu vergessen. Kleinste Auslöser reichen aus um Ihre
 neuronalen, auf Borderline programmierten, Netzwerke feuern zu lassen.
 
-| [](https://blz.borderliner.ch)
+| [](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Im nachfolgendem Bild sehen Sie die Verbindung zweier Neuronen den
 sogenannten Synapsen. Die Verbindung ist nicht statisch. Übertragen werden
@@ -354,11 +352,11 @@ und vom nachfolgenden Neuron über das subsynaptische / postsynaptische Membran
 aufgenommen. Sie docken dort an entsprechende Rezeptoren an und lösen wiederum
 eine elektrisch Aktivität aus.
 
-[](https://blz.borderliner.ch) | [](https://blz.borderliner.ch)
+[](https://borderliner.ch) | [](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Nicht benötigte Transmitter werden vom ausschüttendem Endköpfchen wieder
 aufgenommen um für die nächste Aktivität zur Verfügung zu stehen. Im unteren
@@ -382,13 +380,10 @@ anderer greifen in den synaptischen Spalt ein und verzögern die Wiederaufnahme
 gewisser Transmitter (Serotonin, Noradrenalin, Dopamin). Diese stehen somit
 länger zur Verfügung und wirken so zum Bsp. der Depression entgegen.
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
-© "Team der Borderlinezone"
   2002-2007
 
-[ [Nach oben](../biochemie/biochemie.htm) ] [ [Stress in einer Borderline-Beziehung 1](../biochemie/stress-border1a1.htm) ] [ [Stress in eine Borderline-Beziheung 2](../biochemie/stress-border2a2.htm) ] [ Gehirn ] [ [exekutive Funktionen in der Borderline-Störung](../bord/exekutive_funktionen.htm) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

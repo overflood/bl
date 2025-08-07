@@ -10,7 +10,6 @@ slug: angststoerungen
 ---
 
 
-[ Persönlickeitsstörung ] [ Liebe und Hass ] [ Die Biochemie des Gehirns ] [ Schlaf & Traum ] [ Derpression ] [ Trauma und postraumatisches Belastungssyndrom ] [ Dissoziation ] [ Esstörungen ] [ was ist ADS / ADHS Einleitung ] [ Angststörungen ] [ Therapieformen ] [ ICD-10 ] [ DSM-IV ] [ Begriffsdefinitionen ] [ Drogen ] [ Selbsthilfe ] [ Tal der Tränen ]
 
 Angst Sie können Angst nur besiegen indem
         Sie sich ihr stellen. Angst ist ein Zustand in dem Sie glauben er könne Sie
@@ -55,7 +54,6 @@ Angst Sie können Angst nur besiegen indem
         jetzt aus den Seiten, dennoch gibt es Borderliner bei denen die soziale Angst
         eine enorme Rolle spielt. Aus diesem Grunde sind nachfolgende Seiten entstanden. Um diese Datei laden und
         lesen zu können benötigen Sie den Acrobat Reader (siehe Download) [Download
-          Acrobat Reader](http://www.adobe.de/products/acrobat/readstep2.html) © "Team der Borderlinezone"
     2002- 2006
 
 Angst Sie können Angst nur besiegen indem
@@ -101,7 +99,6 @@ Angst Sie können Angst nur besiegen indem
         jetzt aus den Seiten, dennoch gibt es Borderliner bei denen die soziale Angst
         eine enorme Rolle spielt. Aus diesem Grunde sind nachfolgende Seiten entstanden. Um diese Datei laden und
         lesen zu können benötigen Sie den Acrobat Reader (siehe Download) [Download
-          Acrobat Reader](http://www.adobe.de/products/acrobat/readstep2.html) © "Team der Borderlinezone"
     2002- 2006
 
 Sie können Angst nur besiegen indem
@@ -203,7 +200,5 @@ Um diese Datei laden und
         lesen zu können benötigen Sie den Acrobat Reader (siehe Download) [Download
           Acrobat Reader](http://www.adobe.de/products/acrobat/readstep2.html)
 
-© "Team der Borderlinezone"
     2002- 2006
 
-[ [Test zur Angststörung](angst_test.htm) ] [ [Angstsörungen 1](angst/angst-border.pdf) ] [ [ein Psychodrama](flugangst.pps) ]

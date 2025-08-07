@@ -10,7 +10,6 @@ slug: sucht
 ---
 
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](liebe1.htm) ] [ [Die Biochemie des Gehirns](../biochemie/biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](icd10.htm) ] [ [DSM-IV](dsm.htm) ] [ [Begriffsdefinitionen](definitionen.htm) ] [ [Drogen](definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]
 
 Entstehung
 
@@ -79,8 +78,8 @@ verantwortlich, dass man immer wieder Situationen anstrebt, die Glücksgefühle
 hervorrufen. Damit stellt Dopamin eine Art chemischen Hauptschalter des
 Begehrens und ein wichtiges Element bei der Entstehung von Sucht dar:
 
-Suchtstoffe wie [Kokain](https://blz.borderliner.ch/definition/kokain_crack.htm) ,
-Heroin, [Ecstasy](https://blz.borderliner.ch/definition/ecstasy_und_amphetamine.htm) , [Opiate](https://blz.borderliner.ch/definition/opiate.htm) , etc. setzen im Belohnungssystem vermehrt Dopamin frei.
+Suchtstoffe wie [Kokain](https://borderliner.ch/definition/kokain_crack.htm) ,
+Heroin, [Ecstasy](https://borderliner.ch/definition/ecstasy_und_amphetamine.htm) , [Opiate](https://borderliner.ch/definition/opiate.htm) , etc. setzen im Belohnungssystem vermehrt Dopamin frei.
 
 Das
 Dopamidensystem erhält alledings Schützenhilfe von anderen Botenstoffen , den körpereigenen Opioiden und den Cannabinoiden. Sowohl Opiatdrogen wie
@@ -115,10 +114,10 @@ hervorrufen, ist jedoch noch weitgehend unbekannt.
 
 Sucht, egal welche führt also zu Gewöhnung und
 im Umkehrschluss zu Entzugserscheinungen. Dies ist nicht nur deutlich zu sehen
-bei der Einnahme von chemischen Drogen, sondern auch in einer [Borderline-Beziehung](https://blz.borderliner.ch/beziehung/beziehung.htm) .
-Und hier nicht nur beim Partner sondern auch bei der [Borderlinepersönlichkeit](https://blz.borderliner.ch/bord/bord1/bord1.html) selbst. Es besteht kein Unterschied, dem dem Belohnungssystem ist es egal welche
+bei der Einnahme von chemischen Drogen, sondern auch in einer [Borderline-Beziehung](https://borderliner.ch/beziehung/beziehung.htm) .
+Und hier nicht nur beim Partner sondern auch bei der [Borderlinepersönlichkeit](https://borderliner.ch/bord/bord1/bord1.html) selbst. Es besteht kein Unterschied, dem dem Belohnungssystem ist es egal welche
 Droge es verpasst bekommt, zu Einnahme von [chemischen
-Drogen](https://blz.borderliner.ch/definition/hallozinogene.htm) .
+Drogen](https://borderliner.ch/definition/hallozinogene.htm) .
 
 Nach der Einnahme chemischer Drogen ist das Glück meist
 nur von kurzer Dauer. Kaum lässt die Wirkung der Substanz nach, sinkt die
@@ -139,7 +138,7 @@ Schmerzen zu entgehen.
 
 Belohnung, bzw. das Merken der
 Belohnung vom Belohnungssystem (Ausbildung neuronaler Netzwerke), besitzt also
-einen entscheidenden Moment der ursprünglichen Motivation. Ist die [Assoziation](https://blz.borderliner.ch/definition/definitionen.htm#assoziation) zwischen bedingtem Reiz und Reaktion einmal hergestellt, so entsteht bei
+einen entscheidenden Moment der ursprünglichen Motivation. Ist die [Assoziation](https://borderliner.ch/definition/definitionen.htm#assoziation) zwischen bedingtem Reiz und Reaktion einmal hergestellt, so entsteht bei
 Wiederholung der Belohnung eine Wiederverstärkung der bedingten Reaktion
 (Konditionierung). Deren Ausbleiben allerdings über einen bestimmten Zeitraum
 hinweg führt zur Auslöschung.
@@ -220,7 +219,7 @@ drei Beispiele.
 - Unglückliche
     Menschen betrachten schwierige Lebensphasen grundsätzlich als endgültig.
     (Ich bin am Ende, ich kann nicht mehr, etc.). Umgekehrt fällt allerdings
-    die Reaktion auf angenehme Ereignisse aus. ( [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ).
+    die Reaktion auf angenehme Ereignisse aus. ( [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ).
     Pessimisten betrachten angenehme Ereignisse bestenfalls als glückliche
     Zufälle. Glückliche fühlen sich in ihrer optimistischen Haltung
     bestätigt.
@@ -239,7 +238,7 @@ drei Beispiele.
 Unglückliche
     Menschen betrachten schwierige Lebensphasen grundsätzlich als endgültig.
     (Ich bin am Ende, ich kann nicht mehr, etc.). Umgekehrt fällt allerdings
-    die Reaktion auf angenehme Ereignisse aus. ( [Borderline-Störung](https://blz.borderliner.ch/bord/bord1/bord1.html) ).
+    die Reaktion auf angenehme Ereignisse aus. ( [Borderline-Störung](https://borderliner.ch/bord/bord1/bord1.html) ).
     Pessimisten betrachten angenehme Ereignisse bestenfalls als glückliche
     Zufälle. Glückliche fühlen sich in ihrer optimistischen Haltung
     bestätigt.
@@ -264,7 +263,5 @@ beständige Glück in mir finde.
 
 weiter folgt
 
-© "Team der Borderlinezone"
 2002-2007
 
-[ [Nach oben](definitionen_1.htm) ] [ Entstehung der Sucht ] [ [Amphetamine](ecstasy_und_amphetamine.htm) ] [ [Kokain](kokain_crack.htm) ] [ [Hallozinogene](hallozinogene.htm) ] [ [Opiate](opiate.htm) ] [ [Alkohol](../alkohol/alkohol.html) ] [ [mediz. Leitlinien Drogen](med-leitlinien-drogen.pdf) ]

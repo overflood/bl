@@ -10,7 +10,6 @@ slug: stress-border2a2
 ---
 
 
-[ [Nach oben](biochemie.htm) ] [ [Stress in einer Borderline-Beziehung 1](stress-border1a1.htm) ] [ Stress in eine Borderline-Beziheung 2 ] [ [Gehirn](../gehirn/gehirn.htm) ] [ [exekutive Funktionen in der Borderline-Störung](../bord/exekutive_funktionen.htm) ]
 
 Die Dis-Stressantwort des Körpers
 
@@ -100,8 +99,5 @@ noch Depression, Mattheit, Abgeschlagenheit durch den veränderten biochemischen
 Stoffwechsel und oft auch sozialer Rückzug.
 
 ©
-"Team der Borderlinezone" 2002-2007
 
-[ [zurück](https://blz.borderliner.ch/biochemie/biochemie.htm#BL-Stress) ]
 
-[ [Persönlickeitsstörung](../persstoerung/persstoerung1.html) ] [ [Liebe und Hass](../definition/liebe1.htm) ] [ [Die Biochemie des Gehirns](biochemie.htm) ] [ [Schlaf & Traum](../schlaf/traum.htm) ] [ [Derpression](../depression/depri.html) ] [ [Trauma und postraumatisches Belastungssyndrom](../trauma/trauma.htm) ] [ [Dissoziation](../disso/dissoziation.htm) ] [ [Esstörungen](../ess/esst1.html) ] [ [was ist ADS / ADHS Einleitung](../ads/ads.html) ] [ [Angststörungen](../angststoerung/angststoerungen.htm) ] [ [Therapieformen](../theraformen/theraformen.htm) ] [ [ICD-10](../definition/icd10.htm) ] [ [DSM-IV](../definition/dsm.htm) ] [ [Begriffsdefinitionen](../definition/definitionen.htm) ] [ [Drogen](../definition/definitionen_1.htm) ] [ [Selbsthilfe](../selbsthilfe/selbsthilfe.htm) ] [ [Tal der Tränen](../widmung/widmung_1.html) ]

@@ -14,7 +14,6 @@ nach DMSR die
 
 narzisstische Störung
 
-[ [Nach oben](../narzissmus/narz_1.htm) ] [ [medizin. Leitlinien Narzissmus](../AWMF-Narzissmus.pdf) ] [ [psychodynamisches Modell Narzissmus](../narzissmus/psychodynamisches_modell-narzissmus.htm) ] [ Narzissmus nach DSM ] [ [Narzissmus nach ICD-10](../narz1/narz_f60_4.html) ] [ [die narzisstische Perversion](../narz3/narzisstische_perversion.htm) ]
 
 Kriterien
 
@@ -57,6 +56,4 @@ Der Betroffene ist innerlich mit starken Neidgefühlen auf
 andere beschäftigt.
 
 ©
-"Team der Borderlinezone" 2002-2007
 
-[ [Nach oben](../narzissmus/narz_1.htm) ] [ [medizin. Leitlinien Narzissmus](../AWMF-Narzissmus.pdf) ] [ [psychodynamisches Modell Narzissmus](../narzissmus/psychodynamisches_modell-narzissmus.htm) ] [ Narzissmus nach DSM ] [ [Narzissmus nach ICD-10](../narz1/narz_f60_4.html) ] [ [die narzisstische Perversion](../narz3/narzisstische_perversion.htm) ]

@@ -10,7 +10,6 @@ slug: atypisch_bulemia_nervosa
 ---
 
 
-[ [Nach oben](bulemianervosa.html) ]
 
 Unter dem Oberbegriff Esstörungen werden zwei wichtige und
 eindeutige Syndrome beschrieben: Anorexia nervosa und Bulimia nervosa
@@ -54,6 +53,4 @@ beschäftigen, sind aufgefordert, ihre eigene Entscheidung über Zahl und Inhalt
 der geforderten Kriterien zu fällen.
 
 © "Team der
-Borderlinezone  2002-2007
 
-[ [Nach oben](bulemianervosa.html) ]

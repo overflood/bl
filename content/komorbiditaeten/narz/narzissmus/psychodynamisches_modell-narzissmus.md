@@ -10,7 +10,6 @@ slug: psychodynamisches_modell-narzissmus
 ---
 
 
-[ [Nach oben](narz_1.htm) ] [ [medizin. Leitlinien Narzissmus](../AWMF-Narzissmus.pdf) ] [ psychodynamisches Modell Narzissmus ] [ [Narzissmus nach DSM](../narz2/narzistische_persoenlichkeitsstoer_dmsr.html) ] [ [Narzissmus nach ICD-10](../narz1/narz_f60_4.html) ] [ [die narzisstische Perversion](../narz3/narzisstische_perversion.htm) ]
 
 Psychodynamisches Modell
 
@@ -27,9 +26,9 @@ von dort über den jeweils zugehörigen unteren Link oder über den Browser
 Returnbutton auf diese Seite zurück.
 
 [klick
-hier](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm) [](https://blz.borderliner.ch/ich/psychodynamisches_modell-normal.htm)
+hier](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm) [](https://borderliner.ch/ich/psychodynamisches_modell-normal.htm)
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ICH:
 
@@ -121,7 +120,7 @@ IS        = Ich-Diskrepanz,
 VI       = Vergleich Ideal-Ich
     / Ideal Selbst versus Ich-Ideal / Ideal Objekte
 
-[](https://blz.borderliner.ch)
+[](https://borderliner.ch)
 
 Legende ÜBER-ICH:
 
@@ -149,9 +148,6 @@ B1,B1  = Gesamtkraft, Gesamtenergie die aus Säule I
 B2        = Gesamtkraft,
     Gesamtenergie die aus Säule III des Über-Ich auf das ICH drücken
 
-© "Team der Borderlinezone"
 2005-2007
 
-[ [weiter Narzissmus](narz_1.htm) ]
 
-[ [Nach oben](narz_1.htm) ] [ [medizin. Leitlinien Narzissmus](../AWMF-Narzissmus.pdf) ] [ psychodynamisches Modell Narzissmus ] [ [Narzissmus nach DSM](../narz2/narzistische_persoenlichkeitsstoer_dmsr.html) ] [ [Narzissmus nach ICD-10](../narz1/narz_f60_4.html) ] [ [die narzisstische Perversion](../narz3/narzisstische_perversion.htm) ]

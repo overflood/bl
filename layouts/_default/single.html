@@ -1,0 +1,28 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $page := . }}
+  <div class="flex-l mw9 center ph3 flex-wrap">
+    <!-- Sidebar: visible on larger screens -->
+    <aside class="w-20-l dn dib-l pr4 order-1">
+      {{ partial "sidebar.html" . }}
+    </aside>
+    <!-- Main article content -->
+    <article class="w-100 w-80-l">
+      <header class="mt4">
+        <h1 class="f2 athelas mt0 mb3">{{ .Title }}</h1>
+        {{ if not .Date.IsZero }}
+        <time class="f6 dib db-ns gray" datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date | time.Format (compare.Default "2. January 2006" .Site.Params.date_format) }}
+        </time>
+        {{ end }}
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 serif mid-gray">
+        {{ .Content }}
+      </div>
+      {{- partials.Include "tags.html" . -}}
+    </article>
+  </div>
+{{ end }}

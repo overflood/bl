@@ -10,7 +10,6 @@ slug: antidepressiva
 ---
 
 
-[ [Nach oben](definitionen.htm) ] [ Antidepressiva Seroxat ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ [Valium](borderline-valium.htm) ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
 
 Seroxat
 
@@ -60,7 +59,7 @@ Apotheker. Kopfschmerzen Magen-Darm-Beschwerden Mundtrockenheit Übelkeit Müdig
 weiteren SSRI oder stimmungsaufhellenden Substanzen vom Typ der MAO-Hemmer
 kombiniert werden. Vor oder nach der Einnahme solcher Substanzen muss ein
 zeitlicher Abstand von mindestens zwei Wochen eingehalten werden. In Kombination mit Blutgerinnungshemmern ist die Blutungsneigung erhöht. Alkohol und andere beruhigend wirkende Substanzen verstärken die Wirkung von
-Paroxetin. [ [Nach oben](definitionen.htm) ] [ Antidepressiva Seroxat ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ [Valium](borderline-valium.htm) ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+Paroxetin.
 
 - Dieses Arzneimittel kann auch bei bestimmungsgemäßem
     Gebrauch das Reaktionsvermögen so weit verändern, dass die Fähigkeit zur
@@ -85,7 +84,7 @@ Apotheker. Kopfschmerzen Magen-Darm-Beschwerden Mundtrockenheit Übelkeit Müdig
 weiteren SSRI oder stimmungsaufhellenden Substanzen vom Typ der MAO-Hemmer
 kombiniert werden. Vor oder nach der Einnahme solcher Substanzen muss ein
 zeitlicher Abstand von mindestens zwei Wochen eingehalten werden. In Kombination mit Blutgerinnungshemmern ist die Blutungsneigung erhöht. Alkohol und andere beruhigend wirkende Substanzen verstärken die Wirkung von
-Paroxetin. [ [Nach oben](definitionen.htm) ] [ Antidepressiva Seroxat ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ [Valium](borderline-valium.htm) ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+Paroxetin.
 
 - Gleichzeitige Einnahme von Medikamenten zur
     Behandlung der Depression aus der Arzneimittelgruppe der MAO-Hemmer Kinder und Jugendliche unter 18 Jahren
@@ -100,7 +99,7 @@ Apotheker. Kopfschmerzen Magen-Darm-Beschwerden Mundtrockenheit Übelkeit Müdig
 weiteren SSRI oder stimmungsaufhellenden Substanzen vom Typ der MAO-Hemmer
 kombiniert werden. Vor oder nach der Einnahme solcher Substanzen muss ein
 zeitlicher Abstand von mindestens zwei Wochen eingehalten werden. In Kombination mit Blutgerinnungshemmern ist die Blutungsneigung erhöht. Alkohol und andere beruhigend wirkende Substanzen verstärken die Wirkung von
-Paroxetin. [ [Nach oben](definitionen.htm) ] [ Antidepressiva Seroxat ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ [Valium](borderline-valium.htm) ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
+Paroxetin.
 
 - Während der Schwangerschaft und der Stillzeit
     darf das Medikament nicht angewendet werden.
@@ -120,4 +119,3 @@ kombiniert werden. Vor oder nach der Einnahme solcher Substanzen muss ein
 zeitlicher Abstand von mindestens zwei Wochen eingehalten werden. In Kombination mit Blutgerinnungshemmern ist die Blutungsneigung erhöht. Alkohol und andere beruhigend wirkende Substanzen verstärken die Wirkung von
 Paroxetin.
 
-[ [Nach oben](definitionen.htm) ] [ Antidepressiva Seroxat ] [ [Neuroleptika / PDF](../medis/neurol.pdf) ] [ [Zopiclon](../medis/zopiclon/zopiclon/index.htm) ] [ [Valium](borderline-valium.htm) ] [ [med. Leitlinien-Medi-Abhängig.pdf](med-leitlinien-medis-abhaeng.pdf) ]
